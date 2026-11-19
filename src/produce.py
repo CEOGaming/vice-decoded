@@ -258,18 +258,15 @@ def layout_filter(stretch: float, crop: list | None = None, mode: str = "fill", 
         fg = (f"[b]scale=-2:{fh},crop='min({W},iw)':{fh}:'(iw-min({W},iw))*{f}':0[fg];")
         pos = "(W-w)/2:(H-h)/2-40"
     if inset:
-        # vergrößerter Ausschnitt aus dem Originalbild (z. B. Ortsname/Minimap) als Einblendung
-        ix, iy, iw_, ih_ = inset["crop"]
+        # Standbild-Ausschnitt (z. B. Ortsname/Minimap) als Einblendung; Eingang "img" kommt von render_beat
         px, py = inset.get("pos", [40, 290])
-        width = int(inset.get("width", 520)) // 2 * 2
         return (
-            f"[0:v]{c}setpts={stretch}*(PTS-STARTPTS),fps={FPS},split=3[a][b][i];"
+            f"[0:v]{c}setpts={stretch}*(PTS-STARTPTS),fps={FPS},split=2[a][b];"
             f"[a]scale={W}:{H}:force_original_aspect_ratio=increase,crop={W}:{H},"
             f"boxblur=25:5,eq=brightness=-0.2[bg];"
             + fg +
-            f"[i]crop=iw*{iw_}:ih*{ih_}:iw*{ix}:ih*{iy},scale={width}:-2,"
-            f"drawbox=x=0:y=0:w=iw:h=ih:t=5:c=white@0.95[ins];"
-            f"[bg][fg]overlay={pos}[base];[base][ins]overlay={px}:{py},setsar=1[v]"
+            f"[bg][fg]overlay={pos}[base];[{inset['input']}:v]format=rgba[ins];"
+            f"[base][ins]overlay={px}:{py}:shortest=0:eof_action=repeat,setsar=1[v]"
         )
     return (
         f"[0:v]{c}setpts={stretch}*(PTS-STARTPTS),fps={FPS},split=2[a][b];"
@@ -283,6 +280,16 @@ def layout_filter(stretch: float, crop: list | None = None, mode: str = "fill", 
 def render_beat(src: Path, beat: dict, idx: int, work: Path, crop=None, voice=None,
                 game: Path | None = None, mode: str = "fill") -> tuple[Path, float, list]:
     focus = beat.get("focus", 0.5)
+    inset = dict(beat["inset"]) if beat.get("inset") else None
+    inset_args: list[str] = []
+    if inset:
+        ix, iy, iw_, ih_ = inset["crop"]
+        width = int(inset.get("width", 520)) // 2 * 2
+        png = work / f"inset_{idx:02d}.png"
+        run(["ffmpeg", "-y", "-ss", str(inset.get("time", beat["start"])), "-i", str(src), "-frames:v", "1",
+             "-vf", f"crop=iw*{iw_}:ih*{ih_}:iw*{ix}:ih*{iy},scale={width}:-2,"
+                    f"drawbox=x=0:y=0:w=iw:h=ih:t=5:c=white@0.95", str(png)])
+        inset_args = ["-loop", "1", "-i", str(png)]
     start, end = float(beat["start"]), float(beat["end"])
     clip_len = end - start
     out = work / f"beat_{idx:02d}.mp4"
@@ -292,8 +299,10 @@ def render_beat(src: Path, beat: dict, idx: int, work: Path, crop=None, voice=No
         dur = clip_len
         audio = "[0:a]atrim=0:{d},asetpts=PTS-STARTPTS,aresample=44100[aout]".format(d=dur) if src_audio \
             else f"anullsrc=r=44100:cl=stereo,atrim=0:{dur}[aout]"
-        run(["ffmpeg", "-y", "-ss", str(start), "-t", str(clip_len), "-i", str(src),
-             "-filter_complex", layout_filter(1.0, crop, mode, focus, beat.get("inset")) + ";" + audio,
+        if inset:
+            inset["input"] = 1
+        run(["ffmpeg", "-y", "-ss", str(start), "-t", str(clip_len), "-i", str(src), *inset_args,
+             "-filter_complex", layout_filter(1.0, crop, mode, focus, inset) + ";" + audio,
              "-map", "[v]", "-map", "[aout]", "-t", str(dur),
              "-c:v", "libx264", "-preset", "veryfast", "-crf", "20", "-c:a", "aac", "-ar", "44100", "-ac", "2",
              str(out)])
@@ -322,9 +331,11 @@ def render_beat(src: Path, beat: dict, idx: int, work: Path, crop=None, voice=No
                  f"alimiter=limit=0.95,atrim=0:{dur}[aout]")
     else:
         audio = f"[1:a]aresample=44100,volume=1.6,apad,atrim=0:{dur}[aout]"
+    if inset:
+        inset["input"] = 3 if extra else 2
     run(["ffmpeg", "-y", "-stream_loop", str(loops), "-ss", str(start), "-t", str(clip_len), "-i", str(src),
-         "-i", str(mp3), *extra,
-         "-filter_complex", layout_filter(stretch, crop, mode, focus, beat.get("inset")) + ";" + audio,
+         "-i", str(mp3), *extra, *inset_args,
+         "-filter_complex", layout_filter(stretch, crop, mode, focus, inset) + ";" + audio,
          "-map", "[v]", "-map", "[aout]", "-t", str(dur),
          "-c:v", "libx264", "-preset", "veryfast", "-crf", "20", "-c:a", "aac", "-ar", "44100", "-ac", "2",
          str(out)])
