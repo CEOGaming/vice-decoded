@@ -1,17 +1,52 @@
 {
   "id": "xqc_erster_autodiebstahl",
   "source": "https://www.twitch.tv/xqc/clip/WealthyNimbleHamsterDansGame-yrU7UShZomelh1Ke",
-  "crop": [0.2, 0.0, 0.8, 1.0],
+  "crop": [
+    0.2,
+    0.0,
+    0.8,
+    1.0
+  ],
   "hook": "xQc's ERSTER Autodiebstahl in GTA 6",
   "title": "xQc versucht sein erstes Auto in GTA 6 zu klauen #shorts",
   "description": "Grand Theft Auto, Versuch Nummer eins. Original-Clip: xQc – https://www.twitch.tv/xqc/clip/WealthyNimbleHamsterDansGame-yrU7UShZomelh1Ke\n\n#gta6 #gtavi #xqc #funny #lucia",
-  "tags": ["gta6", "gtavi", "xqc", "funny", "lucia"],
+  "tags": [
+    "gta6",
+    "gtavi",
+    "xqc",
+    "funny",
+    "lucia"
+  ],
   "beats": [
-    {"text": "Das ist xQcs allererster Autodiebstahl in GTA 6. Mit Lucia läuft er los und sucht sich ein Opfer aus.", "start": 0.0, "end": 10.0},
-    {"text": "Er reißt die Tür auf, und dann passiert das hier.", "start": 20.0, "end": 26.0},
-    {"original": true, "start": 25.5, "end": 30.0},
-    {"text": "Der Fahrer haut einfach ab. Also nächster Versuch: ein Lieferwagen. Und dann wird es richtig chaotisch.", "start": 30.0, "end": 44.0},
-    {"original": true, "start": 47.5, "end": 52.0},
-    {"text": "Und genau das muss Lucia danach auch noch erklären. Wie lief dein erster Autodiebstahl? Ab in die Kommentare.", "start": 44.0, "end": 52.0}
+    {
+      "text": "Das ist xQcs allererster Autodiebstahl in GTA 6. Mit Lucia läuft er los und sucht sich ein Opfer aus.",
+      "start": 0.0,
+      "end": 10.0
+    },
+    {
+      "text": "Er reißt die Tür auf, und dann passiert das hier.",
+      "start": 20.0,
+      "end": 26.0
+    },
+    {
+      "original": true,
+      "start": 25.5,
+      "end": 30.0
+    },
+    {
+      "text": "Der Fahrer haut einfach ab. Also nächster Versuch: ein Lieferwagen. Und dann wird es richtig chaotisch.",
+      "start": 30.0,
+      "end": 44.0
+    },
+    {
+      "original": true,
+      "start": 47.5,
+      "end": 52.0
+    },
+    {
+      "text": "Und genau das muss Lucia danach auch noch erklären. Wie lief dein erster Autodiebstahl? Ab in die Kommentare.",
+      "start": 44.0,
+      "end": 52.0
+    }
   ]
 }

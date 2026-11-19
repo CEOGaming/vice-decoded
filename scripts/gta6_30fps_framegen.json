@@ -2,19 +2,72 @@
   "id": "gta6_30fps_framegen",
   "source": "https://www.twitch.tv/xqc/clip/SuperSlickStrawberryAMPEnergy-iLijF7374bmMsbtk",
   "fps": 60,
-  "crops": {"https://www.twitch.tv/xqc/clip/SuperSlickStrawberryAMPEnergy-iLijF7374bmMsbtk": [0.12, 0.0, 0.88, 1.0], "https://www.twitch.tv/xqc/clip/VivaciousCallousYogurtDxCat-tcAghtrsbnP82HX2": [0.0, 0.0, 1.0, 1.0]},
+  "crops": {
+    "https://www.twitch.tv/xqc/clip/SuperSlickStrawberryAMPEnergy-iLijF7374bmMsbtk": [
+      0.12,
+      0.0,
+      0.88,
+      1.0
+    ],
+    "https://www.twitch.tv/xqc/clip/VivaciousCallousYogurtDxCat-tcAghtrsbnP82HX2": [
+      0.0,
+      0.0,
+      1.0,
+      1.0
+    ]
+  },
   "hook": "Läuft GTA 6 wirklich nur mit 30 FPS?",
   "title": "GTA 6 mit 30 FPS: xQc testet den Unterschied #shorts",
   "description": "xQc nach 24 Stunden GTA 6: Story top, Bildrate ein Problem. Dann sein Test mit Frame Generation gegen die native PS5 Pro. Original-Clips: xQc – https://www.twitch.tv/xqc/clip/VivaciousCallousYogurtDxCat-tcAghtrsbnP82HX2 und https://www.twitch.tv/xqc/clip/SuperSlickStrawberryAMPEnergy-iLijF7374bmMsbtk\n\n#gta6 #gtavi #ps5pro #fps #xqc",
-  "tags": ["gta6", "gtavi", "ps5 pro", "fps", "xqc"],
+  "tags": [
+    "gta6",
+    "gtavi",
+    "ps5 pro",
+    "fps",
+    "xqc"
+  ],
   "beats": [
-    {"text": "xQc hat 24 Stunden am Stück GTA 6 gespielt. Sein Urteil zur Story ist eindeutig.", "start": 0.0, "end": 6.0},
-    {"original": true, "source": "https://www.twitch.tv/xqc/clip/VivaciousCallousYogurtDxCat-tcAghtrsbnP82HX2", "start": 0.0, "end": 7.4},
-    {"text": "Aber dann kommt sein großer Kritikpunkt.", "start": 6.0, "end": 8.0},
-    {"original": true, "source": "https://www.twitch.tv/xqc/clip/VivaciousCallousYogurtDxCat-tcAghtrsbnP82HX2", "start": 21.0, "end": 30.0},
-    {"text": "Deshalb macht er den Test. Hier läuft das Bild seiner PS5 Pro über eine Capture-Karte, und am PC rechnet sein eigenes Tool zusätzliche Bilder dazwischen. Das nennt man Frame Generation.", "start": 0.0, "end": 8.0},
-    {"text": "Und so sieht es ohne aus, genau so, wie ihr das Spiel kauft. Native PS5 Pro, alles auf Maximum.", "start": 17.5, "end": 27.0},
-    {"text": "Achtet mal auf Gras und Boden, wenn sich die Kamera bewegt. Genau da sieht man den Unterschied am stärksten.", "start": 44.0, "end": 55.0},
-    {"text": "Merkst du den Unterschied, oder ist dir das egal, solange die Story stimmt? Schreib es in die Kommentare.", "start": 52.0, "end": 60.0}
+    {
+      "text": "xQc hat 24 Stunden am Stück GTA 6 gespielt. Sein Urteil zur Story ist eindeutig.",
+      "start": 0.0,
+      "end": 6.0
+    },
+    {
+      "original": true,
+      "source": "https://www.twitch.tv/xqc/clip/VivaciousCallousYogurtDxCat-tcAghtrsbnP82HX2",
+      "start": 0.0,
+      "end": 7.4
+    },
+    {
+      "text": "Aber dann kommt sein großer Kritikpunkt.",
+      "start": 6.0,
+      "end": 8.0
+    },
+    {
+      "original": true,
+      "source": "https://www.twitch.tv/xqc/clip/VivaciousCallousYogurtDxCat-tcAghtrsbnP82HX2",
+      "start": 21.0,
+      "end": 30.0
+    },
+    {
+      "text": "Deshalb macht er den Test. Hier läuft das Bild seiner PS5 Pro über eine Capture-Karte, und am PC rechnet sein eigenes Tool zusätzliche Bilder dazwischen. Das nennt man Frame Generation.",
+      "start": 0.0,
+      "end": 8.0
+    },
+    {
+      "text": "Und so sieht es ohne aus, genau so, wie ihr das Spiel kauft. Native PS5 Pro, alles auf Maximum.",
+      "start": 17.5,
+      "end": 27.0
+    },
+    {
+      "text": "Achtet mal auf Gras und Boden, wenn sich die Kamera bewegt. Genau da sieht man den Unterschied am stärksten.",
+      "start": 44.0,
+      "end": 55.0
+    },
+    {
+      "text": "Merkst du den Unterschied, oder ist dir das egal, solange die Story stimmt? Schreib es in die Kommentare.",
+      "start": 52.0,
+      "end": 60.0
+    }
   ]
 }
