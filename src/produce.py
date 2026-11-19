@@ -70,7 +70,8 @@ def fetch_source(src: str, work: Path) -> Path:
         return Path(src)
     dl = ROOT / "data" / "downloads"
     dl.mkdir(parents=True, exist_ok=True)
-    target = dl / f"{abs(hash(src))}.mp4"
+    import hashlib
+    target = dl / f"{hashlib.sha1(src.encode()).hexdigest()[:16]}.mp4"
     if not target.exists():
         run(["yt-dlp", "-f", "mp4/best", "-o", str(target), src])
     return target
@@ -108,10 +109,20 @@ def tts(text: str, mp3: Path) -> list[tuple[float, float, str]]:
 
 
 # ---------------------------------------------------------------- Video
-def layout_filter(stretch: float) -> str:
-    """Unscharfer Vollbild-Hintergrund + scharfes Bild in der Mitte."""
+FPS = 30
+
+
+def layout_filter(stretch: float, crop: list | None = None) -> str:
+    """Unscharfer Vollbild-Hintergrund + scharfes Bild in der Mitte.
+
+    crop = [x, y, w, h] als Anteile (0–1), z. B. um Facecam/Chat wegzuschneiden.
+    """
+    c = ""
+    if crop:
+        x, y, w, h = crop
+        c = f"crop=iw*{w}:ih*{h}:iw*{x}:ih*{y},"
     return (
-        f"[0:v]setpts={stretch}*(PTS-STARTPTS),fps=30,split=2[a][b];"
+        f"[0:v]{c}setpts={stretch}*(PTS-STARTPTS),fps={FPS},split=2[a][b];"
         f"[a]scale={W}:{H}:force_original_aspect_ratio=increase,crop={W}:{H},"
         f"boxblur=25:5,eq=brightness=-0.15[bg];"
         f"[b]scale={W}:-2[fg];"
@@ -119,7 +130,7 @@ def layout_filter(stretch: float) -> str:
     )
 
 
-def render_beat(src: Path, beat: dict, idx: int, work: Path) -> tuple[Path, float, list]:
+def render_beat(src: Path, beat: dict, idx: int, work: Path, crop=None) -> tuple[Path, float, list]:
     start, end = float(beat["start"]), float(beat["end"])
     clip_len = end - start
     out = work / f"beat_{idx:02d}.mp4"
@@ -130,7 +141,7 @@ def render_beat(src: Path, beat: dict, idx: int, work: Path) -> tuple[Path, floa
         audio = "[0:a]atrim=0:{d},asetpts=PTS-STARTPTS,aresample=44100[aout]".format(d=dur) if src_audio \
             else f"anullsrc=r=44100:cl=stereo,atrim=0:{dur}[aout]"
         run(["ffmpeg", "-y", "-ss", str(start), "-t", str(clip_len), "-i", str(src),
-             "-filter_complex", layout_filter(1.0) + ";" + audio,
+             "-filter_complex", layout_filter(1.0, crop) + ";" + audio,
              "-map", "[v]", "-map", "[aout]", "-t", str(dur),
              "-c:v", "libx264", "-preset", "veryfast", "-crf", "20", "-c:a", "aac", "-ar", "44100", "-ac", "2",
              str(out)])
@@ -152,7 +163,7 @@ def render_beat(src: Path, beat: dict, idx: int, work: Path) -> tuple[Path, floa
         audio = f"[1:a]aresample=44100,volume=1.6,apad,atrim=0:{dur}[aout]"
     run(["ffmpeg", "-y", "-stream_loop", str(loops), "-ss", str(start), "-t", str(clip_len), "-i", str(src),
          "-i", str(mp3),
-         "-filter_complex", layout_filter(stretch) + ";" + audio,
+         "-filter_complex", layout_filter(stretch, crop) + ";" + audio,
          "-map", "[v]", "-map", "[aout]", "-t", str(dur),
          "-c:v", "libx264", "-preset", "veryfast", "-crf", "20", "-c:a", "aac", "-ar", "44100", "-ac", "2",
          str(out)])
@@ -211,21 +222,29 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 
 # ---------------------------------------------------------------- Ablauf
 def produce(script_path: Path) -> Path:
+    global FPS
     script = json.loads(script_path.read_text(encoding="utf-8"))
     vid = script["id"]
+    FPS = int(script.get("fps", 30))
     work = ROOT / "output" / vid / "work"
     if work.exists():
         shutil.rmtree(work)
     work.mkdir(parents=True)
 
-    src = fetch_source(script["source"], work)
+    sources = {script["source"]: fetch_source(script["source"], work)}
+    for b in script["beats"]:
+        if b.get("source") and b["source"] not in sources:
+            sources[b["source"]] = fetch_source(b["source"], work)
+    crops = script.get("crops", {})
     used = sum(b["end"] - b["start"] for b in script["beats"])
     if used > P["max_source_seconds"] * 2:
         print(f"Warnung: {used:.1f}s Fremdmaterial – lieber kürzen", file=sys.stderr)
 
     parts, captions, t = [], [], 0.0
     for i, beat in enumerate(script["beats"]):
-        path, dur, words = render_beat(src, beat, i, work)
+        key = beat.get("source", script["source"])
+        crop = beat.get("crop") or crops.get(key) or script.get("crop")
+        path, dur, words = render_beat(sources[key], beat, i, work, crop)
         parts.append(path)
         captions += [(t + s, t + e, w, i) for s, e, w in words]
         t += dur
