@@ -6,6 +6,9 @@ on:
       max_samples:
         description: "Anzahl Proben"
         default: "8"
+      round:
+        description: "Runde (1 oder 2)"
+        default: "1"
 
 permissions:
   contents: write
@@ -26,7 +29,7 @@ jobs:
       - env:
           ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
           MAX_SAMPLES: ${{ github.event.inputs.max_samples }}
-        run: python src/voice_samples.py
+        run: if [ "${{ github.event.inputs.round }}" = "2" ]; then OTTO_ID=FTNCalFNG5bRnkkaP5Ug python src/voice_samples2.py; else python src/voice_samples.py; fi
       - run: |
           git config user.name "vice-decoded-bot"
           git config user.email "actions@users.noreply.github.com"
