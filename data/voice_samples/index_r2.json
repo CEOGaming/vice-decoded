@@ -1,0 +1,113 @@
+[
+  {
+    "file": "r2_01_otto_lebendig.mp3",
+    "name": "Otto",
+    "model": "eleven_multilingual_v2",
+    "settings": {
+      "stability": 0.3,
+      "similarity_boost": 0.8,
+      "style": 0.55,
+      "use_speaker_boost": true
+    },
+    "voice_id": "FTNCalFNG5bRnkkaP5Ug"
+  },
+  {
+    "file": "r2_02_otto_v3.mp3",
+    "name": "Otto",
+    "model": "eleven_v3",
+    "settings": {
+      "stability": 0.5
+    },
+    "voice_id": "FTNCalFNG5bRnkkaP5Ug"
+  },
+  {
+    "file": "r2_03_alexander_deep_tv_narrator.mp3",
+    "name": "Alexander - Deep TV Narrator",
+    "voice_id": "kkJxCnlRCckmfFvzDW5Q",
+    "use_case": "narrative_story",
+    "descriptive": "pleasant",
+    "age": "middle_aged",
+    "model": "eleven_multilingual_v2",
+    "settings": {
+      "stability": 0.35,
+      "similarity_boost": 0.8,
+      "style": 0.45,
+      "use_speaker_boost": true
+    }
+  },
+  {
+    "file": "r2_04_marc_pleasant_and_interestin.mp3",
+    "name": "Marc - Pleasant and Interesting",
+    "voice_id": "gGjaVIGkCSfKUIBYtNT2",
+    "use_case": "conversational",
+    "descriptive": "confident",
+    "age": "middle_aged",
+    "model": "eleven_multilingual_v2",
+    "settings": {
+      "stability": 0.35,
+      "similarity_boost": 0.8,
+      "style": 0.45,
+      "use_speaker_boost": true
+    }
+  },
+  {
+    "file": "r2_05_leon_stern_rich_and_deep.mp3",
+    "name": "Leon Stern - Rich and Deep",
+    "voice_id": "re2r5d74PqDzicySNW0I",
+    "use_case": "narrative_story",
+    "descriptive": "modulated",
+    "age": "middle_aged",
+    "model": "eleven_multilingual_v2",
+    "settings": {
+      "stability": 0.35,
+      "similarity_boost": 0.8,
+      "style": 0.45,
+      "use_speaker_boost": true
+    }
+  },
+  {
+    "file": "r2_06_helmut_stieglbauer_deep_and_.mp3",
+    "name": "Helmut Stieglbauer - Deep and Dynamic",
+    "voice_id": "JiW03c2Gt43XNUQAumRP",
+    "use_case": "narrative_story",
+    "descriptive": "calm",
+    "age": "middle_aged",
+    "model": "eleven_multilingual_v2",
+    "settings": {
+      "stability": 0.35,
+      "similarity_boost": 0.8,
+      "style": 0.45,
+      "use_speaker_boost": true
+    }
+  },
+  {
+    "file": "r2_07_thomas_schendel_authoritativ.mp3",
+    "name": "Thomas Schendel - Authoritative and Calm",
+    "voice_id": "Fghah4fztZORbiKfIGAs",
+    "use_case": "narrative_story",
+    "descriptive": "confident",
+    "age": "middle_aged",
+    "model": "eleven_multilingual_v2",
+    "settings": {
+      "stability": 0.35,
+      "similarity_boost": 0.8,
+      "style": 0.45,
+      "use_speaker_boost": true
+    }
+  },
+  {
+    "file": "r2_08_anton_formal_and_strong.mp3",
+    "name": "Anton - Formal and Strong",
+    "voice_id": "Ay1WwRHxUsu3hEeAp8JZ",
+    "use_case": "narrative_story",
+    "descriptive": "intense",
+    "age": "middle_aged",
+    "model": "eleven_multilingual_v2",
+    "settings": {
+      "stability": 0.35,
+      "similarity_boost": 0.8,
+      "style": 0.45,
+      "use_speaker_boost": true
+    }
+  }
+]
