@@ -166,7 +166,7 @@ def ts(sec: float) -> str:
     return f"{int(h)}:{int(m):02d}:{s:05.2f}"
 
 
-def build_ass(captions: list[tuple[float, float, str]], hook: str, credit: str, total: float) -> str:
+def build_ass(captions: list[tuple[float, float, str, int]], hook: str, credit: str, total: float) -> str:
     font = P["font"]
     head = f"""[Script Info]
 ScriptType: v4.00+
@@ -188,14 +188,22 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
         lines.append(f"Dialogue: 1,{ts(0)},{ts(min(3.5, total))},Hook,,0,0,0,,{hook}")
     if credit:
         lines.append(f"Dialogue: 0,{ts(0)},{ts(total)},Credit,,0,0,0,,{credit}")
-    # 3 Wörter pro Einblendung, aktuelles Wort gelb
-    for i in range(0, len(captions), 3):
-        group = captions[i:i + 3]
-        for j, (s, e, _) in enumerate(group):
-            end = group[j + 1][0] if j + 1 < len(group) else e
+    # 3 Wörter pro Einblendung (nie über Beat-Grenzen), aktuelles Wort gelb
+    groups, cur = [], []
+    for word in captions:
+        if cur and (len(cur) == 3 or word[3] != cur[-1][3]):
+            groups.append(cur)
+            cur = []
+        cur.append(word)
+    if cur:
+        groups.append(cur)
+    for group in groups:
+        for j, (s, e, _, _b) in enumerate(group):
+            nxt = group[j + 1][0] if j + 1 < len(group) else e
+            end = min(nxt, e + 0.4) if j + 1 == len(group) else nxt
             txt = " ".join(
                 ("{\\c&H00E5FF&}" + w.upper() + "{\\c&HFFFFFF&}") if k == j else w.upper()
-                for k, (_, _, w) in enumerate(group)
+                for k, (_, _, w, _b) in enumerate(group)
             )
             lines.append(f"Dialogue: 2,{ts(s)},{ts(end)},Cap,,0,0,0,,{txt}")
     return head + "\n".join(lines) + "\n"
@@ -219,7 +227,7 @@ def produce(script_path: Path) -> Path:
     for i, beat in enumerate(script["beats"]):
         path, dur, words = render_beat(src, beat, i, work)
         parts.append(path)
-        captions += [(t + s, t + e, w) for s, e, w in words]
+        captions += [(t + s, t + e, w, i) for s, e, w in words]
         t += dur
     total = min(t, P["max_video_seconds"])
 
