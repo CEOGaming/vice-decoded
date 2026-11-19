@@ -166,6 +166,13 @@ def _elevenlabs(text: str, mp3: Path, key: str) -> list[tuple[float, float, str]
     return _whisper_words(mp3)
 
 
+def spoken(text: str) -> str:
+    """Wendet die Aussprache-Liste aus config.toml an (nur für die Stimme)."""
+    for a, b in CONFIG.get("pronounce", {}).items():
+        text = text.replace(a, b)
+    return text
+
+
 def voiceover_once(texts: list[str], work: Path) -> list[tuple[Path, list]] | None:
     """Spricht ALLE Kommentar-Sätze in einem Rutsch (natürlicher Fluss) und
     schneidet die Aufnahme danach an den Satzgrenzen in Stücke pro Beat."""
@@ -174,6 +181,8 @@ def voiceover_once(texts: list[str], work: Path) -> list[tuple[Path, list]] | No
     if not key or os.getenv("TTS_DRYRUN") or not (os.getenv("ELEVENLABS_VOICE_ID") or ch.get("elevenlabs_voice_id")):
         return None
     full = work / "voice_full.mp3"
+    display = texts
+    texts = [spoken(t) for t in texts]
     words = _elevenlabs(" ".join(t.strip() for t in texts), full, key)
     total = duration(full)
     counts = [len(t.split()) for t in texts]
@@ -194,6 +203,9 @@ def voiceover_once(texts: list[str], work: Path) -> list[tuple[Path, list]] | No
         run(["ffmpeg", "-y", "-i", str(full), "-ss", f"{a:.3f}", "-to", f"{b:.3f}", "-c:a", "libmp3lame",
              "-q:a", "2", str(piece)])
         w = [(st - a, e - a, t) for st, e, t in words[idx:idx + c]]
+        shown = display[i].split()
+        if len(shown) == len(w):  # Untertitel zeigen den Originaltext (z. B. "GTA 6")
+            w = [(st, e, d) for (st, e, _), d in zip(w, shown)]
         idx += c
         out.append((piece, w))
     return out
