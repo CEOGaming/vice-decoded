@@ -1,0 +1,22 @@
+# Zentrale Einstellungen für Vice Decoded
+[channel]
+name = "Vice Decoded"
+language = "de"            # "de" oder "en"
+voice_de = "de-DE-ConradNeural"
+voice_en = "en-US-GuyNeural"
+
+[scout]
+game_name = "Grand Theft Auto VI"
+hours_back = 24            # wie weit zurück gesucht wird
+twitch_max_clips = 30
+youtube_query = "GTA 6"
+youtube_max_results = 25
+min_twitch_views = 500     # Clips mit weniger Views ignorieren
+
+[produce]
+max_source_seconds = 12    # maximal so viele Sekunden Fremdmaterial am Stück
+max_video_seconds = 58     # Shorts-Limit sicher einhalten
+width = 1080
+height = 1920
+original_audio_volume = 0.18   # Original leise unter der KI-Stimme
+font = "Inter"

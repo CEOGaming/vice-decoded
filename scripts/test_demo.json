@@ -1,0 +1,14 @@
+{
+  "id": "test_demo",
+  "source": "/tmp/vdtest/source.mp4",
+  "credit": "Clip: twitch.tv/beispielstreamer",
+  "hook": "Das hat KEINER bemerkt",
+  "title": "Dieses Detail in GTA 6 hat jeder übersehen #shorts",
+  "description": "Erklärung des Easter Eggs. Original-Clip: twitch.tv/beispielstreamer",
+  "tags": ["gta6", "vicecity", "eastereggs"],
+  "beats": [
+    {"original": true, "start": 2.0, "end": 5.0},
+    {"text": "Achtet mal genau auf das Schild im Hintergrund.", "start": 5.0, "end": 7.0},
+    {"text": "Das ist ein direkter Verweis auf Vice City von 2002, und genau hier wird es spannend.", "start": 7.0, "end": 11.0}
+  ]
+}
