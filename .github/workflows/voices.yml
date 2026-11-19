@@ -1,0 +1,35 @@
+name: Stimmproben erzeugen
+
+on:
+  workflow_dispatch:
+    inputs:
+      max_samples:
+        description: "Anzahl Proben"
+        default: "8"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: repo-write
+  cancel-in-progress: false
+
+jobs:
+  voices:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests
+      - env:
+          ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
+          MAX_SAMPLES: ${{ github.event.inputs.max_samples }}
+        run: python src/voice_samples.py
+      - run: |
+          git config user.name "vice-decoded-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add -f data/voice_samples
+          git diff --cached --quiet || git commit -m "Stimmproben"
+          git pull --rebase && git push
