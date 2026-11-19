@@ -93,39 +93,91 @@ async def _edge_tts(text: str, voice: str, mp3: Path) -> list[tuple[float, float
     return words
 
 
+def _whisper_words(mp3: Path) -> list[tuple[float, float, str]]:
+    """Wort-Zeitstempel per Whisper, falls die Stimme keine liefert."""
+    from faster_whisper import WhisperModel
+    import numpy as np
+    raw = subprocess.run(["ffmpeg", "-loglevel", "error", "-i", str(mp3), "-f", "f32le", "-ac", "1",
+                          "-ar", "16000", "-"], capture_output=True, check=True).stdout
+    model = WhisperModel("small", device="cpu", compute_type="int8")
+    segs, _ = model.transcribe(np.frombuffer(raw, dtype=np.float32), language="de", word_timestamps=True)
+    return [(w.start, w.end, w.word.strip()) for seg in segs for w in seg.words if w.word.strip()]
+
+
 def _elevenlabs(text: str, mp3: Path, key: str) -> list[tuple[float, float, str]]:
-    """Realistische Stimme über ElevenLabs inkl. Zeitstempel pro Zeichen."""
+    """Realistische Stimme über ElevenLabs inkl. Wort-Zeitstempel."""
     import base64
     import requests
 
     ch = CONFIG["channel"]
     voice = os.getenv("ELEVENLABS_VOICE_ID") or ch.get("elevenlabs_voice_id")
-    r = requests.post(
-        f"https://api.elevenlabs.io/v1/text-to-speech/{voice}/with-timestamps",
-        headers={"xi-api-key": key, "Content-Type": "application/json"},
-        json={"text": text, "model_id": ch.get("elevenlabs_model", "eleven_multilingual_v2"),
-              "voice_settings": {"stability": 0.45, "similarity_boost": 0.8, "style": 0.35}},
-        timeout=120,
-    )
-    r.raise_for_status()
-    data = r.json()
-    mp3.write_bytes(base64.b64decode(data["audio_base64"]))
-    al = data["alignment"]
-    words, cur, start, end = [], "", None, 0.0
-    for c, s, e in zip(al["characters"], al["character_start_times_seconds"],
-                       al["character_end_times_seconds"]):
-        if c.isspace():
+    body = {"text": text, "model_id": ch.get("elevenlabs_model", "eleven_multilingual_v2"),
+            "voice_settings": {"stability": ch.get("elevenlabs_stability", 0.5),
+                               "similarity_boost": 0.8, "style": ch.get("elevenlabs_style", 0.3),
+                               "use_speaker_boost": True}}
+    hdr = {"xi-api-key": key, "Content-Type": "application/json"}
+    r = requests.post(f"https://api.elevenlabs.io/v1/text-to-speech/{voice}/with-timestamps",
+                      headers=hdr, json=body, timeout=180)
+    if r.status_code == 200:
+        data = r.json()
+        mp3.write_bytes(base64.b64decode(data["audio_base64"]))
+        al = data.get("alignment") or data.get("normalized_alignment")
+        if al:
+            words, cur, start, end = [], "", None, 0.0
+            for c, st, e in zip(al["characters"], al["character_start_times_seconds"],
+                                al["character_end_times_seconds"]):
+                if c.isspace():
+                    if cur:
+                        words.append((start, end, cur))
+                    cur, start = "", None
+                    continue
+                if start is None:
+                    start = st
+                cur += c
+                end = e
             if cur:
                 words.append((start, end, cur))
-            cur, start = "", None
-            continue
-        if start is None:
-            start = s
-        cur += c
-        end = e
-    if cur:
-        words.append((start, end, cur))
-    return words
+            return words
+    else:
+        print(f"[tts] with-timestamps nicht möglich ({r.status_code}), nutze Whisper", file=sys.stderr)
+        r = requests.post(f"https://api.elevenlabs.io/v1/text-to-speech/{voice}", headers=hdr,
+                          json=body, timeout=180)
+        r.raise_for_status()
+        mp3.write_bytes(r.content)
+    return _whisper_words(mp3)
+
+
+def voiceover_once(texts: list[str], work: Path) -> list[tuple[Path, list]] | None:
+    """Spricht ALLE Kommentar-Sätze in einem Rutsch (natürlicher Fluss) und
+    schneidet die Aufnahme danach an den Satzgrenzen in Stücke pro Beat."""
+    ch = CONFIG["channel"]
+    key = os.getenv("ELEVENLABS_API_KEY")
+    if not key or os.getenv("TTS_DRYRUN") or not (os.getenv("ELEVENLABS_VOICE_ID") or ch.get("elevenlabs_voice_id")):
+        return None
+    full = work / "voice_full.mp3"
+    words = _elevenlabs(" ".join(t.strip() for t in texts), full, key)
+    total = duration(full)
+    counts = [len(t.split()) for t in texts]
+    # Grenzen: Mitte der Pause zwischen letztem Wort von Beat i und erstem von Beat i+1
+    bounds, idx = [0.0], 0
+    for c in counts[:-1]:
+        idx += c
+        if idx >= len(words):
+            break
+        bounds.append((words[idx - 1][1] + words[idx][0]) / 2)
+    while len(bounds) < len(texts):
+        bounds.append(total)
+    bounds.append(total)
+    out, idx = [], 0
+    for i, c in enumerate(counts):
+        a, b = bounds[i], bounds[i + 1]
+        piece = work / f"voice_{i:02d}.mp3"
+        run(["ffmpeg", "-y", "-i", str(full), "-ss", f"{a:.3f}", "-to", f"{b:.3f}", "-c:a", "libmp3lame",
+             "-q:a", "2", str(piece)])
+        w = [(st - a, e - a, t) for st, e, t in words[idx:idx + c]]
+        idx += c
+        out.append((piece, w))
+    return out
 
 
 def tts(text: str, mp3: Path) -> list[tuple[float, float, str]]:
@@ -171,7 +223,7 @@ def layout_filter(stretch: float, crop: list | None = None) -> str:
     )
 
 
-def render_beat(src: Path, beat: dict, idx: int, work: Path, crop=None) -> tuple[Path, float, list]:
+def render_beat(src: Path, beat: dict, idx: int, work: Path, crop=None, voice=None) -> tuple[Path, float, list]:
     start, end = float(beat["start"]), float(beat["end"])
     clip_len = end - start
     out = work / f"beat_{idx:02d}.mp4"
@@ -188,9 +240,13 @@ def render_beat(src: Path, beat: dict, idx: int, work: Path, crop=None) -> tuple
              str(out)])
         return out, dur, []
 
-    mp3 = work / f"voice_{idx:02d}.mp3"
-    words = tts(beat["text"], mp3)
-    dur = duration(mp3) + 0.25
+    if voice:
+        mp3, words = voice
+        dur = duration(mp3) + 0.05
+    else:
+        mp3 = work / f"voice_{idx:02d}.mp3"
+        words = tts(beat["text"], mp3)
+        dur = duration(mp3) + 0.25
     # Ausschnitt bis max. 2x verlangsamen, danach wiederholen
     stretch = min(max(dur / clip_len, 1.0), 2.0)
     loops = int(dur / (clip_len * stretch)) + 1
@@ -228,7 +284,7 @@ WrapStyle: 0
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Cap,{font},92,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,1,0,0,0,100,100,0,0,1,7,3,2,60,60,520,1
+Style: Cap,{font},86,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,1,0,0,0,100,100,0,0,1,7,3,2,60,60,520,1
 Style: Hook,{font},84,&H0000E5FF,&H00FFFFFF,&H00000000,&HB0000000,1,0,0,0,100,100,0,0,3,4,0,8,70,70,230,1
 Style: Credit,{font},40,&H00FFFFFF,&H00FFFFFF,&H00000000,&H90000000,0,0,0,0,100,100,0,0,3,3,0,2,60,60,120,1
 
@@ -243,7 +299,8 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
     # 3 Wörter pro Einblendung (nie über Beat-Grenzen), aktuelles Wort gelb
     groups, cur = [], []
     for word in captions:
-        if cur and (len(cur) == 3 or word[3] != cur[-1][3]):
+        limit = 2 if any(len(w[2]) > 11 for w in cur + [word]) else 3
+        if cur and (len(cur) >= limit or word[3] != cur[-1][3] or cur[-1][2].endswith((".", "?", "!"))):
             groups.append(cur)
             cur = []
         cur.append(word)
@@ -281,11 +338,16 @@ def produce(script_path: Path) -> Path:
     if used > P["max_source_seconds"] * 2:
         print(f"Warnung: {used:.1f}s Fremdmaterial – lieber kürzen", file=sys.stderr)
 
+    text_beats = [b["text"] for b in script["beats"] if not b.get("original")]
+    voices = voiceover_once(text_beats, work) or []
+    voice_iter = iter(voices)
+
     parts, captions, t = [], [], 0.0
     for i, beat in enumerate(script["beats"]):
         key = beat.get("source", script["source"])
         crop = beat.get("crop") or crops.get(key) or script.get("crop")
-        path, dur, words = render_beat(sources[key], beat, i, work, crop)
+        v = next(voice_iter, None) if (voices and not beat.get("original")) else None
+        path, dur, words = render_beat(sources[key], beat, i, work, crop, v)
         parts.append(path)
         captions += [(t + s, t + e, w, i) for s, e, w in words]
         t += dur

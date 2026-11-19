@@ -4,8 +4,10 @@ name = "Vice Decoded"
 language = "de"            # "de" oder "en"
 voice_de = "de-DE-ConradNeural"
 voice_en = "en-US-GuyNeural"
-elevenlabs_voice_id = ""          # wird gesetzt, sobald eine Stimme ausgewählt ist
-elevenlabs_model = "eleven_multilingual_v2"
+elevenlabs_voice_id = "FTNCalFNG5bRnkkaP5Ug"   # Otto (vom Owner gewählt)
+elevenlabs_model = "eleven_v3"
+elevenlabs_stability = 0.5      # v3: 0.0 kreativ, 0.5 natürlich, 1.0 stabil
+elevenlabs_style = 0.3
 
 [scout]
 game_name = "Grand Theft Auto VI"
