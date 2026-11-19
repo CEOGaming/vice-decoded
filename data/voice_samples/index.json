@@ -1,0 +1,90 @@
+[
+  {
+    "voice_id": "v3V1d2rk6528UrLKRuy8",
+    "name": "Susi - Effortless and Confident",
+    "gender": "female",
+    "age": "middle_aged",
+    "accent": "standard",
+    "use_case": "conversational",
+    "public_owner_id": "e7fea8016e07cbf918ca753255d7085b26536539ab23d1c18100164e2a920dfc",
+    "library": true,
+    "file": "01_susi_effortless_and_confident.mp3"
+  },
+  {
+    "voice_id": "K75lPKuh15SyVhQC1LrE",
+    "name": "Carola - Sharp and Clear",
+    "gender": "female",
+    "age": "middle_aged",
+    "accent": "",
+    "use_case": "informative_educational",
+    "public_owner_id": "43bae71b00e097a0f084eb67a7325e699c031138edffc9ac20bae46940f7d69e",
+    "library": true,
+    "file": "02_carola_sharp_and_clear.mp3"
+  },
+  {
+    "voice_id": "7eVMgwCnXydb3CikjV7a",
+    "name": "Lea - Clear and Feminine",
+    "gender": "female",
+    "age": "middle_aged",
+    "accent": "standard",
+    "use_case": "narrative_story",
+    "public_owner_id": "9104f466a293c99963e66f347b8faf904dc65dec464c358ebfd0a893a325ef96",
+    "library": true,
+    "file": "03_lea_clear_and_feminine.mp3"
+  },
+  {
+    "voice_id": "FTNCalFNG5bRnkkaP5Ug",
+    "name": "Otto - Casual and Normal",
+    "gender": "male",
+    "age": "middle_aged",
+    "accent": "standard",
+    "use_case": "narrative_story",
+    "public_owner_id": "80d9191368f6824d0aacf4080a0894aecb0c4bdd82928eb623e585caf54a84b7",
+    "library": true,
+    "file": "04_otto_casual_and_normal.mp3"
+  },
+  {
+    "voice_id": "aTTiK3YzK3dXETpuDE2h",
+    "name": "Ben - Effortless and Casual",
+    "gender": "male",
+    "age": "young",
+    "accent": "standard",
+    "use_case": "conversational",
+    "public_owner_id": "bc00a8580b93152a9f05dfd2a01d208731202b2105a3e9ba65e30362c8b0cb92",
+    "library": true,
+    "file": "05_ben_effortless_and_casual.mp3"
+  },
+  {
+    "voice_id": "AnvlJBAqSLDzEevYr9Ap",
+    "name": "Ava - Youthful, Authentic and Friendly",
+    "gender": "female",
+    "age": "young",
+    "accent": "standard",
+    "use_case": "narrative_story",
+    "public_owner_id": "9104f466a293c99963e66f347b8faf904dc65dec464c358ebfd0a893a325ef96",
+    "library": true,
+    "file": "06_ava_youthful_authentic_and_fri.mp3"
+  },
+  {
+    "voice_id": "fzqS9sNPYJhLlhsfDm0l",
+    "name": "Mark - Interesting and Fun",
+    "gender": "male",
+    "age": "middle_aged",
+    "accent": "standard",
+    "use_case": "conversational",
+    "public_owner_id": "79a8b26e6499101e9b1e669350ac26befd41566f4f3c035fdb21d8941619008d",
+    "library": true,
+    "file": "07_mark_interesting_and_fun.mp3"
+  },
+  {
+    "voice_id": "uvysWDLbKpA4XvpD3GI6",
+    "name": "Leonie - Clear and Engaging",
+    "gender": "female",
+    "age": "middle_aged",
+    "accent": "standard",
+    "use_case": "narrative_story",
+    "public_owner_id": "9ee7e4b57810b837fdbb1beb0ccffe19d2bb3aa650dbf87ac84ad424a8b1b8fb",
+    "library": true,
+    "file": "08_leonie_clear_and_engaging.mp3"
+  }
+]
