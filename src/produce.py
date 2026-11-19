@@ -93,9 +93,50 @@ async def _edge_tts(text: str, voice: str, mp3: Path) -> list[tuple[float, float
     return words
 
 
-def tts(text: str, mp3: Path) -> list[tuple[float, float, str]]:
-    """Erzeugt Sprachdatei und gibt Wort-Zeitstempel zurück."""
+def _elevenlabs(text: str, mp3: Path, key: str) -> list[tuple[float, float, str]]:
+    """Realistische Stimme über ElevenLabs inkl. Zeitstempel pro Zeichen."""
+    import base64
+    import requests
+
     ch = CONFIG["channel"]
+    voice = os.getenv("ELEVENLABS_VOICE_ID") or ch.get("elevenlabs_voice_id")
+    r = requests.post(
+        f"https://api.elevenlabs.io/v1/text-to-speech/{voice}/with-timestamps",
+        headers={"xi-api-key": key, "Content-Type": "application/json"},
+        json={"text": text, "model_id": ch.get("elevenlabs_model", "eleven_multilingual_v2"),
+              "voice_settings": {"stability": 0.45, "similarity_boost": 0.8, "style": 0.35}},
+        timeout=120,
+    )
+    r.raise_for_status()
+    data = r.json()
+    mp3.write_bytes(base64.b64decode(data["audio_base64"]))
+    al = data["alignment"]
+    words, cur, start, end = [], "", None, 0.0
+    for c, s, e in zip(al["characters"], al["character_start_times_seconds"],
+                       al["character_end_times_seconds"]):
+        if c.isspace():
+            if cur:
+                words.append((start, end, cur))
+            cur, start = "", None
+            continue
+        if start is None:
+            start = s
+        cur += c
+        end = e
+    if cur:
+        words.append((start, end, cur))
+    return words
+
+
+def tts(text: str, mp3: Path) -> list[tuple[float, float, str]]:
+    """Erzeugt Sprachdatei und gibt Wort-Zeitstempel zurück.
+
+    Reihenfolge: ElevenLabs (falls Schlüssel da) -> Edge-TTS (kostenlos).
+    """
+    ch = CONFIG["channel"]
+    key = os.getenv("ELEVENLABS_API_KEY")
+    if key and not os.getenv("TTS_DRYRUN") and (os.getenv("ELEVENLABS_VOICE_ID") or ch.get("elevenlabs_voice_id")):
+        return _elevenlabs(text, mp3, key)
     voice = ch["voice_de"] if ch["language"] == "de" else ch["voice_en"]
     if os.getenv("TTS_DRYRUN"):
         # Platzhalter: Ton + geschätzte Wortzeiten (ca. 2,6 Wörter/Sekunde)
