@@ -30,18 +30,28 @@ jobs:
           ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
         run: |
           shopt -s nullglob
+          mkdir -p /tmp/fertig
           for s in scripts/*.json; do
             id=$(basename "$s" .json)
             [ "$id" = "test_demo" ] && continue
             [ -f "review/$id/$id.mp4" ] && continue
             python src/produce.py "$s"
-            mkdir -p "review/$id"
-            cp "output/$id/$id.mp4" "output/$id/meta.json" "review/$id/"
+            mkdir -p "/tmp/fertig/$id"
+            cp "output/$id/$id.mp4" "output/$id/meta.json" "/tmp/fertig/$id/"
           done
       - name: Zur Abnahme ablegen
         run: |
           git config user.name "vice-decoded-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add review
-          git diff --cached --quiet || git commit -m "Neue Videos zur Abnahme"
-          git pull --rebase && git push
+          for attempt in 1 2 3; do
+            git fetch -q origin main
+            git reset -q --hard origin/main
+            mkdir -p review
+            cp -r /tmp/fertig/. review/ 2>/dev/null || true
+            git add review
+            git diff --cached --quiet && exit 0
+            git commit -q -m "Neue Videos zur Abnahme"
+            git push -q origin HEAD:main && exit 0
+            sleep 5
+          done
+          exit 1
