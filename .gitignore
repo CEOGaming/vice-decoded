@@ -4,3 +4,6 @@ data/downloads/
 __pycache__/
 *.mp4
 *.mp3
+
+# fertige Videos zur Abnahme werden versioniert
+!review/**/*.mp4

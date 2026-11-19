@@ -1,0 +1,44 @@
+name: Videos produzieren
+
+on:
+  push:
+    branches: [main]
+    paths: ["scripts/**"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: repo-write
+  cancel-in-progress: false
+
+jobs:
+  produce:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: sudo apt-get update && sudo apt-get install -y ffmpeg fonts-inter
+      - run: pip install -r requirements.txt
+      - name: Neue Skripte rendern
+        run: |
+          shopt -s nullglob
+          for s in scripts/*.json; do
+            id=$(basename "$s" .json)
+            [ "$id" = "test_demo" ] && continue
+            [ -f "review/$id/$id.mp4" ] && continue
+            python src/produce.py "$s"
+            mkdir -p "review/$id"
+            cp "output/$id/$id.mp4" "output/$id/meta.json" "review/$id/"
+          done
+      - name: Zur Abnahme ablegen
+        run: |
+          git config user.name "vice-decoded-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add review
+          git diff --cached --quiet || git commit -m "Neue Videos zur Abnahme"
+          git pull --rebase && git push

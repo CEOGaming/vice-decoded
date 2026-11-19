@@ -141,6 +141,26 @@ def scout_youtube(cfg: dict) -> list[dict]:
 
 
 # ---------------------------------------------------------------- Score
+def iso_seconds(d: str) -> int:
+    """PT1H2M3S -> 3723"""
+    import re
+    m = re.fullmatch(r"P(?:\d+D)?T?(?:(\d+)H)?(?:(\d+)M)?(?:(\d+)S)?", d or "")
+    if not m:
+        return 0
+    h, mi, se = (int(x or 0) for x in m.groups())
+    return h * 3600 + mi * 60 + se
+
+
+def classify(c: dict) -> None:
+    """clip = als Material nutzbar, trend = nur als Themen-Signal (z. B. lange Streams)."""
+    if c["source"] == "youtube":
+        secs = iso_seconds(c["duration"])
+        c["duration_s"] = secs
+        c["kind"] = "clip" if 0 < secs <= 180 else "trend"
+    else:
+        c["kind"] = "clip"
+
+
 def score(c: dict) -> float:
     """Views pro Stunde, logarithmisch, plus Engagement-Bonus."""
     created = datetime.fromisoformat(c["created_at"].replace("Z", "+00:00"))
@@ -155,8 +175,10 @@ def main() -> None:
     cfg = CONFIG["scout"]
     candidates = scout_twitch(cfg) + scout_youtube(cfg)
     for c in candidates:
+        classify(c)
         c["score"] = score(c)
-    candidates.sort(key=lambda c: c["score"], reverse=True)
+    # Nutzbare Clips zuerst, Trend-Signale dahinter
+    candidates.sort(key=lambda c: (c["kind"] == "clip", c["score"]), reverse=True)
 
     seen = set()
     if OUT.exists():
@@ -171,7 +193,7 @@ def main() -> None:
     }, ensure_ascii=False, indent=2), encoding="utf-8")
     print(f"{len(fresh)} Kandidaten -> {OUT.relative_to(ROOT)}")
     for c in fresh[:10]:
-        print(f"  {c['score']:6.1f}  [{c['source']}] {c['creator']}: {c['title'][:70]}")
+        print(f"  {c['score']:6.1f}  [{c['source']}/{c['kind']}] {c['creator']}: {c['title'][:70]}")
 
 
 if __name__ == "__main__":
