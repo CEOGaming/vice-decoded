@@ -77,6 +77,25 @@ def fetch_source(src: str, work: Path) -> Path:
     return target
 
 
+def game_audio(src: Path) -> Path | None:
+    """Trennt Streamer-Stimme vom Spielsound (Demucs) -> nur Ingame-Sound/Musik."""
+    if not P.get("separate_game_audio", False) or not has_audio(src):
+        return None
+    target = src.with_suffix(".game.wav")
+    if target.exists():
+        return target
+    tmp = src.parent / "sep"
+    res = subprocess.run([sys.executable, "-m", "demucs", "--two-stems=vocals", "-n", "htdemucs",
+                          "-o", str(tmp), str(src)], capture_output=True, text=True)
+    out = tmp / "htdemucs" / src.stem / "no_vocals.wav"
+    if res.returncode != 0 or not out.exists():
+        print(f"[audio] Trennung fehlgeschlagen, nutze Original-Ton: {res.stderr[-300:]}", file=sys.stderr)
+        return None
+    shutil.move(str(out), target)
+    shutil.rmtree(tmp, ignore_errors=True)
+    return target
+
+
 # ---------------------------------------------------------------- Stimme
 async def _edge_tts(text: str, voice: str, mp3: Path) -> list[tuple[float, float, str]]:
     import edge_tts
@@ -223,7 +242,8 @@ def layout_filter(stretch: float, crop: list | None = None) -> str:
     )
 
 
-def render_beat(src: Path, beat: dict, idx: int, work: Path, crop=None, voice=None) -> tuple[Path, float, list]:
+def render_beat(src: Path, beat: dict, idx: int, work: Path, crop=None, voice=None,
+                game: Path | None = None) -> tuple[Path, float, list]:
     start, end = float(beat["start"]), float(beat["end"])
     clip_len = end - start
     out = work / f"beat_{idx:02d}.mp4"
@@ -250,16 +270,21 @@ def render_beat(src: Path, beat: dict, idx: int, work: Path, crop=None, voice=No
     # Ausschnitt bis max. 2x verlangsamen, danach wiederholen
     stretch = min(max(dur / clip_len, 1.0), 2.0)
     loops = int(dur / (clip_len * stretch)) + 1
-    vol = P["original_audio_volume"]
+    vol = P["game_audio_volume"] if game else P["original_audio_volume"]
+    extra = []
+    a_in = "0:a"
+    if game:
+        extra = ["-stream_loop", str(loops), "-ss", str(start), "-t", str(clip_len), "-i", str(game)]
+        a_in = "2:a"
     if src_audio:
-        audio = (f"[0:a]atempo={max(1/stretch, 0.5)},volume={vol},aresample=44100[orig];"
-                 f"[1:a]aresample=44100,volume=1.6[voice];"
-                 f"[orig][voice]amix=inputs=2:duration=longest:dropout_transition=0,"
-                 f"atrim=0:{dur}[aout]")
+        audio = (f"[{a_in}]atempo={max(1/stretch, 0.5)},volume={vol},aresample=44100[orig];"
+                 f"[1:a]aresample=44100,volume=1.0[voice];"
+                 f"[orig][voice]amix=inputs=2:duration=longest:dropout_transition=0:normalize=0,"
+                 f"alimiter=limit=0.95,atrim=0:{dur}[aout]")
     else:
         audio = f"[1:a]aresample=44100,volume=1.6,apad,atrim=0:{dur}[aout]"
     run(["ffmpeg", "-y", "-stream_loop", str(loops), "-ss", str(start), "-t", str(clip_len), "-i", str(src),
-         "-i", str(mp3),
+         "-i", str(mp3), *extra,
          "-filter_complex", layout_filter(stretch, crop) + ";" + audio,
          "-map", "[v]", "-map", "[aout]", "-t", str(dur),
          "-c:v", "libx264", "-preset", "veryfast", "-crf", "20", "-c:a", "aac", "-ar", "44100", "-ac", "2",
@@ -334,6 +359,7 @@ def produce(script_path: Path) -> Path:
         if b.get("source") and b["source"] not in sources:
             sources[b["source"]] = fetch_source(b["source"], work)
     crops = script.get("crops", {})
+    games = {k: game_audio(v) for k, v in sources.items()}
     used = sum(b["end"] - b["start"] for b in script["beats"])
     if used > P["max_source_seconds"] * 2:
         print(f"Warnung: {used:.1f}s Fremdmaterial – lieber kürzen", file=sys.stderr)
@@ -347,7 +373,7 @@ def produce(script_path: Path) -> Path:
         key = beat.get("source", script["source"])
         crop = beat.get("crop") or crops.get(key) or script.get("crop")
         v = next(voice_iter, None) if (voices and not beat.get("original")) else None
-        path, dur, words = render_beat(sources[key], beat, i, work, crop, v)
+        path, dur, words = render_beat(sources[key], beat, i, work, crop, v, games.get(key))
         parts.append(path)
         captions += [(t + s, t + e, w, i) for s, e, w in words]
         t += dur
@@ -363,7 +389,8 @@ def produce(script_path: Path) -> Path:
                              script.get("credit", "") if P.get("show_credit", True) else "", total),
                    encoding="utf-8")
     final = ROOT / "output" / vid / f"{vid}.mp4"
-    run(["ffmpeg", "-y", "-i", str(joined), "-vf", f"ass={ass}", "-t", str(total),
+    run(["ffmpeg", "-y", "-i", str(joined), "-vf", f"ass={ass}", "-af", "loudnorm=I=-14:TP=-1.5:LRA=11",
+         "-t", str(total),
          "-c:v", "libx264", "-preset", "medium", "-crf", "20", "-pix_fmt", "yuv420p",
          "-c:a", "aac", "-b:a", "160k", "-movflags", "+faststart", str(final)])
 

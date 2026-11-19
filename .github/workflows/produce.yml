@@ -23,7 +23,8 @@ jobs:
           python-version: "3.12"
           cache: pip
       - run: sudo apt-get update && sudo apt-get install -y ffmpeg fonts-inter
-      - run: pip install -r requirements.txt
+      - run: pip install torch torchaudio --index-url https://download.pytorch.org/whl/cpu
+      - run: pip install -r requirements.txt demucs soundfile
       - name: Neue Skripte rendern
         env:
           ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
