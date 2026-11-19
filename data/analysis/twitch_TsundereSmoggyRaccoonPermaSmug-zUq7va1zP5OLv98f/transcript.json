@@ -1,0 +1,60 @@
+{
+  "language": "es",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.1,
+      "text": "¿Por qué pone a continuar una pantalla así en esto?"
+    },
+    {
+      "start": 2.2,
+      "end": 4.9,
+      "text": "Esto sería impresionante que a mí se me hubiera abierto."
+    },
+    {
+      "start": 5.0,
+      "end": 7.6,
+      "text": "¿Por qué pone a continuar en plan una X y ya está?"
+    },
+    {
+      "start": 7.6,
+      "end": 8.6,
+      "text": "¿Esto es normal?"
+    },
+    {
+      "start": 8.7,
+      "end": 10.2,
+      "text": "No te voy a cerrar."
+    },
+    {
+      "start": 11.7,
+      "end": 12.7,
+      "text": "¿Es así o no?"
+    },
+    {
+      "start": 12.8,
+      "end": 15.3,
+      "text": "Y yo me acabo de cerrar el proceso y todo, ¿eh?"
+    },
+    {
+      "start": 16.5,
+      "end": 20.8,
+      "text": "¡Acabo de borrar!"
+    },
+    {
+      "start": 20.9,
+      "end": 22.1,
+      "text": "Histórico lo mío."
+    },
+    {
+      "start": 22.6,
+      "end": 23.6,
+      "text": "Se me ha ido la olla."
+    },
+    {
+      "start": 23.7,
+      "end": 24.7,
+      "text": "Se me..."
+    }
+  ]
+}

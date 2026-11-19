@@ -1,0 +1,45 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "No."
+    },
+    {
+      "start": 1.0,
+      "end": 3.0,
+      "text": "Always gotta fuckin' push it."
+    },
+    {
+      "start": 3.0,
+      "end": 4.0,
+      "text": "You see?"
+    },
+    {
+      "start": 4.0,
+      "end": 5.0,
+      "text": "It's water, get the water."
+    },
+    {
+      "start": 5.0,
+      "end": 6.0,
+      "text": "Daddy, I know it."
+    },
+    {
+      "start": 6.0,
+      "end": 27.9,
+      "text": "No."
+    },
+    {
+      "start": 27.9,
+      "end": 32.0,
+      "text": "Don't question it, just accept it."
+    },
+    {
+      "start": 32.0,
+      "end": 35.0,
+      "text": "Don't question it, just accept it."
+    }
+  ]
+}

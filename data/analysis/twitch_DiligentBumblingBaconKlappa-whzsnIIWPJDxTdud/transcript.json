@@ -1,0 +1,50 @@
+{
+  "language": "es",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "¿Es normal? No te voy a cerrar."
+    },
+    {
+      "start": 3.8,
+      "end": 7.0,
+      "text": "¿Es así o no? Y yo me acabo de cerrar el proceso y todo, ¿eh?"
+    },
+    {
+      "start": 8.6,
+      "end": 12.9,
+      "text": "¡Acabo de borrar!"
+    },
+    {
+      "start": 13.0,
+      "end": 14.5,
+      "text": "Histórico, lo mío."
+    },
+    {
+      "start": 14.7,
+      "end": 17.3,
+      "text": "Se me ha ido la olla. Se me ha ido la flappa, tú."
+    },
+    {
+      "start": 17.4,
+      "end": 19.4,
+      "text": "Se me acaba de ir la flappa."
+    },
+    {
+      "start": 19.6,
+      "end": 21.6,
+      "text": "Lo he hecho por memoria muscular."
+    },
+    {
+      "start": 22.3,
+      "end": 24.8,
+      "text": "Lo he hecho por memoria muscular. ¿Qué puta locura?"
+    },
+    {
+      "start": 29.4,
+      "end": 30.4,
+      "text": "En vez de cerrar..."
+    }
+  ]
+}
