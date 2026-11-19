@@ -237,7 +237,8 @@ def produce(script_path: Path) -> Path:
     run(["ffmpeg", "-y", "-f", "concat", "-safe", "0", "-i", str(concat), "-c", "copy", str(joined)])
 
     ass = work / "subs.ass"
-    ass.write_text(build_ass(captions, script.get("hook", ""), script.get("credit", ""), total),
+    ass.write_text(build_ass(captions, script.get("hook", ""),
+                             script.get("credit", "") if P.get("show_credit", True) else "", total),
                    encoding="utf-8")
     final = ROOT / "output" / vid / f"{vid}.mp4"
     run(["ffmpeg", "-y", "-i", str(joined), "-vf", f"ass={ass}", "-t", str(total),
