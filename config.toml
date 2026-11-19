@@ -35,8 +35,8 @@ show_credit = false        # Quelle steht in der Beschreibung
 # Aussprache nur für die Stimme. Gleiche Wortanzahl links und rechts,
 # damit die Untertitel den Originaltext zeigen können.
 [pronounce]
-"GTA 6" = "G-T-A sechs"
-"GTA 5" = "G-T-A fünf"
-"GTA VI" = "G-T-A sechs"
-"PS5" = "P-S-fünf"
+"GTA 6" = "Ge-Te-A sechs"
+"GTA 5" = "Ge-Te-A fünf"
+"GTA VI" = "Ge-Te-A sechs"
+"PS5" = "Pe-Es-fünf"
 "xQc" = "Ex-Kju-Si"

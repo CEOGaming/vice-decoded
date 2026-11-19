@@ -38,21 +38,34 @@
       "focus": 0.7
     },
     {
-      "text": "So kommst du selbst hin: Schnapp dir ein Boot oder einen Jetski und fahr raus in die Leonida Straits, das offene Meer vor der Küste. Unten links blendet das Spiel den Namen des Gebiets ein.",
-      "start": 32.0,
-      "end": 44.0,
+      "text": "So kommst du selbst hin: Schnapp dir ein Boot oder einen Jetski und fahr raus in die Leonida Straits, das offene Meer vor der Küste. Oben links siehst du den Ort, und im Hintergrund schon die Skyline.",
+      "start": 44.0,
+      "end": 56.0,
       "focus": 0.5,
-      "sfx": "ding"
+      "sfx": "ding",
+      "inset": {
+        "crop": [
+          0.008,
+          0.925,
+          0.17,
+          0.055
+        ],
+        "width": 600,
+        "pos": [
+          30,
+          300
+        ]
+      }
     },
     {
       "text": "Ob der Hund immer dort ist oder nur zufällig auftaucht, ist noch nicht geklärt. Halte Ausschau nach einem einzelnen Jetski auf dem Wasser.",
-      "start": 44.0,
-      "end": 52.0,
+      "start": 33.0,
+      "end": 44.0,
       "focus": 0.5
     },
     {
       "text": "Hast du ihn gefunden? Schreib es in die Kommentare und folge für mehr versteckte Momente aus Leonida.",
-      "start": 52.0,
+      "start": 50.0,
       "end": 60.0,
       "focus": 0.5
     }
