@@ -1,0 +1,47 @@
+name: Clip genauer ansehen
+
+on:
+  workflow_dispatch:
+    inputs:
+      url:
+        description: "Clip-URL"
+        required: true
+      name:
+        description: "Ordnername"
+        required: true
+      times:
+        description: "Sekunden, Leerzeichen-getrennt"
+        default: "10 20 30 40 50"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: repo-write
+  cancel-in-progress: false
+
+jobs:
+  inspect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: sudo apt-get update && sudo apt-get install -y ffmpeg && pip install yt-dlp
+      - env:
+          URL: ${{ github.event.inputs.url }}
+          NAME: ${{ github.event.inputs.name }}
+          TIMES: ${{ github.event.inputs.times }}
+        run: |
+          set -e
+          case "$NAME" in *[!a-zA-Z0-9_-]*) echo "ungültiger Name"; exit 1;; esac
+          out="data/inspect/$NAME"; mkdir -p "$out"
+          yt-dlp -q -f "mp4/best" -o /tmp/clip.mp4 -- "$URL"
+          for t in $TIMES; do
+            case "$t" in *[!0-9.]*) continue;; esac
+            ffmpeg -loglevel error -y -ss "$t" -i /tmp/clip.mp4 -frames:v 1 -q:v 3 "$out/t$t.jpg"
+          done
+      - run: |
+          git config user.name "vice-decoded-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/inspect
+          git diff --cached --quiet || git commit -m "Inspect: Standbilder in voller Auflösung"
+          git pull --rebase && git push
