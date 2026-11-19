@@ -1,0 +1,35 @@
+{
+  "language": "es",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": "Hombre, foca, no me llames, estoy comiéndome esto"
+    },
+    {
+      "start": 6.0,
+      "end": 8.0,
+      "text": "Vale, vale, vale"
+    },
+    {
+      "start": 17.7,
+      "end": 19.7,
+      "text": "Lo siento, lo siento, lo siento, lo siento"
+    },
+    {
+      "start": 19.7,
+      "end": 23.9,
+      "text": "Pensaba que iba, pensaba"
+    },
+    {
+      "start": 23.9,
+      "end": 26.9,
+      "text": "No, no hagáis jamás esto, no hagáis jamás"
+    },
+    {
+      "start": 26.9,
+      "end": 29.9,
+      "text": "No hagáis, no hagáis esto jamás"
+    }
+  ]
+}

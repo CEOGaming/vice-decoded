@@ -1,0 +1,40 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 3.1,
+      "end": 10.8,
+      "text": "Met it. Am I good?"
+    },
+    {
+      "start": 11.1,
+      "end": 29.6,
+      "text": "Can I get a car? I was just looking at the button! Please come back! Please come back!"
+    },
+    {
+      "start": 30.6,
+      "end": 32.0,
+      "text": "I'm sure I can try this."
+    },
+    {
+      "start": 32.0,
+      "end": 48.8,
+      "text": "So you're saying you ran?"
+    },
+    {
+      "start": 48.9,
+      "end": 51.4,
+      "text": "Yeah, I ran. I mean..."
+    },
+    {
+      "start": 52.2,
+      "end": 53.4,
+      "text": "What happened with the cops?"
+    },
+    {
+      "start": 53.4,
+      "end": 54.4,
+      "text": "I don't know. It was like..."
+    }
+  ]
+}

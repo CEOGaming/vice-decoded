@@ -1,0 +1,30 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 1.6,
+      "end": 7.9,
+      "text": "Wait, why is it pressing no, I miss clicked I did not mean to do that I"
+    },
+    {
+      "start": 9.1,
+      "end": 11.1,
+      "text": "Did not mean to do that"
+    },
+    {
+      "start": 40.6,
+      "end": 42.6,
+      "text": "Oh"
+    },
+    {
+      "start": 49.6,
+      "end": 51.6,
+      "text": "Right"
+    },
+    {
+      "start": 53.2,
+      "end": 56.3,
+      "text": "Nah, nah, nah, nah"
+    }
+  ]
+}

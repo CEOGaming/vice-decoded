@@ -1,0 +1,30 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.7,
+      "end": 3.4,
+      "text": "Fuck. I'm like literally sweating."
+    },
+    {
+      "start": 5.4,
+      "end": 8.2,
+      "text": "Ugh, why can't all my clients be like you?"
+    },
+    {
+      "start": 8.2,
+      "end": 9.2,
+      "text": "Give me another 50!"
+    },
+    {
+      "start": 11.7,
+      "end": 14.5,
+      "text": "7 bucks for my name! 7 bucks for my name, bro!"
+    },
+    {
+      "start": 20.3,
+      "end": 22.7,
+      "text": "Oh, well, thanks for turning it back to us."
+    }
+  ]
+}

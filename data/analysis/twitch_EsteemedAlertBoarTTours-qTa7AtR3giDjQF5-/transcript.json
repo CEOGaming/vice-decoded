@@ -1,0 +1,25 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 2.3,
+      "end": 4.3,
+      "text": "All right, I think I'm done here"
+    },
+    {
+      "start": 5.3,
+      "end": 12.0,
+      "text": "You should work fine now. These are my dad's but I think he forgot about them you can have them for fixing my thing"
+    },
+    {
+      "start": 12.0,
+      "end": 14.0,
+      "text": "Oh, I appreciate that man"
+    },
+    {
+      "start": 14.6,
+      "end": 17.5,
+      "text": "Plus what's up, Jason? Why don't you?"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "language": "es",
+  "segments": [
+    {
+      "start": 0.6,
+      "end": 2.6,
+      "text": "¡Ay!"
+    },
+    {
+      "start": 2.6,
+      "end": 4.6,
+      "text": "¡Pero! ¡No! ¡Pero!"
+    },
+    {
+      "start": 6.6,
+      "end": 7.6,
+      "text": "¡Ay, Dios!"
+    }
+  ]
+}
