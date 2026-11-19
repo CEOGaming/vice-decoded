@@ -26,4 +26,8 @@ original_audio_volume = 0.18   # Original leise unter der KI-Stimme (falls Trenn
 separate_game_audio = true      # Streamer-Stimme per KI entfernen, nur Spielsound unter den Kommentar
 game_audio_volume = 0.35       # Lautstärke Spielsound unter der KI-Stimme
 font = "Inter"
+layout = "fill"            # "fill" = Bild füllt den Screen, "fit" = alter Streifen
+brand = "VICE DECODED"
+sfx = true
+sfx_volume = 0.5
 show_credit = false        # Quelle steht in der Beschreibung

@@ -224,26 +224,38 @@ def tts(text: str, mp3: Path) -> list[tuple[float, float, str]]:
 FPS = 30
 
 
-def layout_filter(stretch: float, crop: list | None = None) -> str:
-    """Unscharfer Vollbild-Hintergrund + scharfes Bild in der Mitte.
+def layout_filter(stretch: float, crop: list | None = None, mode: str = "fill", focus: float = 0.5) -> str:
+    """Bildaufbau im Hochformat.
 
+    mode "fill":  Spielbild füllt ~70 % der Höhe, Ausschnitt folgt `focus`
+                  (0 = links, 0.5 = Mitte, 1 = rechts), oben/unten unscharf.
+    mode "fit":   altes Layout, ganzes 16:9-Bild als Streifen in der Mitte.
     crop = [x, y, w, h] als Anteile (0–1), z. B. um Facecam/Chat wegzuschneiden.
     """
     c = ""
     if crop:
         x, y, w, h = crop
         c = f"crop=iw*{w}:ih*{h}:iw*{x}:ih*{y},"
+    if mode == "fit":
+        fg = f"[b]scale={W}:-2[fg];"
+        pos = "(W-w)/2:(H-h)/2-80"
+    else:
+        fh = int(H * 0.70) // 2 * 2
+        f = min(max(float(focus), 0.0), 1.0)
+        fg = (f"[b]scale=-2:{fh},crop='min({W},iw)':{fh}:'(iw-min({W},iw))*{f}':0[fg];")
+        pos = "(W-w)/2:(H-h)/2-40"
     return (
         f"[0:v]{c}setpts={stretch}*(PTS-STARTPTS),fps={FPS},split=2[a][b];"
         f"[a]scale={W}:{H}:force_original_aspect_ratio=increase,crop={W}:{H},"
-        f"boxblur=25:5,eq=brightness=-0.15[bg];"
-        f"[b]scale={W}:-2[fg];"
-        f"[bg][fg]overlay=(W-w)/2:(H-h)/2-80,setsar=1[v]"
+        f"boxblur=25:5,eq=brightness=-0.2[bg];"
+        + fg +
+        f"[bg][fg]overlay={pos},setsar=1[v]"
     )
 
 
 def render_beat(src: Path, beat: dict, idx: int, work: Path, crop=None, voice=None,
-                game: Path | None = None) -> tuple[Path, float, list]:
+                game: Path | None = None, mode: str = "fill") -> tuple[Path, float, list]:
+    focus = beat.get("focus", 0.5)
     start, end = float(beat["start"]), float(beat["end"])
     clip_len = end - start
     out = work / f"beat_{idx:02d}.mp4"
@@ -254,7 +266,7 @@ def render_beat(src: Path, beat: dict, idx: int, work: Path, crop=None, voice=No
         audio = "[0:a]atrim=0:{d},asetpts=PTS-STARTPTS,aresample=44100[aout]".format(d=dur) if src_audio \
             else f"anullsrc=r=44100:cl=stereo,atrim=0:{dur}[aout]"
         run(["ffmpeg", "-y", "-ss", str(start), "-t", str(clip_len), "-i", str(src),
-             "-filter_complex", layout_filter(1.0, crop) + ";" + audio,
+             "-filter_complex", layout_filter(1.0, crop, mode, focus) + ";" + audio,
              "-map", "[v]", "-map", "[aout]", "-t", str(dur),
              "-c:v", "libx264", "-preset", "veryfast", "-crf", "20", "-c:a", "aac", "-ar", "44100", "-ac", "2",
              str(out)])
@@ -285,11 +297,25 @@ def render_beat(src: Path, beat: dict, idx: int, work: Path, crop=None, voice=No
         audio = f"[1:a]aresample=44100,volume=1.6,apad,atrim=0:{dur}[aout]"
     run(["ffmpeg", "-y", "-stream_loop", str(loops), "-ss", str(start), "-t", str(clip_len), "-i", str(src),
          "-i", str(mp3), *extra,
-         "-filter_complex", layout_filter(stretch, crop) + ";" + audio,
+         "-filter_complex", layout_filter(stretch, crop, mode, focus) + ";" + audio,
          "-map", "[v]", "-map", "[aout]", "-t", str(dur),
          "-c:v", "libx264", "-preset", "veryfast", "-crf", "20", "-c:a", "aac", "-ar", "44100", "-ac", "2",
          str(out)])
     return out, dur, words
+
+
+def make_sfx(work: Path) -> dict[str, Path]:
+    """Erzeugt eigene, lizenzfreie Sound-Effekte (synthetisch, per ffmpeg)."""
+    files = {"whoosh": work / "sfx_whoosh.wav", "ding": work / "sfx_ding.wav", "pop": work / "sfx_pop.wav"}
+    run(["ffmpeg", "-y", "-f", "lavfi", "-i", "anoisesrc=d=0.45:c=pink:a=0.6",
+         "-af", "highpass=f=300,lowpass=f=5000,afade=t=in:d=0.25:curve=exp,afade=t=out:st=0.25:d=0.2,"
+                "aecho=0.6:0.4:20:0.3", "-ar", "44100", "-ac", "2", str(files["whoosh"])])
+    run(["ffmpeg", "-y", "-f", "lavfi", "-i", "sine=f=1318:d=0.6", "-f", "lavfi", "-i", "sine=f=1975:d=0.6",
+         "-filter_complex", "[0][1]amix=2,afade=t=out:st=0.02:d=0.55:curve=exp,volume=0.8",
+         "-ar", "44100", "-ac", "2", str(files["ding"])])
+    run(["ffmpeg", "-y", "-f", "lavfi", "-i", "sine=f=600:d=0.08", "-af", "afade=t=out:d=0.08,volume=0.9",
+         "-ar", "44100", "-ac", "2", str(files["pop"])])
+    return files
 
 
 # ---------------------------------------------------------------- Untertitel
@@ -299,7 +325,8 @@ def ts(sec: float) -> str:
     return f"{int(h)}:{int(m):02d}:{s:05.2f}"
 
 
-def build_ass(captions: list[tuple[float, float, str, int]], hook: str, credit: str, total: float) -> str:
+def build_ass(captions: list[tuple[float, float, str, int]], hook: str, credit: str, total: float,
+              brand: str = "") -> str:
     font = P["font"]
     head = f"""[Script Info]
 ScriptType: v4.00+
@@ -311,6 +338,7 @@ WrapStyle: 0
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Cap,{font},86,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,1,0,0,0,100,100,0,0,1,7,3,2,60,60,520,1
 Style: Hook,{font},84,&H0000E5FF,&H00FFFFFF,&H00000000,&HB0000000,1,0,0,0,100,100,0,0,3,4,0,8,70,70,230,1
+Style: Brand,{font},38,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,1,0,0,0,100,100,6,0,1,2,0,8,60,60,95,1
 Style: Credit,{font},40,&H00FFFFFF,&H00FFFFFF,&H00000000,&H90000000,0,0,0,0,100,100,0,0,3,3,0,2,60,60,120,1
 
 [Events]
@@ -319,6 +347,8 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
     lines = []
     if hook:
         lines.append(f"Dialogue: 1,{ts(0)},{ts(min(3.5, total))},Hook,,0,0,0,,{hook}")
+    if brand:
+        lines.append(f"Dialogue: 0,{ts(0)},{ts(total)},Brand,,0,0,0,,{brand}")
     if credit:
         lines.append(f"Dialogue: 0,{ts(0)},{ts(total)},Credit,,0,0,0,,{credit}")
     # 3 Wörter pro Einblendung (nie über Beat-Grenzen), aktuelles Wort gelb
@@ -368,12 +398,14 @@ def produce(script_path: Path) -> Path:
     voices = voiceover_once(text_beats, work) or []
     voice_iter = iter(voices)
 
-    parts, captions, t = [], [], 0.0
+    parts, captions, t, beat_starts = [], [], 0.0, []
     for i, beat in enumerate(script["beats"]):
         key = beat.get("source", script["source"])
         crop = beat.get("crop") or crops.get(key) or script.get("crop")
         v = next(voice_iter, None) if (voices and not beat.get("original")) else None
-        path, dur, words = render_beat(sources[key], beat, i, work, crop, v, games.get(key))
+        path, dur, words = render_beat(sources[key], beat, i, work, crop, v, games.get(key),
+                                       script.get("layout", P.get("layout", "fill")))
+        beat_starts.append((t, beat.get("sfx", "whoosh" if i > 0 else None)))
         parts.append(path)
         captions += [(t + s, t + e, w, i) for s, e, w in words]
         t += dur
@@ -386,11 +418,30 @@ def produce(script_path: Path) -> Path:
 
     ass = work / "subs.ass"
     ass.write_text(build_ass(captions, script.get("hook", ""),
-                             script.get("credit", "") if P.get("show_credit", True) else "", total),
+                             script.get("credit", "") if P.get("show_credit", True) else "", total,
+                             script.get("brand", P.get("brand", ""))),
                    encoding="utf-8")
     final = ROOT / "output" / vid / f"{vid}.mp4"
-    run(["ffmpeg", "-y", "-i", str(joined), "-vf", f"ass={ass}", "-af", "loudnorm=I=-14:TP=-1.5:LRA=11",
-         "-t", str(total),
+    sfx_inputs, sfx_filters, labels = [], [], ["[0:a]"]
+    if P.get("sfx", True):
+        files = make_sfx(work)
+        for n, (start, kind) in enumerate(beat_starts):
+            if not kind or kind not in files or start <= 0:
+                continue
+            sfx_inputs += ["-i", str(files[kind])]
+            k = len(sfx_inputs) // 2
+            delay = max(int((start - (0.12 if kind == "whoosh" else 0)) * 1000), 0)
+            sfx_filters.append(f"[{k}:a]adelay={delay}|{delay},volume={P.get('sfx_volume', 0.5)}[s{k}]")
+            labels.append(f"[s{k}]")
+    if len(labels) > 1:
+        afilter = (";".join(sfx_filters) + ";" + "".join(labels) +
+                   f"amix=inputs={len(labels)}:duration=first:normalize=0,"
+                   "loudnorm=I=-14:TP=-1.5:LRA=11[aout]")
+    else:
+        afilter = "[0:a]loudnorm=I=-14:TP=-1.5:LRA=11[aout]"
+    run(["ffmpeg", "-y", "-i", str(joined), *sfx_inputs,
+         "-filter_complex", f"[0:v]ass={ass}[vout];" + afilter,
+         "-map", "[vout]", "-map", "[aout]", "-t", str(total),
          "-c:v", "libx264", "-preset", "medium", "-crf", "20", "-pix_fmt", "yuv420p",
          "-c:a", "aac", "-b:a", "160k", "-movflags", "+faststart", str(final)])
 
