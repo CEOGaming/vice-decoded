@@ -47,8 +47,18 @@ def frames(video: Path, out: Path, every: float = 2.0) -> None:
         f.rename(out / f"t{int(n * every):02d}.jpg")
 
 
+def load_audio(video: Path):
+    """Audio per ffmpeg als 16-kHz-Mono-Array (umgeht PyAV-Versionsprobleme)."""
+    import numpy as np
+    raw = subprocess.run(
+        ["ffmpeg", "-loglevel", "error", "-i", str(video), "-f", "f32le", "-ac", "1", "-ar", "16000", "-"],
+        capture_output=True, check=True,
+    ).stdout
+    return np.frombuffer(raw, dtype=np.float32)
+
+
 def transcribe(video: Path, model) -> dict:
-    segments, info = model.transcribe(str(video), vad_filter=True)
+    segments, info = model.transcribe(load_audio(video), vad_filter=True)
     return {
         "language": info.language,
         "segments": [{"start": round(s.start, 1), "end": round(s.end, 1), "text": s.text.strip()}
@@ -59,7 +69,9 @@ def transcribe(video: Path, model) -> dict:
 def main() -> None:
     limit = int(sys.argv[1]) if len(sys.argv) > 1 else 8
     data = json.loads(CANDIDATES.read_text(encoding="utf-8"))
-    clips = [c for c in data["candidates"] if c.get("kind", "clip") == "clip"][:limit]
+    # YouTube blockt Downloads aus Rechenzentren -> vorerst nur Twitch-Clips als Material
+    clips = [c for c in data["candidates"]
+             if c.get("kind", "clip") == "clip" and c["source"] == "twitch"][:limit]
     if not clips:
         print("Keine Clips zum Analysieren.")
         return
@@ -74,12 +86,15 @@ def main() -> None:
         video = download(c)
         if not video:
             continue
-        out.mkdir(parents=True, exist_ok=True)
-        (out / "info.json").write_text(json.dumps(c, ensure_ascii=False, indent=2), encoding="utf-8")
-        frames(video, out / "frames")
-        (out / "transcript.json").write_text(
-            json.dumps(transcribe(video, model), ensure_ascii=False, indent=2), encoding="utf-8")
-        print(f"analysiert: {c['id']}  {c['creator']}: {c['title'][:60]}")
+        try:
+            out.mkdir(parents=True, exist_ok=True)
+            (out / "info.json").write_text(json.dumps(c, ensure_ascii=False, indent=2), encoding="utf-8")
+            frames(video, out / "frames")
+            (out / "transcript.json").write_text(
+                json.dumps(transcribe(video, model), ensure_ascii=False, indent=2), encoding="utf-8")
+            print(f"analysiert: {c['id']}  {c['creator']}: {c['title'][:60]}")
+        except Exception as e:  # ein kaputter Clip soll den Lauf nicht stoppen
+            print(f"[analyse] Fehler bei {c['id']}: {e}", file=sys.stderr)
 
 
 if __name__ == "__main__":
