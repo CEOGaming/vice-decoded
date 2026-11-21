@@ -1,0 +1,45 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.5,
+      "text": "Hey!"
+    },
+    {
+      "start": 1.5,
+      "end": 4.5,
+      "text": "Just wait a little bit, baby. He'll be so happy you didn't."
+    },
+    {
+      "start": 8.5,
+      "end": 9.5,
+      "text": "Ooh, there it is."
+    },
+    {
+      "start": 20.5,
+      "end": 21.5,
+      "text": "Where are we going?"
+    },
+    {
+      "start": 24.6,
+      "end": 25.6,
+      "text": "I'm lost, I'm lost, I'm lost, wait."
+    },
+    {
+      "start": 26.6,
+      "end": 27.6,
+      "text": "Okay."
+    },
+    {
+      "start": 28.6,
+      "end": 31.6,
+      "text": "Oh yeah, alright, alright, alright, alright, alright, alright."
+    },
+    {
+      "start": 32.1,
+      "end": 32.6,
+      "text": "Here I'm done."
+    }
+  ]
+}

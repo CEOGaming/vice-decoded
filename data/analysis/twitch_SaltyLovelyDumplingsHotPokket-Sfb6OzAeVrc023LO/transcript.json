@@ -1,0 +1,50 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.3,
+      "text": "What's with the bears?"
+    },
+    {
+      "start": 1.3,
+      "end": 3.5,
+      "text": "That's a flower, but they're at the museum."
+    },
+    {
+      "start": 3.5,
+      "end": 6.4,
+      "text": "Those stupid bears must be a new exhibit."
+    },
+    {
+      "start": 6.4,
+      "end": 8.5,
+      "text": "You're going under that bridge, okay?"
+    },
+    {
+      "start": 8.5,
+      "end": 9.0,
+      "text": "Nice."
+    },
+    {
+      "start": 9.0,
+      "end": 9.5,
+      "text": "Oh!"
+    },
+    {
+      "start": 9.5,
+      "end": 10.5,
+      "text": "Hi, Captain."
+    },
+    {
+      "start": 10.5,
+      "end": 11.8,
+      "text": "So, one person..."
+    },
+    {
+      "start": 11.8,
+      "end": 13.8,
+      "text": "My bad, my bad, my bad!"
+    }
+  ]
+}
