@@ -10,47 +10,109 @@ permissions:
   contents: write
 
 concurrency:
-  group: repo-write
+  group: produce
   cancel-in-progress: false
 
 jobs:
-  produce:
+  plan:
     runs-on: ubuntu-latest
+    outputs:
+      ids: ${{ steps.p.outputs.ids }}
+      count: ${{ steps.p.outputs.count }}
+    steps:
+      - uses: actions/checkout@v4
+      - id: p
+        run: |
+          ids=$(python3 - <<'PY'
+          import json, pathlib
+          todo = []
+          for s in sorted(pathlib.Path("scripts").glob("*.json")):
+              i = s.stem
+              if i.startswith("test_"):
+                  continue
+              if not (pathlib.Path("review") / i / "meta.json").exists():
+                  todo.append(i)
+          print(json.dumps(todo))
+          PY
+          )
+          echo "ids=$ids" >> "$GITHUB_OUTPUT"
+          echo "count=$(echo "$ids" | python3 -c 'import json,sys;print(len(json.load(sys.stdin)))')" >> "$GITHUB_OUTPUT"
+
+  render:
+    needs: plan
+    if: needs.plan.outputs.count != '0'
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      max-parallel: 10
+      matrix:
+        id: ${{ fromJSON(needs.plan.outputs.ids) }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
           cache: pip
-      - run: sudo apt-get update && sudo apt-get install -y ffmpeg fonts-inter
-      - run: pip install torch torchaudio --index-url https://download.pytorch.org/whl/cpu
-      - run: pip install -r requirements.txt demucs soundfile
-      - name: Neue Skripte rendern
+      - run: sudo apt-get update -q && sudo apt-get install -y -q ffmpeg fonts-inter
+      - run: pip install -q torch torchaudio --index-url https://download.pytorch.org/whl/cpu
+      - run: pip install -q -r requirements.txt demucs soundfile
+      - name: Rendern
         env:
           ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
+        run: python src/produce.py "scripts/${{ matrix.id }}.json"
+      - uses: actions/upload-artifact@v4
+        with:
+          name: video-${{ matrix.id }}
+          path: |
+            output/${{ matrix.id }}/${{ matrix.id }}.mp4
+            output/${{ matrix.id }}/meta.json
+          retention-days: 3
+
+  publish:
+    needs: [plan, render]
+    if: always() && needs.plan.outputs.count != '0'
+    runs-on: ubuntu-latest
+    env:
+      GH_TOKEN: ${{ github.token }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/download-artifact@v4
+        with:
+          path: /tmp/art
+          pattern: video-*
+      - name: Videos als Release-Dateien ablegen, Metadaten committen
         run: |
-          shopt -s nullglob
-          mkdir -p /tmp/fertig
-          for s in scripts/*.json; do
-            id=$(basename "$s" .json)
-            [ "$id" = "test_demo" ] && continue
-            [ -f "review/$id/$id.mp4" ] && continue
-            python src/produce.py "$s"
-            mkdir -p "/tmp/fertig/$id"
-            cp "output/$id/$id.mp4" "output/$id/meta.json" "/tmp/fertig/$id/"
+          set -e
+          tag="review-$(date -u +%Y-%m-%d)"
+          gh release view "$tag" >/dev/null 2>&1 || gh release create "$tag" --title "Abnahme $(date -u +%d.%m.%Y)" --notes "Videos zur Abnahme" --prerelease
+          mkdir -p /tmp/meta
+          for d in /tmp/art/video-*; do
+            [ -d "$d" ] || continue
+            id=${d#/tmp/art/video-}
+            mp4=$(find "$d" -name "$id.mp4" | head -1)
+            meta=$(find "$d" -name meta.json | head -1)
+            [ -n "$mp4" ] && [ -n "$meta" ] || continue
+            gh release upload "$tag" "$mp4" --clobber
+            mkdir -p "/tmp/meta/$id"
+            python3 - "$meta" "$tag" "$id" "/tmp/meta/$id/meta.json" <<'PY'
+          import json, sys
+          meta, tag, vid, out = sys.argv[1:]
+          m = json.load(open(meta))
+          m["release"] = tag
+          m["video_url"] = f"https://github.com/${{ github.repository }}/releases/download/{tag}/{vid}.mp4"
+          json.dump(m, open(out, "w"), ensure_ascii=False, indent=2)
+          PY
           done
-      - name: Zur Abnahme ablegen
-        run: |
           git config user.name "vice-decoded-bot"
           git config user.email "actions@users.noreply.github.com"
           for attempt in 1 2 3; do
             git fetch -q origin main
             git reset -q --hard origin/main
             mkdir -p review
-            cp -r /tmp/fertig/. review/ 2>/dev/null || true
+            cp -r /tmp/meta/. review/ 2>/dev/null || true
             git add review
             git diff --cached --quiet && exit 0
-            git commit -q -m "Neue Videos zur Abnahme"
+            git commit -q -m "Neue Videos zur Abnahme ($tag)"
             git push -q origin HEAD:main && exit 0
             sleep 5
           done

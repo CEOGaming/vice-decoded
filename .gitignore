@@ -6,4 +6,6 @@ __pycache__/
 *.mp3
 
 # fertige Videos zur Abnahme werden versioniert
-!review/**/*.mp4
+
+# Videos liegen als Release-Dateien, nicht im Repo
+review/**/*.mp4

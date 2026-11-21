@@ -2,7 +2,7 @@ name: Täglicher Scout
 
 on:
   schedule:
-    - cron: "0 6,14 * * *"   # 7 und 15 Uhr deutscher Winterzeit
+    - cron: "20 5,11,17 * * *"   # 6:20, 12:20, 18:20 Uhr deutscher Winterzeit
   workflow_dispatch:
     inputs:
       analyze_count:
@@ -34,7 +34,7 @@ jobs:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
         run: python src/scout.py
       - name: Analyse der Top-Clips
-        run: python src/analyze.py ${{ github.event.inputs.analyze_count || 8 }}
+        run: python src/analyze.py ${{ github.event.inputs.analyze_count || 30 }}
       - name: Ergebnis speichern
         run: |
           git config user.name "vice-decoded-bot"

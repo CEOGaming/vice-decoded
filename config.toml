@@ -11,11 +11,22 @@ elevenlabs_style = 0.3
 
 [scout]
 game_name = "Grand Theft Auto VI"
-hours_back = 48            # wie weit zurück gesucht wird
-twitch_max_clips = 60
+hours_back = 24            # wie weit zurück gesucht wird
+twitch_pages = 3            # je 100 Clips
+min_twitch_views_de = 150   # deutsche Clips schon ab weniger Views
+german_bonus = 6            # deutsche Clips etwas höher bewerten
 youtube_query = "GTA 6"
 youtube_max_results = 25
 min_twitch_views = 500     # Clips mit weniger Views ignorieren
+
+# Deutsche Streamer, deren GTA-6-Clips immer geprüft werden (Twitch-Login)
+watchlist = [
+  "montanablack88", "trymacs", "papaplatte", "rewinside", "handofblood", "knossi",
+  "unsympathischtv", "eligella", "tanzverbot", "noway4u_sir", "mckytv", "revedtv",
+  "staiy", "rumathra", "zarbex", "dhalucard", "sidneyeweka", "gronkh", "pietsmiet",
+  "shurjoka", "bonjwa", "dner", "unge", "letshugotv", "aminematue", "elotrix",
+  "jinkoo", "hungriger_hugo", "fritz_berger", "lostkittn", "scurrows", "eskay",
+]
 
 [produce]
 max_source_seconds = 12    # maximal so viele Sekunden Fremdmaterial am Stück
@@ -26,7 +37,9 @@ original_audio_volume = 0.18   # Original leise unter der KI-Stimme (falls Trenn
 separate_game_audio = true      # Streamer-Stimme per KI entfernen, nur Spielsound unter den Kommentar
 game_audio_volume = 0.35       # Lautstärke Spielsound unter der KI-Stimme
 font = "Inter"
-layout = "fill"            # "fill" = Bild füllt den Screen, "fit" = alter Streifen
+layout = "fill"            # "fill" = Bild füllt den Screen, "fit" = alter Streifen, "split" = oben Webcam/unten Gameplay
+fill_height = 0.58         # Anteil der Bildhöhe fürs Gameplay im fill-Layout (vorher 0.70)
+split_top = 0.40           # Anteil der Höhe für die Webcam im split-Layout
 brand = "VICE DECODED"
 sfx = true
 sfx_volume = 0.5

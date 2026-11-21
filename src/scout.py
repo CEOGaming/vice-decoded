@@ -50,48 +50,82 @@ def twitch_token(cid: str, secret: str) -> str:
     return r.json()["access_token"]
 
 
+def _clip_row(c: dict) -> dict:
+    return {
+        "id": f"twitch_{c['id']}",
+        "source": "twitch",
+        "url": c["url"],
+        "title": c["title"],
+        "creator": c["broadcaster_name"],
+        "creator_login": c.get("broadcaster_login") or c["broadcaster_name"].lower(),
+        "creator_url": f"https://twitch.tv/{c['broadcaster_name']}",
+        "views": c["view_count"],
+        "duration": c["duration"],
+        "language": c.get("language", ""),
+        "created_at": c["created_at"],
+        "thumbnail": c.get("thumbnail_url", ""),
+    }
+
+
+def _paged_clips(headers: dict, params: dict, pages: int) -> list[dict]:
+    out, cursor = [], None
+    for _ in range(pages):
+        p = dict(params, first=100)
+        if cursor:
+            p["after"] = cursor
+        r = requests.get("https://api.twitch.tv/helix/clips", params=p, headers=headers, timeout=TIMEOUT)
+        r.raise_for_status()
+        body = r.json()
+        out += body.get("data", [])
+        cursor = body.get("pagination", {}).get("cursor")
+        if not cursor:
+            break
+    return out
+
+
 def scout_twitch(cfg: dict) -> list[dict]:
     cid, secret = os.getenv("TWITCH_CLIENT_ID"), os.getenv("TWITCH_CLIENT_SECRET")
     if not cid or not secret:
         print("[twitch] übersprungen: TWITCH_CLIENT_ID/SECRET fehlen", file=sys.stderr)
         return []
     headers = {"Client-Id": cid, "Authorization": f"Bearer {twitch_token(cid, secret)}"}
-    g = requests.get(
-        "https://api.twitch.tv/helix/games",
-        params={"name": cfg["game_name"]}, headers=headers, timeout=TIMEOUT,
-    )
+    g = requests.get("https://api.twitch.tv/helix/games",
+                     params={"name": cfg["game_name"]}, headers=headers, timeout=TIMEOUT)
     g.raise_for_status()
     games = g.json().get("data", [])
     if not games:
         print(f"[twitch] Spiel '{cfg['game_name']}' nicht gefunden", file=sys.stderr)
         return []
-    r = requests.get(
-        "https://api.twitch.tv/helix/clips",
-        params={
-            "game_id": games[0]["id"],
-            "started_at": since_iso(cfg["hours_back"]),
-            "first": cfg["twitch_max_clips"],
-        },
-        headers=headers, timeout=TIMEOUT,
-    )
-    r.raise_for_status()
-    out = []
-    for c in r.json().get("data", []):
-        if c["view_count"] < cfg["min_twitch_views"]:
+    game_id = games[0]["id"]
+    since = since_iso(cfg["hours_back"])
+
+    raw = _paged_clips(headers, {"game_id": game_id, "started_at": since}, cfg.get("twitch_pages", 3))
+
+    # Watchlist (z. B. deutsche Streamer): Clips direkt pro Kanal holen
+    logins = [l.lower() for l in cfg.get("watchlist", [])]
+    for i in range(0, len(logins), 100):
+        u = requests.get("https://api.twitch.tv/helix/users", params=[("login", l) for l in logins[i:i + 100]],
+                         headers=headers, timeout=TIMEOUT)
+        u.raise_for_status()
+        for user in u.json().get("data", []):
+            for c in _paged_clips(headers, {"broadcaster_id": user["id"], "started_at": since}, 1):
+                if c.get("game_id") == game_id:
+                    c["_watchlist"] = True
+                    raw.append(c)
+
+    seen, out = set(), []
+    for c in raw:
+        if c["id"] in seen:
             continue
-        out.append({
-            "id": f"twitch_{c['id']}",
-            "source": "twitch",
-            "url": c["url"],
-            "title": c["title"],
-            "creator": c["broadcaster_name"],
-            "creator_url": f"https://twitch.tv/{c['broadcaster_name']}",
-            "views": c["view_count"],
-            "duration": c["duration"],
-            "language": c.get("language", ""),
-            "created_at": c["created_at"],
-            "thumbnail": c.get("thumbnail_url", ""),
-        })
+        seen.add(c["id"])
+        german = c.get("language") == "de" or c.get("_watchlist")
+        minimum = cfg.get("min_twitch_views_de", 150) if german else cfg["min_twitch_views"]
+        if c["view_count"] < minimum:
+            continue
+        row = _clip_row(c)
+        row["german"] = bool(german)
+        out.append(row)
+    print(f"[twitch] {len(out)} Clips, davon deutsch: {sum(r['german'] for r in out)}")
     return out
 
 
@@ -167,7 +201,8 @@ def score(c: dict) -> float:
     hours = max((datetime.now(timezone.utc) - created).total_seconds() / 3600, 1)
     velocity = c["views"] / hours
     engagement = (c.get("likes", 0) + 3 * c.get("comments", 0)) / max(c["views"], 1)
-    return round(math.log10(velocity + 1) * 10 + engagement * 50, 2)
+    bonus = CONFIG["scout"].get("german_bonus", 6) if c.get("german") else 0
+    return round(math.log10(velocity + 1) * 10 + engagement * 50 + bonus, 2)
 
 
 def main() -> None:

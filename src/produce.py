@@ -237,7 +237,7 @@ FPS = 30
 
 
 def layout_filter(stretch: float, crop: list | None = None, mode: str = "fill", focus: float = 0.5,
-                  inset: dict | None = None) -> str:
+                  inset: dict | None = None, facecam: list | None = None) -> str:
     """Bildaufbau im Hochformat.
 
     mode "fill":  Spielbild füllt ~70 % der Höhe, Ausschnitt folgt `focus`
@@ -249,11 +249,27 @@ def layout_filter(stretch: float, crop: list | None = None, mode: str = "fill", 
     if crop:
         x, y, w, h = crop
         c = f"crop=iw*{w}:ih*{h}:iw*{x}:ih*{y},"
+    if mode == "split" and facecam:
+        # Oben: Streamer-Webcam, unten: Gameplay (füllt die Breite)
+        th = int(H * P.get("split_top", 0.40)) // 2 * 2
+        bh = H - th
+        fx, fy, fw, fh_ = facecam
+        f = min(max(float(focus), 0.0), 1.0)
+        top = (f"[a]crop=iw*{fw}:ih*{fh_}:iw*{fx}:ih*{fy},scale={W}:{th}:force_original_aspect_ratio=increase,"
+               f"crop={W}:{th}[top];")
+        bottom = (f"[b]scale=-2:{bh},crop='min({W},iw)':{bh}:'(iw-min({W},iw))*{f}':0,"
+                  f"pad={W}:{bh}:(ow-iw)/2:0[bot];")
+        base = (f"[0:v]{c}setpts={stretch}*(PTS-STARTPTS),fps={FPS},split=2[a][b];" + top + bottom +
+                f"[top][bot]vstack=2,setsar=1")
+        if inset:
+            px, py = inset.get("pos", [40, 290])
+            return base + f"[base];[{inset['input']}:v]format=rgba[ins];[base][ins]overlay={px}:{py}:eof_action=repeat[v]"
+        return base + "[v]"
     if mode == "fit":
         fg = f"[b]scale={W}:-2[fg];"
         pos = "(W-w)/2:(H-h)/2-80"
     else:
-        fh = int(H * 0.70) // 2 * 2
+        fh = int(H * P.get("fill_height", 0.58)) // 2 * 2
         f = min(max(float(focus), 0.0), 1.0)
         fg = (f"[b]scale=-2:{fh},crop='min({W},iw)':{fh}:'(iw-min({W},iw))*{f}':0[fg];")
         pos = "(W-w)/2:(H-h)/2-40"
@@ -278,7 +294,8 @@ def layout_filter(stretch: float, crop: list | None = None, mode: str = "fill", 
 
 
 def render_beat(src: Path, beat: dict, idx: int, work: Path, crop=None, voice=None,
-                game: Path | None = None, mode: str = "fill") -> tuple[Path, float, list]:
+                game: Path | None = None, mode: str = "fill", facecam: list | None = None) -> tuple[Path, float, list]:
+    mode = beat.get("layout", mode)
     focus = beat.get("focus", 0.5)
     inset = dict(beat["inset"]) if beat.get("inset") else None
     inset_args: list[str] = []
@@ -302,7 +319,7 @@ def render_beat(src: Path, beat: dict, idx: int, work: Path, crop=None, voice=No
         if inset:
             inset["input"] = 1
         run(["ffmpeg", "-y", "-ss", str(start), "-t", str(clip_len), "-i", str(src), *inset_args,
-             "-filter_complex", layout_filter(1.0, crop, mode, focus, inset) + ";" + audio,
+             "-filter_complex", layout_filter(1.0, crop, mode, focus, inset, facecam) + ";" + audio,
              "-map", "[v]", "-map", "[aout]", "-t", str(dur),
              "-c:v", "libx264", "-preset", "veryfast", "-crf", "20", "-c:a", "aac", "-ar", "44100", "-ac", "2",
              str(out)])
@@ -335,7 +352,7 @@ def render_beat(src: Path, beat: dict, idx: int, work: Path, crop=None, voice=No
         inset["input"] = 3 if extra else 2
     run(["ffmpeg", "-y", "-stream_loop", str(loops), "-ss", str(start), "-t", str(clip_len), "-i", str(src),
          "-i", str(mp3), *extra, *inset_args,
-         "-filter_complex", layout_filter(stretch, crop, mode, focus, inset) + ";" + audio,
+         "-filter_complex", layout_filter(stretch, crop, mode, focus, inset, facecam) + ";" + audio,
          "-map", "[v]", "-map", "[aout]", "-t", str(dur),
          "-c:v", "libx264", "-preset", "veryfast", "-crf", "20", "-c:a", "aac", "-ar", "44100", "-ac", "2",
          str(out)])
@@ -364,7 +381,7 @@ def ts(sec: float) -> str:
 
 
 def build_ass(captions: list[tuple[float, float, str, int]], hook: str, credit: str, total: float,
-              brand: str = "") -> str:
+              brand: str = "", hook_margin: int = 230) -> str:
     font = P["font"]
     head = f"""[Script Info]
 ScriptType: v4.00+
@@ -375,7 +392,7 @@ WrapStyle: 0
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Cap,{font},86,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,1,0,0,0,100,100,0,0,1,7,3,2,60,60,520,1
-Style: Hook,{font},84,&H0000E5FF,&H00FFFFFF,&H00000000,&HB0000000,1,0,0,0,100,100,0,0,3,4,0,8,70,70,230,1
+Style: Hook,{font},84,&H0000E5FF,&H00FFFFFF,&H00000000,&HB0000000,1,0,0,0,100,100,0,0,3,4,0,8,70,70,{hook_margin},1
 Style: Brand,{font},38,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,1,0,0,0,100,100,6,0,1,2,0,8,60,60,95,1
 Style: Credit,{font},40,&H00FFFFFF,&H00FFFFFF,&H00000000,&H90000000,0,0,0,0,100,100,0,0,3,3,0,2,60,60,120,1
 
@@ -442,7 +459,8 @@ def produce(script_path: Path) -> Path:
         crop = beat.get("crop") or crops.get(key) or script.get("crop")
         v = next(voice_iter, None) if (voices and not beat.get("original")) else None
         path, dur, words = render_beat(sources[key], beat, i, work, crop, v, games.get(key),
-                                       script.get("layout", P.get("layout", "fill")))
+                                       script.get("layout", P.get("layout", "fill")),
+                                       beat.get("facecam") or script.get("facecams", {}).get(key) or script.get("facecam"))
         beat_starts.append((t, beat.get("sfx", "whoosh" if i > 0 else None)))
         parts.append(path)
         captions += [(t + s, t + e, w, i) for s, e, w in words]
@@ -457,7 +475,9 @@ def produce(script_path: Path) -> Path:
     ass = work / "subs.ass"
     ass.write_text(build_ass(captions, script.get("hook", ""),
                              script.get("credit", "") if P.get("show_credit", True) else "", total,
-                             script.get("brand", P.get("brand", ""))),
+                             script.get("brand", P.get("brand", "")),
+                             int(H * P.get("split_top", 0.40)) + 40
+                             if script.get("layout", P.get("layout")) == "split" else 230),
                    encoding="utf-8")
     final = ROOT / "output" / vid / f"{vid}.mp4"
     sfx_inputs, sfx_filters, labels = [], [], ["[0:a]"]
