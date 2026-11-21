@@ -1,0 +1,30 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.8,
+      "end": 2.8,
+      "text": "That's him"
+    },
+    {
+      "start": 3.2,
+      "end": 5.2,
+      "text": "He's actually"
+    },
+    {
+      "start": 6.6,
+      "end": 13.3,
+      "text": "Yeah, I don't think so nice hoodie"
+    },
+    {
+      "start": 14.6,
+      "end": 19.7,
+      "text": "Looks better on me, huh? Have a good day. Good one. Yes"
+    },
+    {
+      "start": 21.3,
+      "end": 29.5,
+      "text": "Bye, just tell it what to do and then do it"
+    }
+  ]
+}
