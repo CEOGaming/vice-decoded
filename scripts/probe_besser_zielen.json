@@ -1,0 +1,109 @@
+{
+  "id": "probe_besser_zielen",
+  "source": "https://www.twitch.tv/baupenner/clip/SavoryFunNightingaleRedCoat-zC6Jy3_dkIo3fHxF",
+  "layout": "fill",
+  "crops": {
+    "https://www.twitch.tv/baupenner/clip/SavoryFunNightingaleRedCoat-zC6Jy3_dkIo3fHxF": [
+      0.0,
+      0.0,
+      0.7,
+      1.0
+    ],
+    "https://www.twitch.tv/dicrim_rd69/clip/PeppyCharmingBeefCorgiDerp-TnMRtCymAUehQw1o": [
+      0.0,
+      0.21,
+      1.0,
+      0.6
+    ],
+    "https://www.twitch.tv/xqc/clip/TrappedYummyMetalWTRuck-5L2ytqbMKZmQThQ5": [
+      0.2,
+      0.0,
+      0.8,
+      1.0
+    ],
+    "https://www.twitch.tv/theregulationpod/clip/GiftedUninterestedFishCharlietheUnicorn-XJGPUVMfRTYD7VBn": [
+      0.0,
+      0.03,
+      1.0,
+      0.64
+    ]
+  },
+  "hook": "Du triffst in GTA 6 nichts?",
+  "title": "GTA 6: So zielst du besser in jeder Schießerei (3 Tricks) #shorts",
+  "description": "Zielhilfe, Lock-On-Zeit und der Fokusmodus: drei Einstellungen und Tricks, mit denen du in GTA 6 besser triffst. Gameplay-Clips: BauPenner, dicrim_rd69, xQc, theregulationpod (Twitch).\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6tipps #gta6deutsch #gaming",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6 tipps",
+    "gta 6 zielen",
+    "gta 6 einstellungen",
+    "fokusmodus"
+  ],
+  "tiktok": "3 Tricks, damit du in GTA 6 endlich triffst 🎯 Welchen Zielmodus spielst du? #gta6 #gtavi #gta6tipps #gaming #fyp",
+  "instagram": "So zielst du in GTA 6 besser 🎯 Zielhilfe, Lock-On-Zeit und Fokusmodus. Speichern und nachmachen! 🎮\n\n#gta6 #gtavi #gta6tipps #gaming #reels",
+  "beats": [
+    {
+      "text": "Du triffst in GTA 6 nichts? Mit diesen drei Tricks schon.",
+      "start": 21.4,
+      "end": 25.4,
+      "focus": 0.3
+    },
+    {
+      "source": "https://www.twitch.tv/dicrim_rd69/clip/PeppyCharmingBeefCorgiDerp-TnMRtCymAUehQw1o",
+      "text": "Die Polizei rückt schnell an, und wer wild drauflos ballert, hat schnell verloren.",
+      "start": 0.0,
+      "end": 6.0,
+      "focus": 0.5
+    },
+    {
+      "source": "https://www.twitch.tv/xqc/clip/TrappedYummyMetalWTRuck-5L2ytqbMKZmQThQ5",
+      "sfx": "ding",
+      "text": "Trick eins: die Zielhilfe. In den Einstellungen unter Gameplay und Kampf wählst du den Zielmodus. Lock-On rastet automatisch auf das nächste Ziel ein. Partial zieht dein Fadenkreuz nur in die Nähe. Free Aim ist ganz ohne Hilfe.",
+      "start": 2.0,
+      "end": 12.0,
+      "focus": 0.5
+    },
+    {
+      "source": "https://www.twitch.tv/theregulationpod/clip/GiftedUninterestedFishCharlietheUnicorn-XJGPUVMfRTYD7VBn",
+      "sfx": "ding",
+      "text": "Trick zwei: Dreh die Lock-On-Zeit hoch. Dann bleibt dein Fadenkreuz auch an Gegnern kleben, die sich bewegen. Und mit einem kurzen Schnipp am rechten Stick springst du zum nächsten Ziel.",
+      "start": 12.0,
+      "end": 24.0,
+      "focus": 0.5
+    },
+    {
+      "sfx": "ding",
+      "text": "Trick drei kennen die wenigsten: der Fokusmodus. Drück beim Zielen beide Sticks, L3 und R3. Das Spiel blendet dir den Tipp sogar selbst ein.",
+      "start": 1.0,
+      "end": 9.0,
+      "focus": 0.3,
+      "inset": {
+        "crop": [
+          0.015,
+          0.27,
+          0.235,
+          0.15
+        ],
+        "width": 900,
+        "pos": [
+          90,
+          400
+        ],
+        "time": 4.0
+      }
+    },
+    {
+      "text": "Im Fokus läuft die Zeit langsamer, und du siehst die Schwachstellen. Rot heißt tödlich, gelb macht den Gegner kampfunfähig. Auch bei Autos zeigt er dir, wo du hinzielen musst.",
+      "start": 12.0,
+      "end": 21.0,
+      "focus": 0.3
+    },
+    {
+      "source": "https://www.twitch.tv/dicrim_rd69/clip/PeppyCharmingBeefCorgiDerp-TnMRtCymAUehQw1o",
+      "text": "Welchen Zielmodus spielst du? Schreib es in die Kommentare und folge für mehr GTA 6 Tipps.",
+      "start": 6.0,
+      "end": 12.0,
+      "focus": 0.5
+    }
+  ]
+}
