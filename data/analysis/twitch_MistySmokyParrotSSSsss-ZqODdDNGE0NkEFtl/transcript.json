@@ -1,0 +1,25 @@
+{
+  "language": "de",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.0,
+      "text": "Wachst du? Weißt du? Du bist so ein Penner, du raubst dem die Kasse aus und gehst noch zum Automaten und zahlst da das Gebiet ab!"
+    },
+    {
+      "start": 7.0,
+      "end": 10.0,
+      "text": "Ja ich hatte ein bisschen Zeit Alter!"
+    },
+    {
+      "start": 10.0,
+      "end": 13.0,
+      "text": "Du bist so ein Penner!"
+    },
+    {
+      "start": 13.0,
+      "end": 15.0,
+      "text": "Ja ich hatte ein bisschen Zeit!"
+    }
+  ]
+}

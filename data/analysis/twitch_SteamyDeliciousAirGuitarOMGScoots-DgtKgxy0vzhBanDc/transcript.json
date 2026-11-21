@@ -1,0 +1,30 @@
+{
+  "language": "de",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Ah, ja, ich bin gut."
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "Wo bist du gut?"
+    },
+    {
+      "start": 6.0,
+      "end": 8.0,
+      "text": "Ja, ich bin gut."
+    },
+    {
+      "start": 8.0,
+      "end": 10.0,
+      "text": "Was ist das?"
+    },
+    {
+      "start": 10.0,
+      "end": 13.5,
+      "text": "Was ist das?"
+    }
+  ]
+}

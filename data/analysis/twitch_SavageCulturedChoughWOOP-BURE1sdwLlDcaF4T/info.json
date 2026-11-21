@@ -1,0 +1,23 @@
+{
+  "id": "twitch_SavageCulturedChoughWOOP-BURE1sdwLlDcaF4T",
+  "source": "twitch",
+  "url": "https://www.twitch.tv/trymacs/clip/SavageCulturedChoughWOOP-BURE1sdwLlDcaF4T",
+  "title": "crazy shit",
+  "creator": "Trymacs",
+  "creator_login": "trymacs",
+  "creator_url": "https://twitch.tv/Trymacs",
+  "views": 213,
+  "duration": 30,
+  "language": "de",
+  "created_at": "2026-11-20T16:21:13Z",
+  "thumbnail": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/0089efeb-cf80-4873-9357-a5ccb2ff63f9/landscape/thumb/thumb-0000000000-480x272.jpg",
+  "german": true,
+  "kind": "clip",
+  "score": 28.36,
+  "facecam": [
+    0.6464,
+    0.4683,
+    0.3334,
+    0.5
+  ]
+}

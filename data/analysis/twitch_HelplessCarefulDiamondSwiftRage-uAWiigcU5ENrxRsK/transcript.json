@@ -1,0 +1,40 @@
+{
+  "language": "de",
+  "segments": [
+    {
+      "start": 6.6,
+      "end": 11.1,
+      "text": "Also wir kommen nicht in die Stadt. Die sind so auf dem..."
+    },
+    {
+      "start": 11.7,
+      "end": 15.2,
+      "text": "Was? Fliege höher?"
+    },
+    {
+      "start": 19.0,
+      "end": 21.0,
+      "text": "Roger, wir haben ein Problem."
+    },
+    {
+      "start": 21.1,
+      "end": 23.1,
+      "text": "Wir haben ein Problem."
+    },
+    {
+      "start": 23.4,
+      "end": 25.4,
+      "text": "Die Maschine ist defekt."
+    },
+    {
+      "start": 25.4,
+      "end": 52.2,
+      "text": "Wir haben hier nur diese Raketen. Andere Raketen haben wir nicht."
+    },
+    {
+      "start": 52.2,
+      "end": 59.9,
+      "text": "Ah, das sieht irgendwie das epische aus."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 11.4,
+      "end": 14.4,
+      "text": "Y'all, the stick of beat is so slow!"
+    },
+    {
+      "start": 14.4,
+      "end": 18.4,
+      "text": "Nah, Jason, you gotta pack better than that if you mess with Lucia, bro."
+    },
+    {
+      "start": 18.4,
+      "end": 20.4,
+      "text": "Come on, game."
+    },
+    {
+      "start": 20.4,
+      "end": 22.4,
+      "text": "Come on, Jason."
+    },
+    {
+      "start": 22.4,
+      "end": 23.4,
+      "text": "Show, I can't- I can't show-"
+    }
+  ]
+}

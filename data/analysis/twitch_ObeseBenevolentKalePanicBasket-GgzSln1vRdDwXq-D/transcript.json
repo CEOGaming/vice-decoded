@@ -1,0 +1,35 @@
+{
+  "language": "es",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "¡A mi chile vamos a hacerlo!"
+    },
+    {
+      "start": 2.0,
+      "end": 8.6,
+      "text": "¡Que lo pura eh!"
+    },
+    {
+      "start": 8.6,
+      "end": 10.6,
+      "text": "¡Y yo mira mi... ¡Y yo!"
+    },
+    {
+      "start": 10.6,
+      "end": 12.6,
+      "text": "¡Echo así!"
+    },
+    {
+      "start": 12.6,
+      "end": 14.6,
+      "text": "¡Pabe su vida bien!"
+    },
+    {
+      "start": 14.6,
+      "end": 16.6,
+      "text": "¡A ver!"
+    }
+  ]
+}

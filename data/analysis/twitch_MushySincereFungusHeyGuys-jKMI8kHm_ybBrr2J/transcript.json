@@ -1,0 +1,30 @@
+{
+  "language": "fr",
+  "segments": [
+    {
+      "start": 1.2,
+      "end": 3.2,
+      "text": "Calm le vie comment ?"
+    },
+    {
+      "start": 3.4,
+      "end": 5.4,
+      "text": "Calm le vie comment, calm le vie comment ?"
+    },
+    {
+      "start": 6.0,
+      "end": 9.0,
+      "text": "Bah ce matin quand je suis parti me coucher du coup vers 6h30, du coup"
+    },
+    {
+      "start": 11.2,
+      "end": 15.9,
+      "text": "Bah un moment je l'ai un peu bousculé sans apparaîner d'attention, ça va y elle fait, bah alors t'as fini de me tromper dans ton jeu ?"
+    },
+    {
+      "start": 17.3,
+      "end": 21.5,
+      "text": "C'est calme, c'est pas ça, c'est pas ce que tu crois, c'est pas ce que tu crois qu'un point."
+    }
+  ]
+}

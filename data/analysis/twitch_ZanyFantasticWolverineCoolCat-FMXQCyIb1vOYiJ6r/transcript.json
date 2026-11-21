@@ -1,0 +1,35 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.1,
+      "end": 2.1,
+      "text": "What what?"
+    },
+    {
+      "start": 2.4,
+      "end": 4.4,
+      "text": "What"
+    },
+    {
+      "start": 4.4,
+      "end": 9.0,
+      "text": "It's just GTA. It's just"
+    },
+    {
+      "start": 13.1,
+      "end": 19.3,
+      "text": "Thank you. Why are you? What are you mad about? It's just GTA"
+    },
+    {
+      "start": 20.6,
+      "end": 22.6,
+      "text": "What is just GTA?"
+    },
+    {
+      "start": 22.9,
+      "end": 34.9,
+      "text": "What do you want me to do? I need to collect the rent. She's not even letting me play the game"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "language": "de",
+  "segments": [
+    {
+      "start": 1.2,
+      "end": 5.2,
+      "text": "Nico mit fünf Euro und drei Cent. Kein Danke. Schön."
+    },
+    {
+      "start": 6.7,
+      "end": 8.7,
+      "text": "Gambas mit zwei Giftzaps,"
+    },
+    {
+      "start": 8.7,
+      "end": 10.7,
+      "text": "dass man es überhaupt bei Twitch kann."
+    },
+    {
+      "start": 10.7,
+      "end": 13.2,
+      "text": "Diese Anzahl vergift, die auch eine Frechheit ergab."
+    }
+  ]
+}

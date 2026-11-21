@@ -1,0 +1,25 @@
+{
+  "language": "de",
+  "segments": [
+    {
+      "start": 0.9,
+      "end": 2.9,
+      "text": "Willst du mich verarschen?"
+    },
+    {
+      "start": 2.9,
+      "end": 4.9,
+      "text": "Nichts mit mir!"
+    },
+    {
+      "start": 4.9,
+      "end": 6.9,
+      "text": "Let's go!"
+    },
+    {
+      "start": 6.9,
+      "end": 8.9,
+      "text": "Ja!"
+    }
+  ]
+}
