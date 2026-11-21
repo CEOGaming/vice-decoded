@@ -1,0 +1,93 @@
+{
+  "words": [
+    "escape",
+    "lose the cops",
+    "lost the cops",
+    "wanted",
+    "chase",
+    "pursuit",
+    "verfolgung",
+    "flucht",
+    "6 star",
+    "5 star",
+    "swat",
+    "persecu",
+    "погон",
+    "polizei",
+    "police",
+    "cops"
+  ],
+  "scanned": 1096,
+  "hits": [
+    {
+      "id": "twitch_ThankfulSoftKoupreyOMGScoots-8rWxvM1hXbQ2r_nz",
+      "source": "twitch",
+      "url": "https://www.twitch.tv/ohnepixel/clip/ThankfulSoftKoupreyOMGScoots-8rWxvM1hXbQ2r_nz",
+      "title": "ohnePixel gets into a high-speed chase",
+      "creator": "ohnePixel",
+      "creator_login": "ohnepixel",
+      "creator_url": "https://twitch.tv/ohnePixel",
+      "views": 22224,
+      "duration": 24,
+      "language": "en",
+      "created_at": "2026-11-18T19:05:29Z",
+      "thumbnail": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/76011039-633d-4f5e-97ce-4e30d086e5b9/landscape/thumb/thumb-0000000000-480x272.jpg"
+    },
+    {
+      "id": "twitch_SpineyFairEggplantDancingBanana-bH0uBbWgNv4K9RfE",
+      "source": "twitch",
+      "url": "https://www.twitch.tv/xqc/clip/SpineyFairEggplantDancingBanana-bH0uBbWgNv4K9RfE",
+      "title": "xQc just wanted to put his coffee down",
+      "creator": "xQc",
+      "creator_login": "xqc",
+      "creator_url": "https://twitch.tv/xQc",
+      "views": 6908,
+      "duration": 16.3,
+      "language": "en",
+      "created_at": "2026-11-20T06:08:12Z",
+      "thumbnail": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/ec828f13-ee94-4df5-a2fe-7dd70c53bb8a/landscape/thumb/thumb-0000000000-480x272.jpg"
+    },
+    {
+      "id": "twitch_DelightfulLachrymoseMelonVoteYea-JeFCNhZHEyTfoOMJ",
+      "source": "twitch",
+      "url": "https://www.twitch.tv/xqc/clip/DelightfulLachrymoseMelonVoteYea-JeFCNhZHEyTfoOMJ",
+      "title": "Lost to cow and a pole mid chase xD",
+      "creator": "xQc",
+      "creator_login": "xqc",
+      "creator_url": "https://twitch.tv/xQc",
+      "views": 1883,
+      "duration": 44.2,
+      "language": "en",
+      "created_at": "2026-11-18T23:30:55Z",
+      "thumbnail": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/2ee79c07-8904-4d72-8d88-80c7d6f473e2/landscape/thumb/thumb-0000000000-480x272.jpg"
+    },
+    {
+      "id": "twitch_PleasantEvilMangoNinjaGrumpy-3uz2Ty_zwPoxEXeW",
+      "source": "twitch",
+      "url": "https://www.twitch.tv/ishowspeed/clip/PleasantEvilMangoNinjaGrumpy-3uz2Ty_zwPoxEXeW",
+      "title": "speed decided to do swats after realizing that her GTA girlfriend wasn't impressed by him 😁",
+      "creator": "IShowSpeed",
+      "creator_login": "ishowspeed",
+      "creator_url": "https://twitch.tv/IShowSpeed",
+      "views": 1503,
+      "duration": 35,
+      "language": "en",
+      "created_at": "2026-11-18T21:14:30Z",
+      "thumbnail": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/6d4f0e4c-8a38-40e9-b389-73953806cc53/landscape/thumb/thumb-0000000000-480x272.jpg"
+    },
+    {
+      "id": "twitch_FrigidWealthyRuffCmonBruh-71qXCbU94IXYDvy1",
+      "source": "twitch",
+      "url": "https://www.twitch.tv/baupenner/clip/FrigidWealthyRuffCmonBruh-71qXCbU94IXYDvy1",
+      "title": "Was ist mit der Polizei los ? 🤣🤣🤣",
+      "creator": "BauPenner",
+      "creator_login": "baupenner",
+      "creator_url": "https://twitch.tv/BauPenner",
+      "views": 1329,
+      "duration": 30,
+      "language": "de",
+      "created_at": "2026-11-21T11:25:55Z",
+      "thumbnail": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/f3b86811-8b5d-48eb-88ea-c9f81c3a0922/landscape/thumb/thumb-0000000000-480x272.jpg"
+    }
+  ]
+}

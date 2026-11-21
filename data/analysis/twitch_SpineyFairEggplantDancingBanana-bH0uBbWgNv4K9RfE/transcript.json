@@ -1,0 +1,15 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Good time state"
+    },
+    {
+      "start": 12.5,
+      "end": 16.1,
+      "text": "I meant to drop the coffee. Why would she do such a thing?"
+    }
+  ]
+}
