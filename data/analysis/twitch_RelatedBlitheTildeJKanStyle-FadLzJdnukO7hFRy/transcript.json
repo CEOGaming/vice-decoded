@@ -1,0 +1,40 @@
+{
+  "language": "es",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Nooo, nooo, nooo!"
+    },
+    {
+      "start": 2.0,
+      "end": 5.0,
+      "text": "Oye, bebe, por favor, por favor, por favor, por..."
+    },
+    {
+      "start": 9.6,
+      "end": 16.9,
+      "text": "Vaya colgandera, vaya colgandera..."
+    },
+    {
+      "start": 16.9,
+      "end": 19.9,
+      "text": "Vaya plátanos, vaya banana, nos acaban de colar, señores."
+    },
+    {
+      "start": 21.9,
+      "end": 23.9,
+      "text": "No sabía ni qué hacer, chicos."
+    },
+    {
+      "start": 23.9,
+      "end": 24.9,
+      "text": "No sabía qué hacer."
+    },
+    {
+      "start": 24.9,
+      "end": 25.9,
+      "text": "No sabía ni..."
+    }
+  ]
+}

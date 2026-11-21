@@ -1,0 +1,30 @@
+{
+  "language": "de",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.4,
+      "text": "Geht nacht da bei dir, Alter."
+    },
+    {
+      "start": 1.4,
+      "end": 2.9,
+      "text": "Ah, Blotten, Alter."
+    },
+    {
+      "start": 7.4,
+      "end": 9.1,
+      "text": "Bam, Olache, Junge!"
+    },
+    {
+      "start": 11.6,
+      "end": 13.6,
+      "text": "Oh mein Gott, das kommt!"
+    },
+    {
+      "start": 13.6,
+      "end": 15.1,
+      "text": "Ist das geil!"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "language": "de",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Ich hab keiner gesehen, ich kann Wheelies ziehen."
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "Guck mal jetzt, wie ich den wegramme mit dem Fahrrad."
+    },
+    {
+      "start": 4.0,
+      "end": 8.1,
+      "text": "Ah! Oh Scheiße!"
+    },
+    {
+      "start": 8.1,
+      "end": 10.1,
+      "text": "Oh, ich liebe das noch nicht so ein Spiel."
+    },
+    {
+      "start": 10.1,
+      "end": 13.1,
+      "text": "Ey, diese Scheiße bauen..."
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 25.7,
+      "text": "Additional reports of a homicide in County County responding units use caution. Hey, you better not snitch. Are you doing officer?"
+    },
+    {
+      "start": 26.7,
+      "end": 28.5,
+      "text": "How y'all doing?"
+    },
+    {
+      "start": 28.5,
+      "end": 32.8,
+      "text": "Y'all good? Okay, I'll step away from the body"
+    },
+    {
+      "start": 42.5,
+      "end": 44.5,
+      "text": "Don't shoot me"
+    },
+    {
+      "start": 45.5,
+      "end": 52.8,
+      "text": "Chad, I caused a pile up. I caused a pile up. I'm an idiot. I did more damage than they were doing"
+    },
+    {
+      "start": 54.3,
+      "end": 56.3,
+      "text": "All trying to be the good guy"
+    }
+  ]
+}

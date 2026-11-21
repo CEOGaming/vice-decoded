@@ -1,0 +1,40 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": "My"
+    },
+    {
+      "start": 16.1,
+      "end": 18.1,
+      "text": "Why not just get another five hundred"
+    },
+    {
+      "start": 22.2,
+      "end": 30.2,
+      "text": "Where is this my cash now"
+    },
+    {
+      "start": 30.9,
+      "end": 32.9,
+      "text": "Hey"
+    },
+    {
+      "start": 33.9,
+      "end": 38.3,
+      "text": "Please that's right. That's right. That's right"
+    },
+    {
+      "start": 39.2,
+      "end": 41.0,
+      "text": "Web shot"
+    },
+    {
+      "start": 41.0,
+      "end": 43.0,
+      "text": "What the fuck? Where's my wife?"
+    }
+  ]
+}

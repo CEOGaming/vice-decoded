@@ -1,0 +1,25 @@
+{
+  "language": "de",
+  "segments": [
+    {
+      "start": 0.7,
+      "end": 4.0,
+      "text": "Hey, nein!"
+    },
+    {
+      "start": 4.0,
+      "end": 10.1,
+      "text": "Ach du heilige Scheiße, laber doch kein."
+    },
+    {
+      "start": 10.1,
+      "end": 14.1,
+      "text": "Okay, geben wir euch ein Steig aus, ein Bohr."
+    },
+    {
+      "start": 14.1,
+      "end": 16.1,
+      "text": "Habe ich jetzt gesagt."
+    }
+  ]
+}

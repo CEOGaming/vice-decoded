@@ -1,0 +1,40 @@
+{
+  "language": "de",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.9,
+      "text": "Da liegt es, glaube ich, auf jeden Fall."
+    },
+    {
+      "start": 3.9,
+      "end": 7.7,
+      "text": "Boah!"
+    },
+    {
+      "start": 7.7,
+      "end": 9.7,
+      "text": "Wenn man schon auf den Fahrer, Leute, Alter!"
+    },
+    {
+      "start": 9.7,
+      "end": 17.6,
+      "text": "Das ist leider nicht so leicht so."
+    },
+    {
+      "start": 17.6,
+      "end": 21.4,
+      "text": "Ach, ich kann den Fokus machen."
+    },
+    {
+      "start": 21.4,
+      "end": 26.6,
+      "text": "Wir haben den Fokus, Alter."
+    },
+    {
+      "start": 26.6,
+      "end": 28.6,
+      "text": "Das ist ein bisschen leichter."
+    }
+  ]
+}

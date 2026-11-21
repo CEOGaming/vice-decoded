@@ -1,0 +1,20 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.4,
+      "end": 4.4,
+      "text": "What is going on? Holy moly."
+    },
+    {
+      "start": 4.4,
+      "end": 8.4,
+      "text": "My car!"
+    },
+    {
+      "start": 8.4,
+      "end": 12.4,
+      "text": "What happened?"
+    }
+  ]
+}
