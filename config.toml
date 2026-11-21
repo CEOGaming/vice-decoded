@@ -36,11 +36,15 @@ height = 1920
 original_audio_volume = 0.18   # Original leise unter der KI-Stimme (falls Trennung nicht klappt)
 separate_game_audio = true      # Streamer-Stimme per KI entfernen, nur Spielsound unter den Kommentar
 game_audio_volume = 0.35       # Lautstärke Spielsound unter der KI-Stimme
-font = "Inter"
-layout = "fill"            # "fill" = Bild füllt den Screen, "fit" = alter Streifen, "split" = oben Webcam/unten Gameplay
+font = "Bangers"           # Untertitel-Schrift (Google Fonts, OFL), wird im Workflow installiert
+caption_style = "single"    # "single" = ein Wort pro Einblendung (Stil virale Shorts), "group" = 2–3 Wörter
+caption_size = 84
+caption_margin = 560        # Abstand Untertitel vom unteren Rand (Mitte ~69 % der Höhe)
+hook_size = 90
+layout = "full"            # "full" = Vollbild 9:16 (Standard), "fill" = Bild füllt den Screen, "fit" = alter Streifen, "split" = oben Webcam/unten Gameplay
 fill_height = 0.58         # Anteil der Bildhöhe fürs Gameplay im fill-Layout (vorher 0.70)
 split_top = 0.40           # Anteil der Höhe für die Webcam im split-Layout
-brand = "VICE DECODED"
+brand = ""
 sfx = true
 sfx_volume = 0.5
 show_credit = false        # Quelle steht in der Beschreibung

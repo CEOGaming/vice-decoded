@@ -265,6 +265,16 @@ def layout_filter(stretch: float, crop: list | None = None, mode: str = "fill", 
             px, py = inset.get("pos", [40, 290])
             return base + f"[base];[{inset['input']}:v]format=rgba[ins];[base][ins]overlay={px}:{py}:eof_action=repeat[v]"
         return base + "[v]"
+    if mode == "full":
+        # Vollbild 9:16: Spielbild füllt den ganzen Screen (wie virale Gaming-Shorts), scharf skaliert
+        f = min(max(float(focus), 0.0), 1.0)
+        base = (f"[0:v]{c}setpts={stretch}*(PTS-STARTPTS),fps={FPS},"
+                f"scale=-2:{H}:flags=lanczos,crop='min({W},iw)':{H}:'(iw-min({W},iw))*{f}':0,"
+                f"pad={W}:{H}:(ow-iw)/2:0,unsharp=5:5:0.6,setsar=1")
+        if inset:
+            px, py = inset.get("pos", [40, 290])
+            return base + f"[base];[{inset['input']}:v]format=rgba[ins];[base][ins]overlay={px}:{py}:eof_action=repeat[v]"
+        return base + "[v]"
     if mode == "fit":
         fg = f"[b]scale={W}:-2[fg];"
         pos = "(W-w)/2:(H-h)/2-80"
@@ -321,7 +331,7 @@ def render_beat(src: Path, beat: dict, idx: int, work: Path, crop=None, voice=No
         run(["ffmpeg", "-y", "-ss", str(start), "-t", str(clip_len), "-i", str(src), *inset_args,
              "-filter_complex", layout_filter(1.0, crop, mode, focus, inset, facecam) + ";" + audio,
              "-map", "[v]", "-map", "[aout]", "-t", str(dur),
-             "-c:v", "libx264", "-preset", "veryfast", "-crf", "20", "-c:a", "aac", "-ar", "44100", "-ac", "2",
+             "-c:v", "libx264", "-preset", "veryfast", "-crf", "16", "-c:a", "aac", "-ar", "44100", "-ac", "2",
              str(out)])
         return out, dur, []
 
@@ -354,7 +364,7 @@ def render_beat(src: Path, beat: dict, idx: int, work: Path, crop=None, voice=No
          "-i", str(mp3), *extra, *inset_args,
          "-filter_complex", layout_filter(stretch, crop, mode, focus, inset, facecam) + ";" + audio,
          "-map", "[v]", "-map", "[aout]", "-t", str(dur),
-         "-c:v", "libx264", "-preset", "veryfast", "-crf", "20", "-c:a", "aac", "-ar", "44100", "-ac", "2",
+         "-c:v", "libx264", "-preset", "veryfast", "-crf", "16", "-c:a", "aac", "-ar", "44100", "-ac", "2",
          str(out)])
     return out, dur, words
 
@@ -383,6 +393,7 @@ def ts(sec: float) -> str:
 def build_ass(captions: list[tuple[float, float, str, int]], hook: str, credit: str, total: float,
               brand: str = "", hook_margin: int = 230) -> str:
     font = P["font"]
+    single = P.get("caption_style", "group") == "single"
     head = f"""[Script Info]
 ScriptType: v4.00+
 PlayResX: {W}
@@ -391,8 +402,8 @@ WrapStyle: 0
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Cap,{font},86,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,1,0,0,0,100,100,0,0,1,7,3,2,60,60,520,1
-Style: Hook,{font},84,&H0000E5FF,&H00FFFFFF,&H00000000,&HB0000000,1,0,0,0,100,100,0,0,3,4,0,8,70,70,{hook_margin},1
+Style: Cap,{font},{P.get("caption_size", 86)},&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,{0 if single else 1},0,0,0,100,100,{2 if single else 0},0,1,{7 if single else 7},{3},2,60,60,{P.get("caption_margin", 520)},1
+Style: Hook,{font},{P.get("hook_size", 84)},{"&H00FFFFFF" if single else "&H0000E5FF"},&H00FFFFFF,&H00000000,&HB0000000,{0 if single else 1},0,0,0,100,100,{2 if single else 0},0,{1 if single else 3},{7 if single else 4},{3 if single else 0},8,70,70,{hook_margin},1
 Style: Brand,{font},38,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,1,0,0,0,100,100,6,0,1,2,0,8,60,60,95,1
 Style: Credit,{font},40,&H00FFFFFF,&H00FFFFFF,&H00000000,&H90000000,0,0,0,0,100,100,0,0,3,3,0,2,60,60,120,1
 
@@ -406,6 +417,13 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
         lines.append(f"Dialogue: 0,{ts(0)},{ts(total)},Brand,,0,0,0,,{brand}")
     if credit:
         lines.append(f"Dialogue: 0,{ts(0)},{ts(total)},Credit,,0,0,0,,{credit}")
+    if single:
+        # Ein Wort pro Einblendung, weiß mit dicker Kontur (Stil virale Gaming-Shorts)
+        for j, (s, e, w, _b) in enumerate(captions):
+            nxt = captions[j + 1][0] if j + 1 < len(captions) else e + 0.3
+            end = min(nxt, e + 0.3) if nxt > e else nxt
+            lines.append(f"Dialogue: 2,{ts(s)},{ts(max(end, s + 0.08))},Cap,,0,0,0,,{w.upper()}")
+        return head + "\n".join(lines) + "\n"
     # 3 Wörter pro Einblendung (nie über Beat-Grenzen), aktuelles Wort gelb
     groups, cur = [], []
     for word in captions:
@@ -501,7 +519,7 @@ def produce(script_path: Path) -> Path:
     run(["ffmpeg", "-y", "-i", str(joined), *sfx_inputs,
          "-filter_complex", f"[0:v]ass={ass}[vout];" + afilter,
          "-map", "[vout]", "-map", "[aout]", "-t", str(total),
-         "-c:v", "libx264", "-preset", "medium", "-crf", "20", "-pix_fmt", "yuv420p",
+         "-c:v", "libx264", "-preset", "medium", "-crf", "17", "-pix_fmt", "yuv420p",
          "-c:a", "aac", "-b:a", "160k", "-movflags", "+faststart", str(final)])
 
     meta = {k: script.get(k) for k in ("id", "title", "description", "tags", "credit", "source")}
