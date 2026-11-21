@@ -1,0 +1,50 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "What's if I spent like 100?"
+    },
+    {
+      "start": 2.0,
+      "end": 5.0,
+      "text": "I only spent like 50 on her."
+    },
+    {
+      "start": 12.3,
+      "end": 14.3,
+      "text": "Holy shit!"
+    },
+    {
+      "start": 15.3,
+      "end": 16.3,
+      "text": "We're sure it is more, right?"
+    },
+    {
+      "start": 16.3,
+      "end": 18.3,
+      "text": "Do I get more?"
+    },
+    {
+      "start": 18.3,
+      "end": 20.3,
+      "text": "Do you really like me, don't you?"
+    },
+    {
+      "start": 20.3,
+      "end": 22.3,
+      "text": "No more cards? We need to steal more cards, bruh."
+    },
+    {
+      "start": 22.3,
+      "end": 34.8,
+      "text": "She's rinsing me right now."
+    },
+    {
+      "start": 54.8,
+      "end": 59.5,
+      "text": "370 left."
+    }
+  ]
+}
