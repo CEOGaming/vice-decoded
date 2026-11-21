@@ -1,0 +1,30 @@
+{
+  "language": "es",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "de este"
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "necesitamos para cooperar de este"
+    },
+    {
+      "start": 4.0,
+      "end": 7.9,
+      "text": "no, ella no va a ser más pesa"
+    },
+    {
+      "start": 7.9,
+      "end": 9.9,
+      "text": "bueno que no va a ser más pesa"
+    },
+    {
+      "start": 9.9,
+      "end": 29.3,
+      "text": "1,2,3,4,5,6,7,8"
+    }
+  ]
+}
