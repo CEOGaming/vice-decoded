@@ -177,7 +177,7 @@ def voiceover_once(texts: list[str], work: Path) -> list[tuple[Path, list]] | No
     """Spricht ALLE Kommentar-Sätze in einem Rutsch (natürlicher Fluss) und
     schneidet die Aufnahme danach an den Satzgrenzen in Stücke pro Beat."""
     ch = CONFIG["channel"]
-    key = os.getenv("ELEVENLABS_API_KEY")
+    key = os.getenv("ELEVENLABS_API_KEY") if os.getenv("VOICE_MODE", "draft") == "final" else None
     if not key or os.getenv("TTS_DRYRUN") or not (os.getenv("ELEVENLABS_VOICE_ID") or ch.get("elevenlabs_voice_id")):
         return None
     full = work / "voice_full.mp3"
@@ -217,7 +217,7 @@ def tts(text: str, mp3: Path) -> list[tuple[float, float, str]]:
     Reihenfolge: ElevenLabs (falls Schlüssel da) -> Edge-TTS (kostenlos).
     """
     ch = CONFIG["channel"]
-    key = os.getenv("ELEVENLABS_API_KEY")
+    key = os.getenv("ELEVENLABS_API_KEY") if os.getenv("VOICE_MODE", "draft") == "final" else None
     if key and not os.getenv("TTS_DRYRUN") and (os.getenv("ELEVENLABS_VOICE_ID") or ch.get("elevenlabs_voice_id")):
         return _elevenlabs(text, mp3, key)
     voice = ch["voice_de"] if ch["language"] == "de" else ch["voice_en"]
@@ -480,6 +480,7 @@ def produce(script_path: Path) -> Path:
                              if script.get("layout", P.get("layout")) == "split" else 230),
                    encoding="utf-8")
     final = ROOT / "output" / vid / f"{vid}.mp4"
+    draft = os.getenv("VOICE_MODE", "draft") != "final"
     sfx_inputs, sfx_filters, labels = [], [], ["[0:a]"]
     if P.get("sfx", True):
         files = make_sfx(work)
@@ -505,7 +506,11 @@ def produce(script_path: Path) -> Path:
 
     meta = {k: script.get(k) for k in ("id", "title", "description", "tags", "credit", "source")}
     meta["duration"] = round(total, 1)
-    meta["status"] = "review"
+    meta["status"] = "entwurf" if draft else "final"
+    meta["voice"] = "kostenlos (Edge)" if draft else "Otto v3 (ElevenLabs)"
+    for k in ("tiktok", "instagram"):
+        if script.get(k):
+            meta[k] = script[k]
     (final.parent / "meta.json").write_text(json.dumps(meta, ensure_ascii=False, indent=2), encoding="utf-8")
     print(f"Fertig: {final.relative_to(ROOT)} ({total:.1f}s)")
     return final

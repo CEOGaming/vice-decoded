@@ -3,7 +3,7 @@ name: Videos produzieren
 on:
   push:
     branches: [main]
-    paths: ["scripts/**"]
+    paths: ["scripts/**", "approved.txt"]
   workflow_dispatch:
 
 permissions:
@@ -26,12 +26,18 @@ jobs:
           ids=$(python3 - <<'PY'
           import json, pathlib
           todo = []
+          approved = set()
+          a = pathlib.Path("approved.txt")
+          if a.exists():
+              approved = {l.strip() for l in a.read_text().splitlines() if l.strip() and not l.startswith("#")}
           for s in sorted(pathlib.Path("scripts").glob("*.json")):
               i = s.stem
               if i.startswith("test_"):
                   continue
               if not (pathlib.Path("review") / i / "meta.json").exists():
-                  todo.append(i)
+                  todo.append({"id": i, "mode": "draft"})
+              if i in approved and not (pathlib.Path("final") / i / "meta.json").exists():
+                  todo.append({"id": i, "mode": "final"})
           print(json.dumps(todo))
           PY
           )
@@ -46,7 +52,7 @@ jobs:
       fail-fast: false
       max-parallel: 10
       matrix:
-        id: ${{ fromJSON(needs.plan.outputs.ids) }}
+        item: ${{ fromJSON(needs.plan.outputs.ids) }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -59,13 +65,14 @@ jobs:
       - name: Rendern
         env:
           ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
-        run: python src/produce.py "scripts/${{ matrix.id }}.json"
+          VOICE_MODE: ${{ matrix.item.mode }}
+        run: python src/produce.py "scripts/${{ matrix.item.id }}.json"
       - uses: actions/upload-artifact@v4
         with:
-          name: video-${{ matrix.id }}
+          name: video-${{ matrix.item.mode }}-${{ matrix.item.id }}
           path: |
-            output/${{ matrix.id }}/${{ matrix.id }}.mp4
-            output/${{ matrix.id }}/meta.json
+            output/${{ matrix.item.id }}/${{ matrix.item.id }}.mp4
+            output/${{ matrix.item.id }}/meta.json
           retention-days: 3
 
   publish:
@@ -83,18 +90,21 @@ jobs:
       - name: Videos als Release-Dateien ablegen, Metadaten committen
         run: |
           set -e
-          tag="review-$(date -u +%Y-%m-%d)"
-          gh release view "$tag" >/dev/null 2>&1 || gh release create "$tag" --title "Abnahme $(date -u +%d.%m.%Y)" --notes "Videos zur Abnahme" --prerelease
-          mkdir -p /tmp/meta
+          day=$(date -u +%Y-%m-%d)
+          mkdir -p /tmp/meta/review /tmp/meta/final
           for d in /tmp/art/video-*; do
             [ -d "$d" ] || continue
-            id=${d#/tmp/art/video-}
+            name=${d#/tmp/art/video-}
+            mode=${name%%-*}
+            id=${name#*-}
+            if [ "$mode" = "final" ]; then tag="final-$day"; dir=final; else tag="review-$day"; dir=review; fi
+            gh release view "$tag" >/dev/null 2>&1 || gh release create "$tag" --title "$dir $day" --notes "Vice Decoded $dir" --prerelease
             mp4=$(find "$d" -name "$id.mp4" | head -1)
             meta=$(find "$d" -name meta.json | head -1)
             [ -n "$mp4" ] && [ -n "$meta" ] || continue
             gh release upload "$tag" "$mp4" --clobber
-            mkdir -p "/tmp/meta/$id"
-            python3 - "$meta" "$tag" "$id" "/tmp/meta/$id/meta.json" <<'PY'
+            mkdir -p "/tmp/meta/$dir/$id"
+            python3 - "$meta" "$tag" "$id" "/tmp/meta/$dir/$id/meta.json" <<'PY'
           import json, sys
           meta, tag, vid, out = sys.argv[1:]
           m = json.load(open(meta))
@@ -108,11 +118,12 @@ jobs:
           for attempt in 1 2 3; do
             git fetch -q origin main
             git reset -q --hard origin/main
-            mkdir -p review
-            cp -r /tmp/meta/. review/ 2>/dev/null || true
-            git add review
+            mkdir -p review final
+            cp -r /tmp/meta/review/. review/ 2>/dev/null || true
+            cp -r /tmp/meta/final/. final/ 2>/dev/null || true
+            git add review final
             git diff --cached --quiet && exit 0
-            git commit -q -m "Neue Videos zur Abnahme ($tag)"
+            git commit -q -m "Neue Videos ($day)"
             git push -q origin HEAD:main && exit 0
             sleep 5
           done

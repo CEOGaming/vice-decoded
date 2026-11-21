@@ -27,3 +27,5 @@ Gilt für jedes Skript in `scripts/<id>.json`. Sprache: Deutsch. Stimme: Otto (E
 - Fremdmaterial am Stück kurz halten; eigener Kommentar ist der Hauptteil.
 - Pflichtfelder: `id`, `source`, `hook`, `title` (mit #shorts), `description` (mit Quelle + „Fan-Kanal, nicht mit Rockstar Games verbunden.“ + 3–5 Hashtags), `tags`, `beats`.
 - Zusätzlich `tiktok` und `instagram` (Caption-Text) für das Upload-Paket.
+
+- Entwürfe werden mit kostenloser Stimme (Edge) gerendert. Erst IDs in `approved.txt` bekommen die finale Otto-v3-Stimme.
