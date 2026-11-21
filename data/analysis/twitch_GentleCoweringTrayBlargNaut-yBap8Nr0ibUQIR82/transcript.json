@@ -1,0 +1,35 @@
+{
+  "language": "pl",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.7,
+      "text": "Brian, dobra, dobra, dobra, dobra!"
+    },
+    {
+      "start": 5.1,
+      "end": 7.5,
+      "text": "Po prostu dobra, dobra, dobra, dobra, dobra, dobra!"
+    },
+    {
+      "start": 7.5,
+      "end": 11.2,
+      "text": "All right, give me Brian's, if it works."
+    },
+    {
+      "start": 11.4,
+      "end": 13.4,
+      "text": "I'll turn you upside down."
+    },
+    {
+      "start": 14.0,
+      "end": 16.4,
+      "text": "Woah, hey, hey chill my guy!"
+    },
+    {
+      "start": 17.1,
+      "end": 19.1,
+      "text": "Hang on, Roger, just listen!"
+    }
+  ]
+}

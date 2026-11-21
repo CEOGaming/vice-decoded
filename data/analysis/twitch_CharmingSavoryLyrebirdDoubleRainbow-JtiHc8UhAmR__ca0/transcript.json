@@ -1,0 +1,20 @@
+{
+  "language": "de",
+  "segments": [
+    {
+      "start": 10.1,
+      "end": 23.3,
+      "text": "Macht der Kollege mit oder nein? Können wir mal nachladen oder was?"
+    },
+    {
+      "start": 23.3,
+      "end": 38.7,
+      "text": "Wie kann ich denn nachladen? Ja, ich habe keine Munition."
+    },
+    {
+      "start": 38.7,
+      "end": 40.7,
+      "text": "Fick. Was soll ich tun?"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Wait, what's happening?"
+    },
+    {
+      "start": 5.4,
+      "end": 7.4,
+      "text": "You're getting..."
+    },
+    {
+      "start": 31.3,
+      "end": 33.3,
+      "text": "Jesus..."
+    },
+    {
+      "start": 33.3,
+      "end": 35.3,
+      "text": "Are you okay?"
+    },
+    {
+      "start": 35.3,
+      "end": 37.3,
+      "text": "I was insane!"
+    },
+    {
+      "start": 37.3,
+      "end": 40.3,
+      "text": "I just had to stop in this cracked out fucking town!"
+    },
+    {
+      "start": 41.3,
+      "end": 43.3,
+      "text": "Wait, I want to loot her."
+    }
+  ]
+}
