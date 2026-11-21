@@ -76,7 +76,7 @@
       "text": "Trick drei kennen die wenigsten: der Fokusmodus. Drück beim Zielen beide Sticks, L3 und R3. Das Spiel blendet dir den Tipp sogar selbst ein.",
       "start": 1.0,
       "end": 9.0,
-      "focus": 0.3,
+      "focus": 0.65,
       "inset": {
         "crop": [
           0.015,
