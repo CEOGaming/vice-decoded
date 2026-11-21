@@ -1,0 +1,62 @@
+{
+  "id": "fun_ohnepixel_elektromobil",
+  "source": "https://www.twitch.tv/ohnepixel/clip/ThankfulSoftKoupreyOMGScoots-8rWxvM1hXbQ2r_nz",
+  "layout": "split",
+  "facecam": [
+    0.07,
+    0.7,
+    0.22,
+    0.3
+  ],
+  "crop": [
+    0.29,
+    0,
+    0.71,
+    1
+  ],
+  "hook": "Die langsamste Verfolgungsjagd",
+  "title": "ohnePixel und die langsamste Verfolgungsjagd in GTA 6 #shorts",
+  "description": "Eine Oma, ein Elektromobil und ganz viel Chaos. Original-Clip: ohnePixel – https://www.twitch.tv/ohnepixel/clip/ThankfulSoftKoupreyOMGScoots-8rWxvM1hXbQ2r_nz\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #ohnepixel #funny #verfolgungsjagd",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "ohnepixel",
+    "funny",
+    "verfolgungsjagd"
+  ],
+  "tiktok": "Die langsamste Verfolgungsjagd in GTA 6 🛵 #gta6 #gtavi #ohnepixel #lustig #fyp",
+  "instagram": "Die langsamste Verfolgungsjagd in GTA 6 🛵😂\n\n#gta6 #gtavi #ohnepixel #gaming #reels",
+  "beats": [
+    {
+      "text": "Das ist die wohl langsamste Verfolgungsjagd in GTA 6.",
+      "start": 0,
+      "end": 6,
+      "focus": 0.5
+    },
+    {
+      "text": "ohnePixel legt sich mit einer Oma im Elektromobil an. Und die gibt nicht einfach auf.",
+      "start": 2,
+      "end": 12,
+      "focus": 0.5
+    },
+    {
+      "original": true,
+      "start": 7,
+      "end": 15,
+      "focus": 0.5,
+      "sfx": "pop"
+    },
+    {
+      "text": "Am Ende sitzt er selbst auf dem Elektromobil. Vollgas, mit gefühlt sechs Kilometern pro Stunde.",
+      "start": 15,
+      "end": 24,
+      "focus": 0.5
+    },
+    {
+      "text": "GTA 6 hat einfach für alles eine Animation. Folge für mehr GTA 6 Momente.",
+      "start": 17,
+      "end": 24,
+      "focus": 0.5
+    }
+  ]
+}

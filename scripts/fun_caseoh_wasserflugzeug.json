@@ -1,0 +1,69 @@
+{
+  "id": "fun_caseoh_wasserflugzeug",
+  "source": "https://www.twitch.tv/caseoh_/clip/CuriousBadEchidnaCoolStoryBro-g66TfyHbfF_r5vxZ",
+  "layout": "split",
+  "facecam": [
+    0,
+    0.12,
+    0.21,
+    0.28
+  ],
+  "crop": [
+    0.22,
+    0,
+    0.78,
+    1
+  ],
+  "hook": "Wie haben die das überlebt?",
+  "title": "caseoh crasht ein Wasserflugzeug in GTA 6 #shorts",
+  "description": "Erst abgestürzt, dann einfach weiter geschwommen. Original-Clip: caseoh_ – https://www.twitch.tv/caseoh_/clip/CuriousBadEchidnaCoolStoryBro-g66TfyHbfF_r5vxZ\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #caseoh #funny #flugzeug",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "caseoh",
+    "funny",
+    "flugzeug"
+  ],
+  "tiktok": "Wie haben die das überlebt? ✈️ #gta6 #gtavi #caseoh #lustig #fyp",
+  "instagram": "Wie haben die das überlebt? ✈️😂\n\n#gta6 #gtavi #caseoh #gaming #reels",
+  "beats": [
+    {
+      "text": "caseoh fliegt ein Wasserflugzeug. Und landet etwas zu sportlich.",
+      "start": 0,
+      "end": 6,
+      "focus": 0.5
+    },
+    {
+      "original": true,
+      "start": 0,
+      "end": 7,
+      "focus": 0.5,
+      "sfx": "pop"
+    },
+    {
+      "text": "Das Flugzeug kracht ins Wasser, überschlägt sich, und alle Insassen sind noch da.",
+      "start": 7,
+      "end": 20,
+      "focus": 0.5
+    },
+    {
+      "text": "Wie haben die das überlebt? caseoh hat eine klare Antwort.",
+      "start": 20,
+      "end": 28,
+      "focus": 0.5
+    },
+    {
+      "original": true,
+      "start": 28,
+      "end": 34,
+      "focus": 0.5,
+      "sfx": "pop"
+    },
+    {
+      "text": "Nicht fragen, einfach akzeptieren. Folge für mehr GTA 6 Momente.",
+      "start": 28,
+      "end": 35.5,
+      "focus": 0.5
+    }
+  ]
+}

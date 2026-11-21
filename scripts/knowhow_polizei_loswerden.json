@@ -1,0 +1,92 @@
+{
+  "id": "knowhow_polizei_loswerden",
+  "source": "https://www.twitch.tv/eliasn97/clip/ProudAdorableButterflyDerp-pC7pVstKv09n6z7l",
+  "layout": "fill",
+  "crops": {
+    "https://www.twitch.tv/eliasn97/clip/ProudAdorableButterflyDerp-pC7pVstKv09n6z7l": [
+      0,
+      0,
+      0.74,
+      0.86
+    ],
+    "https://www.twitch.tv/dicrim_rd69/clip/PeppyCharmingBeefCorgiDerp-TnMRtCymAUehQw1o": [
+      0,
+      0.21,
+      1,
+      0.6
+    ],
+    "https://www.twitch.tv/baupenner/clip/FrigidWealthyRuffCmonBruh-71qXCbU94IXYDvy1": [
+      0,
+      0.1,
+      0.7,
+      0.66
+    ],
+    "https://www.twitch.tv/handofblood/clip/RamshackleFastSamosaSwiftRage-2bTTfhENy2lx4P0Z": [
+      0,
+      0,
+      0.7,
+      0.88
+    ]
+  },
+  "hook": "So wirst du die Polizei los",
+  "title": "GTA 6: So wirst du die Polizei los (Fahndung erklärt) #shorts",
+  "description": "Sterne, Symbole, Gegenmittel: so schüttelst du die Polizei in GTA 6 ab.\n\nGameplay-Ausschnitte: eliasn97 – https://www.twitch.tv/eliasn97/clip/ProudAdorableButterflyDerp-pC7pVstKv09n6z7l\ndicrim_rd69 – https://www.twitch.tv/dicrim_rd69/clip/PeppyCharmingBeefCorgiDerp-TnMRtCymAUehQw1o\nBauPenner – https://www.twitch.tv/baupenner/clip/FrigidWealthyRuffCmonBruh-71qXCbU94IXYDvy1\nHandOfBlood – https://www.twitch.tv/handofblood/clip/RamshackleFastSamosaSwiftRage-2bTTfhENy2lx4P0Z\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6tipps #polizei #gta6deutsch",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6tipps",
+    "polizei",
+    "gta6deutsch"
+  ],
+  "tiktok": "So wirst du die Polizei in GTA 6 los 🚔 #gta6 #gtavi #gta6tipps #gaming #fyp",
+  "instagram": "So wirst du die Polizei in GTA 6 los 🚔⭐\n\n#gta6 #gtavi #gta6tipps #gaming #reels",
+  "beats": [
+    {
+      "text": "So wirst du in GTA 6 die Polizei los.",
+      "start": 8,
+      "end": 16,
+      "focus": 0.5
+    },
+    {
+      "text": "Deine Fahndung kann bis zu sechs Sterne haben. Ein bisschen Feuer reicht schon für vier.",
+      "start": 16,
+      "end": 34,
+      "focus": 0.5
+    },
+    {
+      "text": "Aber die Polizei weiß nur Bescheid, wenn ein Zeuge dich meldet oder ein Alarm losgeht. Keine Zeugen, kein Problem.",
+      "start": 0,
+      "end": 30,
+      "focus": 0.5,
+      "source": "https://www.twitch.tv/dicrim_rd69/clip/PeppyCharmingBeefCorgiDerp-TnMRtCymAUehQw1o"
+    },
+    {
+      "text": "Unter den Sternen siehst du kleine Symbole. Die zeigen, woran dich die Polizei erkennt: dein Auto, deine Kleidung, dein Gesicht oder deine Waffe.",
+      "start": 0,
+      "end": 30,
+      "focus": 0.5,
+      "source": "https://www.twitch.tv/baupenner/clip/FrigidWealthyRuffCmonBruh-71qXCbU94IXYDvy1"
+    },
+    {
+      "text": "Und genau da setzt du an. Auto wechseln oder ab zu Pay 'n' Spray. Klamotten wechseln, Maske auf, Waffe weg.",
+      "start": 36,
+      "end": 60,
+      "focus": 0.5
+    },
+    {
+      "text": "Dann die Sichtlinie brechen. Ab in Gassen, hinter Gebäude und raus aus dem Suchgebiet. Und schon ist der Stern weg.",
+      "start": 4,
+      "end": 30,
+      "focus": 0.5,
+      "source": "https://www.twitch.tv/handofblood/clip/RamshackleFastSamosaSwiftRage-2bTTfhENy2lx4P0Z"
+    },
+    {
+      "text": "Bonus: Jason und Lucia zusammen fallen doppelt auf. Also lieber trennen. Speicher dir das Video für deine nächste Flucht.",
+      "start": 12,
+      "end": 30,
+      "focus": 0.5,
+      "source": "https://www.twitch.tv/dicrim_rd69/clip/PeppyCharmingBeefCorgiDerp-TnMRtCymAUehQw1o",
+      "sfx": "ding"
+    }
+  ]
+}

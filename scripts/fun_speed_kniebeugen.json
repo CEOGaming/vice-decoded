@@ -1,0 +1,62 @@
+{
+  "id": "fun_speed_kniebeugen",
+  "source": "https://www.twitch.tv/ishowspeed/clip/PleasantEvilMangoNinjaGrumpy-3uz2Ty_zwPoxEXeW",
+  "layout": "split",
+  "facecam": [
+    0,
+    0.41,
+    0.2,
+    0.24
+  ],
+  "crop": [
+    0.21,
+    0,
+    0.79,
+    0.9
+  ],
+  "hook": "Speed geht in GTA 6 trainieren",
+  "title": "IShowSpeed macht Kniebeugen in GTA 6 #shorts",
+  "description": "Statt Überfall gibt es erstmal Beintag. Original-Clip: IShowSpeed – https://www.twitch.tv/ishowspeed/clip/PleasantEvilMangoNinjaGrumpy-3uz2Ty_zwPoxEXeW\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #ishowspeed #funny #gym",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "ishowspeed",
+    "funny",
+    "gym"
+  ],
+  "tiktok": "Speed macht Beintag in GTA 6 🏋️ #gta6 #gtavi #ishowspeed #lustig #fyp",
+  "instagram": "Speed macht Beintag in GTA 6 🏋️😂\n\n#gta6 #gtavi #ishowspeed #gaming #reels",
+  "beats": [
+    {
+      "text": "IShowSpeed hat in GTA 6 andere Prioritäten.",
+      "start": 0,
+      "end": 6,
+      "focus": 0.5
+    },
+    {
+      "text": "Seine Freundin fragt, wo er hin will. Seine Antwort: Ich muss reich werden.",
+      "start": 0,
+      "end": 12,
+      "focus": 0.5
+    },
+    {
+      "text": "Und wie wird man reich? Natürlich mit Kniebeugen auf der Terrasse.",
+      "start": 14,
+      "end": 24,
+      "focus": 0.5
+    },
+    {
+      "original": true,
+      "start": 24,
+      "end": 30,
+      "focus": 0.5,
+      "sfx": "pop"
+    },
+    {
+      "text": "Die Hantel ist echt, die Motivation auch. Würdest du in GTA 6 trainieren? Folge für mehr GTA 6 Momente.",
+      "start": 28,
+      "end": 35,
+      "focus": 0.5
+    }
+  ]
+}

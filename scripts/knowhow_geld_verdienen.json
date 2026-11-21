@@ -1,0 +1,85 @@
+{
+  "id": "knowhow_geld_verdienen",
+  "source": "https://www.twitch.tv/baupenner/clip/MistySmokyParrotSSSsss-ZqODdDNGE0NkEFtl",
+  "layout": "fill",
+  "crops": {
+    "https://www.twitch.tv/baupenner/clip/MistySmokyParrotSSSsss-ZqODdDNGE0NkEFtl": [
+      0,
+      0.1,
+      0.68,
+      0.78
+    ],
+    "https://www.twitch.tv/baupenner/clip/TrustworthyPolishedJuiceKappaWealth-xfH5S2t4iMBtB4_s": [
+      0,
+      0.1,
+      0.68,
+      0.78
+    ],
+    "https://www.twitch.tv/king_wolfe_/clip/TransparentClearPoultryShazBotstix-YTaZsWoQ98x2FBqb": [
+      0,
+      0.08,
+      1,
+      0.84
+    ],
+    "https://www.twitch.tv/theteegoat/clip/RoundWealthyBaboonPanicBasket-07wN2VBkM5EGJcGV": [
+      0.03,
+      0.08,
+      0.82,
+      0.8
+    ]
+  },
+  "hook": "So kommst du schnell an Geld",
+  "title": "GTA 6: So kommst du schnell an Geld (3 Wege) #shorts",
+  "description": "Überfälle, Autos verkaufen, Bank: so wirst du in GTA 6 nicht pleite.\n\nGameplay-Ausschnitte: BauPenner – https://www.twitch.tv/baupenner/clip/MistySmokyParrotSSSsss-ZqODdDNGE0NkEFtl\nBauPenner – https://www.twitch.tv/baupenner/clip/TrustworthyPolishedJuiceKappaWealth-xfH5S2t4iMBtB4_s\nking_wolfe_ – https://www.twitch.tv/king_wolfe_/clip/TransparentClearPoultryShazBotstix-YTaZsWoQ98x2FBqb\ntheteegoat – https://www.twitch.tv/theteegoat/clip/RoundWealthyBaboonPanicBasket-07wN2VBkM5EGJcGV\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6tipps #geld #gta6deutsch",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6tipps",
+    "geld",
+    "gta6deutsch"
+  ],
+  "tiktok": "3 Wege an Geld in GTA 6 💸 #gta6 #gtavi #gta6tipps #gaming #fyp",
+  "instagram": "3 Wege an Geld in GTA 6 💸\n\n#gta6 #gtavi #gta6tipps #gaming #reels",
+  "beats": [
+    {
+      "text": "Pleite in GTA 6? Hier sind drei Wege an Geld zu kommen.",
+      "start": 0,
+      "end": 6,
+      "focus": 0.5
+    },
+    {
+      "text": "Erstens: Läden überfallen. Ziel mit L2 auf den Kassierer, dann öffnet er die Kasse. Wenig Beute, aber auch wenig Polizei.",
+      "start": 0,
+      "end": 22,
+      "focus": 0.5,
+      "source": "https://www.twitch.tv/baupenner/clip/TrustworthyPolishedJuiceKappaWealth-xfH5S2t4iMBtB4_s"
+    },
+    {
+      "text": "Mehr holst du beim Juwelier oder im Pfandhaus. Dafür gibt es mehr Sterne. Tipp: Zerstör vorher die Kameras, das verzögert die Polizei.",
+      "start": 0,
+      "end": 30,
+      "focus": 0.5,
+      "source": "https://www.twitch.tv/king_wolfe_/clip/TransparentClearPoultryShazBotstix-YTaZsWoQ98x2FBqb"
+    },
+    {
+      "text": "Zweitens: Autos klauen und beim Hehler verkaufen. Das bringt ungefähr tausend bis fünftausend Dollar pro Auto. Danach gibt es eine Abklingzeit, aber einmal im Safehouse schlafen setzt sie zurück.",
+      "start": 0,
+      "end": 30,
+      "focus": 0.5,
+      "source": "https://www.twitch.tv/theteegoat/clip/RoundWealthyBaboonPanicBasket-07wN2VBkM5EGJcGV"
+    },
+    {
+      "text": "Drittens, und das ist das Wichtigste: Bring dein Geld zur Bank. Wenn du stirbst oder verhaftet wirst, ist dein Bargeld weg.",
+      "start": 0,
+      "end": 15,
+      "focus": 0.5
+    },
+    {
+      "text": "Welchen Weg nutzt du? Speicher dir das Video, bevor du wieder pleite bist.",
+      "start": 4,
+      "end": 15,
+      "focus": 0.5,
+      "sfx": "ding"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "id": "fun_xqc_kuh",
+  "source": "https://www.twitch.tv/xqc/clip/DelightfulLachrymoseMelonVoteYea-JeFCNhZHEyTfoOMJ",
+  "layout": "split",
+  "facecam": [
+    0,
+    0.5,
+    0.19,
+    0.27
+  ],
+  "crop": [
+    0.19,
+    0,
+    0.81,
+    1
+  ],
+  "hook": "Gestoppt von einer Kuh",
+  "title": "xQc wird mitten in der Flucht von einer Kuh gestoppt #shorts",
+  "description": "Quad, Flucht, Kühe auf der Straße. Was soll da schon schiefgehen? Original-Clip: xQc – https://www.twitch.tv/xqc/clip/DelightfulLachrymoseMelonVoteYea-JeFCNhZHEyTfoOMJ\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #xqc #funny #kuh",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "xqc",
+    "funny",
+    "kuh"
+  ],
+  "tiktok": "Gestoppt von einer Kuh 🐄 #gta6 #gtavi #xqc #lustig #fyp",
+  "instagram": "Gestoppt von einer Kuh 🐄😂\n\n#gta6 #gtavi #xqc #gaming #reels",
+  "beats": [
+    {
+      "text": "xQc ist auf der Flucht. Auf einem Quad.",
+      "start": 0,
+      "end": 8,
+      "focus": 0.5
+    },
+    {
+      "text": "Problem: Auf der Farm laufen überall Kühe rum. Und die gehen nicht aus dem Weg.",
+      "start": 8,
+      "end": 16,
+      "focus": 0.5
+    },
+    {
+      "original": true,
+      "start": 14,
+      "end": 20,
+      "focus": 0.5,
+      "sfx": "pop"
+    },
+    {
+      "text": "Er rappelt sich auf, fährt weiter, und denkt, jetzt hat er es geschafft.",
+      "start": 20,
+      "end": 32,
+      "focus": 0.5
+    },
+    {
+      "text": "Bis ihm ein Mast in den Weg kommt. Kuh eins, Mast zwei, xQc null.",
+      "start": 32,
+      "end": 44,
+      "focus": 0.5,
+      "sfx": "pop"
+    },
+    {
+      "text": "Welches Tier hat dich in GTA 6 schon erwischt? Schreib es in die Kommentare.",
+      "start": 36,
+      "end": 44,
+      "focus": 0.5
+    }
+  ]
+}
