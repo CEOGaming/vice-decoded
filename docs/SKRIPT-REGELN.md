@@ -22,7 +22,7 @@ Gilt für jedes Skript in `scripts/<id>.json`. Sprache: Deutsch. Stimme: Otto (E
 ## Technik
 - `layout`: `fill` (Standard) oder `split` (oben Webcam, unten Gameplay) – `split` nur, wenn `facecam` in `data/analysis/<id>/info.json` steht; dann `"facecam": [...]` ins Skript übernehmen.
 - `focus` pro Beat (0 links … 1 rechts), damit das Wichtige im Bild ist.
-- `crop`, um Chat/Overlays wegzuschneiden (nicht bei `split`).
+- `crop`, um Chat/Overlays/Kanal-Logos wegzuschneiden. Bei `split` gilt `crop` nur fürs Gameplay unten, `facecam` wird aus dem Vollbild genommen.
 - Texte normal schreiben („GTA 6“). Aussprache regelt `[pronounce]` in `config.toml`.
 - Fremdmaterial am Stück kurz halten; eigener Kommentar ist der Hauptteil.
 - Pflichtfelder: `id`, `source`, `hook`, `title` (mit #shorts), `description` (mit Quelle + „Fan-Kanal, nicht mit Rockstar Games verbunden.“ + 3–5 Hashtags), `tags`, `beats`.

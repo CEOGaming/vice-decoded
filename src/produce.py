@@ -257,9 +257,10 @@ def layout_filter(stretch: float, crop: list | None = None, mode: str = "fill", 
         f = min(max(float(focus), 0.0), 1.0)
         top = (f"[a]crop=iw*{fw}:ih*{fh_}:iw*{fx}:ih*{fy},scale={W}:{th}:force_original_aspect_ratio=increase,"
                f"crop={W}:{th}[top];")
-        bottom = (f"[b]scale=-2:{bh},crop='min({W},iw)':{bh}:'(iw-min({W},iw))*{f}':0,"
+        bottom = (f"[b]{c}scale=-2:{bh},crop='min({W},iw)':{bh}:'(iw-min({W},iw))*{f}':0,"
                   f"pad={W}:{bh}:(ow-iw)/2:0[bot];")
-        base = (f"[0:v]{c}setpts={stretch}*(PTS-STARTPTS),fps={FPS},split=2[a][b];" + top + bottom +
+        # crop gilt im Splitscreen nur fürs Gameplay unten (z. B. Kanal-Logo weg), die Webcam kommt aus dem Vollbild
+        base = (f"[0:v]setpts={stretch}*(PTS-STARTPTS),fps={FPS},split=2[a][b];" + top + bottom +
                 f"[top][bot]vstack=2,setsar=1")
         if inset:
             px, py = inset.get("pos", [40, 290])

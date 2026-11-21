@@ -202,6 +202,8 @@ def score(c: dict) -> float:
     velocity = c["views"] / hours
     engagement = (c.get("likes", 0) + 3 * c.get("comments", 0)) / max(c["views"], 1)
     bonus = CONFIG["scout"].get("german_bonus", 6) if c.get("german") else 0
+    if (c.get("creator_login") or "").lower() in [b.lower() for b in CONFIG["scout"].get("big_german", [])]:
+        bonus += CONFIG["scout"].get("big_german_bonus", 12)
     return round(math.log10(velocity + 1) * 10 + engagement * 50 + bonus, 2)
 
 
