@@ -34,7 +34,17 @@ jobs:
           set -e
           case "$NAME" in *[!a-zA-Z0-9_-]*) echo "ungültiger Name"; exit 1;; esac
           out="data/inspect/$NAME"; mkdir -p "$out"
-          yt-dlp -q -f "mp4/best" -o /tmp/clip.mp4 -- "$URL"
+          if ! yt-dlp -q -f "mp4/best" -o /tmp/clip.mp4 -- "$URL"; then
+            echo "Video-Download blockiert, hole Vorschaubilder"
+            id=$(echo "$URL" | sed -E 's#.*(shorts/|v=|youtu.be/)([A-Za-z0-9_-]{11}).*#\2#')
+            for n in oardefault oar2 maxresdefault hq1 hq2 hq3 hqdefault; do
+              curl -sfL -o "$out/thumb_$n.jpg" "https://i.ytimg.com/vi/$id/$n.jpg" || rm -f "$out/thumb_$n.jpg"
+            done
+            yt-dlp -q -f sb0 -o "$out/storyboard.%(ext)s" -- "$URL" || true
+            yt-dlp -J --skip-download -- "$URL" > /tmp/info.json 2>/dev/null && python3 -c "import json;d=json.load(open('/tmp/info.json'));print({k:d.get(k) for k in ('title','width','height','fps','duration','channel')})" > "$out/info.txt" || true
+            exit 0
+          fi
+          ffprobe -v error -show_entries stream=width,height,r_frame_rate -of csv=p=0 /tmp/clip.mp4 > "$out/info.txt" || true
           for t in $TIMES; do
             case "$t" in *[!0-9.]*) continue;; esac
             ffmpeg -loglevel error -y -ss "$t" -i /tmp/clip.mp4 -frames:v 1 -q:v 3 "$out/t$t.jpg"
