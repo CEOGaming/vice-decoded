@@ -1,0 +1,75 @@
+{
+  "id": "fact_alligatoren",
+  "source": "https://www.twitch.tv/jerma985/clip/ExquisiteAstuteBaconPoooound-kLietOJbbGIeMxsP",
+  "layout": "fill",
+  "crops": {
+    "https://www.twitch.tv/jerma985/clip/ExquisiteAstuteBaconPoooound-kLietOJbbGIeMxsP": [
+      0.22,
+      0.0,
+      0.78,
+      1.0
+    ],
+    "https://www.twitch.tv/2xrakai/clip/ClearDifferentGarlicNomNom-Fs_0YNyTuWAtVMSk": [
+      0.21,
+      0.0,
+      0.79,
+      1.0
+    ]
+  },
+  "hook": "Geh hier NICHT schwimmen",
+  "title": "Alligatoren in GTA 6: Darum solltest du hier nicht schwimmen #shorts",
+  "description": "In den Gewässern von Leonida warten Alligatoren. Gameplay-Clips: Jerma985 – https://www.twitch.tv/jerma985/clip/ExquisiteAstuteBaconPoooound-kLietOJbbGIeMxsP und 2xRaKai – https://www.twitch.tv/2xrakai/clip/ClearDifferentGarlicNomNom-Fs_0YNyTuWAtVMSk\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #alligator #gta6tipps #gta6deutsch",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "alligator",
+    "gta6tipps",
+    "gta6deutsch"
+  ],
+  "tiktok": "Geh in GTA 6 NICHT hier schwimmen 🐊 #gta6 #gtavi #alligator #gta6tipps #fyp",
+  "instagram": "Alligatoren in GTA 6 sind keine Deko 🐊\n\n#gta6 #gtavi #gaming #reels",
+  "beats": [
+    {
+      "text": "In GTA 6 solltest du nicht überall schwimmen gehen.",
+      "start": 10.0,
+      "end": 16.0,
+      "focus": 0.5
+    },
+    {
+      "text": "In den Sümpfen von Leonida leben Alligatoren. Und die sind keine Deko.",
+      "start": 0.0,
+      "end": 10.0,
+      "focus": 0.5,
+      "source": "https://www.twitch.tv/2xrakai/clip/ClearDifferentGarlicNomNom-Fs_0YNyTuWAtVMSk"
+    },
+    {
+      "original": true,
+      "start": 0.4,
+      "end": 5.0,
+      "focus": 0.5,
+      "sfx": "pop",
+      "source": "https://www.twitch.tv/2xrakai/clip/ClearDifferentGarlicNomNom-Fs_0YNyTuWAtVMSk"
+    },
+    {
+      "text": "Jerma schwimmt durchs Wasser, und plötzlich taucht einer direkt unter ihm auf.",
+      "start": 6.0,
+      "end": 22.0,
+      "focus": 0.5
+    },
+    {
+      "text": "Das Ergebnis siehst du hier.",
+      "start": 24.0,
+      "end": 32.0,
+      "focus": 0.5,
+      "sfx": "pop"
+    },
+    {
+      "text": "Mein Tipp: Im Sumpf lieber im Boot oder im Auto bleiben. Bist du schon einem Alligator begegnet? Schreib es in die Kommentare.",
+      "start": 10.0,
+      "end": 24.0,
+      "focus": 0.5,
+      "source": "https://www.twitch.tv/2xrakai/clip/ClearDifferentGarlicNomNom-Fs_0YNyTuWAtVMSk",
+      "sfx": "ding"
+    }
+  ]
+}

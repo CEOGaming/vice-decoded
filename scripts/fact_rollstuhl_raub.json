@@ -1,0 +1,81 @@
+{
+  "id": "fact_rollstuhl_raub",
+  "source": "https://www.twitch.tv/king_wolfe_/clip/TransparentClearPoultryShazBotstix-YTaZsWoQ98x2FBqb",
+  "layout": "fill",
+  "crops": {
+    "https://www.twitch.tv/king_wolfe_/clip/TransparentClearPoultryShazBotstix-YTaZsWoQ98x2FBqb": [
+      0.0,
+      0.08,
+      1.0,
+      0.92
+    ],
+    "https://www.twitch.tv/squeex/clip/ThirstyIronicDuckHoneyBadger-xgMSv6KtkulkE305": [
+      0.21,
+      0.0,
+      0.79,
+      1.0
+    ]
+  },
+  "hook": "Diese Oma raubt dich aus",
+  "title": "In GTA 6 wirst du von einer Oma im Elektromobil ausgeraubt #shorts",
+  "description": "Gleich mehrere Streamer wurden in GTA 6 von einer Frau im Elektromobil überfallen. Gameplay-Clips: king_wolfe_ – https://www.twitch.tv/king_wolfe_/clip/TransparentClearPoultryShazBotstix-YTaZsWoQ98x2FBqb und Squeex – https://www.twitch.tv/squeex/clip/ThirstyIronicDuckHoneyBadger-xgMSv6KtkulkE305\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #zufallsereignis #funny",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "zufallsereignis",
+    "funny"
+  ],
+  "tiktok": "Ausgeraubt von einer Oma im Elektromobil 👵🛵 GTA 6 ist wild #gta6 #gtavi #lustig #fyp #gaming",
+  "instagram": "Die gefährlichste Oma in GTA 6 👵🛵\n\n#gta6 #gtavi #gaming #reels",
+  "beats": [
+    {
+      "text": "Diese Oma raubt dich in GTA 6 aus.",
+      "start": 4.0,
+      "end": 9.0,
+      "focus": 0.5
+    },
+    {
+      "text": "King Wolfe läuft am Strand entlang. Da kommt eine Frau auf einem Elektromobil angefahren, und sie will sein Geld.",
+      "start": 0.0,
+      "end": 9.0,
+      "focus": 0.5
+    },
+    {
+      "original": true,
+      "start": 9.0,
+      "end": 14.0,
+      "focus": 0.5,
+      "sfx": "pop"
+    },
+    {
+      "text": "Und er ist nicht der Einzige. Auch Squeex wird mitten auf der Straße von einer Frau im Elektromobil überfallen.",
+      "start": 8.0,
+      "end": 20.0,
+      "focus": 0.5,
+      "source": "https://www.twitch.tv/squeex/clip/ThirstyIronicDuckHoneyBadger-xgMSv6KtkulkE305"
+    },
+    {
+      "original": true,
+      "start": 0.0,
+      "end": 7.4,
+      "focus": 0.5,
+      "sfx": "pop",
+      "source": "https://www.twitch.tv/squeex/clip/ThirstyIronicDuckHoneyBadger-xgMSv6KtkulkE305"
+    },
+    {
+      "text": "Das passiert in GTA 6 offenbar gleich mehreren Spielern. Squeex entscheidet sich, sich zu wehren.",
+      "start": 30.0,
+      "end": 43.0,
+      "focus": 0.5,
+      "source": "https://www.twitch.tv/squeex/clip/ThirstyIronicDuckHoneyBadger-xgMSv6KtkulkE305"
+    },
+    {
+      "text": "Würdest du zahlen oder dich wehren? Schreib es in die Kommentare.",
+      "start": 43.0,
+      "end": 52.0,
+      "focus": 0.5,
+      "source": "https://www.twitch.tv/squeex/clip/ThirstyIronicDuckHoneyBadger-xgMSv6KtkulkE305"
+    }
+  ]
+}

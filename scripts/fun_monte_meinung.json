@@ -1,0 +1,69 @@
+{
+  "id": "fun_monte_meinung",
+  "source": "https://www.twitch.tv/montanablack88/clip/BrainyLazyReindeerTooSpicy-Mum5vlRaA3Bjo2L1",
+  "layout": "split",
+  "facecam": [
+    0.62,
+    0.63,
+    0.26,
+    0.37
+  ],
+  "crop": [
+    0.0,
+    0.0,
+    0.62,
+    1.0
+  ],
+  "hook": "Monte findet GTA 6 LANGWEILIG",
+  "title": "MontanaBlack über GTA 6: „13 Jahre umsonst gewartet“ #shorts",
+  "description": "Monte wird im Stream nach seinem Fazit zu GTA 6 gefragt. Original-Clip: MontanaBlack88 – https://www.twitch.tv/montanablack88/clip/BrainyLazyReindeerTooSpicy-Mum5vlRaA3Bjo2L1\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #montanablack #gta6deutsch #meinung",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "montanablack",
+    "gta6deutsch",
+    "meinung"
+  ],
+  "tiktok": "Monte findet GTA 6 langweilig 😳 Hat er recht? #gta6 #gtavi #montanablack #meinung #fyp",
+  "instagram": "Monte: „13 Jahre umsonst gewartet“ 😳 Hat er recht?\n\n#gta6 #gtavi #montanablack #gaming #reels",
+  "beats": [
+    {
+      "text": "Monte findet GTA 6 langweilig.",
+      "start": 50.0,
+      "end": 55.0,
+      "focus": 0.5
+    },
+    {
+      "text": "MontanaBlack wird im Stream gefragt, wie er GTA 6 findet. Seine Antwort ist deutlich.",
+      "start": 0.0,
+      "end": 8.0,
+      "focus": 0.5
+    },
+    {
+      "original": true,
+      "start": 8.5,
+      "end": 13.1,
+      "focus": 0.5,
+      "sfx": "pop"
+    },
+    {
+      "text": "Er will das Spiel nicht einmal durchspielen. Und dann kommt dieser Satz.",
+      "start": 14.0,
+      "end": 24.0,
+      "focus": 0.5
+    },
+    {
+      "original": true,
+      "start": 51.0,
+      "end": 55.0,
+      "focus": 0.5,
+      "sfx": "pop"
+    },
+    {
+      "text": "Andere Streamer feiern die Story. Wer hat recht, Monte oder der Rest? Schreib es in die Kommentare.",
+      "start": 24.0,
+      "end": 34.0,
+      "focus": 0.5
+    }
+  ]
+}
