@@ -1,0 +1,57 @@
+{
+  "id": "fun_baupenner_einzahlung",
+  "source": "https://www.twitch.tv/baupenner/clip/MistySmokyParrotSSSsss-ZqODdDNGE0NkEFtl",
+  "layout": "split",
+  "hook": "Erst ausrauben, dann einzahlen",
+  "title": "Erst den Laden ausrauben, dann zum Geldautomaten – BauPenner in GTA 6 #shorts",
+  "description": "Kasse ausgeräumt und danach ganz entspannt zum Automaten. Original-Clip: BauPenner – https://www.twitch.tv/baupenner/clip/MistySmokyParrotSSSsss-ZqODdDNGE0NkEFtl\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #baupenner #gta6deutsch #lustig",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "baupenner",
+    "gta6deutsch",
+    "lustig"
+  ],
+  "tiktok": "Erst rauben, dann einzahlen 🏧😂 #gta6 #gtavi #baupenner #lustig #fyp",
+  "instagram": "Erst rauben, dann einzahlen 🏧😂\n\n#gta6 #gtavi #baupenner #gaming #reels",
+  "beats": [
+    {
+      "text": "Erst ausrauben, dann einzahlen.",
+      "start": 2.0,
+      "end": 6.0,
+      "focus": 0.5
+    },
+    {
+      "text": "BauPenner räumt die Kasse im Laden aus. Und dann geht er ganz entspannt zum Geldautomaten.",
+      "start": 0.0,
+      "end": 7.0,
+      "focus": 0.5
+    },
+    {
+      "original": true,
+      "start": 0.0,
+      "end": 10.0,
+      "focus": 0.5,
+      "sfx": "pop"
+    },
+    {
+      "text": "Klingt verrückt, ist aber clever: Geld auf der Bank ist sicher. Wer stirbt oder festgenommen wird, verliert sein Bargeld. Wusstest du das?",
+      "start": 7.0,
+      "end": 15.4,
+      "focus": 0.5,
+      "sfx": "ding"
+    }
+  ],
+  "facecam": [
+    0.715,
+    0.12,
+    0.27,
+    0.26
+  ],
+  "crop": [
+    0.0,
+    0.07,
+    0.7,
+    0.93
+  ]
+}

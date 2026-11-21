@@ -1,0 +1,69 @@
+{
+  "id": "fun_squeex_trick",
+  "source": "https://www.twitch.tv/squeex/clip/ZanyRealLEDKevinTurtle-SQ2MfYjhrtgfEN-0",
+  "layout": "split",
+  "hook": "Er kündigt einen COOLEN Trick an",
+  "title": "Squeex zeigt einen coolen Trick in GTA 6… oder auch nicht #shorts",
+  "description": "Volle Geschwindigkeit mit dem Fahrrad und ein angekündigter Trick. Original-Clip: Squeex – https://www.twitch.tv/squeex/clip/ZanyRealLEDKevinTurtle-SQ2MfYjhrtgfEN-0\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #squeex #fail #funny",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "squeex",
+    "fail",
+    "funny"
+  ],
+  "tiktok": "Der coolste Trick in GTA 6… oder? 🚲💀 #gta6 #gtavi #fail #lustig #fyp",
+  "instagram": "Angekündigter Trick in GTA 6 🚲💀\n\n#gta6 #gtavi #fail #gaming #reels",
+  "beats": [
+    {
+      "text": "Er kündigt einen coolen Trick an.",
+      "start": 34.0,
+      "end": 38.0,
+      "focus": 0.5
+    },
+    {
+      "original": true,
+      "start": 1.5,
+      "end": 6.5,
+      "focus": 0.5,
+      "sfx": "pop"
+    },
+    {
+      "text": "Der Plan: mit dem Fahrrad so viel Tempo aufbauen wie nur möglich. Die Sonne geht unter, die Straße ist frei.",
+      "start": 8.0,
+      "end": 24.0,
+      "focus": 0.5
+    },
+    {
+      "text": "Und dann kommt der große Moment.",
+      "start": 26.0,
+      "end": 33.0,
+      "focus": 0.5
+    },
+    {
+      "original": true,
+      "start": 33.0,
+      "end": 38.0,
+      "focus": 0.5,
+      "sfx": "pop"
+    },
+    {
+      "text": "Naja, cool war es trotzdem. Würdest du das nachmachen? Schreib es in die Kommentare.",
+      "start": 34.0,
+      "end": 40.6,
+      "focus": 0.5
+    }
+  ],
+  "facecam": [
+    0.0,
+    0.2,
+    0.21,
+    0.28
+  ],
+  "crop": [
+    0.22,
+    0.0,
+    0.78,
+    1.0
+  ]
+}
