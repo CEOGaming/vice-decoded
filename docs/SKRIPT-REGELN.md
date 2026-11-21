@@ -29,3 +29,8 @@ Gilt für jedes Skript in `scripts/<id>.json`. Sprache: Deutsch. Stimme: Otto (E
 - Zusätzlich `tiktok` und `instagram` (Caption-Text) für das Upload-Paket.
 
 - Entwürfe werden mit kostenloser Stimme (Edge) gerendert. Erst IDs in `approved.txt` bekommen die finale Otto-v3-Stimme.
+
+## Vorgaben des Inhabers (21.11.2026)
+- **Know-how / Anleitung**: nur Gameplay, kein Streamer im Bild. Webcam, Chat und eingebrannte Untertitel per `crops` (pro Quelle) wegschneiden. Mehrere Clips von beliebigen (auch internationalen) Streamern zum selben Thema kombinieren, Ziel ~65 s. Passende Clips findet `search.yml` (Stichwörter im Titel). Fakten mit Quelle in `docs/facts.md`.
+- **Splitscreen** (Webcam oben) nur für lustige, virale Momente mit Streamer-Reaktion.
+- **Keine Credits im Video**: auch eingebrannte Kanal-Logos/Namen der Streamer wegschneiden. Quellen nur in der Beschreibung.
