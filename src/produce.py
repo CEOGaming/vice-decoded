@@ -279,9 +279,14 @@ def layout_filter(stretch: float, crop: list | None = None, mode: str = "fill", 
         fg = f"[b]scale={W}:-2[fg];"
         pos = "(W-w)/2:(H-h)/2-80"
     else:
-        fh = int(H * P.get("fill_height", 0.58)) // 2 * 2
         f = min(max(float(focus), 0.0), 1.0)
-        fg = (f"[b]scale=-2:{fh},crop='min({W},iw)':{fh}:'(iw-min({W},iw))*{f}':0[fg];")
+        if P.get("fill_zoom"):
+            # Zoom über die Breite: immer gleicher Bildanteil sichtbar (1/fill_zoom), egal wie die Quelle beschnitten ist
+            zw = int(W * float(P["fill_zoom"])) // 2 * 2
+            fg = (f"[b]scale={zw}:-2:flags=lanczos,crop={W}:ih:'(iw-{W})*{f}':0,unsharp=5:5:0.5[fg];")
+        else:
+            fh = int(H * P.get("fill_height", 0.58)) // 2 * 2
+            fg = (f"[b]scale=-2:{fh},crop='min({W},iw)':{fh}:'(iw-min({W},iw))*{f}':0[fg];")
         pos = "(W-w)/2:(H-h)/2-40"
     if inset:
         # Standbild-Ausschnitt (z. B. Ortsname/Minimap) als Einblendung; Eingang "img" kommt von render_beat
