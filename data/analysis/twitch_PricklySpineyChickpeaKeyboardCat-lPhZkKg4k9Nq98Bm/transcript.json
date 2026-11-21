@@ -1,0 +1,35 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Well, I feel like it's a little bit too easy"
+    },
+    {
+      "start": 3.4,
+      "end": 5.4,
+      "text": "Like it does feel like"
+    },
+    {
+      "start": 6.0,
+      "end": 7.9,
+      "text": "What the?"
+    },
+    {
+      "start": 7.9,
+      "end": 9.9,
+      "text": "Like I took no damage there. What are we saying?"
+    },
+    {
+      "start": 12.3,
+      "end": 16.9,
+      "text": "Like you can be ten years old, bro, you won't fail any mission. Okay, at least so far"
+    },
+    {
+      "start": 18.7,
+      "end": 20.7,
+      "text": "Like your aim can be complete"
+    }
+  ]
+}
