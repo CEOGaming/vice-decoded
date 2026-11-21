@@ -19,10 +19,6 @@ on:
 permissions:
   contents: write
 
-concurrency:
-  group: repo-write
-  cancel-in-progress: false
-
 jobs:
   search:
     runs-on: ubuntu-latest
@@ -46,6 +42,6 @@ jobs:
           for i in 1 2 3; do
             git add data/search data/analysis
             git diff --cached --quiet && break
-            git commit -qm "Suche: ${{ inputs.name }}" && git pull --rebase -q && git push -q && break
+            git commit -qm "Suche: ${{ inputs.name }}"; git pull --rebase -q -X theirs && git push -q && break
             sleep 5
           done
