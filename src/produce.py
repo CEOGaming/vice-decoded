@@ -28,6 +28,7 @@ from __future__ import annotations
 
 import asyncio
 import json
+import re
 import os
 import shutil
 import subprocess
@@ -469,6 +470,8 @@ Style: Credit,{font},40,&H00FFFFFF,&H00FFFFFF,&H00000000,&H90000000,0,0,0,0,100,
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 """
     lines = []
+    # Emojis (außerhalb der Grundebene) hat die Schrift nicht -> würden als Kästchen erscheinen
+    hook = re.sub(r"\s{2,}", " ", re.sub(r"[\U00010000-\U0010FFFF\uFE0F\u200D]", "", hook or "")).strip()
     if hook:
         lines.append(f"Dialogue: 1,{ts(0)},{ts(min(hook_until, total))},Hook,,0,0,0,,{hook}")
     if brand:
