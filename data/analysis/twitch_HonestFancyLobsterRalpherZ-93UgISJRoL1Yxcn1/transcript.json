@@ -1,0 +1,35 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.1,
+      "end": 2.1,
+      "text": "It's not working!"
+    },
+    {
+      "start": 2.1,
+      "end": 16.5,
+      "text": "Don't pull down your gun!"
+    },
+    {
+      "start": 16.5,
+      "end": 22.1,
+      "text": "Don't pull down your gun!"
+    },
+    {
+      "start": 22.1,
+      "end": 23.1,
+      "text": "Explain!"
+    },
+    {
+      "start": 23.1,
+      "end": 24.1,
+      "text": "Yo, I've never..."
+    },
+    {
+      "start": 24.1,
+      "end": 25.1,
+      "text": "I've never been able to beat the per..."
+    }
+  ]
+}

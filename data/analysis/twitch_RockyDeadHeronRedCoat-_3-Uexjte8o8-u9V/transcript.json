@@ -1,0 +1,45 @@
+{
+  "language": "de",
+  "segments": [
+    {
+      "start": 1.1,
+      "end": 3.1,
+      "text": "Komm mal her."
+    },
+    {
+      "start": 3.1,
+      "end": 5.1,
+      "text": "Guck, was ich mir die mache."
+    },
+    {
+      "start": 5.1,
+      "end": 9.0,
+      "text": "Haha!"
+    },
+    {
+      "start": 9.0,
+      "end": 11.0,
+      "text": "Dinger, der Opa!"
+    },
+    {
+      "start": 11.0,
+      "end": 13.0,
+      "text": "Dinger, hier ist Schradin!"
+    },
+    {
+      "start": 13.0,
+      "end": 15.0,
+      "text": "Hier fährt Schradin Chat!"
+    },
+    {
+      "start": 15.0,
+      "end": 18.8,
+      "text": "Schradin!"
+    },
+    {
+      "start": 18.8,
+      "end": 23.1,
+      "text": "Er hat so das gesehen, Gerrit!"
+    }
+  ]
+}

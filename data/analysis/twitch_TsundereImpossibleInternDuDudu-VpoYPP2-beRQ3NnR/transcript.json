@@ -1,0 +1,35 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "They think I'm blowing and I'm stacking it"
+    },
+    {
+      "start": 2.0,
+      "end": 3.3,
+      "text": "Did Shirley just text me?"
+    },
+    {
+      "start": 3.3,
+      "end": 4.8,
+      "text": "Oh fuck, I'm texting the driver"
+    },
+    {
+      "start": 4.8,
+      "end": 5.8,
+      "text": "Oh my god"
+    },
+    {
+      "start": 7.8,
+      "end": 8.3,
+      "text": "Bro"
+    },
+    {
+      "start": 9.0,
+      "end": 10.0,
+      "text": "Did I just kill that one?"
+    }
+  ]
+}
