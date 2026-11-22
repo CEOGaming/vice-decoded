@@ -34,7 +34,15 @@ def main() -> None:
     g = requests.get("https://api.twitch.tv/helix/games", params={"name": "Grand Theft Auto VI"},
                      headers=headers, timeout=30).json()["data"]
     game_id = g[0]["id"]
-    raw = scout._paged_clips(headers, {"game_id": game_id, "started_at": scout.since_iso(hours)}, 25)
+    # Twitch liefert pro Abfrage nur ~1000 Clips; darum den Zeitraum in Tagesstücke teilen.
+    from datetime import datetime, timedelta, timezone
+    now, raw, seen = datetime.now(timezone.utc), [], set()
+    for k in range(0, hours, 24):
+        end, start = now - timedelta(hours=k), now - timedelta(hours=min(k + 24, hours))
+        for c in scout._paged_clips(headers, {"game_id": game_id, "started_at": start.strftime("%Y-%m-%dT%H:%M:%SZ"),
+                                              "ended_at": end.strftime("%Y-%m-%dT%H:%M:%SZ")}, 12):
+            if c["id"] not in seen:
+                seen.add(c["id"]); raw.append(c)
     pat = re.compile("|".join(re.escape(w) for w in words), re.I)
     hits = [c for c in raw if pat.search(c.get("title", ""))]
     hits.sort(key=lambda c: c.get("view_count", 0), reverse=True)
