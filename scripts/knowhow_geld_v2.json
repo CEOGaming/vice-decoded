@@ -1,0 +1,153 @@
+{
+  "id": "knowhow_geld_v2",
+  "source": "https://www.twitch.tv/baupenner/clip/MistySmokyParrotSSSsss-ZqODdDNGE0NkEFtl",
+  "layout": "fill",
+  "masks": {
+    "https://www.twitch.tv/baupenner/clip/MistySmokyParrotSSSsss-ZqODdDNGE0NkEFtl": [
+      [
+        0.7,
+        0.1,
+        0.3,
+        0.31
+      ],
+      [
+        0.62,
+        0,
+        0.38,
+        0.06
+      ],
+      [
+        0.25,
+        0.86,
+        0.5,
+        0.12
+      ]
+    ],
+    "https://www.twitch.tv/baupenner/clip/TrustworthyPolishedJuiceKappaWealth-xfH5S2t4iMBtB4_s": [
+      [
+        0.7,
+        0.1,
+        0.3,
+        0.31
+      ],
+      [
+        0.62,
+        0,
+        0.38,
+        0.06
+      ],
+      [
+        0.25,
+        0.86,
+        0.5,
+        0.12
+      ]
+    ],
+    "https://www.twitch.tv/king_wolfe_/clip/TransparentClearPoultryShazBotstix-YTaZsWoQ98x2FBqb": [
+      [
+        0.3,
+        0.86,
+        0.4,
+        0.12
+      ]
+    ],
+    "https://www.twitch.tv/theteegoat/clip/RoundWealthyBaboonPanicBasket-07wN2VBkM5EGJcGV": [
+      [
+        0.86,
+        0.28,
+        0.14,
+        0.18
+      ],
+      [
+        0,
+        0,
+        0.06,
+        0.08
+      ],
+      [
+        0.3,
+        0.86,
+        0.4,
+        0.12
+      ]
+    ]
+  },
+  "hook": "3 Wege an Geld in GTA 6",
+  "title": "GTA 6: 3 Wege an Geld zu kommen #shorts",
+  "description": "Überfälle, Autos verkaufen, Bank: so wirst du in GTA 6 nicht pleite.\n\nGameplay-Ausschnitte:\nBauPenner – https://www.twitch.tv/baupenner/clip/MistySmokyParrotSSSsss-ZqODdDNGE0NkEFtl\nBauPenner – https://www.twitch.tv/baupenner/clip/TrustworthyPolishedJuiceKappaWealth-xfH5S2t4iMBtB4_s\nking_wolfe_ – https://www.twitch.tv/king_wolfe_/clip/TransparentClearPoultryShazBotstix-YTaZsWoQ98x2FBqb\ntheteegoat – https://www.twitch.tv/theteegoat/clip/RoundWealthyBaboonPanicBasket-07wN2VBkM5EGJcGV\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6tipps #geld #gta6deutsch",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6tipps",
+    "geld",
+    "gta6deutsch"
+  ],
+  "tiktok": "3 Wege an Geld in GTA 6 💸 #gta6 #gtavi #gta6tipps #gaming #fyp",
+  "instagram": "3 Wege an Geld in GTA 6 💸\n\n#gta6 #gtavi #gta6tipps #gaming #reels",
+  "beats": [
+    {
+      "text": "Eins: Überfälle. Mit L2 auf den Kassierer zielen, dann öffnet er die Kasse.",
+      "start": 0,
+      "end": 8,
+      "focus": 0.5,
+      "source": "https://www.twitch.tv/baupenner/clip/TrustworthyPolishedJuiceKappaWealth-xfH5S2t4iMBtB4_s"
+    },
+    {
+      "original": true,
+      "game_only": true,
+      "start": 8,
+      "end": 20,
+      "focus": 0.5,
+      "source": "https://www.twitch.tv/baupenner/clip/TrustworthyPolishedJuiceKappaWealth-xfH5S2t4iMBtB4_s",
+      "sfx": null
+    },
+    {
+      "text": "Juwelier und Pfandhaus bringen mehr, aber auch mehr Sterne. Kameras vorher zerstören.",
+      "start": 0,
+      "end": 8,
+      "focus": 0.5,
+      "source": "https://www.twitch.tv/king_wolfe_/clip/TransparentClearPoultryShazBotstix-YTaZsWoQ98x2FBqb"
+    },
+    {
+      "original": true,
+      "game_only": true,
+      "start": 8,
+      "end": 22,
+      "focus": 0.5,
+      "source": "https://www.twitch.tv/king_wolfe_/clip/TransparentClearPoultryShazBotstix-YTaZsWoQ98x2FBqb",
+      "sfx": null
+    },
+    {
+      "text": "Zwei: Autos klauen und beim Hehler verkaufen.",
+      "start": 0,
+      "end": 6,
+      "focus": 0.5,
+      "source": "https://www.twitch.tv/theteegoat/clip/RoundWealthyBaboonPanicBasket-07wN2VBkM5EGJcGV"
+    },
+    {
+      "original": true,
+      "game_only": true,
+      "start": 6,
+      "end": 20,
+      "focus": 0.5,
+      "source": "https://www.twitch.tv/theteegoat/clip/RoundWealthyBaboonPanicBasket-07wN2VBkM5EGJcGV",
+      "sfx": null
+    },
+    {
+      "text": "Drei: Geld sofort zur Bank. Wer stirbt oder verhaftet wird, verliert sein Bargeld.",
+      "start": 0,
+      "end": 7,
+      "focus": 0.5,
+      "source": "https://www.twitch.tv/baupenner/clip/MistySmokyParrotSSSsss-ZqODdDNGE0NkEFtl"
+    },
+    {
+      "original": true,
+      "game_only": true,
+      "start": 7,
+      "end": 15.4,
+      "focus": 0.5,
+      "source": "https://www.twitch.tv/baupenner/clip/MistySmokyParrotSSSsss-ZqODdDNGE0NkEFtl",
+      "sfx": null
+    }
+  ]
+}

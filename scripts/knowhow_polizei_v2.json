@@ -1,0 +1,159 @@
+{
+  "id": "knowhow_polizei_v2",
+  "source": "https://www.twitch.tv/eliasn97/clip/ProudAdorableButterflyDerp-pC7pVstKv09n6z7l",
+  "layout": "fill",
+  "masks": {
+    "https://www.twitch.tv/eliasn97/clip/ProudAdorableButterflyDerp-pC7pVstKv09n6z7l": [
+      [
+        0,
+        0,
+        1,
+        0.07
+      ],
+      [
+        0.74,
+        0.4,
+        0.26,
+        0.32
+      ],
+      [
+        0.25,
+        0.86,
+        0.5,
+        0.12
+      ]
+    ],
+    "https://www.twitch.tv/dicrim_rd69/clip/PeppyCharmingBeefCorgiDerp-TnMRtCymAUehQw1o": [
+      [
+        0.25,
+        0,
+        0.5,
+        0.21
+      ],
+      [
+        0.25,
+        0.84,
+        0.5,
+        0.14
+      ]
+    ],
+    "https://www.twitch.tv/baupenner/clip/FrigidWealthyRuffCmonBruh-71qXCbU94IXYDvy1": [
+      [
+        0.7,
+        0.1,
+        0.3,
+        0.31
+      ],
+      [
+        0.62,
+        0,
+        0.38,
+        0.06
+      ],
+      [
+        0.25,
+        0.86,
+        0.5,
+        0.12
+      ]
+    ],
+    "https://www.twitch.tv/handofblood/clip/RamshackleFastSamosaSwiftRage-2bTTfhENy2lx4P0Z": [
+      [
+        0.7,
+        0.55,
+        0.3,
+        0.45
+      ],
+      [
+        0.9,
+        0,
+        0.1,
+        0.13
+      ],
+      [
+        0.25,
+        0.86,
+        0.45,
+        0.11
+      ]
+    ]
+  },
+  "hook": "So wirst du die Polizei los",
+  "title": "GTA 6: So wirst du die Polizei los #shorts",
+  "description": "Sterne, Symbole, Gegenmittel: so schüttelst du die Polizei in GTA 6 ab.\n\nGameplay-Ausschnitte:\neliasn97 – https://www.twitch.tv/eliasn97/clip/ProudAdorableButterflyDerp-pC7pVstKv09n6z7l\ndicrim_rd69 – https://www.twitch.tv/dicrim_rd69/clip/PeppyCharmingBeefCorgiDerp-TnMRtCymAUehQw1o\nBauPenner – https://www.twitch.tv/baupenner/clip/FrigidWealthyRuffCmonBruh-71qXCbU94IXYDvy1\nHandOfBlood – https://www.twitch.tv/handofblood/clip/RamshackleFastSamosaSwiftRage-2bTTfhENy2lx4P0Z\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6tipps #polizei #gta6deutsch",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6tipps",
+    "polizei",
+    "gta6deutsch"
+  ],
+  "tiktok": "So wirst du die Polizei in GTA 6 los 🚔 #gta6 #gtavi #gta6tipps #gaming #fyp",
+  "instagram": "So wirst du die Polizei in GTA 6 los 🚔⭐\n\n#gta6 #gtavi #gta6tipps #gaming #reels",
+  "beats": [
+    {
+      "text": "So wirst du in GTA 6 die Polizei los.",
+      "start": 8,
+      "end": 12,
+      "focus": 0.5,
+      "source": "https://www.twitch.tv/eliasn97/clip/ProudAdorableButterflyDerp-pC7pVstKv09n6z7l"
+    },
+    {
+      "original": true,
+      "game_only": true,
+      "start": 9,
+      "end": 22,
+      "focus": 0.5,
+      "source": "https://www.twitch.tv/eliasn97/clip/ProudAdorableButterflyDerp-pC7pVstKv09n6z7l",
+      "sfx": null
+    },
+    {
+      "text": "Bis zu sechs Sterne. Die Polizei kommt aber nur, wenn dich ein Zeuge meldet.",
+      "start": 0,
+      "end": 8,
+      "focus": 0.5,
+      "source": "https://www.twitch.tv/dicrim_rd69/clip/PeppyCharmingBeefCorgiDerp-TnMRtCymAUehQw1o"
+    },
+    {
+      "original": true,
+      "game_only": true,
+      "start": 8,
+      "end": 20,
+      "focus": 0.5,
+      "source": "https://www.twitch.tv/dicrim_rd69/clip/PeppyCharmingBeefCorgiDerp-TnMRtCymAUehQw1o",
+      "sfx": null
+    },
+    {
+      "text": "Die Symbole unter den Sternen zeigen, woran sie dich erkennen. Auto, Kleidung, Gesicht oder Waffe.",
+      "start": 14,
+      "end": 22,
+      "focus": 0.5,
+      "source": "https://www.twitch.tv/baupenner/clip/FrigidWealthyRuffCmonBruh-71qXCbU94IXYDvy1"
+    },
+    {
+      "original": true,
+      "game_only": true,
+      "start": 14,
+      "end": 24,
+      "focus": 0.5,
+      "source": "https://www.twitch.tv/baupenner/clip/FrigidWealthyRuffCmonBruh-71qXCbU94IXYDvy1",
+      "sfx": null
+    },
+    {
+      "text": "Also: Auto wechseln, umziehen, Maske auf. Und raus aus dem Sichtfeld.",
+      "start": 4,
+      "end": 13,
+      "focus": 0.5,
+      "source": "https://www.twitch.tv/handofblood/clip/RamshackleFastSamosaSwiftRage-2bTTfhENy2lx4P0Z"
+    },
+    {
+      "original": true,
+      "game_only": true,
+      "start": 13,
+      "end": 30,
+      "focus": 0.5,
+      "source": "https://www.twitch.tv/handofblood/clip/RamshackleFastSamosaSwiftRage-2bTTfhENy2lx4P0Z",
+      "sfx": null
+    }
+  ]
+}
