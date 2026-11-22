@@ -1,4 +1,4 @@
-# Skript-Regeln für Vice Decoded
+# Skript-Regeln für Sternsammler
 
 Gilt für jedes Skript in `scripts/<id>.json`. Sprache: Deutsch. Stimme: Otto (ElevenLabs v3).
 

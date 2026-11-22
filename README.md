@@ -1,4 +1,4 @@
-# Vice Decoded – automatischer GTA6-Shorts-Kanal
+# Sternsammler – automatischer GTA6-Shorts-Kanal
 
 Kurze GTA6-Clips mit eigenem Kommentar (KI-Stimme), Erklärungen zu Story,
 Easter Eggs, Tipps und Tricks. Komplett mit kostenlosen Tools.

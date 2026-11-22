@@ -1,6 +1,6 @@
-# Zentrale Einstellungen für Vice Decoded
+# Zentrale Einstellungen für Sternsammler
 [channel]
-name = "Vice Decoded"
+name = "Sternsammler"
 language = "de"            # "de" oder "en"
 voice_de = "de-DE-ConradNeural"
 voice_en = "en-US-GuyNeural"
