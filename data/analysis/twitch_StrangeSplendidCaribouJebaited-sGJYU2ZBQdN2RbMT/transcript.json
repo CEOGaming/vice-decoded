@@ -1,0 +1,25 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "It means I can be faster"
+    },
+    {
+      "start": 2.1,
+      "end": 4.1,
+      "text": "Let me look at my phone while I'm driving"
+    },
+    {
+      "start": 4.1,
+      "end": 7.8,
+      "text": "My life will be longer and people will treat me with more respect"
+    },
+    {
+      "start": 8.1,
+      "end": 10.4,
+      "text": "Hey, this is joy from coastal audio can"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.6,
+      "end": 5.7,
+      "text": "Told you I was gonna limit test. I was gonna just drive into cars and stuff all the guys. I met around here you"
+    },
+    {
+      "start": 6.4,
+      "end": 8.4,
+      "text": "You're the only one who's not a complete piece of shit"
+    },
+    {
+      "start": 10.5,
+      "end": 11.9,
+      "text": "Thanks, man"
+    },
+    {
+      "start": 11.9,
+      "end": 29.1,
+      "text": "Yeah, no, buddy"
+    }
+  ]
+}
