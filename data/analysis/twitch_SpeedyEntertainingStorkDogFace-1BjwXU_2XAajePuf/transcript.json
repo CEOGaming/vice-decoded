@@ -1,0 +1,35 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.1,
+      "end": 4.1,
+      "text": "Yo! Yo, we haven't seen this yet, this is new!"
+    },
+    {
+      "start": 7.2,
+      "end": 8.2,
+      "text": "Yo!"
+    },
+    {
+      "start": 9.2,
+      "end": 11.2,
+      "text": "Oh my god!"
+    },
+    {
+      "start": 11.2,
+      "end": 19.2,
+      "text": "What were the devs thinking? Am I out of money? Am I?"
+    },
+    {
+      "start": 19.2,
+      "end": 23.4,
+      "text": "Aw shit, am I?"
+    },
+    {
+      "start": 24.4,
+      "end": 25.4,
+      "text": "Oh no."
+    }
+  ]
+}

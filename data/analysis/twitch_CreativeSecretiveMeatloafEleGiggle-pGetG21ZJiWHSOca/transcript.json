@@ -1,0 +1,30 @@
+{
+  "language": "es",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Mira eso, no vi bien"
+    },
+    {
+      "start": 3.7,
+      "end": 7.5,
+      "text": "Ah no, se ve mucho, a ver, me encanta esta misión, dale boludo, ¿qué dicen?"
+    },
+    {
+      "start": 7.5,
+      "end": 9.5,
+      "text": "Fallieron las penas 13 años de espera"
+    },
+    {
+      "start": 9.5,
+      "end": 11.5,
+      "text": "No, dale, dale"
+    },
+    {
+      "start": 13.0,
+      "end": 15.0,
+      "text": "Qué buena toma, no, no, pero..."
+    }
+  ]
+}

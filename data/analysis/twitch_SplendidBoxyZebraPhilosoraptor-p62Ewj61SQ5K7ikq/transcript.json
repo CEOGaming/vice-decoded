@@ -1,0 +1,30 @@
+{
+  "language": "fr",
+  "segments": [
+    {
+      "start": 0.5,
+      "end": 2.5,
+      "text": "Ok. What the fuck ?"
+    },
+    {
+      "start": 3.0,
+      "end": 5.0,
+      "text": "Attendez, c'est une folie, c'est normal ?"
+    },
+    {
+      "start": 5.5,
+      "end": 9.0,
+      "text": "Ah, je sais pas, j'allais pas le choix. J'ai été mauvais dès le début, c'est pas possible."
+    },
+    {
+      "start": 9.5,
+      "end": 17.0,
+      "text": "Ça a l'air normal, ça a l'air normal."
+    },
+    {
+      "start": 17.5,
+      "end": 21.0,
+      "text": "Normal, t'inquiète. Ok, j'allais dire, attendre des débuts du display, je fais déjà de la merde."
+    }
+  ]
+}
