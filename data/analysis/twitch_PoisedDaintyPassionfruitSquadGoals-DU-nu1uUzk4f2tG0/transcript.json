@@ -1,0 +1,30 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 1.7,
+      "end": 6.5,
+      "text": "Fuck. I don't think I'm gonna die right now."
+    },
+    {
+      "start": 6.5,
+      "end": 10.5,
+      "text": "Ay, wee! No, I'm going up! No, wee! I'm going up for an accident, wee!"
+    },
+    {
+      "start": 10.5,
+      "end": 12.5,
+      "text": "I'm going up for an accident, wee!"
+    },
+    {
+      "start": 12.5,
+      "end": 16.5,
+      "text": "Ah, wee! I'm going up! I'm going up for an accident, cabrón!"
+    },
+    {
+      "start": 16.5,
+      "end": 18.5,
+      "text": "Who is this cabrón?!"
+    }
+  ]
+}

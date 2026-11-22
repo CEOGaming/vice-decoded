@@ -1,0 +1,35 @@
+{
+  "language": "fr",
+  "segments": [
+    {
+      "start": 0.1,
+      "end": 4.9,
+      "text": "Je ne veux pas l'abîmer, je veux absolument m'apprimer, il ne faut pas que je fasse le cron là."
+    },
+    {
+      "start": 6.9,
+      "end": 9.7,
+      "text": "Oh là, doucement, doucement, doucement, doucement, doucement."
+    },
+    {
+      "start": 9.7,
+      "end": 18.2,
+      "text": "Si je ne la ramène pas neuve les mecs, je vous offre 50 sobres, ça va ou pas ?"
+    },
+    {
+      "start": 18.2,
+      "end": 25.8,
+      "text": "Alors là, c'est abusé par ici."
+    },
+    {
+      "start": 25.8,
+      "end": 31.8,
+      "text": "La 1° degrés, c'est abusé, vous avez vu, je ne les offre pas, je les offre pas."
+    },
+    {
+      "start": 31.8,
+      "end": 38.3,
+      "text": "La 1° degrés, c'est abusé, j'étais à 3 km heure les mecs, j'étais à 3 km heure."
+    }
+  ]
+}

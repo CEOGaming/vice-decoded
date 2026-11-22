@@ -1,0 +1,20 @@
+{
+  "language": "es",
+  "segments": [
+    {
+      "start": 1.1,
+      "end": 3.1,
+      "text": "¡Bye, losers!"
+    },
+    {
+      "start": 4.1,
+      "end": 5.1,
+      "text": "Bueno, ¿sabes?"
+    },
+    {
+      "start": 5.1,
+      "end": 7.1,
+      "text": "¡Come pinta!"
+    }
+  ]
+}

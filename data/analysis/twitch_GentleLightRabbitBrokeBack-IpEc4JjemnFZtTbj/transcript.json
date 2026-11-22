@@ -1,0 +1,35 @@
+{
+  "language": "de",
+  "segments": [
+    {
+      "start": 0.2,
+      "end": 2.7,
+      "text": "Ich finde ihr seid, ich bring den doch jetzt nicht um."
+    },
+    {
+      "start": 2.7,
+      "end": 6.1,
+      "text": "Ich finde ihr müsst mal überdenken, wir sind doch jetzt nicht irgendein ruffles Killer."
+    },
+    {
+      "start": 6.1,
+      "end": 7.1,
+      "text": "Ruffles?"
+    },
+    {
+      "start": 7.1,
+      "end": 10.1,
+      "text": "Ruffles schon mal gar nicht, aber das kann ich nicht machen."
+    },
+    {
+      "start": 10.1,
+      "end": 11.7,
+      "text": "Ich bin niemand der einfach so Leute erschießt."
+    },
+    {
+      "start": 13.7,
+      "end": 14.7,
+      "text": "Hey, der war ein..."
+    }
+  ]
+}
