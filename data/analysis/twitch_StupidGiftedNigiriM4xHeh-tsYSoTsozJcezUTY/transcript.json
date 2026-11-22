@@ -1,0 +1,25 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 1.6,
+      "end": 3.6,
+      "text": "Yo, yeah, go you my god"
+    },
+    {
+      "start": 5.2,
+      "end": 16.9,
+      "text": "Come on. Yeah, go listen Jason. I gotta tell you something hold on fucking listen to me. Fuck"
+    },
+    {
+      "start": 17.9,
+      "end": 25.8,
+      "text": "I'm a cop. Yeah, we're supposed to bust you and everyone in there"
+    },
+    {
+      "start": 27.0,
+      "end": 29.0,
+      "text": "What?"
+    }
+  ]
+}

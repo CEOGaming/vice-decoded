@@ -1,0 +1,35 @@
+{
+  "language": "fr",
+  "segments": [
+    {
+      "start": 0.8,
+      "end": 2.8,
+      "text": "Vous aimez-moi ton arme ?"
+    },
+    {
+      "start": 4.3,
+      "end": 4.8,
+      "text": "Bordel !"
+    },
+    {
+      "start": 5.8,
+      "end": 6.8,
+      "text": "Dans les couilles !"
+    },
+    {
+      "start": 6.8,
+      "end": 15.4,
+      "text": "Allez, casse-toi, l'avioque !"
+    },
+    {
+      "start": 15.4,
+      "end": 16.4,
+      "text": "Dis-toi aussi !"
+    },
+    {
+      "start": 16.4,
+      "end": 40.0,
+      "text": "Bah il est résistant, lui ta, il branque le drogue !"
+    }
+  ]
+}

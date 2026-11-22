@@ -1,0 +1,60 @@
+{
+  "language": "es",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "¡Saciale!"
+    },
+    {
+      "start": 2.0,
+      "end": 3.0,
+      "text": "¡A ver que llevo!"
+    },
+    {
+      "start": 3.0,
+      "end": 5.0,
+      "text": "¡Saciale ellos!"
+    },
+    {
+      "start": 5.0,
+      "end": 7.0,
+      "text": "Espera, espera, espera, que se me ha caído el cuchillo"
+    },
+    {
+      "start": 9.0,
+      "end": 11.0,
+      "text": "¿Dónde está tú?"
+    },
+    {
+      "start": 11.0,
+      "end": 14.0,
+      "text": "¡Una polla que me acabo de cargar la iguana, que le he clavado el cuchillo!"
+    },
+    {
+      "start": 17.1,
+      "end": 19.1,
+      "text": "¡Me acabo de cargar una iguana sin querer, tú!"
+    },
+    {
+      "start": 22.0,
+      "end": 23.0,
+      "text": "¡Sackear!"
+    },
+    {
+      "start": 23.0,
+      "end": 24.0,
+      "text": "¿Pero y cómo?"
+    },
+    {
+      "start": 24.0,
+      "end": 25.0,
+      "text": "¿Cómo hago para...?"
+    },
+    {
+      "start": 25.0,
+      "end": 27.0,
+      "text": "¡Y la caza!"
+    }
+  ]
+}
