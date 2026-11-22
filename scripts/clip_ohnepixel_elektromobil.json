@@ -11,7 +11,7 @@
   "crop": [
     0.29,
     0,
-    0.71,
+    0.58,
     1
   ],
   "hook": "Die langsamste Verfolgungsjagd in GTA 6",
@@ -27,6 +27,12 @@
   "tiktok": "Die langsamste Verfolgungsjagd in GTA 6 🛵 #gta6 #gtavi #ohnepixel #lustig #fyp",
   "instagram": "Die langsamste Verfolgungsjagd in GTA 6 🛵😂\n\n#gta6 #gtavi #ohnepixel #gaming #reels",
   "beats": [
+    {
+      "text": "Die langsamste Verfolgungsjagd in GTA 6.",
+      "start": 0,
+      "end": 3,
+      "focus": 0.5
+    },
     {
       "original": true,
       "start": 0,
@@ -86,10 +92,11 @@
       ]
     },
     {
-      "text": "Folge für mehr GTA 6 Momente.",
-      "start": 20,
+      "text": "Das Ganze spielt in einer ruhigen Wohnsiedlung in Leonida, direkt am Hafen. Hattest du auch schon mal eine Verfolgungsjagd auf einem Elektromobil? Schreib es in die Kommentare.",
+      "start": 12,
       "end": 24,
-      "focus": 0.5
+      "focus": 0.5,
+      "sfx": "ding"
     }
   ],
   "hook_full": true
