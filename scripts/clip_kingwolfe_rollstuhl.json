@@ -1,0 +1,78 @@
+{
+  "id": "clip_kingwolfe_rollstuhl",
+  "source": "https://www.twitch.tv/king_wolfe_/clip/TransparentClearPoultryShazBotstix-YTaZsWoQ98x2FBqb",
+  "layout": "fill",
+  "hook": "Diese Oma raubt ALLE aus 💀",
+  "hook_full": true,
+  "title": "In GTA 6 raubt dich eine Oma im Elektromobil aus #shorts",
+  "description": "Erst den Typen am Imbiss, dann dich. Die gefährlichste Frau in Leonida fährt Elektromobil. Original-Clip: king_wolfe_ – https://www.twitch.tv/king_wolfe_/clip/TransparentClearPoultryShazBotstix-YTaZsWoQ98x2FBqb\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #funny #oma",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "funny",
+    "oma",
+    "elektromobil"
+  ],
+  "tiktok": "Die Oma nimmt dein Geld 💀🛵 #gta6 #gtavi #lustig #fyp",
+  "instagram": "Die gefährlichste Frau in GTA 6 💀🛵\n\n#gta6 #gtavi #gaming #reels",
+  "mask": [
+    [
+      0,
+      0,
+      0.16,
+      0.06
+    ],
+    [
+      0.12,
+      0.8,
+      0.76,
+      0.19
+    ]
+  ],
+  "beats": [
+    {
+      "original": true,
+      "start": 0,
+      "end": 29.9,
+      "focus": 0.5,
+      "subs": [
+        [
+          0,
+          3,
+          "Kleingeld! Ich sagte, gib mir dein verdammtes Geld!"
+        ],
+        [
+          4.5,
+          9.5,
+          "Schon gut, schon gut! Du brauchst die Waffe nicht…"
+        ],
+        [
+          11,
+          14,
+          "Jetzt du. Gib Geld."
+        ],
+        [
+          16,
+          18.5,
+          "Leck mich, Lady."
+        ],
+        [
+          19.5,
+          23,
+          "Pff. Egal. Verdammte Touristen…"
+        ],
+        [
+          23,
+          25.5,
+          "Meine Güte, diese verdammte Stadt…"
+        ],
+        [
+          26,
+          29.9,
+          "Alles okay? Das war irre…"
+        ]
+      ]
+    }
+  ]
+}

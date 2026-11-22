@@ -1,0 +1,158 @@
+{
+  "id": "knowhow_fliegen",
+  "source": "https://www.twitch.tv/2xrakai/clip/ClearDifferentGarlicNomNom-Fs_0YNyTuWAtVMSk",
+  "layout": "fill",
+  "masks": {
+    "https://www.twitch.tv/2xrakai/clip/ClearDifferentGarlicNomNom-Fs_0YNyTuWAtVMSk": [
+      [
+        0,
+        0.31,
+        0.24,
+        0.3
+      ],
+      [
+        0.8,
+        0,
+        0.2,
+        0.5
+      ]
+    ],
+    "https://www.twitch.tv/ishowspeed/clip/SuspiciousSmokyKumquatEagleEye-OfXyB412evujnSrr": [
+      [
+        0,
+        0.38,
+        0.22,
+        0.3
+      ],
+      [
+        0.84,
+        0,
+        0.16,
+        0.45
+      ],
+      [
+        0.28,
+        0.88,
+        0.44,
+        0.1
+      ]
+    ],
+    "https://www.twitch.tv/montanablack88/clip/HungryLovelyNewtStrawBeary-IBuQIrsWJA4QdtrK": [
+      [
+        0.62,
+        0.63,
+        0.26,
+        0.37
+      ]
+    ],
+    "https://www.twitch.tv/sypherpk/clip/MoldySpunkyTortoisePMSTwin-hMwiaq_p2lxWGRok": [
+      [
+        0,
+        0,
+        0.26,
+        0.7
+      ],
+      [
+        0.28,
+        0.88,
+        0.44,
+        0.1
+      ]
+    ]
+  },
+  "hook": "So fliegst du in GTA 6 ✈️",
+  "title": "GTA 6: So fliegst du (ohne abzustürzen) #shorts",
+  "description": "Erstes Flugzeug, Abheben, Seitenruder, Polizei und Abfangjäger: Fliegen in GTA 6 in unter einer Minute.\n\nGameplay: 2xRaKai – https://www.twitch.tv/2xrakai/clip/ClearDifferentGarlicNomNom-Fs_0YNyTuWAtVMSk · IShowSpeed – https://www.twitch.tv/ishowspeed/clip/SuspiciousSmokyKumquatEagleEye-OfXyB412evujnSrr · MontanaBlack88 – https://www.twitch.tv/montanablack88/clip/HungryLovelyNewtStrawBeary-IBuQIrsWJA4QdtrK · SypherPK – https://www.twitch.tv/sypherpk/clip/MoldySpunkyTortoisePMSTwin-hMwiaq_p2lxWGRok\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6tipps #gta6deutsch #fliegen",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6tipps",
+    "gta6deutsch",
+    "fliegen",
+    "flugzeug"
+  ],
+  "tiktok": "So fliegst du in GTA 6 ✈️ #gta6 #gtavi #gta6tipps #fyp",
+  "instagram": "Fliegen in GTA 6 in unter einer Minute ✈️\n\n#gta6 #gtavi #gaming #reels",
+  "beats": [
+    {
+      "text": "Dein erstes Flugzeug: das Wasserflugzeug am Ende der Mission Gone Fishing.",
+      "start": 0,
+      "end": 5,
+      "focus": 0.5,
+      "source": "https://www.twitch.tv/2xrakai/clip/ClearDifferentGarlicNomNom-Fs_0YNyTuWAtVMSk"
+    },
+    {
+      "original": true,
+      "game_only": true,
+      "start": 5,
+      "end": 11,
+      "focus": 0.5,
+      "source": "https://www.twitch.tv/2xrakai/clip/ClearDifferentGarlicNomNom-Fs_0YNyTuWAtVMSk",
+      "sfx": null
+    },
+    {
+      "text": "Erst Gas geben, dann zurückziehen. Das Spiel zeigt dir die Tasten.",
+      "start": 0,
+      "end": 5,
+      "focus": 0.5,
+      "source": "https://www.twitch.tv/ishowspeed/clip/SuspiciousSmokyKumquatEagleEye-OfXyB412evujnSrr"
+    },
+    {
+      "original": true,
+      "game_only": true,
+      "start": 5,
+      "end": 9,
+      "focus": 0.5,
+      "source": "https://www.twitch.tv/ishowspeed/clip/SuspiciousSmokyKumquatEagleEye-OfXyB412evujnSrr",
+      "sfx": null
+    },
+    {
+      "text": "Mit den Seitenruder-Tasten drehst du, ohne dich in die Kurve zu legen.",
+      "start": 9,
+      "end": 15,
+      "focus": 0.5,
+      "source": "https://www.twitch.tv/ishowspeed/clip/SuspiciousSmokyKumquatEagleEye-OfXyB412evujnSrr"
+    },
+    {
+      "original": true,
+      "game_only": true,
+      "start": 15,
+      "end": 20,
+      "focus": 0.5,
+      "source": "https://www.twitch.tv/ishowspeed/clip/SuspiciousSmokyKumquatEagleEye-OfXyB412evujnSrr",
+      "sfx": null
+    },
+    {
+      "text": "Flieg tief, dann sieht dich die Polizei weniger. Und Jets vom Flughafen bringen Abfangjäger.",
+      "start": 0,
+      "end": 8,
+      "focus": 0.5,
+      "source": "https://www.twitch.tv/montanablack88/clip/HungryLovelyNewtStrawBeary-IBuQIrsWJA4QdtrK"
+    },
+    {
+      "original": true,
+      "game_only": true,
+      "start": 27,
+      "end": 36,
+      "focus": 0.5,
+      "source": "https://www.twitch.tv/montanablack88/clip/HungryLovelyNewtStrawBeary-IBuQIrsWJA4QdtrK",
+      "sfx": null
+    },
+    {
+      "text": "Und wer zu tief fliegt …",
+      "start": 10,
+      "end": 14,
+      "focus": 0.5,
+      "source": "https://www.twitch.tv/sypherpk/clip/MoldySpunkyTortoisePMSTwin-hMwiaq_p2lxWGRok"
+    },
+    {
+      "original": true,
+      "game_only": true,
+      "start": 14,
+      "end": 25.5,
+      "focus": 0.5,
+      "source": "https://www.twitch.tv/sypherpk/clip/MoldySpunkyTortoisePMSTwin-hMwiaq_p2lxWGRok",
+      "sfx": null
+    }
+  ]
+}
