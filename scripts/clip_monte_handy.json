@@ -49,12 +49,6 @@
           "Hat er nix gehabt?"
         ]
       ]
-    },
-    {
-      "text": "Hättest du sie auch rausgeholt?",
-      "start": 20,
-      "end": 28,
-      "focus": 0.5
     }
   ],
   "hook_full": true
