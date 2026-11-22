@@ -471,7 +471,7 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 """
     lines = []
     # Emojis (außerhalb der Grundebene) hat die Schrift nicht -> würden als Kästchen erscheinen
-    hook = re.sub(r"\s{2,}", " ", re.sub(r"[\U00010000-\U0010FFFF\uFE0F\u200D]", "", hook or "")).strip()
+    hook = re.sub(r"\s{2,}", " ", re.sub(r"[\U00010000-\U0010FFFF\uFE0F\u200D]", "", hook or "")).strip().replace("ß", "SS")  # Schrift hat kein ß
     if hook:
         lines.append(f"Dialogue: 1,{ts(0)},{ts(min(hook_until, total))},Hook,,0,0,0,,{hook}")
     if brand:
