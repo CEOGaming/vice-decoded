@@ -1,0 +1,25 @@
+{
+  "language": "es",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "¡Soy buenísimo, Juan, al GT!"
+    },
+    {
+      "start": 7.0,
+      "end": 9.0,
+      "text": "¡Ay, ay, ay! ¡Era animalito!"
+    },
+    {
+      "start": 12.0,
+      "end": 15.0,
+      "text": "¡Ay, he matado un pájaro! No sé qué era."
+    },
+    {
+      "start": 15.0,
+      "end": 17.0,
+      "text": "Lo siento, pelicanjer."
+    }
+  ]
+}
