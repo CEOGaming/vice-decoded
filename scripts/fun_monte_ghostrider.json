@@ -1,0 +1,62 @@
+{
+  "id": "fun_monte_ghostrider",
+  "source": "https://www.twitch.tv/montanablack88/clip/ZanySwissBadgerWOOP-9Ce8GgUVOQs2RKQq",
+  "layout": "split",
+  "facecam": [
+    0.62,
+    0.63,
+    0.26,
+    0.37
+  ],
+  "crop": [
+    0,
+    0,
+    0.62,
+    1
+  ],
+  "hook": "Monte als Ghost Rider",
+  "title": "MontanaBlack fühlt sich wie Ghost Rider in GTA 6 #shorts",
+  "description": "Motorrad, Vollgas, und dann das. Original-Clip: MontanaBlack88 – https://www.twitch.tv/montanablack88/clip/ZanySwissBadgerWOOP-9Ce8GgUVOQs2RKQq\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #montanablack #funny #motorrad",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "montanablack",
+    "funny",
+    "motorrad"
+  ],
+  "tiktok": "Monte als Ghost Rider 🏍️ #gta6 #gtavi #montanablack #lustig #fyp",
+  "instagram": "Monte als Ghost Rider 🏍️😂\n\n#gta6 #gtavi #montanablack #gaming #reels",
+  "beats": [
+    {
+      "text": "Monte schnappt sich in GTA 6 ein Motorrad.",
+      "start": 0,
+      "end": 8,
+      "focus": 0.5
+    },
+    {
+      "text": "Und kaum sitzt er drauf, fühlt er sich wie ein Superheld.",
+      "start": 18,
+      "end": 25,
+      "focus": 0.5
+    },
+    {
+      "original": true,
+      "start": 22,
+      "end": 32,
+      "focus": 0.5,
+      "sfx": "pop"
+    },
+    {
+      "text": "Ghost Rider, mit Vollgas über die Landstraße. Was soll da schon passieren?",
+      "start": 29,
+      "end": 40,
+      "focus": 0.5
+    },
+    {
+      "text": "Naja. Ghost Rider ist dann wohl außer Gefecht. Folge für mehr GTA 6 Momente.",
+      "start": 40,
+      "end": 50,
+      "focus": 0.5
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": "fun_monte_npc_party",
+  "source": "https://www.twitch.tv/montanablack88/clip/FancyBraveDaikonStoneLightning-rJfH2qE6iuKQTJt1",
+  "layout": "split",
+  "facecam": [
+    0.62,
+    0.63,
+    0.26,
+    0.37
+  ],
+  "crop": [
+    0,
+    0,
+    0.62,
+    1
+  ],
+  "hook": "Dieser NPC feiert allein",
+  "title": "MontanaBlack findet einen NPC, der allein Party macht #shorts",
+  "description": "Ein NPC feiert mitten in der Nacht seine eigene Party und filmt sich dabei. Original-Clips: MontanaBlack88 – https://www.twitch.tv/montanablack88/clip/FancyBraveDaikonStoneLightning-rJfH2qE6iuKQTJt1 und https://www.twitch.tv/montanablack88/clip/BumblingAlluringBaconKeepo-hLWTDZL464R2hhTl\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #montanablack #npc #funny",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "montanablack",
+    "npc",
+    "funny"
+  ],
+  "tiktok": "Dieser NPC feiert allein 🎉 #gta6 #gtavi #montanablack #npc #fyp",
+  "instagram": "Dieser NPC feiert allein 🎉😂\n\n#gta6 #gtavi #montanablack #gaming #reels",
+  "beats": [
+    {
+      "text": "Monte findet mitten in der Nacht einen NPC, der ganz allein Party macht.",
+      "start": 0,
+      "end": 10,
+      "focus": 0.5
+    },
+    {
+      "original": true,
+      "start": 0,
+      "end": 6,
+      "focus": 0.5,
+      "sfx": "pop"
+    },
+    {
+      "text": "Und der feiert nicht nur, der filmt sich dabei auch noch. Wie ein echter Influencer.",
+      "start": 20,
+      "end": 34,
+      "focus": 0.5
+    },
+    {
+      "text": "Monte schaut durchs Zielfernrohr zu.",
+      "start": 6,
+      "end": 14,
+      "focus": 0.5
+    },
+    {
+      "text": "Dann fällt dem NPC auch noch die Kamera runter.",
+      "start": 12,
+      "end": 24,
+      "focus": 0.5,
+      "source": "https://www.twitch.tv/montanablack88/clip/BumblingAlluringBaconKeepo-hLWTDZL464R2hhTl"
+    },
+    {
+      "original": true,
+      "start": 14,
+      "end": 22,
+      "focus": 0.5,
+      "sfx": "pop",
+      "source": "https://www.twitch.tv/montanablack88/clip/BumblingAlluringBaconKeepo-hLWTDZL464R2hhTl"
+    },
+    {
+      "text": "Die Details in GTA 6 sind einfach verrückt. Folge für mehr GTA 6 Momente.",
+      "start": 22,
+      "end": 28.8,
+      "focus": 0.5,
+      "source": "https://www.twitch.tv/montanablack88/clip/BumblingAlluringBaconKeepo-hLWTDZL464R2hhTl"
+    }
+  ]
+}
