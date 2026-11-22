@@ -238,7 +238,7 @@ def tts(text: str, mp3: Path) -> list[tuple[float, float, str]]:
 FPS = 30
 
 
-def layout_filter(stretch: float, crop: list | None = None, mode: str = "fill", focus: float = 0.5,
+def _layout_filter(stretch: float, crop: list | None = None, mode: str = "fill", focus: float = 0.5,
                   inset: dict | None = None, facecam: list | None = None) -> str:
     """Bildaufbau im Hochformat.
 
@@ -259,8 +259,14 @@ def layout_filter(stretch: float, crop: list | None = None, mode: str = "fill", 
         f = min(max(float(focus), 0.0), 1.0)
         top = (f"[a]crop=iw*{fw}:ih*{fh_}:iw*{fx}:ih*{fy},scale={W}:{th}:force_original_aspect_ratio=increase,"
                f"crop={W}:{th}[top];")
-        bottom = (f"[b]{c}scale=-2:{bh},crop='min({W},iw)':{bh}:'(iw-min({W},iw))*{f}':0,"
-                  f"pad={W}:{bh}:(ow-iw)/2:0[bot];")
+        if P.get("split_fit", True):
+            # ganzes Spielbild in voller Breite, darüber/darunter unscharfer Hintergrund
+            bottom = (f"[b]{c}split=2[b1][b2];[b1]scale={W}:{bh}:force_original_aspect_ratio=increase,"
+                      f"crop={W}:{bh},boxblur=25:5,eq=brightness=-0.2[bb];[b2]scale={W}:-2:flags=lanczos[bf];"
+                      f"[bb][bf]overlay=0:(H-h)/2[bot];")
+        else:
+            bottom = (f"[b]{c}scale=-2:{bh},crop='min({W},iw)':{bh}:'(iw-min({W},iw))*{f}':0,"
+                      f"pad={W}:{bh}:(ow-iw)/2:0[bot];")
         # crop gilt im Splitscreen nur fürs Gameplay unten (z. B. Kanal-Logo weg), die Webcam kommt aus dem Vollbild
         base = (f"[0:v]setpts={stretch}*(PTS-STARTPTS),fps={FPS},split=2[a][b];" + top + bottom +
                 f"[top][bot]vstack=2,setsar=1")
@@ -311,8 +317,31 @@ def layout_filter(stretch: float, crop: list | None = None, mode: str = "fill", 
     )
 
 
+def layout_filter(stretch: float, crop: list | None = None, mode: str = "fill", focus: float = 0.5,
+                  inset: dict | None = None, facecam: list | None = None, masks: list | None = None) -> str:
+    """Wie _layout_filter, aber vorher Bereiche (Webcam, Logos, eingebrannte Untertitel) unscharf
+    überdecken statt wegschneiden -> das ganze Spielbild bleibt sichtbar. masks = [[x, y, w, h], ...]"""
+    g = _layout_filter(stretch, crop, mode, focus, inset, facecam)
+    if not masks:
+        return g
+    def chain(inp: str) -> tuple[str, str]:
+        pre, cur = [], inp
+        for k, (x, y, w, h) in enumerate(masks):
+            pre.append(f"[{cur}]split=2[mk{k}a][mk{k}b];[mk{k}b]crop=iw*{w}:ih*{h}:iw*{x}:ih*{y},"
+                       f"boxblur=22:4,eq=brightness=-0.25[mk{k}r];[mk{k}a][mk{k}r]overlay=main_w*{x}:main_h*{y}[mk{k}]")
+            cur = f"mk{k}"
+        return ";".join(pre), cur
+    if mode == "split" and facecam:
+        # Webcam oben bleibt scharf, nur das Gameplay unten wird maskiert
+        pre, cur = chain("b")
+        return g.replace("[top];[b]", f"[top];{pre};[{cur}]", 1)
+    pre, cur = chain("0:v")
+    return pre + ";" + g.replace("[0:v]", f"[{cur}]", 1)
+
+
 def render_beat(src: Path, beat: dict, idx: int, work: Path, crop=None, voice=None,
-                game: Path | None = None, mode: str = "fill", facecam: list | None = None) -> tuple[Path, float, list]:
+                game: Path | None = None, mode: str = "fill", facecam: list | None = None,
+                masks: list | None = None) -> tuple[Path, float, list]:
     mode = beat.get("layout", mode)
     focus = beat.get("focus", 0.5)
     inset = dict(beat["inset"]) if beat.get("inset") else None
@@ -342,7 +371,7 @@ def render_beat(src: Path, beat: dict, idx: int, work: Path, crop=None, voice=No
         if inset:
             inset["input"] = 2 if gin else 1
         run(["ffmpeg", "-y", "-ss", str(start), "-t", str(clip_len), "-i", str(src), *gin, *inset_args,
-             "-filter_complex", layout_filter(1.0, crop, mode, focus, inset, facecam) + ";" + audio,
+             "-filter_complex", layout_filter(1.0, crop, mode, focus, inset, facecam, masks) + ";" + audio,
              "-map", "[v]", "-map", "[aout]", "-t", str(dur),
              "-c:v", "libx264", "-preset", "veryfast", "-crf", "16", "-c:a", "aac", "-ar", "44100", "-ac", "2",
              str(out)])
@@ -375,7 +404,7 @@ def render_beat(src: Path, beat: dict, idx: int, work: Path, crop=None, voice=No
         inset["input"] = 3 if extra else 2
     run(["ffmpeg", "-y", "-stream_loop", str(loops), "-ss", str(start), "-t", str(clip_len), "-i", str(src),
          "-i", str(mp3), *extra, *inset_args,
-         "-filter_complex", layout_filter(stretch, crop, mode, focus, inset, facecam) + ";" + audio,
+         "-filter_complex", layout_filter(stretch, crop, mode, focus, inset, facecam, masks) + ";" + audio,
          "-map", "[v]", "-map", "[aout]", "-t", str(dur),
          "-c:v", "libx264", "-preset", "veryfast", "-crf", "16", "-c:a", "aac", "-ar", "44100", "-ac", "2",
          str(out)])
@@ -507,7 +536,8 @@ def produce(script_path: Path) -> Path:
         v = next(voice_iter, None) if (voices and not beat.get("original")) else None
         path, dur, words = render_beat(sources[key], beat, i, work, crop, v, games.get(key),
                                        script.get("layout", P.get("layout", "fill")),
-                                       beat.get("facecam") or script.get("facecams", {}).get(key) or script.get("facecam"))
+                                       beat.get("facecam") or script.get("facecams", {}).get(key) or script.get("facecam"),
+                                       beat.get("mask") or script.get("masks", {}).get(key) or script.get("mask"))
         beat_starts.append((t, beat.get("sfx", "whoosh" if i > 0 else None)))
         parts.append(path)
         captions += [(t + s, t + e, w, i) for s, e, w in words]

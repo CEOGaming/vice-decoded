@@ -2,20 +2,6 @@
   "id": "knowhow_autos_verkaufen_v2",
   "source": "https://www.twitch.tv/montanablack88/clip/ZanySwissBadgerWOOP-9Ce8GgUVOQs2RKQq",
   "layout": "fill",
-  "crops": {
-    "https://www.twitch.tv/montanablack88/clip/ZanySwissBadgerWOOP-9Ce8GgUVOQs2RKQq": [
-      0,
-      0,
-      0.62,
-      0.88
-    ],
-    "https://www.twitch.tv/montanablack88/clip/RelentlessBillowingEggplantThisIsSparta-QVNyBTX6c0RWWawy": [
-      0,
-      0,
-      0.62,
-      0.88
-    ]
-  },
   "hook": "Geld mit geklauten Autos",
   "title": "GTA 6: So verkaufst du geklaute Autos an Moses #shorts",
   "description": "So machst du in GTA 6 Geld mit geklauten Autos: Hinweis beachten, zu Moses Watkins bringen, verkaufen. Achtung, Moses hat ein Tagesbudget.\n\nGameplay-Ausschnitte: MontanaBlack88 – https://www.twitch.tv/montanablack88/clip/ZanySwissBadgerWOOP-9Ce8GgUVOQs2RKQq\nMontanaBlack88 – https://www.twitch.tv/montanablack88/clip/RelentlessBillowingEggplantThisIsSparta-QVNyBTX6c0RWWawy\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6tipps #geld #gta6deutsch",
@@ -102,5 +88,13 @@
       "focus": 0.0,
       "source": "https://www.twitch.tv/montanablack88/clip/RelentlessBillowingEggplantThisIsSparta-QVNyBTX6c0RWWawy"
     }
+  ],
+  "mask": [
+    [
+      0.62,
+      0.6,
+      0.27,
+      0.4
+    ]
   ]
 }

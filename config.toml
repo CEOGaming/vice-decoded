@@ -92,9 +92,10 @@ caption_size = 100
 caption_margin = 560        # Abstand Untertitel vom unteren Rand (Mitte ~69 % der Höhe)
 hook_size = 110
 layout = "fill"            # "full" = Vollbild 9:16 (Standard), "fill" = Bild füllt den Screen, "fit" = alter Streifen, "split" = oben Webcam/unten Gameplay
-fill_zoom = 1.38          # fill-Layout: Spielbild auf 138 % der Breite -> ~72 % der Bildbreite sichtbar
+fill_zoom = 1.0           # fill-Layout: ganzes Spielbild in voller Breite sichtbar (Inhaber 22.11.: "rauszoomen, ganzes Game")
 fill_height = 0.44         # Anteil der Bildhöhe fürs Gameplay im fill-Layout (vorher 0.70)
 split_top = 0.40           # Anteil der Höhe für die Webcam im split-Layout
+split_fit = true           # split: Gameplay unten in voller Breite (ganzes Bild), Rest unscharf
 brand = ""
 sfx = true
 sfx_volume = 0.5

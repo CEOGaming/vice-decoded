@@ -8,12 +8,6 @@
     0.19,
     0.27
   ],
-  "crop": [
-    0.19,
-    0,
-    0.81,
-    1
-  ],
   "hook": "xQc wird von einer Kuh gestoppt",
   "title": "xQc wird mitten in der Flucht von einer Kuh gestoppt #shorts",
   "description": "Quad, Flucht, Kühe auf der Straße. Was soll da schon schiefgehen? Original-Clip: xQc – https://www.twitch.tv/xqc/clip/DelightfulLachrymoseMelonVoteYea-JeFCNhZHEyTfoOMJ\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #xqc #funny #kuh",
@@ -42,5 +36,13 @@
       "subs": []
     }
   ],
-  "hook_full": true
+  "hook_full": true,
+  "mask": [
+    [
+      0,
+      0.5,
+      0.19,
+      0.27
+    ]
+  ]
 }
