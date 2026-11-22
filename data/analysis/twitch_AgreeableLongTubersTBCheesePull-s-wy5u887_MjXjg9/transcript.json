@@ -1,0 +1,40 @@
+{
+  "language": "es",
+  "segments": [
+    {
+      "start": 0.2,
+      "end": 1.9,
+      "text": "¡Ah! ¡Dios mío!"
+    },
+    {
+      "start": 1.9,
+      "end": 3.4,
+      "text": "No estaba intentando ardear a ti."
+    },
+    {
+      "start": 5.2,
+      "end": 6.5,
+      "text": "¡Dios mío!"
+    },
+    {
+      "start": 6.5,
+      "end": 8.0,
+      "text": "¡Moderno del amor, el mocho!"
+    },
+    {
+      "start": 8.0,
+      "end": 9.0,
+      "text": "¡Moderno del amor, el mocho!"
+    },
+    {
+      "start": 9.0,
+      "end": 11.3,
+      "text": "¡Autopista! ¡Autopista! ¡Moderno de Dios!"
+    },
+    {
+      "start": 11.3,
+      "end": 12.8,
+      "text": "¡Moderno del amor, el mocho!"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "language": "pt",
+  "segments": [
+    {
+      "start": 1.1,
+      "end": 3.8,
+      "text": "Ok, Jason, é safe, ragazzi."
+    },
+    {
+      "start": 4.3,
+      "end": 5.9,
+      "text": "Jason, é safe, let's go!"
+    }
+  ]
+}
