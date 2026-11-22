@@ -1,0 +1,141 @@
+{
+  "id": "knowhow_fahren",
+  "source": "https://www.twitch.tv/schradin/clip/QuaintSleepyRadicchioSoonerLater-w7ssoaCRKHIZyVmZ",
+  "layout": "fill",
+  "masks": {
+    "https://www.twitch.tv/lvndmark/clip/TenderFurtiveBaconArsonNoSexy-wHYBaSMTEub2s7No": [
+      [
+        0,
+        0.44,
+        0.22,
+        0.38
+      ],
+      [
+        0.15,
+        0.86,
+        0.7,
+        0.13
+      ]
+    ],
+    "https://www.twitch.tv/schradin/clip/QuaintSleepyRadicchioSoonerLater-w7ssoaCRKHIZyVmZ": [
+      [
+        0.73,
+        0.12,
+        0.27,
+        0.56
+      ],
+      [
+        0.25,
+        0.87,
+        0.5,
+        0.12
+      ]
+    ],
+    "https://www.twitch.tv/bilzo/clip/TemperedTriangularPonyStrawBeary-QygpcE-iXFhf7Dsy": [
+      [
+        0,
+        0,
+        0.42,
+        0.68
+      ],
+      [
+        0.1,
+        0.86,
+        0.6,
+        0.13
+      ]
+    ],
+    "https://www.twitch.tv/squeex/clip/ApatheticZealousNarwhalGivePLZ-GRLYnD-EvYUUZmuH": [
+      [
+        0,
+        0.12,
+        0.24,
+        0.62
+      ]
+    ]
+  },
+  "hook": "So fährst du in GTA 6 besser",
+  "title": "GTA 6: 4 Tipps fürs Autofahren, die keiner kennt #shorts",
+  "description": "Schwammige Steuerung, Navi, Wasser, Autopilot mit der Kinokamera: Autofahren in GTA 6 in unter einer Minute.\n\nGameplay: LVNDMARK – https://www.twitch.tv/lvndmark/clip/TenderFurtiveBaconArsonNoSexy-wHYBaSMTEub2s7No · SCHRADIN – https://www.twitch.tv/schradin/clip/QuaintSleepyRadicchioSoonerLater-w7ssoaCRKHIZyVmZ · Bilzo – https://www.twitch.tv/bilzo/clip/TemperedTriangularPonyStrawBeary-QygpcE-iXFhf7Dsy · Squeex – https://www.twitch.tv/squeex/clip/ApatheticZealousNarwhalGivePLZ-GRLYnD-EvYUUZmuH\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6tipps #gta6deutsch #autofahren",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6tipps",
+    "gta6deutsch",
+    "autofahren",
+    "fahren"
+  ],
+  "tiktok": "4 Fahr-Tipps für GTA 6 🚗 #gta6 #gtavi #gta6tipps #fyp",
+  "instagram": "So fährst du in GTA 6 besser 🚗\n\n#gta6 #gtavi #gaming #reels",
+  "beats": [
+    {
+      "text": "Die Steuerung fühlt sich auf PS5 schwammig an? Einstellungen, Zubehör, Controller, und den Triggereffekt auf Aus.",
+      "start": 8,
+      "end": 16,
+      "focus": 0.5,
+      "source": "https://www.twitch.tv/lvndmark/clip/TenderFurtiveBaconArsonNoSexy-wHYBaSMTEub2s7No"
+    },
+    {
+      "text": "Das Navi zeigt dir jede Abbiegung direkt im Bild an, mit Entfernung.",
+      "start": 18,
+      "end": 23,
+      "focus": 0.5,
+      "source": "https://www.twitch.tv/schradin/clip/QuaintSleepyRadicchioSoonerLater-w7ssoaCRKHIZyVmZ"
+    },
+    {
+      "text": "Aber Vorsicht am Wasser. Fährst du rein, ist der Motor kaputt.",
+      "start": 34,
+      "end": 39,
+      "focus": 0.5,
+      "source": "https://www.twitch.tv/schradin/clip/QuaintSleepyRadicchioSoonerLater-w7ssoaCRKHIZyVmZ"
+    },
+    {
+      "original": true,
+      "game_only": true,
+      "start": 40,
+      "end": 46,
+      "focus": 0.5,
+      "source": "https://www.twitch.tv/schradin/clip/QuaintSleepyRadicchioSoonerLater-w7ssoaCRKHIZyVmZ",
+      "sfx": null
+    },
+    {
+      "text": "Der beste Trick: Ziel setzen und die Kinokamera an. Dann fährt das Auto ganz allein.",
+      "start": 1,
+      "end": 7,
+      "focus": 0.5,
+      "source": "https://www.twitch.tv/bilzo/clip/TemperedTriangularPonyStrawBeary-QygpcE-iXFhf7Dsy"
+    },
+    {
+      "original": true,
+      "game_only": true,
+      "start": 13,
+      "end": 21,
+      "focus": 0.5,
+      "source": "https://www.twitch.tv/bilzo/clip/TemperedTriangularPonyStrawBeary-QygpcE-iXFhf7Dsy",
+      "sfx": null
+    },
+    {
+      "text": "Und das Handy beim Fahren? Lass es lieber in der Tasche.",
+      "start": 0,
+      "end": 5,
+      "focus": 0.5,
+      "source": "https://www.twitch.tv/squeex/clip/ApatheticZealousNarwhalGivePLZ-GRLYnD-EvYUUZmuH"
+    },
+    {
+      "original": true,
+      "game_only": true,
+      "start": 15,
+      "end": 21,
+      "focus": 0.5,
+      "source": "https://www.twitch.tv/squeex/clip/ApatheticZealousNarwhalGivePLZ-GRLYnD-EvYUUZmuH",
+      "sfx": null
+    },
+    {
+      "text": "Was ist dein Lieblingsauto in GTA 6? Schreib es in die Kommentare.",
+      "start": 2,
+      "end": 6,
+      "focus": 0.5,
+      "source": "https://www.twitch.tv/schradin/clip/QuaintSleepyRadicchioSoonerLater-w7ssoaCRKHIZyVmZ"
+    }
+  ]
+}

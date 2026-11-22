@@ -18,6 +18,7 @@
 - Geld aus Missionen auf die Bank bringen, sonst bei Tod/Festnahme weg. Quelle: VGC
 
 ## Schießen / Nahkampf (Stand 22.11.2026, teils aus Vorab-Material, vor Nutzung im Clip gegenprüfen)
+- Im Clip sichtbar (SkyrrozTV): Waffenrad zeigt Schaden, Präzision, Handhabung, Reichweite; Munition aufheben. ohnePixel: Waffen-Werkstatt mit Paletten, Farben, Wraps, Bauteilen.
 - Standard ist Free Aim; L2 halten rastet nicht automatisch ein. Zielhilfe-Stärke einstellbar (siehe oben). Quellen: allthings.how (gta-6-combat-overhaul-free-aim-by-default...), gtaboom.com (gta-6-drops-default-lock-on...)
 - Trefferanzeige: weiß = Treffer, gelb = kampfunfähig, rot = tot. Quellen: allthings.how Overhaul, gtaboom
 - Rückstoß stärker als in GTA 5: Sturmgewehre in kurzen Salven schießen. Quellen: allthings.how Overhaul, gtaboom
@@ -36,3 +37,6 @@
 
 ## Fahren
 - Noch keine belastbare Quelle (games.gg nicht abrufbar). Nur zeigen, was im Clip zu sehen ist.
+- Im Clip sichtbar (22.11.2026): PS5 Einstellungen > Zubehör > Controller (Allgemein) > Triggereffekt-Intensität: Aus (LVNDMARK empfiehlt das, weil das Fahren sonst schwammig wirkt). Quelle: LVNDMARK-Clip TenderFurtiveBaconArsonNoSexy.
+- Im Clip sichtbar: Navi blendet Abbiegung + Entfernung ein („Links abbiegen 0 Fuß“); Auto im Wasser -> „Motor beschädigt“. Quelle: SCHRADIN-Clip QuaintSleepyRadicchio.
+- Im Clip sichtbar: Kinokamera während Navi-Route, Hinweis „exit cinematic camera“, Auto fährt allein (Streamer hebt die Hände). Quelle: Bilzo-Clip TemperedTriangularPony. Taste nicht belegt.
