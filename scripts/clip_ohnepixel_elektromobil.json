@@ -1,0 +1,96 @@
+{
+  "id": "clip_ohnepixel_elektromobil",
+  "source": "https://www.twitch.tv/ohnepixel/clip/ThankfulSoftKoupreyOMGScoots-8rWxvM1hXbQ2r_nz",
+  "layout": "split",
+  "facecam": [
+    0.07,
+    0.7,
+    0.22,
+    0.3
+  ],
+  "crop": [
+    0.29,
+    0,
+    0.71,
+    1
+  ],
+  "hook": "Die langsamste Verfolgungsjagd in GTA 6",
+  "title": "ohnePixel und die langsamste Verfolgungsjagd in GTA 6 #shorts",
+  "description": "Eine Oma, ein Elektromobil und ganz viel Chaos. Original-Clip: ohnePixel – https://www.twitch.tv/ohnepixel/clip/ThankfulSoftKoupreyOMGScoots-8rWxvM1hXbQ2r_nz\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #ohnepixel #funny #verfolgungsjagd",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "ohnepixel",
+    "funny",
+    "verfolgungsjagd"
+  ],
+  "tiktok": "Die langsamste Verfolgungsjagd in GTA 6 🛵 #gta6 #gtavi #ohnepixel #lustig #fyp",
+  "instagram": "Die langsamste Verfolgungsjagd in GTA 6 🛵😂\n\n#gta6 #gtavi #ohnepixel #gaming #reels",
+  "beats": [
+    {
+      "original": true,
+      "start": 0,
+      "end": 24,
+      "focus": 0.5,
+      "subs": [
+        [
+          0,
+          0.9,
+          "Nein nein nein!"
+        ],
+        [
+          3.2,
+          4.7,
+          "Der ist für Shalya, nicht für mich."
+        ],
+        [
+          7.1,
+          7.6,
+          "Mist."
+        ],
+        [
+          8.8,
+          10.1,
+          "Oh Mist."
+        ],
+        [
+          10.4,
+          10.9,
+          "Mandy, hilf!"
+        ],
+        [
+          13.2,
+          13.7,
+          "Oh Mist."
+        ],
+        [
+          14.6,
+          15.1,
+          "Jackpot!"
+        ],
+        [
+          17.1,
+          17.8,
+          "Jackpot!"
+        ],
+        [
+          18.8,
+          19.3,
+          "Sie liegt."
+        ],
+        [
+          22.1,
+          23.0,
+          "Nice!"
+        ]
+      ]
+    },
+    {
+      "text": "Folge für mehr GTA 6 Momente.",
+      "start": 20,
+      "end": 24,
+      "focus": 0.5
+    }
+  ],
+  "hook_full": true
+}

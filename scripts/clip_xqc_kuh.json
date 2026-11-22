@@ -1,0 +1,52 @@
+{
+  "id": "clip_xqc_kuh",
+  "source": "https://www.twitch.tv/xqc/clip/DelightfulLachrymoseMelonVoteYea-JeFCNhZHEyTfoOMJ",
+  "layout": "split",
+  "facecam": [
+    0,
+    0.5,
+    0.19,
+    0.27
+  ],
+  "crop": [
+    0.19,
+    0,
+    0.81,
+    1
+  ],
+  "hook": "xQc wird von einer Kuh gestoppt",
+  "title": "xQc wird mitten in der Flucht von einer Kuh gestoppt #shorts",
+  "description": "Quad, Flucht, Kühe auf der Straße. Was soll da schon schiefgehen? Original-Clip: xQc – https://www.twitch.tv/xqc/clip/DelightfulLachrymoseMelonVoteYea-JeFCNhZHEyTfoOMJ\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #xqc #funny #kuh",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "xqc",
+    "funny",
+    "kuh"
+  ],
+  "tiktok": "Gestoppt von einer Kuh 🐄 #gta6 #gtavi #xqc #lustig #fyp",
+  "instagram": "Gestoppt von einer Kuh 🐄😂\n\n#gta6 #gtavi #xqc #gaming #reels",
+  "beats": [
+    {
+      "original": true,
+      "start": 10,
+      "end": 24,
+      "focus": 0.5,
+      "subs": []
+    },
+    {
+      "original": true,
+      "start": 30,
+      "end": 44,
+      "focus": 0.5,
+      "subs": []
+    },
+    {
+      "text": "Kuh eins, Mast zwei, xQc null.",
+      "start": 38,
+      "end": 44,
+      "focus": 0.5
+    }
+  ],
+  "hook_full": true
+}

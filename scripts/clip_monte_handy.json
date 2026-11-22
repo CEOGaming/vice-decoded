@@ -1,0 +1,61 @@
+{
+  "id": "clip_monte_handy",
+  "source": "https://www.twitch.tv/montanablack88/clip/TsundereHumbleFiddleheadsResidentSleeper-qMQpwJSl67DxVVbd",
+  "layout": "split",
+  "facecam": [
+    0.62,
+    0.63,
+    0.26,
+    0.37
+  ],
+  "crop": [
+    0,
+    0,
+    0.62,
+    1
+  ],
+  "hook": "Handy am Steuer? Nicht bei Monte",
+  "title": "MontanaBlack greift gegen Handy am Steuer durch #shorts",
+  "description": "Monte als Verkehrspolizist in Leonida. Original-Clip: MontanaBlack88 – https://www.twitch.tv/montanablack88/clip/TsundereHumbleFiddleheadsResidentSleeper-qMQpwJSl67DxVVbd\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #montanablack #funny #verkehr",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "montanablack",
+    "funny",
+    "verkehr"
+  ],
+  "tiktok": "Handy am Steuer? Raus! 📱 #gta6 #gtavi #montanablack #lustig #fyp",
+  "instagram": "Handy am Steuer? Raus! 📱😂\n\n#gta6 #gtavi #montanablack #gaming #reels",
+  "beats": [
+    {
+      "original": true,
+      "start": 3,
+      "end": 24,
+      "focus": 0.5,
+      "subs": [
+        [
+          9.1,
+          11.1,
+          "Handy am Steuer gefällt mir gar nicht. Raus mit ihr!"
+        ],
+        [
+          15.8,
+          19.4,
+          "Oder ist es der wieder?"
+        ],
+        [
+          20.4,
+          23.5,
+          "Hat er nix gehabt?"
+        ]
+      ]
+    },
+    {
+      "text": "Hättest du sie auch rausgeholt?",
+      "start": 20,
+      "end": 28,
+      "focus": 0.5
+    }
+  ],
+  "hook_full": true
+}

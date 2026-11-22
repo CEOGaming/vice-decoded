@@ -176,6 +176,8 @@ def spoken(text: str) -> str:
 def voiceover_once(texts: list[str], work: Path) -> list[tuple[Path, list]] | None:
     """Spricht ALLE Kommentar-Sätze in einem Rutsch (natürlicher Fluss) und
     schneidet die Aufnahme danach an den Satzgrenzen in Stücke pro Beat."""
+    if not texts:
+        return None
     ch = CONFIG["channel"]
     key = os.getenv("ELEVENLABS_API_KEY") if os.getenv("VOICE_MODE", "draft") == "final" else None
     if not key or os.getenv("TTS_DRYRUN") or not (os.getenv("ELEVENLABS_VOICE_ID") or ch.get("elevenlabs_voice_id")):
@@ -339,7 +341,7 @@ def render_beat(src: Path, beat: dict, idx: int, work: Path, crop=None, voice=No
              "-map", "[v]", "-map", "[aout]", "-t", str(dur),
              "-c:v", "libx264", "-preset", "veryfast", "-crf", "16", "-c:a", "aac", "-ar", "44100", "-ac", "2",
              str(out)])
-        return out, dur, []
+        return out, dur, sub_words(beat)
 
     if voice:
         mp3, words = voice
@@ -396,8 +398,24 @@ def ts(sec: float) -> str:
     return f"{int(h)}:{int(m):02d}:{s:05.2f}"
 
 
+def sub_words(beat: dict) -> list[tuple[float, float, str]]:
+    """Untertitel für Original-Ton: "subs": [[start, ende, "Text"], ...] in Quellzeit.
+    Die Wörter werden gleichmäßig über die Zeitspanne verteilt (relativ zum Beat-Start)."""
+    out = []
+    b0, b1 = float(beat["start"]), float(beat["end"])
+    for s, e, text in beat.get("subs", []):
+        s, e = max(float(s), b0), min(float(e), b1)
+        ws = text.split()
+        if not ws or e <= s:
+            continue
+        step = (e - s) / len(ws)
+        for k, w in enumerate(ws):
+            out.append((s - b0 + k * step, s - b0 + (k + 1) * step, w))
+    return out
+
+
 def build_ass(captions: list[tuple[float, float, str, int]], hook: str, credit: str, total: float,
-              brand: str = "", hook_margin: int = 230) -> str:
+              brand: str = "", hook_margin: int = 230, hook_until: float = 3.5) -> str:
     font = P["font"]
     single = P.get("caption_style", "group") == "single"
     head = f"""[Script Info]
@@ -418,7 +436,7 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 """
     lines = []
     if hook:
-        lines.append(f"Dialogue: 1,{ts(0)},{ts(min(3.5, total))},Hook,,0,0,0,,{hook}")
+        lines.append(f"Dialogue: 1,{ts(0)},{ts(min(hook_until, total))},Hook,,0,0,0,,{hook}")
     if brand:
         lines.append(f"Dialogue: 0,{ts(0)},{ts(total)},Brand,,0,0,0,,{brand}")
     if credit:
@@ -501,7 +519,8 @@ def produce(script_path: Path) -> Path:
                              script.get("credit", "") if P.get("show_credit", True) else "", total,
                              script.get("brand", P.get("brand", "")),
                              int(H * P.get("split_top", 0.40)) + 40
-                             if script.get("layout", P.get("layout")) == "split" else 230),
+                             if script.get("layout", P.get("layout")) == "split" else 230,
+                             total if script.get("hook_full") else 3.5),
                    encoding="utf-8")
     final = ROOT / "output" / vid / f"{vid}.mp4"
     draft = os.getenv("VOICE_MODE", "draft") != "final"
