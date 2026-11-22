@@ -1,0 +1,35 @@
+{
+  "language": "de",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": "Das hat sich hier mit so komischen gefühlte Dinger."
+    },
+    {
+      "start": 5.0,
+      "end": 7.0,
+      "text": "Das ist der Lachsalter."
+    },
+    {
+      "start": 7.0,
+      "end": 10.0,
+      "text": "Wenn die Frau Verständnis dafür hat, was man hier macht,"
+    },
+    {
+      "start": 10.0,
+      "end": 12.0,
+      "text": "mit Gitter sucht der."
+    },
+    {
+      "start": 12.0,
+      "end": 14.0,
+      "text": "Cardio, Cardio, dünn Schiss."
+    },
+    {
+      "start": 14.0,
+      "end": 16.0,
+      "text": "Den hab ich sowieso."
+    }
+  ]
+}

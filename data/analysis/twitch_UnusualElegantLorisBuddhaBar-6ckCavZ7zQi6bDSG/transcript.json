@@ -1,0 +1,45 @@
+{
+  "language": "de",
+  "segments": [
+    {
+      "start": 0.3,
+      "end": 2.3,
+      "text": "Du machst Stress, Alter!"
+    },
+    {
+      "start": 2.3,
+      "end": 4.3,
+      "text": "Ah, Mensch, das ist..."
+    },
+    {
+      "start": 4.3,
+      "end": 6.3,
+      "text": "Fucker, der dritt mich!"
+    },
+    {
+      "start": 6.3,
+      "end": 8.3,
+      "text": "Du Penna!"
+    },
+    {
+      "start": 8.3,
+      "end": 10.3,
+      "text": "Ach du Scheiße!"
+    },
+    {
+      "start": 10.3,
+      "end": 15.4,
+      "text": "Penna, boah!"
+    },
+    {
+      "start": 15.4,
+      "end": 17.4,
+      "text": "In den Arsch, Alter!"
+    },
+    {
+      "start": 17.4,
+      "end": 19.4,
+      "text": "Ey, Junge, was ist das denn, ey?"
+    }
+  ]
+}

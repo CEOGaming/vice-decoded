@@ -1,0 +1,45 @@
+{
+  "language": "de",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "Oh, ist n' egal."
+    },
+    {
+      "start": 23.9,
+      "end": 25.9,
+      "text": "Mach ich, kein Problem."
+    },
+    {
+      "start": 37.0,
+      "end": 44.3,
+      "text": "Okay, nee, nee, nee, nee, nee!"
+    },
+    {
+      "start": 44.3,
+      "end": 47.3,
+      "text": "Alter! Diese Bescheuerte!"
+    },
+    {
+      "start": 48.3,
+      "end": 50.3,
+      "text": "Das gibt's ja wohl nicht!"
+    },
+    {
+      "start": 50.3,
+      "end": 54.9,
+      "text": "Ich bin korrekt zu der Hälfte."
+    },
+    {
+      "start": 54.9,
+      "end": 56.9,
+      "text": "Und die haut mir einfach die Tür."
+    },
+    {
+      "start": 56.9,
+      "end": 58.9,
+      "text": "Jetzt ist sie fällig."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "language": "de",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 9.8,
+      "text": "Ich kann sie nicht streichen."
+    },
+    {
+      "start": 9.8,
+      "end": 12.8,
+      "text": "Ich möchte die Katze streichen, es geht nicht."
+    },
+    {
+      "start": 12.8,
+      "end": 17.4,
+      "text": "So."
+    },
+    {
+      "start": 17.4,
+      "end": 19.4,
+      "text": "Scheiß auf Katzen."
+    },
+    {
+      "start": 19.4,
+      "end": 23.9,
+      "text": "So."
+    },
+    {
+      "start": 23.9,
+      "end": 25.9,
+      "text": "Oh mein Gott, ist das dicker."
+    },
+    {
+      "start": 25.9,
+      "end": 27.9,
+      "text": "Wie die die Held."
+    },
+    {
+      "start": 27.9,
+      "end": 51.2,
+      "text": "Alter, es ist so krass."
+    }
+  ]
+}

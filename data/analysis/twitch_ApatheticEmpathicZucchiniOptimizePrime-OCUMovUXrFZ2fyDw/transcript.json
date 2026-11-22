@@ -1,0 +1,35 @@
+{
+  "language": "de",
+  "segments": [
+    {
+      "start": 1.0,
+      "end": 5.3,
+      "text": "Boah, Alter, hast du Ausbildung halt als Oberpenner oder was?"
+    },
+    {
+      "start": 5.3,
+      "end": 7.4,
+      "text": "Boah, ist da gesehen matchrig, so'n Alter."
+    },
+    {
+      "start": 7.4,
+      "end": 8.9,
+      "text": "Alter, wie geht der denn ab, äh?"
+    },
+    {
+      "start": 8.9,
+      "end": 10.1,
+      "text": "Tu steh auf forever, äh."
+    },
+    {
+      "start": 10.1,
+      "end": 12.4,
+      "text": "Haha."
+    },
+    {
+      "start": 12.4,
+      "end": 14.4,
+      "text": "Guck mal, geht der weg, guck mal, der Angst, Alter, guck mal wieder."
+    }
+  ]
+}
