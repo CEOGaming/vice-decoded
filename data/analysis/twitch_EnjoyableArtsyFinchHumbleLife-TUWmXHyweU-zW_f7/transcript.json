@@ -1,0 +1,25 @@
+{
+  "language": "es",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.2,
+      "text": "como estamos. ¿Me hacéis un sitio que quiero compartir con vosotros? Mira esta"
+    },
+    {
+      "start": 3.2,
+      "end": 7.4,
+      "text": "gente. Bueno, va vestida arriba pero abajo no del todo."
+    },
+    {
+      "start": 7.4,
+      "end": 15.5,
+      "text": "Oye chicos, nos vamos a ir de aquí. ¿Qué hace con el arbusto de forna y de ahí puesto, tío?"
+    },
+    {
+      "start": 15.5,
+      "end": 20.5,
+      "text": "¿Qué cosa más? ¿Qué cosa más buena? ¿Dónde me vas?"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "words": [
+    "golf cart",
+    "lawn mower",
+    "shopping cart",
+    "bike",
+    "bicycle",
+    "boat",
+    "jetski",
+    "tractor",
+    "bus",
+    "trash truck",
+    "ice cream",
+    "fahrrad",
+    "traktor",
+    "rasenmäher",
+    "einkaufswagen"
+  ],
+  "scanned": 1097,
+  "hits": [
+    {
+      "id": "twitch_EnjoyableArtsyFinchHumbleLife-TUWmXHyweU-zW_f7",
+      "source": "twitch",
+      "url": "https://www.twitch.tv/thegrefg/clip/EnjoyableArtsyFinchHumbleLife-TUWmXHyweU-zW_f7",
+      "title": "arbustin 51",
+      "creator": "TheGrefg",
+      "creator_login": "thegrefg",
+      "creator_url": "https://twitch.tv/TheGrefg",
+      "views": 4711,
+      "duration": 18.7,
+      "language": "es",
+      "created_at": "2026-11-18T21:00:51Z",
+      "thumbnail": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/6b4ff3f4-1ba6-45f4-805c-909e353c6c5e/landscape/thumb/thumb-0000000000-480x272.jpg"
+    }
+  ]
+}
