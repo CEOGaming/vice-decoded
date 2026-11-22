@@ -1,0 +1,20 @@
+{
+  "language": "de",
+  "segments": [
+    {
+      "start": 3.6,
+      "end": 14.9,
+      "text": "Oh mein Gott, der hat mich fast umgebracht."
+    },
+    {
+      "start": 14.9,
+      "end": 28.8,
+      "text": "Äh, 13 Jahre."
+    },
+    {
+      "start": 28.8,
+      "end": 49.4,
+      "text": "Okay."
+    }
+  ]
+}

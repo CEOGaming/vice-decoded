@@ -1,0 +1,55 @@
+{
+  "language": "de",
+  "segments": [
+    {
+      "start": 12.9,
+      "end": 16.8,
+      "text": "Nee, das ist quatsch, ne?"
+    },
+    {
+      "start": 16.8,
+      "end": 18.8,
+      "text": "Nee, das ist quatsch."
+    },
+    {
+      "start": 19.3,
+      "end": 24.0,
+      "text": "Wie geht das?"
+    },
+    {
+      "start": 24.0,
+      "end": 26.0,
+      "text": "Ah, okay."
+    },
+    {
+      "start": 26.0,
+      "end": 30.6,
+      "text": "Ah, ihr meint, ah, man kann in der Bugmi... okay, Check."
+    },
+    {
+      "start": 30.6,
+      "end": 34.6,
+      "text": "Man kann in der Bugmi App das war das, was ihr wollte, ne?"
+    },
+    {
+      "start": 36.1,
+      "end": 37.6,
+      "text": "Ein Bankautomat."
+    },
+    {
+      "start": 37.6,
+      "end": 39.6,
+      "text": "Bro, also okay."
+    },
+    {
+      "start": 40.6,
+      "end": 41.6,
+      "text": "Echt, Tigger."
+    },
+    {
+      "start": 41.6,
+      "end": 45.8,
+      "text": "Wie machen wir's?"
+    }
+  ]
+}
