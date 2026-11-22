@@ -1,0 +1,25 @@
+{
+  "language": "hu",
+  "segments": [
+    {
+      "start": 2.8,
+      "end": 4.8,
+      "text": "Hát a pücse! Mi van ott?"
+    },
+    {
+      "start": 4.8,
+      "end": 6.8,
+      "text": "Azt hittem, hogy az leszedi."
+    },
+    {
+      "start": 6.8,
+      "end": 10.6,
+      "text": "Tessu!"
+    },
+    {
+      "start": 10.6,
+      "end": 12.6,
+      "text": "Mínanimálták le!"
+    }
+  ]
+}

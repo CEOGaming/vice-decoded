@@ -1,0 +1,30 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.1,
+      "end": 1.1,
+      "text": "Oh no!"
+    },
+    {
+      "start": 1.1,
+      "end": 7.1,
+      "text": "Oh my god."
+    },
+    {
+      "start": 7.1,
+      "end": 8.1,
+      "text": "Oh my god."
+    },
+    {
+      "start": 8.1,
+      "end": 10.1,
+      "text": "Let me help her up."
+    },
+    {
+      "start": 10.1,
+      "end": 11.1,
+      "text": "Can I help her up?"
+    }
+  ]
+}

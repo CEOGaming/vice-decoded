@@ -1,0 +1,30 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.8,
+      "text": "Isn't that delicious?"
+    },
+    {
+      "start": 1.8,
+      "end": 2.7,
+      "text": "Oh my god."
+    },
+    {
+      "start": 2.7,
+      "end": 3.5,
+      "text": "It's a burn."
+    },
+    {
+      "start": 3.5,
+      "end": 5.3,
+      "text": "Now, who are you?"
+    },
+    {
+      "start": 5.3,
+      "end": 6.1,
+      "text": "Nihui."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "language": "de",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Jemand auf die Schnauze zu haben mit diese Hemd."
+    },
+    {
+      "start": 15.5,
+      "end": 17.5,
+      "text": "Vielleicht wollte ich gerade sagen,"
+    },
+    {
+      "start": 17.5,
+      "end": 20.0,
+      "text": "Ey, wie krass freerunning."
+    },
+    {
+      "start": 20.0,
+      "end": 22.0,
+      "text": "Ich digger was?"
+    },
+    {
+      "start": 22.0,
+      "end": 29.9,
+      "text": "Oder weil ihr nicht Allahumma Barik gesagt habt, digger."
+    }
+  ]
+}
