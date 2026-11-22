@@ -1,0 +1,35 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 1.5,
+      "end": 3.5,
+      "text": "Let me bro, let me dance on Lucia"
+    },
+    {
+      "start": 5.5,
+      "end": 7.8,
+      "text": "What the f**k?"
+    },
+    {
+      "start": 12.8,
+      "end": 14.8,
+      "text": "Please, my profession"
+    },
+    {
+      "start": 14.8,
+      "end": 24.8,
+      "text": "Let's wrap this up"
+    },
+    {
+      "start": 25.8,
+      "end": 26.8,
+      "text": "What do you mean bro?"
+    },
+    {
+      "start": 26.8,
+      "end": 28.8,
+      "text": "Let me live die for this dance"
+    }
+  ]
+}
