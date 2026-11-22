@@ -33,7 +33,7 @@
     {
       "original": true,
       "start": 7.5,
-      "end": 24,
+      "end": 59.9,
       "focus": 0.5,
       "subs": [
         [
@@ -60,15 +60,7 @@
           22.7,
           24,
           "Eins, zwei, drei."
-        ]
-      ]
-    },
-    {
-      "original": true,
-      "start": 46.9,
-      "end": 58.8,
-      "focus": 0.5,
-      "subs": [
+        ],
         [
           46.9,
           49,

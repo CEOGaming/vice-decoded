@@ -33,22 +33,14 @@
     {
       "original": true,
       "start": 1.5,
-      "end": 10,
+      "end": 40.5,
       "focus": 0.5,
       "subs": [
         [
           1.5,
           10,
           "Gleich kommt ein cooler Trick. Du musst so viel Tempo aufbauen wie möglich."
-        ]
-      ]
-    },
-    {
-      "original": true,
-      "start": 28,
-      "end": 38,
-      "focus": 0.5,
-      "subs": [
+        ],
         [
           33.6,
           35.6,
