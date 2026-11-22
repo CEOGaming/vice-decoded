@@ -1,0 +1,106 @@
+{
+  "id": "knowhow_autos_verkaufen_v2",
+  "source": "https://www.twitch.tv/montanablack88/clip/ZanySwissBadgerWOOP-9Ce8GgUVOQs2RKQq",
+  "layout": "fill",
+  "crops": {
+    "https://www.twitch.tv/montanablack88/clip/ZanySwissBadgerWOOP-9Ce8GgUVOQs2RKQq": [
+      0,
+      0,
+      0.62,
+      0.88
+    ],
+    "https://www.twitch.tv/montanablack88/clip/RelentlessBillowingEggplantThisIsSparta-QVNyBTX6c0RWWawy": [
+      0,
+      0,
+      0.62,
+      0.88
+    ]
+  },
+  "hook": "Geld mit geklauten Autos",
+  "title": "GTA 6: So verkaufst du geklaute Autos an Moses #shorts",
+  "description": "So machst du in GTA 6 Geld mit geklauten Autos: Hinweis beachten, zu Moses Watkins bringen, verkaufen. Achtung, Moses hat ein Tagesbudget.\n\nGameplay-Ausschnitte: MontanaBlack88 – https://www.twitch.tv/montanablack88/clip/ZanySwissBadgerWOOP-9Ce8GgUVOQs2RKQq\nMontanaBlack88 – https://www.twitch.tv/montanablack88/clip/RelentlessBillowingEggplantThisIsSparta-QVNyBTX6c0RWWawy\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6tipps #geld #gta6deutsch",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6tipps",
+    "geld",
+    "gta6deutsch"
+  ],
+  "tiktok": "Geklaute Autos verkaufen in GTA 6 🚗💸 #gta6 #gtavi #gta6tipps #gaming #fyp",
+  "instagram": "Geklaute Autos verkaufen in GTA 6 🚗💸\n\n#gta6 #gtavi #gta6tipps #gaming #reels",
+  "beats": [
+    {
+      "text": "So machst du in GTA 6 Geld mit geklauten Autos.",
+      "start": 8,
+      "end": 13,
+      "focus": 0.0,
+      "source": "https://www.twitch.tv/montanablack88/clip/ZanySwissBadgerWOOP-9Ce8GgUVOQs2RKQq"
+    },
+    {
+      "original": true,
+      "game_only": true,
+      "start": 12,
+      "end": 22,
+      "focus": 0.0,
+      "source": "https://www.twitch.tv/montanablack88/clip/ZanySwissBadgerWOOP-9Ce8GgUVOQs2RKQq",
+      "sfx": null
+    },
+    {
+      "text": "Siehst du diesen Hinweis, nimmt Moses Watkins das Fahrzeug.",
+      "start": 18,
+      "end": 23,
+      "focus": 0.0,
+      "source": "https://www.twitch.tv/montanablack88/clip/ZanySwissBadgerWOOP-9Ce8GgUVOQs2RKQq",
+      "sfx": "pop"
+    },
+    {
+      "original": true,
+      "game_only": true,
+      "start": 5,
+      "end": 12,
+      "focus": 0.0,
+      "source": "https://www.twitch.tv/montanablack88/clip/RelentlessBillowingEggplantThisIsSparta-QVNyBTX6c0RWWawy",
+      "sfx": null
+    },
+    {
+      "text": "L2 halten, Kreis drücken, fertig.",
+      "start": 10,
+      "end": 14,
+      "focus": 0.0,
+      "source": "https://www.twitch.tv/montanablack88/clip/RelentlessBillowingEggplantThisIsSparta-QVNyBTX6c0RWWawy"
+    },
+    {
+      "original": true,
+      "game_only": true,
+      "start": 14,
+      "end": 22,
+      "focus": 0.0,
+      "source": "https://www.twitch.tv/montanablack88/clip/RelentlessBillowingEggplantThisIsSparta-QVNyBTX6c0RWWawy",
+      "sfx": null
+    },
+    {
+      "original": true,
+      "game_only": true,
+      "start": 36,
+      "end": 42,
+      "focus": 0.0,
+      "source": "https://www.twitch.tv/montanablack88/clip/RelentlessBillowingEggplantThisIsSparta-QVNyBTX6c0RWWawy",
+      "sfx": null
+    },
+    {
+      "text": "Fast siebentausend Dollar. Aber Moses hat ein Tagesbudget. Ist es voll, kauft er erst am nächsten Tag wieder.",
+      "start": 40,
+      "end": 52,
+      "focus": 0.0,
+      "source": "https://www.twitch.tv/montanablack88/clip/RelentlessBillowingEggplantThisIsSparta-QVNyBTX6c0RWWawy",
+      "sfx": "ding"
+    },
+    {
+      "text": "Das Geld danach direkt zur Bank bringen. Speicher dir das Video.",
+      "start": 52,
+      "end": 60,
+      "focus": 0.0,
+      "source": "https://www.twitch.tv/montanablack88/clip/RelentlessBillowingEggplantThisIsSparta-QVNyBTX6c0RWWawy"
+    }
+  ]
+}

@@ -334,9 +334,14 @@ def render_beat(src: Path, beat: dict, idx: int, work: Path, crop=None, voice=No
         dur = clip_len
         audio = "[0:a]atrim=0:{d},asetpts=PTS-STARTPTS,aresample=44100[aout]".format(d=dur) if src_audio \
             else f"anullsrc=r=44100:cl=stereo,atrim=0:{dur}[aout]"
+        gin = []
+        if beat.get("game_only") and game:
+            # Know-how: nur Spielsound (Streamer-Stimme entfernt), voll laut
+            gin = ["-ss", str(start), "-t", str(clip_len), "-i", str(game)]
+            audio = f"[1:a]atrim=0:{dur},asetpts=PTS-STARTPTS,aresample=44100[aout]"
         if inset:
-            inset["input"] = 1
-        run(["ffmpeg", "-y", "-ss", str(start), "-t", str(clip_len), "-i", str(src), *inset_args,
+            inset["input"] = 2 if gin else 1
+        run(["ffmpeg", "-y", "-ss", str(start), "-t", str(clip_len), "-i", str(src), *gin, *inset_args,
              "-filter_complex", layout_filter(1.0, crop, mode, focus, inset, facecam) + ";" + audio,
              "-map", "[v]", "-map", "[aout]", "-t", str(dur),
              "-c:v", "libx264", "-preset", "veryfast", "-crf", "16", "-c:a", "aac", "-ar", "44100", "-ac", "2",
