@@ -1,0 +1,25 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 1.3,
+      "end": 7.5,
+      "text": "Maybe I better attire now. We'll pick up the dead bird. It's my little bird friend"
+    },
+    {
+      "start": 8.2,
+      "end": 12.4,
+      "text": "My little bird friend. I have a little pigeon. Would you like to pigeon?"
+    },
+    {
+      "start": 14.1,
+      "end": 20.7,
+      "text": "The cop just ran over the bird. Let's see if we can get a haircut"
+    },
+    {
+      "start": 23.6,
+      "end": 27.6,
+      "text": "The game has to be glitched out begin I feel like I I feel like I need to restart my game"
+    }
+  ]
+}

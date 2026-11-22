@@ -1,0 +1,60 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 3.0,
+      "end": 5.0,
+      "text": "What's the fuck?"
+    },
+    {
+      "start": 5.0,
+      "end": 11.5,
+      "text": "What the fuck?"
+    },
+    {
+      "start": 11.5,
+      "end": 13.5,
+      "text": "What the fuck?"
+    },
+    {
+      "start": 13.5,
+      "end": 15.5,
+      "text": "What the fuck?"
+    },
+    {
+      "start": 15.5,
+      "end": 17.5,
+      "text": "No!"
+    },
+    {
+      "start": 17.5,
+      "end": 19.5,
+      "text": "No!"
+    },
+    {
+      "start": 19.5,
+      "end": 25.5,
+      "text": "No!"
+    },
+    {
+      "start": 25.5,
+      "end": 29.6,
+      "text": "Even try to fucking swim!"
+    },
+    {
+      "start": 29.6,
+      "end": 31.6,
+      "text": "Even try to swim!"
+    },
+    {
+      "start": 31.6,
+      "end": 33.6,
+      "text": "Oh god, I just got the worst ending."
+    },
+    {
+      "start": 33.6,
+      "end": 35.6,
+      "text": "No!"
+    }
+  ]
+}

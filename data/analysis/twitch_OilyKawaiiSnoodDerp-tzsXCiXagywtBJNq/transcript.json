@@ -1,0 +1,30 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 2.1,
+      "end": 12.3,
+      "text": "Lacey I miss your GTA marathon. Can you please restart the whole game for me? I mean sure, bro. Yeah, I got you"
+    },
+    {
+      "start": 13.5,
+      "end": 19.5,
+      "text": "Yeah, I got you, bro. I got you, bro. I"
+    },
+    {
+      "start": 21.1,
+      "end": 24.6,
+      "text": "Don't want you to miss any of the content any of that. So I'll restart the whole game for you"
+    },
+    {
+      "start": 25.0,
+      "end": 29.8,
+      "text": "I'll restart I'll restart. It's okay. She has only 90 hours. All right. If someone missed it"
+    },
+    {
+      "start": 29.8,
+      "end": 32.3,
+      "text": "I gotta restart the whole game, bro. You restart I know"
+    }
+  ]
+}

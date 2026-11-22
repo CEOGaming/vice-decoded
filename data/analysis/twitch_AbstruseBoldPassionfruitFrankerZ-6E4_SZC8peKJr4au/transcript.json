@@ -1,0 +1,35 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.3,
+      "end": 12.4,
+      "text": "I've been locked up for nine months. Come on, what the fuck do you mean? I can't be a merchant in the shade"
+    },
+    {
+      "start": 12.4,
+      "end": 16.1,
+      "text": "I just waited"
+    },
+    {
+      "start": 16.1,
+      "end": 18.5,
+      "text": "Well, oh my god, bro"
+    },
+    {
+      "start": 18.5,
+      "end": 21.3,
+      "text": "This is why I went out to the club last night, bro"
+    },
+    {
+      "start": 21.5,
+      "end": 27.1,
+      "text": "Because I just waited for this girl to come outside and I can't even bro. I can't even kill bro"
+    },
+    {
+      "start": 28.7,
+      "end": 31.9,
+      "text": "Like they can't even let me watch the scene of me kill"
+    }
+  ]
+}
