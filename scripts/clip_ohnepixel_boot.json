@@ -1,0 +1,57 @@
+{
+  "id": "clip_ohnepixel_boot",
+  "source": "https://www.twitch.tv/ohnepixel/clip/SaltyLovelyDumplingsHotPokket-Sfb6OzAeVrc023LO",
+  "layout": "split",
+  "facecam": [
+    0.07,
+    0.68,
+    0.26,
+    0.32
+  ],
+  "mask": [
+    [
+      0.07,
+      0.68,
+      0.26,
+      0.32
+    ]
+  ],
+  "hook": "Fahr einfach unter der Brücke durch",
+  "hook_full": true,
+  "title": "ohnePixel sollte nur unter der Brücke durch #shorts",
+  "description": "Eine Bootsfahrt durch Vice City, was soll da schiefgehen? Original-Clip: ohnePixel – https://www.twitch.tv/ohnepixel/clip/SaltyLovelyDumplingsHotPokket-Sfb6OzAeVrc023LO\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #ohnepixel #funny #boot",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "ohnepixel",
+    "funny",
+    "boot"
+  ],
+  "tiktok": "Einfach unter der Brücke durch 🚤 #gta6 #gtavi #ohnepixel #lustig #fyp",
+  "instagram": "Einfach unter der Brücke durch 🚤😂\n\n#gta6 #gtavi #ohnepixel #gaming #reels",
+  "beats": [
+    {
+      "original": true,
+      "start": 0,
+      "end": 14.1,
+      "focus": 0.5,
+      "subs": [
+        [
+          6.4,
+          8.5,
+          "Fahr unter der Brücke durch, okay?"
+        ],
+        [
+          8.5,
+          9,
+          "Nice."
+        ],
+        [
+          11.8,
+          13.8,
+          "Sorry, sorry, sorry!"
+        ]
+      ]
+    }
+  ]
+}

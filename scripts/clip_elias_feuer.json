@@ -1,0 +1,86 @@
+{
+  "id": "clip_elias_feuer",
+  "source": "https://www.twitch.tv/eliasn97/clip/ProudAdorableButterflyDerp-pC7pVstKv09n6z7l",
+  "layout": "split",
+  "facecam": [
+    0.745,
+    0.42,
+    0.25,
+    0.22
+  ],
+  "mask": [
+    [
+      0,
+      0,
+      1,
+      0.07
+    ],
+    [
+      0.74,
+      0.4,
+      0.26,
+      0.32
+    ]
+  ],
+  "hook": "4 Sterne für ein bisschen Feuer",
+  "hook_full": true,
+  "title": "Elias zündet in GTA 6 einen Bus an… und dann kommt die Feuerwehr #shorts",
+  "description": "Ein brennender Bus, vier Sterne und ein Feuerwehrwagen. Original-Clip: eliasn97 – https://www.twitch.tv/eliasn97/clip/ProudAdorableButterflyDerp-pC7pVstKv09n6z7l\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #eliasn97 #gta6deutsch #funny",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "eliasn97",
+    "gta6deutsch",
+    "funny"
+  ],
+  "tiktok": "Elias und die Feuerwehr in GTA 6 🔥🚒 #gta6 #gtavi #eliasn97 #lustig #fyp",
+  "instagram": "Vier Sterne für ein bisschen Feuer 🔥🚒\n\n#gta6 #gtavi #eliasn97 #gaming #reels",
+  "beats": [
+    {
+      "original": true,
+      "start": 0,
+      "end": 14,
+      "focus": 0.5,
+      "subs": [
+        [
+          0,
+          9.8,
+          "Die Schreie, könnt ihr sie hören?"
+        ],
+        [
+          9.8,
+          14,
+          "Vier Sterne für ein bisschen Feuer."
+        ]
+      ]
+    },
+    {
+      "original": true,
+      "start": 34,
+      "end": 50,
+      "focus": 0.5,
+      "subs": [
+        [
+          34.2,
+          37.2,
+          "Und ein Feuerwehrwagen."
+        ],
+        [
+          37.2,
+          41.7,
+          "Ihr kommt leider zu spät."
+        ],
+        [
+          41.7,
+          46.6,
+          "Ich lösche das Feuer."
+        ],
+        [
+          46.6,
+          48.6,
+          "Ich lösche das Feuer."
+        ]
+      ]
+    }
+  ]
+}

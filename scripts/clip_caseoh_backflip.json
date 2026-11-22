@@ -1,0 +1,52 @@
+{
+  "id": "clip_caseoh_backflip",
+  "source": "https://www.twitch.tv/caseoh_/clip/MagnificentHilariousMonitorCclamChamp-u_WBK66Y7rsqXeUD",
+  "layout": "split",
+  "facecam": [
+    0.0,
+    0.18,
+    0.18,
+    0.22
+  ],
+  "mask": [
+    [
+      0,
+      0.18,
+      0.18,
+      0.22
+    ]
+  ],
+  "hook": "Backflip in GTA 6?",
+  "hook_full": true,
+  "title": "CaseOh versucht in GTA 6 einen Backflip mit dem BMX #shorts",
+  "description": "Ein BMX, eine Rampe am Strand und ein mutiger Plan. Original-Clip: CaseOh – https://www.twitch.tv/caseoh_/clip/MagnificentHilariousMonitorCclamChamp-u_WBK66Y7rsqXeUD\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #caseoh #bmx #fail",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "caseoh",
+    "bmx",
+    "fail"
+  ],
+  "tiktok": "CaseOh wagt den Backflip in GTA 6 🚲 #gta6 #gtavi #caseoh #fail #fyp",
+  "instagram": "Backflip-Versuch in GTA 6 🚲💥\n\n#gta6 #gtavi #caseoh #gaming #reels",
+  "beats": [
+    {
+      "original": true,
+      "start": 17,
+      "end": 40,
+      "focus": 0.5,
+      "subs": [
+        [
+          19.1,
+          22,
+          "Seht her."
+        ],
+        [
+          22,
+          25.8,
+          "Soll ich einen Backflip wagen? Ich mach einen Backflip!"
+        ]
+      ]
+    }
+  ]
+}

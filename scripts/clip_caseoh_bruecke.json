@@ -1,0 +1,90 @@
+{
+  "id": "clip_caseoh_bruecke",
+  "source": "https://www.twitch.tv/caseoh_/clip/EvilChillyKleeKeepo-uq_TPadcMek2sAdf",
+  "layout": "split",
+  "facecam": [
+    0.0,
+    0.13,
+    0.215,
+    0.27
+  ],
+  "mask": [
+    [
+      0,
+      0.13,
+      0.215,
+      0.27
+    ]
+  ],
+  "hook": "Er spielt DAS Spiel auf der Brücke",
+  "hook_full": true,
+  "title": "CaseOh erfindet in GTA 6 ein neues Spiel… und die Polizei hört mit #shorts",
+  "description": "CaseOh wirft NPCs von der Autobahnbrücke, und der Polizeifunk meldet sich sofort. Original-Clip: CaseOh – https://www.twitch.tv/caseoh_/clip/EvilChillyKleeKeepo-uq_TPadcMek2sAdf\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #caseoh #funny #gaming",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "caseoh",
+    "gta 6 funny",
+    "gta 6 deutsch"
+  ],
+  "tiktok": "CaseOh hat in GTA 6 ein neues Spiel erfunden 💀 Was ist das Verrückteste, was du gemacht hast? #gta6 #gtavi #caseoh #funny #fyp",
+  "instagram": "Das Brücken-Spiel in GTA 6 💀 Der Polizeifunk hört mit… 🚓\n\n#gta6 #gtavi #caseoh #gaming #reels",
+  "beats": [
+    {
+      "original": true,
+      "start": 7.5,
+      "end": 24,
+      "focus": 0.5,
+      "subs": [
+        [
+          7.5,
+          9.9,
+          "Wollt ihr ein Spiel spielen?"
+        ],
+        [
+          9.9,
+          13.1,
+          "Das Leute-von-der-Brücke-werfen-Spiel?"
+        ],
+        [
+          13.1,
+          16,
+          "Los geht's."
+        ],
+        [
+          18.9,
+          22.7,
+          "Bubba, bist du bereit?"
+        ],
+        [
+          22.7,
+          24,
+          "Eins, zwei, drei."
+        ]
+      ]
+    },
+    {
+      "original": true,
+      "start": 46.9,
+      "end": 58.8,
+      "focus": 0.5,
+      "subs": [
+        [
+          46.9,
+          49,
+          "Warte auf den nächsten Truck."
+        ],
+        [
+          49.6,
+          56.6,
+          "Funk: Weitere Meldungen über ein Tötungsdelikt. Einheiten, Vorsicht."
+        ],
+        [
+          56.6,
+          58.8,
+          "Hey, wehe du verpetzt mich."
+        ]
+      ]
+    }
+  ]
+}

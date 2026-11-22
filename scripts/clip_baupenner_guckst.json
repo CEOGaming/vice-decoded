@@ -1,0 +1,47 @@
+{
+  "id": "clip_baupenner_guckst",
+  "source": "https://www.twitch.tv/baupenner/clip/HandsomeApatheticLaptopBigBrother-0hDnBoZBAwSg3xwf",
+  "layout": "split",
+  "facecam": [
+    0.715,
+    0.12,
+    0.27,
+    0.26
+  ],
+  "mask": [
+    [
+      0.7,
+      0.1,
+      0.3,
+      0.31
+    ],
+    [
+      0.62,
+      0,
+      0.38,
+      0.06
+    ]
+  ],
+  "hook": "Was guckst du?!",
+  "hook_full": true,
+  "title": "Ein falscher Blick in GTA 6 – BauPenner eskaliert #shorts",
+  "description": "Vor dem Pfandhaus reicht ein falscher Blick. Original-Clip: BauPenner – https://www.twitch.tv/baupenner/clip/HandsomeApatheticLaptopBigBrother-0hDnBoZBAwSg3xwf\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #baupenner #gta6deutsch #lustig",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "baupenner",
+    "gta6deutsch",
+    "lustig"
+  ],
+  "tiktok": "Was guckst du?! 😂 #gta6 #gtavi #baupenner #lustig #fyp",
+  "instagram": "Was guckst du?! 😂\n\n#gta6 #gtavi #baupenner #gaming #reels",
+  "beats": [
+    {
+      "original": true,
+      "start": 0,
+      "end": 15.5,
+      "focus": 0.5,
+      "subs": []
+    }
+  ]
+}

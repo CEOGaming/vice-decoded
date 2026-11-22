@@ -1,0 +1,47 @@
+{
+  "id": "clip_baupenner_roller",
+  "source": "https://www.twitch.tv/baupenner/clip/PeppyTriumphantBeaverANELE-4sSr5ZrQA9f5NJ-_",
+  "layout": "split",
+  "facecam": [
+    0.715,
+    0.12,
+    0.27,
+    0.26
+  ],
+  "mask": [
+    [
+      0.7,
+      0.1,
+      0.3,
+      0.31
+    ],
+    [
+      0.62,
+      0,
+      0.38,
+      0.06
+    ]
+  ],
+  "hook": "Karma gibt es auch in GTA 6",
+  "hook_full": true,
+  "title": "BauPenner will jemanden umfahren… und das Karma schlägt zurück #shorts",
+  "description": "Wheelies, Vollgas und dann der Plan, einen Passanten umzufahren. Original-Clip: BauPenner – https://www.twitch.tv/baupenner/clip/PeppyTriumphantBeaverANELE-4sSr5ZrQA9f5NJ-_\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #baupenner #karma #gaming",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "baupenner",
+    "gta 6 lustig",
+    "karma"
+  ],
+  "tiktok": "Instant Karma in GTA 6 😂 #gta6 #gtavi #baupenner #karma #fyp",
+  "instagram": "Instant Karma in GTA 6 😂🛵\n\n#gta6 #gtavi #baupenner #gaming #reels",
+  "beats": [
+    {
+      "original": true,
+      "start": 0,
+      "end": 13,
+      "focus": 0.5,
+      "subs": []
+    }
+  ]
+}

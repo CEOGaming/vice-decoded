@@ -1,0 +1,76 @@
+{
+  "id": "clip_monte_yacht",
+  "source": "https://www.twitch.tv/montanablack88/clip/AmericanStupidKleeRickroll-XBuE_VMyP-dZ_DEm",
+  "layout": "split",
+  "facecam": [
+    0.6,
+    0.6,
+    0.28,
+    0.4
+  ],
+  "mask": [
+    [
+      0.6,
+      0.6,
+      0.28,
+      0.4
+    ]
+  ],
+  "hook": "Monte klaut eine Yacht",
+  "hook_full": true,
+  "title": "MontanaBlack klaut in GTA 6 eine Yacht – die Beute ist lächerlich #shorts",
+  "description": "Monte taucht zu einem Segelboot, klettert an Bord und räumt ab. Original-Clip: MontanaBlack88 – https://www.twitch.tv/montanablack88/clip/AmericanStupidKleeRickroll-XBuE_VMyP-dZ_DEm\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #montanablack #funny #gaming",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "montanablack",
+    "monte",
+    "gta 6 deutsch",
+    "gta 6 lustig"
+  ],
+  "tiktok": "Monte klaut eine Yacht in GTA 6 🛥️ und die Beute ist… 💀 #gta6 #gtavi #montanablack #lustig #fyp",
+  "instagram": "Monte klaut eine Yacht 🛥️ Ratet mal, wie viel Beute drin war 💀\n\n#gta6 #gtavi #montanablack #gaming #reels",
+  "beats": [
+    {
+      "original": true,
+      "start": 0,
+      "end": 8,
+      "focus": 0.5,
+      "subs": [
+        [
+          0.3,
+          2.3,
+          "Tauch!"
+        ],
+        [
+          2.7,
+          4.7,
+          "Glaubt ihr, da ist jemand im Boot?"
+        ],
+        [
+          4.8,
+          8,
+          "Hier gibt's sogar Delfin- und Walgeräusche unter Wasser!"
+        ]
+      ]
+    },
+    {
+      "original": true,
+      "start": 38,
+      "end": 49,
+      "focus": 0.5,
+      "subs": [
+        [
+          41.4,
+          43.4,
+          "Gib Cash, Cash, Cash!"
+        ],
+        [
+          46.7,
+          48.7,
+          "13 Dollar."
+        ]
+      ]
+    }
+  ]
+}

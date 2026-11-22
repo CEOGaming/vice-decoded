@@ -1,0 +1,74 @@
+{
+  "id": "clip_speed_kniebeugen",
+  "source": "https://www.twitch.tv/ishowspeed/clip/PleasantEvilMangoNinjaGrumpy-3uz2Ty_zwPoxEXeW",
+  "layout": "split",
+  "facecam": [
+    0,
+    0.41,
+    0.2,
+    0.24
+  ],
+  "mask": [
+    [
+      0,
+      0.41,
+      0.2,
+      0.24
+    ],
+    [
+      0.3,
+      0.88,
+      0.4,
+      0.1
+    ],
+    [
+      0.84,
+      0.9,
+      0.16,
+      0.1
+    ]
+  ],
+  "hook": "Speed geht in GTA 6 trainieren",
+  "hook_full": true,
+  "title": "IShowSpeed macht Kniebeugen in GTA 6 #shorts",
+  "description": "Statt Überfall gibt es erstmal Beintag. Original-Clip: IShowSpeed – https://www.twitch.tv/ishowspeed/clip/PleasantEvilMangoNinjaGrumpy-3uz2Ty_zwPoxEXeW\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #ishowspeed #funny #gym",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "ishowspeed",
+    "funny",
+    "gym"
+  ],
+  "tiktok": "Speed macht Beintag in GTA 6 🏋️ #gta6 #gtavi #ishowspeed #lustig #fyp",
+  "instagram": "Speed macht Beintag in GTA 6 🏋️😂\n\n#gta6 #gtavi #ishowspeed #gaming #reels",
+  "beats": [
+    {
+      "original": true,
+      "start": 0,
+      "end": 32,
+      "focus": 0.5,
+      "subs": [
+        [
+          0,
+          3.6,
+          "Haust du etwa zur Arbeit ab, so wie du aussiehst?"
+        ],
+        [
+          6.5,
+          15.4,
+          "Ich muss reich werden, Bro. Ganz ehrlich, ich muss reich werden."
+        ],
+        [
+          17.1,
+          19.3,
+          "Das motiviert mich, Bro."
+        ],
+        [
+          24,
+          29.3,
+          "Komm schon! Ein paar Kniebeugen, Bro!"
+        ]
+      ]
+    }
+  ]
+}

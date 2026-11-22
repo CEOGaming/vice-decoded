@@ -1,0 +1,70 @@
+{
+  "id": "clip_caseoh_wasserflugzeug",
+  "source": "https://www.twitch.tv/caseoh_/clip/CuriousBadEchidnaCoolStoryBro-g66TfyHbfF_r5vxZ",
+  "layout": "split",
+  "facecam": [
+    0,
+    0.12,
+    0.21,
+    0.28
+  ],
+  "mask": [
+    [
+      0,
+      0.12,
+      0.21,
+      0.28
+    ]
+  ],
+  "hook": "Wie haben die das überlebt?",
+  "hook_full": true,
+  "title": "caseoh crasht ein Wasserflugzeug in GTA 6 #shorts",
+  "description": "Erst abgestürzt, dann einfach weiter geschwommen. Original-Clip: caseoh_ – https://www.twitch.tv/caseoh_/clip/CuriousBadEchidnaCoolStoryBro-g66TfyHbfF_r5vxZ\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #caseoh #funny #flugzeug",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "caseoh",
+    "funny",
+    "flugzeug"
+  ],
+  "tiktok": "Wie haben die das überlebt? ✈️ #gta6 #gtavi #caseoh #lustig #fyp",
+  "instagram": "Wie haben die das überlebt? ✈️😂\n\n#gta6 #gtavi #caseoh #gaming #reels",
+  "beats": [
+    {
+      "original": true,
+      "start": 0,
+      "end": 8,
+      "focus": 0.5,
+      "subs": [
+        [
+          1,
+          3,
+          "Immer muss man es übertreiben."
+        ],
+        [
+          4,
+          5,
+          "Ab ins Wasser!"
+        ]
+      ]
+    },
+    {
+      "original": true,
+      "start": 26,
+      "end": 35.5,
+      "focus": 0.5,
+      "subs": [
+        [
+          27.9,
+          32,
+          "Nicht fragen, einfach akzeptieren."
+        ],
+        [
+          32,
+          35,
+          "Nicht fragen, einfach akzeptieren."
+        ]
+      ]
+    }
+  ]
+}

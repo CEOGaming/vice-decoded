@@ -1,0 +1,57 @@
+{
+  "id": "clip_mikkaa_heli",
+  "source": "https://www.twitch.tv/missmikkaa/clip/BelovedWonderfulCardANELE-lLIU38mS_V8N1doz",
+  "layout": "split",
+  "facecam": [
+    0.72,
+    0.42,
+    0.28,
+    0.55
+  ],
+  "mask": [
+    [
+      0.72,
+      0.42,
+      0.28,
+      0.55
+    ]
+  ],
+  "hook": "Sie wollte nur einen Hubschrauber",
+  "hook_full": true,
+  "title": "Sie will in GTA 6 einen Hubschrauber klauen – das Ende ist bitter #shorts",
+  "description": "Ein Hubschrauber auf dem Landeplatz und ein spontaner Plan. Original-Clip: MissMikkaa – https://www.twitch.tv/missmikkaa/clip/BelovedWonderfulCardANELE-lLIU38mS_V8N1doz\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #missmikkaa #fail #funny",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "missmikkaa",
+    "fail",
+    "funny"
+  ],
+  "tiktok": "Hubschrauber klauen in GTA 6… fast 🚁💀 #gta6 #gtavi #fail #lustig #fyp",
+  "instagram": "Hubschrauber-Fail in GTA 6 🚁💀\n\n#gta6 #gtavi #gaming #reels",
+  "beats": [
+    {
+      "original": true,
+      "start": 0,
+      "end": 12,
+      "focus": 0.5,
+      "subs": [
+        [
+          0.7,
+          4,
+          "Nein, ich hör nicht auf zu rennen."
+        ],
+        [
+          4,
+          6,
+          "Den nehm ich mir."
+        ],
+        [
+          6,
+          9.1,
+          "Nein nein nein nein!"
+        ]
+      ]
+    }
+  ]
+}
