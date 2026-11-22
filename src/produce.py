@@ -328,7 +328,7 @@ def layout_filter(stretch: float, crop: list | None = None, mode: str = "fill", 
         pre, cur = [], inp
         for k, (x, y, w, h) in enumerate(masks):
             pre.append(f"[{cur}]split=2[mk{k}a][mk{k}b];[mk{k}b]crop=iw*{w}:ih*{h}:iw*{x}:ih*{y},"
-                       f"boxblur=22:4,eq=brightness=-0.25[mk{k}r];[mk{k}a][mk{k}r]overlay=main_w*{x}:main_h*{y}[mk{k}]")
+                       f"boxblur=luma_radius='min(22,h/4)':luma_power=4:chroma_radius='min(10,ch/4)':chroma_power=4,eq=brightness=-0.25[mk{k}r];[mk{k}a][mk{k}r]overlay=main_w*{x}:main_h*{y}[mk{k}]")
             cur = f"mk{k}"
         return ";".join(pre), cur
     if mode == "split" and facecam:
