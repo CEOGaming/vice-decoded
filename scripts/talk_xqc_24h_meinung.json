@@ -1,0 +1,88 @@
+{
+  "id": "talk_xqc_24h_meinung",
+  "source": "https://www.twitch.tv/xqc/clip/VivaciousCallousYogurtDxCat-tcAghtrsbnP82HX2",
+  "layout": "split",
+  "facecam": [
+    0.005,
+    0.005,
+    0.195,
+    0.28
+  ],
+  "hook": "xQc nach 24 Stunden GTA 6: ehrliche Meinung",
+  "hook_full": true,
+  "title": "xQc nach 24 Stunden GTA 6: Story top, aber… #shorts",
+  "description": "Nach einem 24-Stunden-Stream sagt xQc ehrlich, was ihn an GTA 6 begeistert und was ihn nervt. Original-Clip: xQc – https://www.twitch.tv/xqc/clip/VivaciousCallousYogurtDxCat-tcAghtrsbnP82HX2\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #xqc #meinung",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "xqc",
+    "meinung"
+  ],
+  "tiktok": "xQc nach 24h GTA 6 🎬 Hat er recht? #gta6 #gtavi #xqc #fyp",
+  "instagram": "xQc nach 24 Stunden GTA 6. Hat er recht? 🎬\n\n#gta6 #gtavi #gaming #reels",
+  "mask": [
+    [
+      0,
+      0,
+      0.21,
+      0.31
+    ],
+    [
+      0.3,
+      0.86,
+      0.4,
+      0.12
+    ]
+  ],
+  "beats": [
+    {
+      "original": true,
+      "start": 0,
+      "end": 33.7,
+      "focus": 0.5,
+      "subs": [
+        [
+          0,
+          3.7,
+          "Die Hauptmissionen sind echt Kino."
+        ],
+        [
+          3.7,
+          7.4,
+          "Die Story ist gut, mit gutem Tempo."
+        ],
+        [
+          7.4,
+          11,
+          "Und die Welt ist total immersiv."
+        ],
+        [
+          11,
+          15.4,
+          "Aber mir taten die Augen weh,"
+        ],
+        [
+          15.4,
+          21,
+          "wenn ich auf Gras und Boden geschaut hab."
+        ],
+        [
+          21,
+          25.9,
+          "Beim Fahren bekam ich Kopfschmerzen, wegen der Framerate."
+        ],
+        [
+          25.9,
+          30,
+          "30 FPS, die in die 20er fallen. Krass."
+        ],
+        [
+          30,
+          33.5,
+          "Alter, du siehst gar nichts."
+        ]
+      ]
+    }
+  ]
+}

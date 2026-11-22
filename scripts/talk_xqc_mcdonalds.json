@@ -1,0 +1,103 @@
+{
+  "id": "talk_xqc_mcdonalds",
+  "source": "https://www.twitch.tv/xqc/clip/FurryLittleBunnyCoolStoryBob-_J3RtuezOHW-UCWQ",
+  "layout": "split",
+  "facecam": [
+    0.005,
+    0.005,
+    0.195,
+    0.28
+  ],
+  "hook": "xQc: GTA 6 ist ein Sternegericht bei McDonald's",
+  "hook_full": true,
+  "title": "xQc: GTA 6 ist ein Sternegericht bei McDonald's #shorts",
+  "description": "xQc nennt GTA 6 ein Meisterwerk, aber auf Konsole sei es wie ein Drei-Sterne-Gericht, serviert bei McDonald's. Original-Clip: xQc – https://www.twitch.tv/xqc/clip/FurryLittleBunnyCoolStoryBob-_J3RtuezOHW-UCWQ\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #xqc #meinung",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "xqc",
+    "meinung"
+  ],
+  "tiktok": "Sternegericht bei McDonald's? 🍔 xQc über GTA 6 #gta6 #gtavi #xqc #fyp",
+  "instagram": "xQc über GTA 6 auf Konsole 🍔 Stimmst du zu?\n\n#gta6 #gtavi #gaming #reels",
+  "mask": [
+    [
+      0,
+      0,
+      0.21,
+      0.31
+    ],
+    [
+      0.3,
+      0.86,
+      0.4,
+      0.12
+    ]
+  ],
+  "beats": [
+    {
+      "original": true,
+      "start": 0,
+      "end": 60,
+      "focus": 0.5,
+      "subs": [
+        [
+          0,
+          6.3,
+          "Wenn man nur das Spiel selbst betrachtet,"
+        ],
+        [
+          6.3,
+          10,
+          "ist es ein Meisterwerk. Wirklich."
+        ],
+        [
+          10,
+          13.3,
+          "Man sieht, wie durchdacht es ist,"
+        ],
+        [
+          13.3,
+          21.7,
+          "aber so, wie es gerade auf Konsole läuft,"
+        ],
+        [
+          21.7,
+          27,
+          "ist das wie ein Drei-Sterne-Gericht…"
+        ],
+        [
+          27,
+          32.4,
+          "…serviert bei McDonald's."
+        ],
+        [
+          32.4,
+          39.7,
+          "Verstehst du? Das Produkt ist gut, aber auf Konsole"
+        ],
+        [
+          39.7,
+          45,
+          "ist es so ruckelig."
+        ],
+        [
+          45,
+          50.1,
+          "Ich kann Rockstar dafür nicht wirklich böse sein."
+        ],
+        [
+          50.3,
+          57.3,
+          "Aber die Konsolen sind einfach zu schwach,"
+        ],
+        [
+          57.3,
+          60,
+          "die packen nicht, was das Spiel braucht."
+        ]
+      ]
+    }
+  ]
+}

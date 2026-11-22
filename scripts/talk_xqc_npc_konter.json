@@ -1,0 +1,68 @@
+{
+  "id": "talk_xqc_npc_konter",
+  "source": "https://www.twitch.tv/xqc/clip/TrustworthyCarefulJalapenoKAPOW--CPhZdDJiBW-X0-C",
+  "layout": "split",
+  "facecam": [
+    0,
+    0.5,
+    0.19,
+    0.27
+  ],
+  "hook": "xQc beleidigt einen NPC… der kontert sofort",
+  "hook_full": true,
+  "title": "xQc beleidigt einen NPC – und der kontert sofort #shorts",
+  "description": "In GTA 6 lassen sich NPCs nichts gefallen. xQc teilt aus und bekommt es direkt zurück. Original-Clip: xQc – https://www.twitch.tv/xqc/clip/TrustworthyCarefulJalapenoKAPOW--CPhZdDJiBW-X0-C\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #xqc #npc",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "xqc",
+    "npc"
+  ],
+  "tiktok": "Der NPC lässt sich nichts gefallen 💀 #gta6 #gtavi #xqc #fyp",
+  "instagram": "Dieser NPC kontert xQc 💀\n\n#gta6 #gtavi #gaming #reels",
+  "mask": [
+    [
+      0,
+      0.5,
+      0.19,
+      0.27
+    ],
+    [
+      0.3,
+      0.86,
+      0.4,
+      0.12
+    ]
+  ],
+  "beats": [
+    {
+      "original": true,
+      "start": 0,
+      "end": 17.6,
+      "focus": 0.5,
+      "subs": [
+        [
+          0.1,
+          2.1,
+          "Was zum…"
+        ],
+        [
+          2.1,
+          4.1,
+          "Yo, Bro."
+        ],
+        [
+          4.5,
+          9.1,
+          "Genieß das, du Idiot. Was für ein Feigling."
+        ],
+        [
+          11,
+          17.5,
+          "Okay… dann schlag halt zuerst, du Lappen!"
+        ]
+      ]
+    }
+  ]
+}
