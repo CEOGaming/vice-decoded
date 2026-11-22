@@ -1,0 +1,89 @@
+{
+  "id": "clip_speed_oma_elektromobil",
+  "source": "https://www.twitch.tv/ishowspeed/clip/HilariousTiredManateeFrankerZ-d3IrR90WPncoIVyg",
+  "layout": "fill",
+  "hook": "Speed klaut einer Oma das Elektromobil 😭",
+  "hook_full": true,
+  "title": "Speed klaut einer Oma das Elektromobil – und bereut es sofort #shorts",
+  "description": "Erst klauen, dann ein schlechtes Gewissen, dann kommt die Polizei. Und das Ding ist SO langsam. Original-Clip: IShowSpeed – https://www.twitch.tv/ishowspeed/clip/HilariousTiredManateeFrankerZ-d3IrR90WPncoIVyg\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #funny #oma",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "funny",
+    "oma",
+    "elektromobil"
+  ],
+  "tiktok": "Speed vs. Oma im Elektromobil 😭🛵 #gta6 #gtavi #lustig #fyp",
+  "instagram": "Speed fühlt sich schlecht 😭🛵\n\n#gta6 #gtavi #gaming #reels",
+  "mask": [
+    [
+      0,
+      0.38,
+      0.22,
+      0.3
+    ],
+    [
+      0.84,
+      0,
+      0.16,
+      0.45
+    ],
+    [
+      0.28,
+      0.88,
+      0.44,
+      0.1
+    ]
+  ],
+  "beats": [
+    {
+      "original": true,
+      "start": 0,
+      "end": 60,
+      "focus": 0.5,
+      "subs": [
+        [
+          0,
+          6,
+          "Nein, Bro… jetzt fühl ich mich schlecht."
+        ],
+        [
+          6,
+          12,
+          "Ich fühl mich echt schlecht, Bro."
+        ],
+        [
+          12.4,
+          17.6,
+          "Hier, du kriegst ihn zurück! Sorry, sorry!"
+        ],
+        [
+          19.3,
+          24.2,
+          "Tut mir leid, Bro… steh auf, steh auf!"
+        ],
+        [
+          25.8,
+          31.3,
+          "Ich fühl mich schlecht… steh auf, Bro!"
+        ],
+        [
+          32.3,
+          34.3,
+          "Hier, du kannst dein Auto zurückhaben."
+        ],
+        [
+          48.6,
+          50.6,
+          "Oh Shit!"
+        ],
+        [
+          55.7,
+          59.3,
+          "Wie langsam ist das Ding?! Oh mein Gott!"
+        ]
+      ]
+    }
+  ]
+}
