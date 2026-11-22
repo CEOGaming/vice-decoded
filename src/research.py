@@ -19,6 +19,17 @@ OUT = ROOT / "data" / "research" / "shorts.json"
 KEY = os.environ["YOUTUBE_API_KEY"]
 API = "https://www.googleapis.com/youtube/v3"
 
+TOPICS_GTA6 = {
+    "gta6_funny": "GTA 6 funny #shorts",
+    "gta6_streamer": "GTA 6 streamer reaction #shorts",
+    "gta6_tips": "GTA 6 tips tricks #shorts",
+    "gta6_details": "GTA 6 details you missed #shorts",
+    "gta6_deutsch": "GTA 6 deutsch #shorts",
+    "gta6_lustig": "GTA 6 lustig #shorts",
+    "gta6_clip": "GTA 6 clip",
+    "gta6": "GTA 6 #shorts",
+}
+
 TOPICS = {
     "gta5_lore": "GTA 5 secret easter egg #shorts",
     "gta5_funny": "GTA 5 funny moment streamer #shorts",
@@ -43,12 +54,15 @@ def secs(d: str) -> int:
 
 
 def main() -> None:
-    since = (datetime.now(timezone.utc) - timedelta(days=365)).strftime("%Y-%m-%dT%H:%M:%SZ")
+    days = int(os.environ.get("DAYS", "365"))
+    topics = TOPICS_GTA6 if os.environ.get("SET") == "gta6" else TOPICS
+    out = OUT if os.environ.get("SET") != "gta6" else OUT.with_name("gta6_shorts.json")
+    since = (datetime.now(timezone.utc) - timedelta(days=days)).strftime("%Y-%m-%dT%H:%M:%SZ")
     result = {}
-    for key, q in TOPICS.items():
+    for key, q in topics.items():
         s = requests.get(f"{API}/search", params={
             "key": KEY, "part": "id", "type": "video", "order": "viewCount", "q": q,
-            "videoDuration": "short", "maxResults": 25, "publishedAfter": since,
+            "videoDuration": "short", "maxResults": 50, "publishedAfter": since,
         }, timeout=20)
         s.raise_for_status()
         ids = [i["id"]["videoId"] for i in s.json().get("items", [])]
@@ -68,11 +82,14 @@ def main() -> None:
                 "views": int(st.get("viewCount", 0)),
                 "likes": int(st.get("likeCount", 0)),
                 "comments": int(st.get("commentCount", 0)),
+                "lang": it["snippet"].get("defaultAudioLanguage") or it["snippet"].get("defaultLanguage"),
+                "description": it["snippet"].get("description", "")[:300],
+                "tags": it["snippet"].get("tags", [])[:15],
             })
         result[key] = {"query": q, "videos": rows}
         print(key, len(rows))
-    OUT.parent.mkdir(parents=True, exist_ok=True)
-    OUT.write_text(json.dumps(result, ensure_ascii=False, indent=2), encoding="utf-8")
+    out.parent.mkdir(parents=True, exist_ok=True)
+    out.write_text(json.dumps(result, ensure_ascii=False, indent=2), encoding="utf-8")
 
 
 if __name__ == "__main__":
