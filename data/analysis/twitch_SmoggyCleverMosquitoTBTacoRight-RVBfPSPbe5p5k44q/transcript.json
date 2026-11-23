@@ -1,0 +1,40 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 30.0,
+      "end": 32.0,
+      "text": "Get away from me."
+    },
+    {
+      "start": 32.0,
+      "end": 34.0,
+      "text": "You gonna make me catch a body already?"
+    },
+    {
+      "start": 34.0,
+      "end": 36.0,
+      "text": "You gonna make me catch a body?"
+    },
+    {
+      "start": 36.0,
+      "end": 41.3,
+      "text": "You gonna make me catch a body in this eye?"
+    },
+    {
+      "start": 41.3,
+      "end": 55.1,
+      "text": "Make me catch a body this early in the day."
+    },
+    {
+      "start": 55.1,
+      "end": 57.1,
+      "text": "I see how it is."
+    },
+    {
+      "start": 57.1,
+      "end": 59.1,
+      "text": "Let's get out of here, Jason."
+    }
+  ]
+}
