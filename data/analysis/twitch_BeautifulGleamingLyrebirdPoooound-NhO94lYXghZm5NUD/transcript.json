@@ -1,0 +1,25 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 1.5,
+      "end": 8.3,
+      "text": "Hey, where did that shark go? Hey, man, I'm giving you some free cake here"
+    },
+    {
+      "start": 12.4,
+      "end": 14.4,
+      "text": "Damn"
+    },
+    {
+      "start": 14.8,
+      "end": 19.1,
+      "text": "Damn dude the graphics are so good that this feels uncomfortable"
+    },
+    {
+      "start": 21.7,
+      "end": 25.5,
+      "text": "What the fuck am I stoned"
+    }
+  ]
+}

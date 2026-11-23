@@ -1,0 +1,50 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Thanks."
+    },
+    {
+      "start": 2.0,
+      "end": 5.0,
+      "text": "That thing got a brain eating amoeba in it."
+    },
+    {
+      "start": 5.0,
+      "end": 7.0,
+      "text": "Yeah baby."
+    },
+    {
+      "start": 9.0,
+      "end": 12.0,
+      "text": "No way! No!"
+    },
+    {
+      "start": 12.0,
+      "end": 21.0,
+      "text": "Thank you God. Thank you Jesus."
+    },
+    {
+      "start": 21.0,
+      "end": 24.0,
+      "text": "Ma? Thank you Santa Maria."
+    },
+    {
+      "start": 24.0,
+      "end": 26.0,
+      "text": "And the freaking Holy Ghost too."
+    },
+    {
+      "start": 26.0,
+      "end": 27.0,
+      "text": "You okay Ma?"
+    },
+    {
+      "start": 27.0,
+      "end": 28.0,
+      "text": "No I'm not okay."
+    }
+  ]
+}

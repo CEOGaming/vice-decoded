@@ -1,0 +1,30 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 1.2,
+      "end": 5.3,
+      "text": "What the hell wrong with you?"
+    },
+    {
+      "start": 5.8,
+      "end": 39.9,
+      "text": "Is her ass okay? What I got help her anything I can do I got help her"
+    },
+    {
+      "start": 40.3,
+      "end": 46.4,
+      "text": "Yeah, okay, just wait here. Okay"
+    },
+    {
+      "start": 47.6,
+      "end": 48.8,
+      "text": "here"
+    },
+    {
+      "start": 48.8,
+      "end": 54.4,
+      "text": "Bro, where else am I gonna go? Oh my"
+    }
+  ]
+}

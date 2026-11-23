@@ -1,0 +1,40 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.9,
+      "end": 2.9,
+      "text": "Okay chat"
+    },
+    {
+      "start": 3.3,
+      "end": 6.8,
+      "text": "If a dog on a jet ski comes and picks me up"
+    },
+    {
+      "start": 7.6,
+      "end": 9.6,
+      "text": "I'm getting my cheeks out"
+    },
+    {
+      "start": 9.8,
+      "end": 23.5,
+      "text": "Shut the front door shut the shut the front door bro shut up shut up"
+    },
+    {
+      "start": 23.9,
+      "end": 25.9,
+      "text": "No freaking way"
+    },
+    {
+      "start": 35.0,
+      "end": 41.2,
+      "text": "This is the greatest game of all time this is the best game of all time. This is the greatest game of all time"
+    },
+    {
+      "start": 42.0,
+      "end": 48.7,
+      "text": "No f in way bro a dog on a jet ski just can't"
+    }
+  ]
+}

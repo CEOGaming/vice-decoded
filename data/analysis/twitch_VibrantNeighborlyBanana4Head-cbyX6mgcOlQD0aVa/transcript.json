@@ -1,0 +1,35 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.9,
+      "end": 4.5,
+      "text": "Oh"
+    },
+    {
+      "start": 6.1,
+      "end": 8.1,
+      "text": "Excuse me sir, I'm gonna need to test something"
+    },
+    {
+      "start": 11.7,
+      "end": 14.9,
+      "text": "That are ever tired YouTube look away"
+    },
+    {
+      "start": 15.0,
+      "end": 17.0,
+      "text": "We're gonna pass it on to the next"
+    },
+    {
+      "start": 31.0,
+      "end": 33.0,
+      "text": "You can't pick up"
+    },
+    {
+      "start": 44.9,
+      "end": 46.9,
+      "text": "Thank you"
+    }
+  ]
+}
