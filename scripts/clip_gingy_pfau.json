@@ -1,0 +1,57 @@
+{
+  "id": "clip_gingy_pfau",
+  "source": "https://www.twitch.tv/gingy/clip/ElatedBrightOctopusHeyGirl-57Q_mt43G5yKlOk1",
+  "layout": "fill",
+  "hook": "SIE WOLLTE DEN PFAU NUR STREICHELN",
+  "hook_full": true,
+  "title": "Sie wollte den Pfau in GTA 6 nur streicheln #shorts",
+  "description": "Gingy will im Park einen Pfau streicheln. Es läuft anders als geplant. Original-Clip: Gingy – https://www.twitch.tv/gingy/clip/ElatedBrightOctopusHeyGirl-57Q_mt43G5yKlOk1\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #tiere #funny",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "tiere",
+    "funny"
+  ],
+  "tiktok": "Armer Pfau 😭🦚 #gta6 #gtavi #tiere #fyp",
+  "instagram": "Sie wollte ihn nur streicheln 😭🦚\n\n#gta6 #gtavi #gaming #reels",
+  "mask": [
+    [
+      0.68,
+      0.62,
+      0.32,
+      0.38
+    ],
+    [
+      0.28,
+      0.85,
+      0.44,
+      0.12
+    ]
+  ],
+  "beats": [
+    {
+      "original": true,
+      "start": 0,
+      "end": 30,
+      "focus": 0.5,
+      "subs": [
+        [
+          4.5,
+          8,
+          "Oh mein Gott…"
+        ],
+        [
+          12,
+          17,
+          "Ich… ich hab nicht geschaut…"
+        ],
+        [
+          22,
+          25.2,
+          "…ob ich ihn streicheln kann."
+        ]
+      ]
+    }
+  ]
+}

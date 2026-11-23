@@ -1,0 +1,56 @@
+{
+  "id": "clip_whoajaco_florida",
+  "source": "https://www.twitch.tv/whoajaco/clip/LazyProudManateeDatSheffy-6JmvtfaXGQbKZ1Xn",
+  "layout": "fill",
+  "hook": "DAS PASSIERT NUR IN FLORIDA",
+  "hook_full": true,
+  "title": "Das passiert nur in Florida #shorts",
+  "description": "Vom Airboat direkt in den Wasserhubschrauber. Willkommen in Florida. Original-Clip: whoajaco – https://www.twitch.tv/whoajaco/clip/LazyProudManateeDatSheffy-6JmvtfaXGQbKZ1Xn\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #florida #hubschrauber",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "florida",
+    "hubschrauber"
+  ],
+  "tiktok": "Willkommen in Florida 🐊🚁 #gta6 #gtavi #fyp",
+  "instagram": "Willkommen in Florida 🐊🚁\n\n#gta6 #gtavi #gaming #reels",
+  "mask": [
+    [
+      0,
+      0,
+      0.23,
+      0.34
+    ]
+  ],
+  "beats": [
+    {
+      "original": true,
+      "start": 0,
+      "end": 35.6,
+      "focus": 0.5,
+      "subs": [
+        [
+          0.5,
+          2.5,
+          "Willkommen in Florida."
+        ],
+        [
+          3.3,
+          9,
+          "Willkommen in Florida."
+        ],
+        [
+          27,
+          31.5,
+          "Glaubst du, denen geht's gut?"
+        ],
+        [
+          32.5,
+          35.6,
+          "Ob die okay sind? Ich hoffe es, Bro."
+        ]
+      ]
+    }
+  ]
+}
