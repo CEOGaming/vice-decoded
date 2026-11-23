@@ -1,0 +1,76 @@
+{
+  "id": "clip_whoajaco_trage",
+  "source": "https://www.twitch.tv/whoajaco/clip/DeadRealFriesRitzMitz-6keq5kmEasA0BdRm",
+  "layout": "fill",
+  "hook": "ER HAT IHN GEHEILT… IRGENDWIE",
+  "hook_full": true,
+  "title": "Er hat ihn in GTA 6 geheilt… irgendwie #shorts",
+  "description": "Ein Verletzter auf einer Trage, eine Straße und eine sehr schlechte Idee. Original-Clip: whoajaco – https://www.twitch.tv/whoajaco/clip/DeadRealFriesRitzMitz-6keq5kmEasA0BdRm\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #npc #funny",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "npc",
+    "funny"
+  ],
+  "tiktok": "Wunderheilung 💀 #gta6 #gtavi #npc #fyp",
+  "instagram": "Bester Sanitäter in Vice City 💀\n\n#gta6 #gtavi #gaming #reels",
+  "mask": [
+    [
+      0,
+      0,
+      0.25,
+      0.34
+    ]
+  ],
+  "beats": [
+    {
+      "original": true,
+      "start": 0,
+      "end": 56,
+      "focus": 0.5,
+      "subs": [
+        [
+          0.8,
+          6,
+          "Glaubst du, dem geht's gut? Wir sollten ihn mitnehmen."
+        ],
+        [
+          6.5,
+          9.1,
+          "Was, wenn ich seine Trage mitten auf die Straße rolle?"
+        ],
+        [
+          9.6,
+          17.1,
+          "Was, wenn ich ihn vor den Laster da rolle?"
+        ],
+        [
+          20.7,
+          26.3,
+          "Nein!"
+        ],
+        [
+          26.3,
+          32.4,
+          "Oh, schau! Er steht! Ich hab ihn geheilt!"
+        ],
+        [
+          32.7,
+          34.7,
+          "Fühlt sich für den Rücken wohl nicht so gut an."
+        ],
+        [
+          35.6,
+          38.3,
+          "Schau, dem geht's gut. Oh mein Gott."
+        ],
+        [
+          38.3,
+          48,
+          "Leute, ihr könnt doch nicht über eine Leiche fahren!"
+        ]
+      ]
+    }
+  ]
+}

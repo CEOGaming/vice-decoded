@@ -1,0 +1,62 @@
+{
+  "id": "clip_speed_umarmung",
+  "source": "https://www.twitch.tv/ishowspeed/clip/PlayfulViscousYogurtDatBoi-Ony6nj7NiMRgAIgU",
+  "layout": "fill",
+  "hook": "SPEED UMARMT DEN ROTEN RIESEN",
+  "hook_full": true,
+  "title": "Speed umarmt in GTA 6 den roten Riesen #shorts",
+  "description": "Speed trifft einen riesigen roten Kerl und entscheidet sich für eine Umarmung. Original-Clip: IShowSpeed – https://www.twitch.tv/ishowspeed/clip/PlayfulViscousYogurtDatBoi-Ony6nj7NiMRgAIgU\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #ishowspeed #funny",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "ishowspeed",
+    "funny"
+  ],
+  "tiktok": "Free hugs 🫂 #gta6 #gtavi #ishowspeed #fyp",
+  "instagram": "Speed umarmt einfach jeden 🫂\n\n#gta6 #gtavi #gaming #reels",
+  "mask": [
+    [
+      0,
+      0.38,
+      0.22,
+      0.36
+    ],
+    [
+      0.84,
+      0,
+      0.16,
+      0.45
+    ]
+  ],
+  "beats": [
+    {
+      "original": true,
+      "start": 0,
+      "end": 30.4,
+      "focus": 0.5,
+      "subs": [
+        [
+          0.7,
+          3.6,
+          "Hey, alles okay, Kumpel? Was zur Hölle?"
+        ],
+        [
+          11.3,
+          15.4,
+          "Hör zu, Großer, du musst gehen. Die werden nach dir suchen."
+        ],
+        [
+          22.8,
+          25.8,
+          "Soll ich ihn umarmen? Ich glaub, ich muss ihn umarmen."
+        ],
+        [
+          27.3,
+          29.3,
+          "Der tut mir leid, Bro."
+        ]
+      ]
+    }
+  ]
+}

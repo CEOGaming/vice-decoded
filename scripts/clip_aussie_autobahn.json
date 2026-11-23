@@ -1,0 +1,62 @@
+{
+  "id": "clip_aussie_autobahn",
+  "source": "https://www.twitch.tv/aussieantics/clip/WanderingCooperativeSrirachaPrimeMe-WA1nAHm3JfWRyOI0",
+  "layout": "fill",
+  "hook": "NICHT STÖREN, ICH KOMM DURCH",
+  "hook_full": true,
+  "title": "Nicht stören, ich komm durch – GTA 6 #shorts",
+  "description": "AussieAntics hat es eilig. Der Verkehr muss Platz machen. Original-Clip: AussieAntics – https://www.twitch.tv/aussieantics/clip/WanderingCooperativeSrirachaPrimeMe-WA1nAHm3JfWRyOI0\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #autobahn #funny",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "autobahn",
+    "funny"
+  ],
+  "tiktok": "Platz da 💀 #gta6 #gtavi #fyp",
+  "instagram": "Nicht stören, ich komm durch 💀\n\n#gta6 #gtavi #gaming #reels",
+  "mask": [
+    [
+      0.72,
+      0.34,
+      0.28,
+      0.3
+    ],
+    [
+      0.28,
+      0.85,
+      0.44,
+      0.12
+    ]
+  ],
+  "beats": [
+    {
+      "original": true,
+      "start": 0,
+      "end": 11,
+      "focus": 0.5,
+      "subs": [
+        [
+          0,
+          2,
+          "Ja, nicht stören. Kurz mal. Ich komm durch."
+        ],
+        [
+          2,
+          3,
+          "Oh, oh."
+        ],
+        [
+          3,
+          5,
+          "Besser nur ein Kratzer!"
+        ],
+        [
+          5,
+          10,
+          "Oh!"
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": "clip_roshi_ueberfall",
+  "source": "https://www.twitch.tv/yaboyroshi/clip/CooperativeSweetTermiteSmoocherZ-m8_tb09SycteKtod",
+  "layout": "fill",
+  "hook": "RAUBÜBERFALL? LIEF NICHT SO GUT",
+  "hook_full": true,
+  "title": "Ein Raubüberfall in GTA 6, der nicht so gut lief #shorts",
+  "description": "Ein Pfandleihhaus ausrauben klingt einfach. Der Besitzer sieht das anders. Original-Clip: yaboyroshi – https://www.twitch.tv/yaboyroshi/clip/CooperativeSweetTermiteSmoocherZ-m8_tb09SycteKtod\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #ueberfall #fail",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "ueberfall",
+    "fail"
+  ],
+  "tiktok": "Das war eine dumme Idee 💀 #gta6 #gtavi #fail #fyp",
+  "instagram": "Raubüberfall: gescheitert 💀\n\n#gta6 #gtavi #gaming #reels",
+  "mask": [
+    [
+      0,
+      0,
+      0.23,
+      1
+    ]
+  ],
+  "beats": [
+    {
+      "original": true,
+      "start": 0,
+      "end": 34,
+      "focus": 0.5,
+      "subs": [
+        [
+          0,
+          9,
+          "Viel zu groß. Okay, mach die Kasse auf. Bitte!"
+        ],
+        [
+          9,
+          16,
+          "Du gibst mir nur mehr Grund, die Cops zu rufen. Hmm, das war eine dumme Idee."
+        ],
+        [
+          16,
+          27,
+          "Oder ich knall dich einfach ab!"
+        ]
+      ]
+    }
+  ]
+}
