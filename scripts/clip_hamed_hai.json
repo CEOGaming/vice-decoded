@@ -1,0 +1,58 @@
+{
+  "id": "clip_hamed_hai",
+  "source": "https://www.twitch.tv/hamedloco/clip/DistinctBillowingFlamingoOhMyDog-p0txG_Wh-MO9WBXH",
+  "layout": "fill",
+  "hook": "STATT HUND KAM DER HAI",
+  "hook_full": true,
+  "title": "Statt Hunde-Easter-Egg kam der Hai #shorts",
+  "description": "HamedLoco sucht im Meer das Hunde-Easter-Egg. Gefunden hat er etwas anderes. Original-Clip: HamedLoco – https://www.twitch.tv/hamedloco/clip/DistinctBillowingFlamingoOhMyDog-p0txG_Wh-MO9WBXH\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #hamedloco #hai #eastereggs",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "hamedloco",
+    "hai",
+    "eastereggs"
+  ],
+  "tiktok": "Statt Hund kam der Hai 🦈 #gta6 #gtavi #fyp",
+  "instagram": "Easter Egg fehlgeschlagen 😭\n\n#gta6 #gtavi #gaming #reels",
+  "mask": [
+    [
+      0.6,
+      0,
+      0.4,
+      0.12
+    ]
+  ],
+  "beats": [
+    {
+      "original": true,
+      "start": 0,
+      "end": 33,
+      "focus": 0.5,
+      "subs": [
+        [
+          0.2,
+          8,
+          "Ich kann nicht mehr.",
+          "Hamed"
+        ],
+        [
+          15.7,
+          20,
+          "Ja, okay.",
+          "Hamed"
+        ],
+        [
+          25.5,
+          31.6,
+          "Das Hunde-Easter-Egg hat nicht funktioniert.",
+          "Hamed"
+        ]
+      ]
+    }
+  ],
+  "style": "prompt",
+  "streamer": "Hamed",
+  "credit": "Clip: HamedLoco (Twitch)"
+}

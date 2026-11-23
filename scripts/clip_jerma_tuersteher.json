@@ -1,0 +1,90 @@
+{
+  "id": "clip_jerma_tuersteher",
+  "source": "https://www.twitch.tv/jerma985/clip/PreciousEnergeticRadishThunBeast-pMv0_kQjVcSHLBJk",
+  "layout": "fill",
+  "hook": "BOOBY HAT MICH EINGELADEN!",
+  "hook_full": true,
+  "title": "Der Türsteher in GTA 6 kennt kein Pardon #shorts",
+  "description": "Jerma will in einen Club und beruft sich auf Booby. Der Türsteher sieht das anders. Original-Clip: Jerma985 – https://www.twitch.tv/jerma985/clip/PreciousEnergeticRadishThunBeast-pMv0_kQjVcSHLBJk\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #jerma #club #funny",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "jerma",
+    "club",
+    "funny"
+  ],
+  "tiktok": "Booby hat mich eingeladen 😭 #gta6 #gtavi #fyp",
+  "instagram": "Der Türsteher kennt kein Pardon 💀\n\n#gta6 #gtavi #gaming #reels",
+  "mask": [
+    [
+      0.28,
+      0.84,
+      0.44,
+      0.13
+    ]
+  ],
+  "beats": [
+    {
+      "original": true,
+      "start": 0,
+      "end": 22,
+      "focus": 0.5,
+      "subs": [
+        [
+          0,
+          5.8,
+          "Booby hat gesagt, ich soll herkommen! Booby hat mich eingeladen!",
+          "Jerma"
+        ],
+        [
+          5.8,
+          10,
+          "Nein, du verstehst nicht. Ruf Booby an!",
+          "Jerma"
+        ],
+        [
+          10,
+          14.8,
+          "Warte, nein! Ich hab keine Drogen!",
+          "Jerma"
+        ],
+        [
+          14.8,
+          20,
+          "Was zur Hölle?!",
+          "Jerma"
+        ]
+      ]
+    },
+    {
+      "original": true,
+      "start": 31,
+      "end": 57,
+      "focus": 0.5,
+      "subs": [
+        [
+          33.2,
+          38.5,
+          "Lag es daran, dass ich so aggressiv vorgefahren bin?",
+          "Jerma"
+        ],
+        [
+          42.9,
+          48,
+          "Warum hat er das gemacht?",
+          "Jerma"
+        ],
+        [
+          50,
+          56.5,
+          "Was ist passiert? Hat er mich ausgeraubt?",
+          "Jerma"
+        ]
+      ]
+    }
+  ],
+  "style": "prompt",
+  "streamer": "Jerma",
+  "credit": "Clip: Jerma985 (Twitch)"
+}

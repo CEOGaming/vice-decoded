@@ -1,0 +1,94 @@
+{
+  "id": "talk_monte_insider",
+  "source": "https://www.twitch.tv/montanablack88/clip/PlayfulSpeedyHedgehogGingerPower-Ynr2CGeZiHOOy-cL",
+  "layout": "fill",
+  "hook": "MONTES GEHEIMER YOUTUBE-TRICK",
+  "hook_full": true,
+  "title": "Montes geheimer Trick bei YouTube-Reactions #shorts",
+  "description": "MontanaBlack verrät im GTA-6-Stream, warum er bei Reactions ständig das T-Shirt wechselt. Original-Clip: MontanaBlack88 – https://www.twitch.tv/montanablack88/clip/PlayfulSpeedyHedgehogGingerPower-Ynr2CGeZiHOOy-cL\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #montanablack #realtalk #youtube",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "montanablack",
+    "realtalk",
+    "youtube"
+  ],
+  "tiktok": "Deswegen wechselt Monte ständig das Shirt 😂 #gta6 #gtavi #fyp",
+  "instagram": "Lea muss leiden 😭\n\n#gta6 #gtavi #gaming #reels",
+  "mask": [
+    [
+      0.68,
+      0.45,
+      0.32,
+      0.55
+    ],
+    [
+      0.8,
+      0,
+      0.2,
+      0.08
+    ]
+  ],
+  "beats": [
+    {
+      "original": true,
+      "start": 0,
+      "end": 39,
+      "focus": 0.5,
+      "subs": [
+        [
+          0,
+          4.6,
+          "Ich verrate euch jetzt einen kleinen Insider.",
+          "Monte"
+        ],
+        [
+          4.6,
+          9.5,
+          "Wenn ich zwei, drei Reactions hintereinander zu Hause aufnehme…",
+          "Monte"
+        ],
+        [
+          9.5,
+          13.6,
+          "…wechsle ich zwischendurch immer T-Shirt und Cap.",
+          "Monte"
+        ],
+        [
+          13.6,
+          16.8,
+          "Die Leute sollen nicht denken, dass ich drei Videos am Stück aufnehme.",
+          "Monte"
+        ],
+        [
+          16.8,
+          25.5,
+          "Sie sollen denken: Heute ein Video, morgen ein Video, auch bei mir ein neuer Tag.",
+          "Monte"
+        ],
+        [
+          25.6,
+          29.8,
+          "Deswegen hab ich mit Lea regelmäßig dicke Luft.",
+          "Monte"
+        ],
+        [
+          29.8,
+          33.2,
+          "Sie sagt: Alter, wie viele T-Shirts soll ich noch waschen?",
+          "Monte"
+        ],
+        [
+          33.2,
+          38.5,
+          "Manchmal nimmst du drei, vier T-Shirts am Tag.",
+          "Monte"
+        ]
+      ]
+    }
+  ],
+  "style": "prompt",
+  "streamer": "Monte",
+  "credit": "Clip: MontanaBlack88 (Twitch)"
+}

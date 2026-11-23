@@ -1,0 +1,62 @@
+{
+  "id": "clip_cohh_autoklau",
+  "source": "https://www.twitch.tv/cohhcarnage/clip/SpunkyBrightEggNerfRedBlaster-47gN7feZSIRSDdRd",
+  "layout": "fill",
+  "hook": "KANN ICH DEIN AUTO LEIHEN?",
+  "hook_full": true,
+  "title": "Höflich fragen in GTA 6 – so endet es #shorts",
+  "description": "In GTA 6 fragt Jason erst höflich nach dem Auto. Die Fahrerin ist nicht begeistert. Original-Clip: CohhCarnage – https://www.twitch.tv/cohhcarnage/clip/SpunkyBrightEggNerfRedBlaster-47gN7feZSIRSDdRd\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #cohhcarnage #autoklau #funny",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "cohhcarnage",
+    "autoklau",
+    "funny"
+  ],
+  "tiktok": "Kann ich dein Auto leihen? 😇 #gta6 #gtavi #fyp",
+  "instagram": "Höflichkeit in GTA 6 😂\n\n#gta6 #gtavi #gaming #reels",
+  "beats": [
+    {
+      "original": true,
+      "start": 0,
+      "end": 20.6,
+      "focus": 0.5,
+      "subs": [
+        [
+          2.9,
+          4.9,
+          "Hi.",
+          "Jason"
+        ],
+        [
+          4.9,
+          8.7,
+          "Kann ich mir bitte dein Auto leihen?",
+          "Jason"
+        ],
+        [
+          8.7,
+          13,
+          "Hilfe!",
+          "NPC"
+        ],
+        [
+          14.3,
+          16.3,
+          "Ruf einen Freund an oder so!",
+          "Jason"
+        ],
+        [
+          16.3,
+          20.3,
+          "Hilfe! Hilfe!",
+          "NPC"
+        ]
+      ]
+    }
+  ],
+  "style": "prompt",
+  "streamer": "Cohh",
+  "credit": "Clip: CohhCarnage (Twitch)"
+}

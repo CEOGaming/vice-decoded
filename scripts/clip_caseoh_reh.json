@@ -1,0 +1,69 @@
+{
+  "id": "clip_caseoh_reh",
+  "source": "https://www.twitch.tv/caseoh_/clip/OutstandingPoorMuleTooSpicy-EPG7Mkqz0hYMboIi",
+  "layout": "fill",
+  "hook": "WAR DAS GERADE EIN REH?",
+  "hook_full": true,
+  "title": "CaseOh fährt in GTA 6 ein Reh um #shorts",
+  "description": "CaseOh rast mit dem Motorrad über einen Waldweg und merkt erst danach, was er erwischt hat. Original-Clip: caseoh_ – https://www.twitch.tv/caseoh_/clip/OutstandingPoorMuleTooSpicy-EPG7Mkqz0hYMboIi\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #caseoh #tiere",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "caseoh",
+    "tiere"
+  ],
+  "tiktok": "Das Reh hatte keine Chance 💀 #gta6 #gtavi #fyp",
+  "instagram": "Er war mit 60 unterwegs 😭\n\n#gta6 #gtavi #gaming #reels",
+  "beats": [
+    {
+      "original": true,
+      "start": 0,
+      "end": 15,
+      "focus": 0.5,
+      "subs": [
+        [
+          0.1,
+          1.1,
+          "Wie spät ist es?",
+          "CaseOh"
+        ],
+        [
+          1.1,
+          3.1,
+          "Ist das gefährlich? Sieht ein bisschen gefährlich aus.",
+          "CaseOh"
+        ]
+      ]
+    },
+    {
+      "original": true,
+      "start": 28.6,
+      "end": 35,
+      "focus": 0.5,
+      "subs": [
+        [
+          29.1,
+          30.1,
+          "Ich hab gerade ein Reh überfahren.",
+          "CaseOh"
+        ],
+        [
+          30.1,
+          32.1,
+          "Das Reh hat das auf keinen Fall überlebt.",
+          "CaseOh"
+        ],
+        [
+          32.1,
+          34.5,
+          "Ich war mit ungefähr 60 unterwegs.",
+          "CaseOh"
+        ]
+      ]
+    }
+  ],
+  "style": "prompt",
+  "streamer": "CaseOh",
+  "credit": "Clip: caseoh_ (Twitch)"
+}

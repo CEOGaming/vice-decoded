@@ -1,0 +1,44 @@
+{
+  "id": "clip_ohnepixel_bruecke",
+  "source": "https://www.twitch.tv/ohnepixel/clip/HungryUglyGalagoPoooound-Fph_qDktjoztCk8w",
+  "layout": "fill",
+  "hook": "ÜBERLEBT SIE DAS?",
+  "hook_full": true,
+  "title": "Lucia springt in GTA 6 von der Brücke #shorts",
+  "description": "ohnePixel sucht einen Weg nach unten, ohne zu sterben. Lucia nimmt den schnellsten. Original-Clip: ohnePixel – https://www.twitch.tv/ohnepixel/clip/HungryUglyGalagoPoooound-Fph_qDktjoztCk8w\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #ohnepixel #lucia #fail",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "ohnepixel",
+    "lucia",
+    "fail"
+  ],
+  "tiktok": "Überlebt sie das? 😳 #gta6 #gtavi #fyp",
+  "instagram": "Der schnellste Weg nach unten 😭\n\n#gta6 #gtavi #gaming #reels",
+  "beats": [
+    {
+      "original": true,
+      "start": 0,
+      "end": 16.2,
+      "focus": 0.5,
+      "subs": [
+        [
+          0.1,
+          4.5,
+          "Okay, wie kommen wir runter, ohne zu sterben?",
+          "ohnePixel"
+        ],
+        [
+          12.8,
+          15,
+          "Sie lebt! Ich schwör’s!",
+          "ohnePixel"
+        ]
+      ]
+    }
+  ],
+  "style": "prompt",
+  "streamer": "ohnePixel",
+  "credit": "Clip: ohnePixel (Twitch)"
+}

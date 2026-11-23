@@ -1,0 +1,94 @@
+{
+  "id": "talk_rewinside_clips",
+  "source": "https://www.twitch.tv/rewinside/clip/CreativeUgliestElephantOMGScoots-52Ww_W7kRL2J35uL",
+  "layout": "fill",
+  "hook": "REWI ERLAUBT ALLES",
+  "hook_full": true,
+  "title": "Rewinside: Ladet meine GTA-6-Clips hoch #shorts",
+  "description": "Rewinside sagt im Stream klar: Jeder darf seine GTA-Clips hochladen und damit Geld verdienen. Original-Clip: rewinside – https://www.twitch.tv/rewinside/clip/CreativeUgliestElephantOMGScoots-52Ww_W7kRL2J35uL\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #rewinside #realtalk #clips",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "rewinside",
+    "realtalk",
+    "clips"
+  ],
+  "tiktok": "Rewi hat gesprochen 🫡 #gta6 #gtavi #fyp",
+  "instagram": "Ladet hoch, nehmt euch das Geld 😂\n\n#gta6 #gtavi #gaming #reels",
+  "mask": [
+    [
+      0,
+      0.42,
+      0.26,
+      0.56
+    ]
+  ],
+  "beats": [
+    {
+      "original": true,
+      "start": 0,
+      "end": 38,
+      "focus": 0.5,
+      "subs": [
+        [
+          0.1,
+          4.5,
+          "Freunde, ich werde hier mehrfach bombardiert.",
+          "Rewi"
+        ],
+        [
+          4.5,
+          9.1,
+          "Mein Management wird ständig gefragt, wie es mit Clips von mir aussieht.",
+          "Rewi"
+        ],
+        [
+          9.1,
+          13.5,
+          "Jungs, Mädels da draußen: Holt euch das, feuert ab!",
+          "Rewi"
+        ],
+        [
+          13.5,
+          18.1,
+          "Ladet es auf TikTok und Instagram hoch, wenn ich es nicht gebacken bekomme.",
+          "Rewi"
+        ],
+        [
+          18.1,
+          22,
+          "Ladet hoch, nehmt euch das Geld, juckt mich nicht.",
+          "Rewi"
+        ],
+        [
+          22,
+          26.1,
+          "Ihr dürft auch eure Kohle machen. Raus damit!",
+          "Rewi"
+        ],
+        [
+          26.1,
+          31,
+          "Macht lustige Kompilationen, nehmt die Clips von GTA…",
+          "Rewi"
+        ],
+        [
+          31,
+          35,
+          "…ladet sie runter, ladet sie hoch, macht mit mir, was ihr wollt.",
+          "Rewi"
+        ],
+        [
+          35,
+          38,
+          "Danke schön, ganz liebe Grüße!",
+          "Rewi"
+        ]
+      ]
+    }
+  ],
+  "style": "prompt",
+  "streamer": "Rewi",
+  "credit": "Clip: rewinside (Twitch)"
+}

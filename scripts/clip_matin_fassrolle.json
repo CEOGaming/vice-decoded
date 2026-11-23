@@ -1,0 +1,68 @@
+{
+  "id": "clip_matin_fassrolle",
+  "source": "https://www.twitch.tv/matinbum/clip/CogentInexpensiveReindeerChocolateRain-BeGHJxF0tKdquSCs",
+  "layout": "fill",
+  "hook": "EINE FASSROLLE AUS DEM NICHTS",
+  "hook_full": true,
+  "title": "Auto macht in GTA 6 eine Fassrolle aus dem Nichts #shorts",
+  "description": "Matinbum fährt ganz normal, plötzlich dreht sich sein Pickup in der Luft. Original-Clip: Matinbum – https://www.twitch.tv/matinbum/clip/CogentInexpensiveReindeerChocolateRain-BeGHJxF0tKdquSCs\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #matinbum #bug #physik",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "matinbum",
+    "bug",
+    "physik"
+  ],
+  "tiktok": "Einfach so eine Fassrolle 😂 #gta6 #gtavi #fyp",
+  "instagram": "Keine Bugs, nur Skill 😎\n\n#gta6 #gtavi #gaming #reels",
+  "beats": [
+    {
+      "original": true,
+      "start": 0,
+      "end": 23.5,
+      "focus": 0.5,
+      "subs": [
+        [
+          1.5,
+          3.5,
+          "Hohoho!",
+          "Matinbum"
+        ],
+        [
+          4.5,
+          9.6,
+          "Cool!",
+          "Matinbum"
+        ],
+        [
+          9.6,
+          11.6,
+          "AAH! Was zur Hölle?",
+          "Matinbum"
+        ],
+        [
+          12.6,
+          16,
+          "Was passiert hier?",
+          "Matinbum"
+        ],
+        [
+          18,
+          20,
+          "Nein, das ist kein Bug, wenn ich fahre.",
+          "Matinbum"
+        ],
+        [
+          20,
+          23,
+          "Ich hab nur ganz zufällig eine Fassrolle gemacht.",
+          "Matinbum"
+        ]
+      ]
+    }
+  ],
+  "style": "prompt",
+  "streamer": "Matinbum",
+  "credit": "Clip: Matinbum (Twitch)"
+}

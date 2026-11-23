@@ -1,0 +1,44 @@
+{
+  "id": "clip_speed_trailermusik",
+  "source": "https://www.twitch.tv/ishowspeed/clip/PeppySpoopyCoyoteUncleNox-bwFBqWOHypOnUTnQ",
+  "layout": "fill",
+  "hook": "DER TRAILER-SONG IM SPIEL",
+  "hook_full": true,
+  "title": "Speed hört den GTA-6-Trailer-Song im Spiel #shorts",
+  "description": "IShowSpeed fährt nachts übers Wasser, als plötzlich die Musik aus dem Trailer läuft. Original-Clip: IShowSpeed – https://www.twitch.tv/ishowspeed/clip/PeppySpoopyCoyoteUncleNox-bwFBqWOHypOnUTnQ\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #ishowspeed #musik #trailer",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "ishowspeed",
+    "musik",
+    "trailer"
+  ],
+  "tiktok": "Wenn der Trailer-Song läuft 🥹 #gta6 #gtavi #fyp",
+  "instagram": "Gänsehaut 🌴\n\n#gta6 #gtavi #gaming #reels",
+  "beats": [
+    {
+      "original": true,
+      "start": 0,
+      "end": 30,
+      "focus": 0.5,
+      "subs": [
+        [
+          5.5,
+          12,
+          "Oh mein Gott. Oh mein Gott.",
+          "Speed"
+        ],
+        [
+          12,
+          20.4,
+          "Das ist die Musik aus dem GTA-Trailer!",
+          "Speed"
+        ]
+      ]
+    }
+  ],
+  "style": "prompt",
+  "streamer": "Speed",
+  "credit": "Clip: IShowSpeed (Twitch)"
+}

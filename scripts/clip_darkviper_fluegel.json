@@ -1,0 +1,70 @@
+{
+  "id": "clip_darkviper_fluegel",
+  "source": "https://www.twitch.tv/darkviperau/clip/WimpyPuzzledChimpanzeeMikeHogu-Fw9ZRjhgHysCfB-_",
+  "layout": "fill",
+  "hook": "WO IST MEIN FLÜGEL HIN?",
+  "hook_full": true,
+  "title": "Flugzeug verliert in GTA 6 plötzlich den Flügel #shorts",
+  "description": "DarkViperAU fliegt ein Wasserflugzeug, dann ist auf einmal ein Flügel weg. Original-Clip: DarkViperAU – https://www.twitch.tv/darkviperau/clip/WimpyPuzzledChimpanzeeMikeHogu-Fw9ZRjhgHysCfB-_\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #darkviperau #flugzeug #funny",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "darkviperau",
+    "flugzeug",
+    "funny"
+  ],
+  "tiktok": "Wo ist mein Flügel hin? ✈️ #gta6 #gtavi #fyp",
+  "instagram": "Den braucht man zum Überleben 😭\n\n#gta6 #gtavi #gaming #reels",
+  "mask": [
+    [
+      0.8,
+      0.3,
+      0.2,
+      0.34
+    ]
+  ],
+  "beats": [
+    {
+      "original": true,
+      "start": 0,
+      "end": 24.3,
+      "focus": 0.5,
+      "subs": [
+        [
+          7.9,
+          9.9,
+          "Motorschaden? Was?",
+          "DarkViper"
+        ],
+        [
+          9.9,
+          13.9,
+          "Was? Was ist passiert?",
+          "DarkViper"
+        ],
+        [
+          13.9,
+          15.9,
+          "Wo ist mein Flügel hin?",
+          "DarkViper"
+        ],
+        [
+          15.9,
+          17.9,
+          "Ich glaube, den brauch ich zum Überleben.",
+          "DarkViper"
+        ],
+        [
+          21.9,
+          23.9,
+          "Ist der Motor weg?",
+          "DarkViper"
+        ]
+      ]
+    }
+  ],
+  "style": "prompt",
+  "streamer": "DarkViper",
+  "credit": "Clip: DarkViperAU (Twitch)"
+}

@@ -1,0 +1,70 @@
+{
+  "id": "clip_mariio_kroete",
+  "source": "https://www.twitch.tv/djmariio/clip/ResourcefulAmazonianAnacondaPanicBasket-4CUpgWIKLWP8p-o_",
+  "layout": "fill",
+  "hook": "ER IST JETZT EINE KRÖTE",
+  "hook_full": true,
+  "title": "Er verwandelt sich in GTA 6 in eine Kröte #shorts",
+  "description": "DjMaRiiO ist nach einer Begegnung mit Señor Matorral plötzlich eine Kröte und sucht Fliegen. Original-Clip: DjMaRiiO – https://www.twitch.tv/djmariio/clip/ResourcefulAmazonianAnacondaPanicBasket-4CUpgWIKLWP8p-o_\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #djmariio #kroete #eastereggs",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "djmariio",
+    "kroete",
+    "eastereggs"
+  ],
+  "tiktok": "Er ist jetzt eine Kröte 🐸 #gta6 #gtavi #fyp",
+  "instagram": "Fliegen essen 🐸😂\n\n#gta6 #gtavi #gaming #reels",
+  "mask": [
+    [
+      0.2,
+      0.86,
+      0.6,
+      0.1
+    ]
+  ],
+  "beats": [
+    {
+      "original": true,
+      "start": 0,
+      "end": 36.3,
+      "focus": 0.5,
+      "subs": [
+        [
+          1,
+          6,
+          "Ich bin eine Kröte! Ich bin eine Kröte!",
+          "DjMaRiiO"
+        ],
+        [
+          6,
+          12,
+          "Ich bin jemand aus dem Chat!",
+          "DjMaRiiO"
+        ],
+        [
+          12,
+          20,
+          "Such eine Fliege. Ich muss essen.",
+          "DjMaRiiO"
+        ],
+        [
+          29.2,
+          33,
+          "Wo gibt es eine Fliege? Hier sind Fliegen.",
+          "DjMaRiiO"
+        ],
+        [
+          33,
+          36,
+          "Fliegen essen!",
+          "DjMaRiiO"
+        ]
+      ]
+    }
+  ],
+  "style": "prompt",
+  "streamer": "DjMaRiiO",
+  "credit": "Clip: DjMaRiiO (Twitch)"
+}

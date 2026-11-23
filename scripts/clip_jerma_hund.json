@@ -1,0 +1,58 @@
+{
+  "id": "clip_jerma_hund",
+  "source": "https://www.twitch.tv/jerma985/clip/AbrasiveSmokyQueleaBlargNaut-nx1WWJwORM91O8yB",
+  "layout": "fill",
+  "hook": "NUR KURZ DEN HUND BEGRÜSSEN",
+  "hook_full": true,
+  "title": "Jerma will in GTA 6 nur den Hund begrüßen #shorts",
+  "description": "Jerma radelt durch die Stadt, hört etwas und entdeckt einen Hund. Original-Clip: Jerma985 – https://www.twitch.tv/jerma985/clip/AbrasiveSmokyQueleaBlargNaut-nx1WWJwORM91O8yB\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #jerma #tiere #hund",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "jerma",
+    "tiere",
+    "hund"
+  ],
+  "tiktok": "Er wollte nur den Hund begrüßen 🐶 #gta6 #gtavi #fyp",
+  "instagram": "Hallo Hund! 🐶\n\n#gta6 #gtavi #gaming #reels",
+  "mask": [
+    [
+      0.28,
+      0.84,
+      0.44,
+      0.13
+    ]
+  ],
+  "beats": [
+    {
+      "original": true,
+      "start": 12,
+      "end": 37.4,
+      "focus": 0.5,
+      "subs": [
+        [
+          12,
+          17.4,
+          "Moment, was ist das für ein Geräusch? Wird da jemand ausgeraubt?",
+          "Jerma"
+        ],
+        [
+          19.1,
+          21.1,
+          "Oh, schau mal, der Hund!",
+          "Jerma"
+        ],
+        [
+          22.3,
+          24.3,
+          "Hallo!",
+          "Jerma"
+        ]
+      ]
+    }
+  ],
+  "style": "prompt",
+  "streamer": "Jerma",
+  "credit": "Clip: Jerma985 (Twitch)"
+}
