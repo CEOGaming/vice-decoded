@@ -1,0 +1,23 @@
+{
+  "id": "twitch_KathishVivaciousBadgerEleGiggle-EFtXHIk7I9GBwi-O",
+  "source": "twitch",
+  "url": "https://www.twitch.tv/xqc/clip/KathishVivaciousBadgerEleGiggle-EFtXHIk7I9GBwi-O",
+  "title": "XQC Camera Roll",
+  "creator": "xQc",
+  "creator_login": "xqc",
+  "creator_url": "https://twitch.tv/xQc",
+  "views": 2488,
+  "duration": 45.6,
+  "language": "en",
+  "created_at": "2026-11-22T21:48:07Z",
+  "thumbnail": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/f8c0ef52-afe8-46a0-af3a-d480427accc2/landscape/thumb/thumb-0000000000-480x272.jpg",
+  "german": false,
+  "kind": "clip",
+  "score": 22.36,
+  "facecam": [
+    0.0403,
+    0.4446,
+    0.215,
+    0.3373
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.5,
+      "text": "Yeah, there we go."
+    },
+    {
+      "start": 5.9,
+      "end": 10.2,
+      "text": "Ah, I'm a, I'm a this is it."
+    },
+    {
+      "start": 10.2,
+      "end": 15.0,
+      "text": "I'm a real life Florida boy now, even though this is technically, I believe from Australia."
+    },
+    {
+      "start": 15.0,
+      "end": 15.6,
+      "text": "All right."
+    },
+    {
+      "start": 16.9,
+      "end": 18.8,
+      "text": "All right, everybody, we did it."
+    },
+    {
+      "start": 19.3,
+      "end": 21.9,
+      "text": "We did the damn thing and."
+    }
+  ]
+}

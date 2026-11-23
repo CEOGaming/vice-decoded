@@ -1,0 +1,35 @@
+{
+  "language": "sv",
+  "segments": [
+    {
+      "start": 1.6,
+      "end": 5.4,
+      "text": "Tänk till att en unit förstämts till port Delharv."
+    },
+    {
+      "start": 6.4,
+      "end": 7.4,
+      "text": "Vad är f**k?"
+    },
+    {
+      "start": 7.4,
+      "end": 13.3,
+      "text": "KRADA HÄR TE FLYGT!"
+    },
+    {
+      "start": 13.3,
+      "end": 14.3,
+      "text": "KRADA HÄR TE FLYGT!"
+    },
+    {
+      "start": 14.3,
+      "end": 29.2,
+      "text": "Vad är det?"
+    },
+    {
+      "start": 29.2,
+      "end": 30.2,
+      "text": "Ima dåligt."
+    }
+  ]
+}
