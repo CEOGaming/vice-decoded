@@ -40,7 +40,7 @@
       ]
     ]
   },
-  "hook": "So gewinnst du jede Schießerei in GTA 6",
+  "hook": "SO STIRBST DU NIE WIEDER",
   "title": "GTA 6: 4 Tipps, mit denen du jede Schießerei gewinnst #shorts",
   "description": "Deckung, Waffenrad, Fokusmodus und Waffen anpassen: Schießen in GTA 6 in unter einer Minute.\n\nGameplay: SkyrrozTV – https://www.twitch.tv/skyrroztv/clip/SneakyNaiveBaboonPJSalt-KGJfE1huFhjZUh32 · BauPenner – https://www.twitch.tv/baupenner/clip/SavoryFunNightingaleRedCoat-zC6Jy3_dkIo3fHxF · ohnePixel – https://www.twitch.tv/ohnepixel/clip/ResilientOutstandingCasetteCoolStoryBro-I7yfymvORhpCjEBW\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6tipps #gta6deutsch #schiessen",
   "tags": [
@@ -54,6 +54,13 @@
   "tiktok": "4 Tipps für jede Schießerei in GTA 6 🔫 #gta6 #gtavi #gta6tipps #fyp",
   "instagram": "So gewinnst du jede Schießerei in GTA 6 🔫\n\n#gta6 #gtavi #gaming #reels",
   "beats": [
+    {
+      "text": "Du stirbst ständig in Schießereien? Diese vier Tricks ändern alles.",
+      "start": 0,
+      "end": 5,
+      "focus": 0.5,
+      "source": "https://www.twitch.tv/skyrroztv/clip/SneakyNaiveBaboonPJSalt-KGJfE1huFhjZUh32"
+    },
     {
       "text": "Erstens: Nie im Freien stehen. Duck dich hinter ein Auto und schieß aus der Deckung.",
       "start": 30,
@@ -123,5 +130,6 @@
       "focus": 0.5,
       "source": "https://www.twitch.tv/skyrroztv/clip/SneakyNaiveBaboonPJSalt-KGJfE1huFhjZUh32"
     }
-  ]
+  ],
+  "hook_full": true
 }
