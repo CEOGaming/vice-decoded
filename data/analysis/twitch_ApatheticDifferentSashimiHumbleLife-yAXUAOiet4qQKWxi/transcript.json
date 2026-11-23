@@ -1,0 +1,45 @@
+{
+  "language": "de",
+  "segments": [
+    {
+      "start": 2.1,
+      "end": 4.1,
+      "text": "Oh, ich hab so langsam Hunger, Moment."
+    },
+    {
+      "start": 4.4,
+      "end": 18.7,
+      "text": "Wir probieren's."
+    },
+    {
+      "start": 19.1,
+      "end": 21.1,
+      "text": "Ich hab gerade Leerruf mich hier an."
+    },
+    {
+      "start": 21.1,
+      "end": 28.4,
+      "text": "Guck mal, was frekt."
+    },
+    {
+      "start": 28.4,
+      "end": 38.8,
+      "text": "Ah, sie geht jetzt duschen."
+    },
+    {
+      "start": 39.8,
+      "end": 43.2,
+      "text": "Also, wir müssen noch mal reingehen und ihm auch einen Scheider empfohlen, richtig?"
+    },
+    {
+      "start": 43.2,
+      "end": 45.2,
+      "text": "Oder täusche ich mich da jetzt?"
+    },
+    {
+      "start": 45.2,
+      "end": 52.1,
+      "text": "Oh mein Gott, ich wollte, nein, das wollte ich nicht!"
+    }
+  ]
+}

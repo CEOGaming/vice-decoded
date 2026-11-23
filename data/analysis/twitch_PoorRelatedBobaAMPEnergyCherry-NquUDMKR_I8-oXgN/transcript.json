@@ -1,0 +1,45 @@
+{
+  "language": "de",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.1,
+      "text": "Es geht noch weiter hoch."
+    },
+    {
+      "start": 2.1,
+      "end": 13.9,
+      "text": "Alter Sie das, Freunde."
+    },
+    {
+      "start": 13.9,
+      "end": 15.9,
+      "text": "Zur Feier."
+    },
+    {
+      "start": 15.9,
+      "end": 31.1,
+      "text": "Müssen wir kurz einem anderen Webziehen."
+    },
+    {
+      "start": 31.1,
+      "end": 47.7,
+      "text": "Also ich sage euch ehrlich, muss mir egal."
+    },
+    {
+      "start": 47.7,
+      "end": 50.6,
+      "text": "Eieieiei."
+    },
+    {
+      "start": 50.6,
+      "end": 53.0,
+      "text": "Nein, wir müssen..."
+    },
+    {
+      "start": 53.0,
+      "end": 53.5,
+      "text": "Ja."
+    }
+  ]
+}

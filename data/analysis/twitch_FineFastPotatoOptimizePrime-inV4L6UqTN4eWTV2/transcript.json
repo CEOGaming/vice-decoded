@@ -1,0 +1,30 @@
+{
+  "language": "es",
+  "segments": [
+    {
+      "start": 0.4,
+      "end": 2.4,
+      "text": "tengo que vender todo esto"
+    },
+    {
+      "start": 2.4,
+      "end": 4.4,
+      "text": "coño es que tengo un pack de cervezas"
+    },
+    {
+      "start": 4.4,
+      "end": 6.4,
+      "text": "me da pena pero"
+    },
+    {
+      "start": 6.4,
+      "end": 26.2,
+      "text": "¿da bien lucia?"
+    },
+    {
+      "start": 28.1,
+      "end": 30.1,
+      "text": "y ahora como me cambio de ropa"
+    }
+  ]
+}

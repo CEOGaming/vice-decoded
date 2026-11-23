@@ -1,0 +1,30 @@
+{
+  "language": "de",
+  "segments": [
+    {
+      "start": 2.1,
+      "end": 6.5,
+      "text": "Ist das krank?"
+    },
+    {
+      "start": 9.6,
+      "end": 18.4,
+      "text": "Okay, der ist dead. Oh, was ist denn bei ihm los jetzt?"
+    },
+    {
+      "start": 19.8,
+      "end": 29.7,
+      "text": "Was ist denn bei ihm los?"
+    },
+    {
+      "start": 30.9,
+      "end": 48.3,
+      "text": "Nein, nein, nein, er will mich zwingen, mich selber zu erschießen. Bro, was ist das denn für ein"
+    },
+    {
+      "start": 48.9,
+      "end": 56.1,
+      "text": "krankes Easter Egg? Warte mal, warte mal, warte mal. Wo ist?"
+    }
+  ]
+}

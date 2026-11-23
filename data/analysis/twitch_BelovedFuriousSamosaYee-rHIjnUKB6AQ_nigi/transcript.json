@@ -1,0 +1,35 @@
+{
+  "language": "de",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": "Oh mein Gott, was ist das hier? Oh mein Gott!"
+    },
+    {
+      "start": 4.0,
+      "end": 18.2,
+      "text": "Probleme! Alter! Ich spamme hier vier..."
+    },
+    {
+      "start": 18.2,
+      "end": 39.1,
+      "text": "Digger! Ja, ja, okay."
+    },
+    {
+      "start": 47.1,
+      "end": 49.1,
+      "text": "Alter, was ist das hier für eine kranke Scheiße, Digger?"
+    },
+    {
+      "start": 49.1,
+      "end": 51.1,
+      "text": "Guckt euch diesen Raum alleine an!"
+    },
+    {
+      "start": 51.1,
+      "end": 60.0,
+      "text": "Hier waren aber hier so Molotovs."
+    }
+  ]
+}
