@@ -1,0 +1,15 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 1.6,
+      "end": 21.6,
+      "text": "Sorry about the ride there pal."
+    },
+    {
+      "start": 21.6,
+      "end": 22.1,
+      "text": "It'll buff out."
+    }
+  ]
+}

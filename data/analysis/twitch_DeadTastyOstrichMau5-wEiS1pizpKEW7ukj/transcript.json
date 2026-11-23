@@ -1,0 +1,15 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 1.4,
+      "end": 3.4,
+      "text": "Where do you think you're going?"
+    },
+    {
+      "start": 4.6,
+      "end": 6.6,
+      "text": "This way"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "language": "id",
+  "segments": [
+    {
+      "start": 1.1,
+      "end": 3.1,
+      "text": "Ninter gue ga sesampa itu gila"
+    },
+    {
+      "start": 3.1,
+      "end": 16.8,
+      "text": "Sabar, sabar, sabar"
+    },
+    {
+      "start": 18.8,
+      "end": 22.1,
+      "text": "Santai, santai, santai"
+    }
+  ]
+}

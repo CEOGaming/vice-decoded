@@ -1,0 +1,20 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.1,
+      "end": 2.1,
+      "text": "I'm a friend, Tucci!"
+    },
+    {
+      "start": 26.5,
+      "end": 28.5,
+      "text": "Hey, the cow is coming! Save me!"
+    },
+    {
+      "start": 32.5,
+      "end": 36.5,
+      "text": "The cow... The cow literally just asked me to save her!"
+    }
+  ]
+}

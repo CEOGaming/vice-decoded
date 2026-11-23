@@ -1,0 +1,25 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 1.8,
+      "end": 3.1,
+      "text": "Get on!"
+    },
+    {
+      "start": 4.1,
+      "end": 5.7,
+      "text": "Oh my god, Jason. Goodbye."
+    },
+    {
+      "start": 17.6,
+      "end": 18.6,
+      "text": "Fuck! Jason, what are you-"
+    },
+    {
+      "start": 18.6,
+      "end": 21.4,
+      "text": "OHHHHHHHHH!!!"
+    }
+  ]
+}

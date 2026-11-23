@@ -1,0 +1,20 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 2.8,
+      "end": 4.8,
+      "text": "Bro, these turns are too wide."
+    },
+    {
+      "start": 7.1,
+      "end": 26.1,
+      "text": "Okay, okay, that was pretty good. You like that?"
+    },
+    {
+      "start": 27.3,
+      "end": 29.3,
+      "text": "It was perfect. All right, let's go"
+    }
+  ]
+}

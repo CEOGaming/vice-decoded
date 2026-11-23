@@ -1,0 +1,25 @@
+{
+  "language": "fr",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Ouuuuh"
+    },
+    {
+      "start": 6.3,
+      "end": 8.3,
+      "text": "Patate la voiture de quitton"
+    },
+    {
+      "start": 15.0,
+      "end": 18.5,
+      "text": "Ce mahalais euh..."
+    },
+    {
+      "start": 19.5,
+      "end": 21.5,
+      "text": "Je savais pas qu'on jouait crobbib"
+    }
+  ]
+}

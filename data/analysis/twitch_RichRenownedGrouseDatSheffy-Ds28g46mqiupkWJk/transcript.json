@@ -1,0 +1,15 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.8,
+      "end": 2.8,
+      "text": "This is my problem, I'm stuck in it."
+    },
+    {
+      "start": 2.8,
+      "end": 18.3,
+      "text": "And we have their attention."
+    }
+  ]
+}

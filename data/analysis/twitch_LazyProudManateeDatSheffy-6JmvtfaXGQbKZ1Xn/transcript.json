@@ -1,0 +1,20 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.5,
+      "end": 2.5,
+      "text": "Welcome to Florida"
+    },
+    {
+      "start": 3.3,
+      "end": 31.5,
+      "text": "Welcome to Florida. Do you think they're okay?"
+    },
+    {
+      "start": 32.5,
+      "end": 35.6,
+      "text": "Do you think they're okay? I wish bro. I was trying to"
+    }
+  ]
+}

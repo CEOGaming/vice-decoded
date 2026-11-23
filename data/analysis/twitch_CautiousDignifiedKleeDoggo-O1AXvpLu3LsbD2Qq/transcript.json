@@ -1,0 +1,65 @@
+{
+  "language": "es",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "¿O qué es tu chan?"
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "¡Vamos!"
+    },
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "text": "¿Cuántos de minutos es el chan?"
+    },
+    {
+      "start": 6.0,
+      "end": 9.9,
+      "text": "No sé qué vas a hacer, loco."
+    },
+    {
+      "start": 9.9,
+      "end": 13.3,
+      "text": "¡No hay tiempo!"
+    },
+    {
+      "start": 13.3,
+      "end": 16.7,
+      "text": "¡No puedo, cabrón!"
+    },
+    {
+      "start": 16.7,
+      "end": 18.7,
+      "text": "¡Terminé culviné!"
+    },
+    {
+      "start": 18.7,
+      "end": 20.7,
+      "text": "¿Eso que no ando pedo, eh?"
+    },
+    {
+      "start": 20.7,
+      "end": 22.7,
+      "text": "¿Eso que no ando pedo, chan?"
+    },
+    {
+      "start": 22.7,
+      "end": 24.7,
+      "text": "¿Eso que no ando pedo?"
+    },
+    {
+      "start": 24.7,
+      "end": 26.7,
+      "text": "Así hace mi tripa cuando tengo..."
+    },
+    {
+      "start": 28.7,
+      "end": 30.7,
+      "text": "¡Vamos, chan!"
+    }
+  ]
+}

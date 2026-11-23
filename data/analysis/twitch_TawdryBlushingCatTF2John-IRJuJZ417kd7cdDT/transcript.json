@@ -1,0 +1,25 @@
+{
+  "language": "pt",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.7,
+      "text": "Eles estão dizendo que é a torta?"
+    },
+    {
+      "start": 1.7,
+      "end": 3.1,
+      "text": "Você ouviu isso?"
+    },
+    {
+      "start": 3.1,
+      "end": 8.4,
+      "text": "O que foi isso?"
+    },
+    {
+      "start": 8.4,
+      "end": 10.4,
+      "text": "Quem está falando sobre isso?"
+    }
+  ]
+}

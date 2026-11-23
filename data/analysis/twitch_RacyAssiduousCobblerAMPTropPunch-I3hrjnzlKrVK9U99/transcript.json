@@ -1,0 +1,25 @@
+{
+  "language": "es",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Ahí es de que está acá, está solito al parecer, ok?"
+    },
+    {
+      "start": 4.0,
+      "end": 5.0,
+      "text": "¡Una dos!"
+    },
+    {
+      "start": 5.0,
+      "end": 7.2,
+      "text": "¡Cóberto!"
+    },
+    {
+      "start": 7.2,
+      "end": 9.2,
+      "text": "Ahí está, uno menos."
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "language": "es",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Yo te pudo ejercitarte todos los días, Jason."
+    },
+    {
+      "start": 4.0,
+      "end": 5.0,
+      "text": "Wow."
+    },
+    {
+      "start": 10.0,
+      "end": 14.0,
+      "text": "O sea, yo sugerí eso, pero no pensé que fuera a pasar, ¿sabes?"
+    },
+    {
+      "start": 14.0,
+      "end": 16.0,
+      "text": "O sea, era una sugerencia,"
+    },
+    {
+      "start": 16.0,
+      "end": 26.3,
+      "text": "más no una acción que yo esperara ver, pero está bien."
+    },
+    {
+      "start": 26.3,
+      "end": 28.3,
+      "text": "Quedé shocky."
+    }
+  ]
+}

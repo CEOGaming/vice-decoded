@@ -1,0 +1,45 @@
+{
+  "language": "pt",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Eu não confio em carros se acionam sozinho."
+    },
+    {
+      "start": 2.0,
+      "end": 3.0,
+      "text": "Foi lo-"
+    },
+    {
+      "start": 3.0,
+      "end": 4.0,
+      "text": "No way!"
+    },
+    {
+      "start": 4.0,
+      "end": 5.0,
+      "text": "No way!"
+    },
+    {
+      "start": 5.0,
+      "end": 6.0,
+      "text": "Aonde?"
+    },
+    {
+      "start": 6.0,
+      "end": 21.7,
+      "text": "Bro!"
+    },
+    {
+      "start": 21.7,
+      "end": 23.7,
+      "text": "A sério do-"
+    },
+    {
+      "start": 27.7,
+      "end": 29.7,
+      "text": "É inadmissível."
+    }
+  ]
+}
