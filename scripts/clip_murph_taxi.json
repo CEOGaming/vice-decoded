@@ -17,12 +17,6 @@
   "instagram": "Bester Taxifahrer in Vice City 😭\n\n#gta6 #gtavi #gaming #reels",
   "mask": [
     [
-      0.72,
-      0.5,
-      0.28,
-      0.5
-    ],
-    [
       0.28,
       0.85,
       0.44,
@@ -33,7 +27,7 @@
     {
       "original": true,
       "start": 18,
-      "end": 54.5,
+      "end": 60,
       "focus": 0.5,
       "subs": [
         [
@@ -50,6 +44,11 @@
           50,
           54.4,
           "Fahr, fahr, fahr! Nein! Der Typ ist so dumm."
+        ],
+        [
+          58.6,
+          59.8,
+          "Bro…"
         ]
       ]
     }

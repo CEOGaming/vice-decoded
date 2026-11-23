@@ -18,16 +18,16 @@
   "mask": [
     [
       0,
-      0,
+      0.3,
       0.23,
-      1
+      0.7
     ]
   ],
   "beats": [
     {
       "original": true,
       "start": 0,
-      "end": 34,
+      "end": 42,
       "focus": 0.5,
       "subs": [
         [
