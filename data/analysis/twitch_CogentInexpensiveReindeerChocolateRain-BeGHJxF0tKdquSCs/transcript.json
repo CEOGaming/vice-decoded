@@ -1,0 +1,45 @@
+{
+  "language": "sv",
+  "segments": [
+    {
+      "start": 1.5,
+      "end": 3.5,
+      "text": "Ho ho ho ho!"
+    },
+    {
+      "start": 4.5,
+      "end": 9.6,
+      "text": "Kul ju!"
+    },
+    {
+      "start": 9.6,
+      "end": 10.6,
+      "text": "AAH!"
+    },
+    {
+      "start": 10.6,
+      "end": 11.6,
+      "text": "What the fuck?"
+    },
+    {
+      "start": 12.6,
+      "end": 16.0,
+      "text": "Vad händer?"
+    },
+    {
+      "start": 17.0,
+      "end": 18.0,
+      "text": "What?"
+    },
+    {
+      "start": 18.0,
+      "end": 20.0,
+      "text": "Nej, det finns inga buggar i att jag sexar alltså."
+    },
+    {
+      "start": 20.0,
+      "end": 23.0,
+      "text": "Jag bara gjorde en barrel roll helt randomligt."
+    }
+  ]
+}

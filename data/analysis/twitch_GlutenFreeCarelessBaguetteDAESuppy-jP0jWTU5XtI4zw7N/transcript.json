@@ -1,0 +1,20 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.1,
+      "end": 1.1,
+      "text": "Please, stop it."
+    },
+    {
+      "start": 1.6,
+      "end": 2.5,
+      "text": "Follow me."
+    },
+    {
+      "start": 2.5,
+      "end": 3.5,
+      "text": "Come on."
+    }
+  ]
+}

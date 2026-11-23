@@ -1,0 +1,35 @@
+{
+  "language": "de",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Dann kann ich hier, ich denke mal..."
+    },
+    {
+      "start": 2.0,
+      "end": 5.0,
+      "text": "So, dann kann ich hier abhauen."
+    },
+    {
+      "start": 5.0,
+      "end": 10.0,
+      "text": "Ich hau auch wieder durch den Fluss ab, dann bin ich da nicht so irgendwie so eingekwetscht."
+    },
+    {
+      "start": 18.4,
+      "end": 22.4,
+      "text": "Scheiße, Krokodil! Scheiße, Krokodil! Scheiße, Krokodil!"
+    },
+    {
+      "start": 22.4,
+      "end": 24.4,
+      "text": "Das war ja eine super Idee von mir."
+    },
+    {
+      "start": 24.4,
+      "end": 26.4,
+      "text": "Das war ja..."
+    }
+  ]
+}

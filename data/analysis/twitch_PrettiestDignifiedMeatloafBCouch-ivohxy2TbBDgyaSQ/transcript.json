@@ -1,0 +1,25 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 1.7,
+      "end": 5.9,
+      "text": "Hey, now you're a hog star get your hog out go hog"
+    },
+    {
+      "start": 6.3,
+      "end": 12.6,
+      "text": "Hey, now you're a hog star get your hog out go hog and all the hog"
+    },
+    {
+      "start": 14.6,
+      "end": 18.1,
+      "text": "Only shooting hogs reach the hog"
+    },
+    {
+      "start": 19.9,
+      "end": 22.8,
+      "text": "It's a hog place and the hog gets what okay"
+    }
+  ]
+}

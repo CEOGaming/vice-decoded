@@ -1,0 +1,25 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 2.2,
+      "end": 4.2,
+      "text": "Alright, what is she? What is she up to?"
+    },
+    {
+      "start": 4.2,
+      "end": 18.6,
+      "text": "It's all fixed up!"
+    },
+    {
+      "start": 18.6,
+      "end": 22.6,
+      "text": "What the hell is that? It's a fucking huge animal!"
+    },
+    {
+      "start": 26.6,
+      "end": 27.6,
+      "text": "Oh my god!"
+    }
+  ]
+}

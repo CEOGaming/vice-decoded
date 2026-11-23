@@ -1,0 +1,25 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.5,
+      "end": 9.3,
+      "text": "Oh, I have to stay on and play video games for a month more. Oh, no, my life is so hard"
+    },
+    {
+      "start": 10.3,
+      "end": 17.0,
+      "text": "No, I live in a country where I'm safe and I was born into a loving family and I get to play video games to support my entire family"
+    },
+    {
+      "start": 17.0,
+      "end": 21.9,
+      "text": "I bought my mom a house from streaming and oh, no, I gotta play GTA 6 for longer"
+    },
+    {
+      "start": 21.9,
+      "end": 24.9,
+      "text": "I can't see my kids or wife. Oh whoo, who gives a fuck?"
+    }
+  ]
+}

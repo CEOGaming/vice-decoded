@@ -1,0 +1,25 @@
+{
+  "language": "pt",
+  "segments": [
+    {
+      "start": 2.8,
+      "end": 4.8,
+      "text": "Boa! Boa!"
+    },
+    {
+      "start": 4.8,
+      "end": 8.2,
+      "text": "O cara..."
+    },
+    {
+      "start": 8.2,
+      "end": 10.2,
+      "text": "Deixa eu tirar essa..."
+    },
+    {
+      "start": 10.2,
+      "end": 12.2,
+      "text": "Caralho!"
+    }
+  ]
+}

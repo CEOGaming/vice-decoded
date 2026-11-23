@@ -1,0 +1,30 @@
+{
+  "language": "de",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Ah, du Scheiße! Oh mein Gott!"
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "You know that's..."
+    },
+    {
+      "start": 4.0,
+      "end": 9.3,
+      "text": "God."
+    },
+    {
+      "start": 9.3,
+      "end": 11.3,
+      "text": "It don't look..."
+    },
+    {
+      "start": 11.3,
+      "end": 13.3,
+      "text": "Scheiße."
+    }
+  ]
+}

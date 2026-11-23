@@ -1,0 +1,50 @@
+{
+  "language": "es",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Sí, está casi ahí con las piernas."
+    },
+    {
+      "start": 2.0,
+      "end": 3.0,
+      "text": "¿Qué pasa?"
+    },
+    {
+      "start": 3.0,
+      "end": 27.5,
+      "text": "¡Nature!"
+    },
+    {
+      "start": 27.5,
+      "end": 28.5,
+      "text": "¡Nature, el guajero me ha salido!"
+    },
+    {
+      "start": 28.5,
+      "end": 30.5,
+      "text": "Dice que si podemos ayudar con un problema."
+    },
+    {
+      "start": 30.5,
+      "end": 31.5,
+      "text": "¿Como todavía necesita su ayuda?"
+    },
+    {
+      "start": 31.5,
+      "end": 33.5,
+      "text": "Sí, está casi ahí con las piernas."
+    },
+    {
+      "start": 33.5,
+      "end": 35.5,
+      "text": "¡Nature, necesita una más pequeña clasión!"
+    },
+    {
+      "start": 36.5,
+      "end": 37.5,
+      "text": "¡No hay nada!"
+    }
+  ]
+}

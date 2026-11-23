@@ -1,0 +1,30 @@
+{
+  "language": "it",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "che ho imparato a guidare finalmente"
+    },
+    {
+      "start": 2.0,
+      "end": 21.5,
+      "text": "non c'era"
+    },
+    {
+      "start": 21.5,
+      "end": 23.5,
+      "text": "il GPS non c'era"
+    },
+    {
+      "start": 23.5,
+      "end": 25.5,
+      "text": "il GPS non c'era"
+    },
+    {
+      "start": 25.5,
+      "end": 27.5,
+      "text": "il GPS non c'era, non mi poterò rompire i coglioni"
+    }
+  ]
+}

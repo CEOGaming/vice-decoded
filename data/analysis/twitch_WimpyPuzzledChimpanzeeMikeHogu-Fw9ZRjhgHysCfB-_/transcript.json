@@ -1,0 +1,55 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.6,
+      "end": 2.6,
+      "text": "They assumed to have a torus in the crossfire."
+    },
+    {
+      "start": 2.6,
+      "end": 4.6,
+      "text": "They even gave me a lift to the perimeter."
+    },
+    {
+      "start": 4.6,
+      "end": 7.9,
+      "text": "We're over a bit more."
+    },
+    {
+      "start": 7.9,
+      "end": 9.9,
+      "text": "Engine damage, what?"
+    },
+    {
+      "start": 9.9,
+      "end": 11.9,
+      "text": "What? Huh?"
+    },
+    {
+      "start": 11.9,
+      "end": 13.9,
+      "text": "What happened?"
+    },
+    {
+      "start": 13.9,
+      "end": 15.9,
+      "text": "Where'd my wing go?"
+    },
+    {
+      "start": 15.9,
+      "end": 17.9,
+      "text": "I think I need that to live."
+    },
+    {
+      "start": 19.9,
+      "end": 21.9,
+      "text": "I got one more piece of advice for you, Jaybird."
+    },
+    {
+      "start": 21.9,
+      "end": 23.9,
+      "text": "Is the engine gone?"
+    }
+  ]
+}

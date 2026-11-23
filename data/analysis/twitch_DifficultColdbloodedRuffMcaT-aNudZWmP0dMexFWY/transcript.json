@@ -1,0 +1,30 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 2.7,
+      "end": 10.0,
+      "text": "I"
+    },
+    {
+      "start": 17.2,
+      "end": 20.8,
+      "text": "Missed that one. Oh hi almost just died. Oh"
+    },
+    {
+      "start": 22.4,
+      "end": 30.7,
+      "text": "Don't hit me man. Okay. Got it"
+    },
+    {
+      "start": 42.6,
+      "end": 49.7,
+      "text": "Race back. Oh, oh no, okay straighten it out straighten it out"
+    },
+    {
+      "start": 56.5,
+      "end": 59.2,
+      "text": "I hit the weird side of the rail"
+    }
+  ]
+}

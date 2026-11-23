@@ -1,0 +1,40 @@
+{
+  "language": "hu",
+  "segments": [
+    {
+      "start": 0.4,
+      "end": 3.7,
+      "text": "Ez ilyen para?"
+    },
+    {
+      "start": 3.7,
+      "end": 16.1,
+      "text": "Ah!"
+    },
+    {
+      "start": 18.1,
+      "end": 20.1,
+      "text": "Ez nem hiszem el!"
+    },
+    {
+      "start": 21.1,
+      "end": 23.1,
+      "text": "Hogy a faszon beestem le?"
+    },
+    {
+      "start": 23.1,
+      "end": 26.6,
+      "text": "Meg se lepődök!"
+    },
+    {
+      "start": 26.6,
+      "end": 28.6,
+      "text": "Bro, sátsó, bitch asszáp!"
+    },
+    {
+      "start": 28.6,
+      "end": 30.6,
+      "text": "Come on, man!"
+    }
+  ]
+}

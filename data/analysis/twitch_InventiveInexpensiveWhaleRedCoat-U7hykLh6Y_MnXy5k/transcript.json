@@ -1,0 +1,80 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.5,
+      "text": "How many fur leaves have I taken out since you know me?"
+    },
+    {
+      "start": 2.5,
+      "end": 4.1,
+      "text": "What does she like?"
+    },
+    {
+      "start": 4.1,
+      "end": 5.6,
+      "text": "Hen-day-ho?"
+    },
+    {
+      "start": 5.6,
+      "end": 20.3,
+      "text": "She likes this, right?"
+    },
+    {
+      "start": 20.3,
+      "end": 21.9,
+      "text": "Oh, wait, what?"
+    },
+    {
+      "start": 21.9,
+      "end": 22.9,
+      "text": "Wait, is that bad?"
+    },
+    {
+      "start": 22.9,
+      "end": 23.6,
+      "text": "Oh, no!"
+    },
+    {
+      "start": 23.6,
+      "end": 27.2,
+      "text": "Wait, what does that mean?"
+    },
+    {
+      "start": 27.2,
+      "end": 27.8,
+      "text": "It's not about fur-"
+    },
+    {
+      "start": 27.8,
+      "end": 28.3,
+      "text": "No!"
+    },
+    {
+      "start": 28.3,
+      "end": 28.8,
+      "text": "Oh!"
+    },
+    {
+      "start": 28.8,
+      "end": 31.4,
+      "text": "Wait, what's that?"
+    },
+    {
+      "start": 31.4,
+      "end": 32.4,
+      "text": "No, no."
+    },
+    {
+      "start": 32.4,
+      "end": 33.6,
+      "text": "You look great."
+    },
+    {
+      "start": 33.6,
+      "end": 36.1,
+      "text": "Because some of us have to work."
+    }
+  ]
+}

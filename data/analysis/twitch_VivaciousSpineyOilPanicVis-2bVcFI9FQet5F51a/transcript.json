@@ -1,0 +1,35 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Where does it work exactly, you know?"
+    },
+    {
+      "start": 2.0,
+      "end": 3.0,
+      "text": "Triangle to..."
+    },
+    {
+      "start": 3.0,
+      "end": 6.0,
+      "text": "Triangle to boost?"
+    },
+    {
+      "start": 6.0,
+      "end": 9.0,
+      "text": "What's wrong with you?"
+    },
+    {
+      "start": 9.0,
+      "end": 13.7,
+      "text": "Why would you see that?"
+    },
+    {
+      "start": 13.7,
+      "end": 16.7,
+      "text": "I just killed my fucking wife."
+    }
+  ]
+}

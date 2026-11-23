@@ -1,0 +1,55 @@
+{
+  "language": "fr",
+  "segments": [
+    {
+      "start": 6.3,
+      "end": 10.8,
+      "text": "On va chasser le T-Rex là"
+    },
+    {
+      "start": 10.8,
+      "end": 11.8,
+      "text": "Regarde"
+    },
+    {
+      "start": 11.8,
+      "end": 15.4,
+      "text": "Quand on parle de T-Rex"
+    },
+    {
+      "start": 15.9,
+      "end": 17.9,
+      "text": "On parle directement"
+    },
+    {
+      "start": 17.9,
+      "end": 24.1,
+      "text": "Je dirais qu'il y a quand même des risques lors d'un accident mortel à cette vitesse"
+    },
+    {
+      "start": 24.1,
+      "end": 28.0,
+      "text": "Je sais pas trop ce que vous en pensez Tchasse"
+    },
+    {
+      "start": 28.0,
+      "end": 32.8,
+      "text": "Putain"
+    },
+    {
+      "start": 32.8,
+      "end": 36.6,
+      "text": "Surtout sous roue arrière"
+    },
+    {
+      "start": 43.8,
+      "end": 44.8,
+      "text": "Bonjour"
+    },
+    {
+      "start": 44.8,
+      "end": 46.3,
+      "text": "Moi c'est Yannou"
+    }
+  ]
+}

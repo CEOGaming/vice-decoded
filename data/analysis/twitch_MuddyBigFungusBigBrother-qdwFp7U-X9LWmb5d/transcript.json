@@ -1,0 +1,30 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": "If you foresee a Q outfit on a woman, I want to punch her and take it."
+    },
+    {
+      "start": 5.5,
+      "end": 6.5,
+      "text": "That'd be awesome."
+    },
+    {
+      "start": 12.3,
+      "end": 13.3,
+      "text": "Am I dead?"
+    },
+    {
+      "start": 13.8,
+      "end": 14.8,
+      "text": "Oh my god!"
+    },
+    {
+      "start": 15.3,
+      "end": 20.3,
+      "text": "Oh my god, I should be dead!"
+    }
+  ]
+}

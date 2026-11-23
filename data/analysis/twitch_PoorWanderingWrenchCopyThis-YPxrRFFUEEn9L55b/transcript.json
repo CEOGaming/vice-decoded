@@ -1,0 +1,15 @@
+{
+  "language": "de",
+  "segments": [
+    {
+      "start": 0.5,
+      "end": 2.5,
+      "text": "Wir sehen uns."
+    },
+    {
+      "start": 2.5,
+      "end": 4.5,
+      "text": "Alright guys, I gotta get going."
+    }
+  ]
+}

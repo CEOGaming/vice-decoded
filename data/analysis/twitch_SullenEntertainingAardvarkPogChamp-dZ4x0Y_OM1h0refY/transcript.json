@@ -1,0 +1,55 @@
+{
+  "language": "es",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.0,
+      "text": "necesito saber primero que hay aquí, señor, había una caja fuerte que había que abrir"
+    },
+    {
+      "start": 7.0,
+      "end": 10.3,
+      "text": "y yo lo digo aquí también"
+    },
+    {
+      "start": 10.3,
+      "end": 17.3,
+      "text": "aquí hay el diner, que es Mero Diner, esperando lo de la..."
+    },
+    {
+      "start": 17.3,
+      "end": 20.3,
+      "text": "el silenciador"
+    },
+    {
+      "start": 20.3,
+      "end": 22.3,
+      "text": "vamos a ver si por acá hay algo más"
+    },
+    {
+      "start": 22.3,
+      "end": 27.6,
+      "text": "vamos a la calle a ver que hay"
+    },
+    {
+      "start": 27.6,
+      "end": 31.1,
+      "text": "y cierve la puerta también"
+    },
+    {
+      "start": 31.1,
+      "end": 53.4,
+      "text": "gracias"
+    },
+    {
+      "start": 54.4,
+      "end": 56.4,
+      "text": "Mero Diner"
+    },
+    {
+      "start": 56.4,
+      "end": 58.4,
+      "text": "Mero Diner"
+    }
+  ]
+}

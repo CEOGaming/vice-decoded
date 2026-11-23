@@ -1,0 +1,35 @@
+{
+  "language": "hu",
+  "segments": [
+    {
+      "start": 1.5,
+      "end": 3.5,
+      "text": "Annyi át most nézem, hogy világ!"
+    },
+    {
+      "start": 5.1,
+      "end": 6.6,
+      "text": "Nem felízik!"
+    },
+    {
+      "start": 7.1,
+      "end": 10.4,
+      "text": "A fék! Gyereket ízik a fék, hogyha nagyon nyomjuk!"
+    },
+    {
+      "start": 10.4,
+      "end": 11.6,
+      "text": "Azt kemény!"
+    },
+    {
+      "start": 11.6,
+      "end": 13.2,
+      "text": "Azt kemény a múlt!"
+    },
+    {
+      "start": 13.2,
+      "end": 15.2,
+      "text": "Ezt eddig nem vettem észre!"
+    }
+  ]
+}

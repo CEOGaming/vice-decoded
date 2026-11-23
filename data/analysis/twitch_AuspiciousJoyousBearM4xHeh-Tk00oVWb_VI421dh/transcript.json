@@ -1,0 +1,30 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.1,
+      "end": 1.6,
+      "text": "Nature and monsters, hit me up."
+    },
+    {
+      "start": 1.6,
+      "end": 3.5,
+      "text": "Askin' if we can get up with some promo material."
+    },
+    {
+      "start": 3.5,
+      "end": 5.0,
+      "text": "He still needs our help?"
+    },
+    {
+      "start": 5.0,
+      "end": 7.0,
+      "text": "Yeah, he's almost there with the dimes."
+    },
+    {
+      "start": 7.0,
+      "end": 8.1,
+      "text": "Nature."
+    }
+  ]
+}

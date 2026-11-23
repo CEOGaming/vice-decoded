@@ -1,0 +1,30 @@
+{
+  "language": "fr",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "J'ai pas eu pour les dames."
+    },
+    {
+      "start": 2.0,
+      "end": 5.4,
+      "text": "Je peux faire une photo ? Je fais un selfie."
+    },
+    {
+      "start": 5.4,
+      "end": 6.4,
+      "text": "Je m'envoie aussi."
+    },
+    {
+      "start": 6.4,
+      "end": 7.4,
+      "text": "R3."
+    },
+    {
+      "start": 7.4,
+      "end": 9.4,
+      "text": "Je peux l'envoyer par mes aides ou quoi ?"
+    }
+  ]
+}

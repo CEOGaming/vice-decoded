@@ -1,0 +1,50 @@
+{
+  "language": "de",
+  "segments": [
+    {
+      "start": 1.7,
+      "end": 3.7,
+      "text": "Scheiße."
+    },
+    {
+      "start": 3.7,
+      "end": 6.7,
+      "text": "Denkt ihr, Orte würde auch zu mir sagen, dass ich ein Lieblingsmensch bin?"
+    },
+    {
+      "start": 10.0,
+      "end": 13.0,
+      "text": "Na ja, wer weiß, wer weiß, was die Zukunft mit sich bringt."
+    },
+    {
+      "start": 14.0,
+      "end": 16.0,
+      "text": "Das weiß ich selber nicht mal."
+    },
+    {
+      "start": 16.0,
+      "end": 18.0,
+      "text": "Ich finde sie ist von der Art her ein Mädchen."
+    },
+    {
+      "start": 18.0,
+      "end": 19.0,
+      "text": "Was ist..."
+    },
+    {
+      "start": 20.0,
+      "end": 23.0,
+      "text": "Oha, Bruder, was ist das?"
+    },
+    {
+      "start": 23.0,
+      "end": 27.2,
+      "text": "Es reicht!"
+    },
+    {
+      "start": 27.2,
+      "end": 29.2,
+      "text": "Tschüss!"
+    }
+  ]
+}

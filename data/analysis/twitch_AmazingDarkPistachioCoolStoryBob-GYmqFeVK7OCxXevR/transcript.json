@@ -1,0 +1,40 @@
+{
+  "language": "de",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Können wir speichern?"
+    },
+    {
+      "start": 2.0,
+      "end": 6.5,
+      "text": "Spiel, neues Spiel."
+    },
+    {
+      "start": 6.5,
+      "end": 13.2,
+      "text": "Nein, ich hab... Oh Gott, nee, ich hab jetzt nicht ein neues Spiel gestartet, oder?"
+    },
+    {
+      "start": 13.2,
+      "end": 15.2,
+      "text": "Nein, oh mein Gott, warte mal!"
+    },
+    {
+      "start": 15.2,
+      "end": 18.8,
+      "text": "Ach du Scheiße, warte mal!"
+    },
+    {
+      "start": 18.8,
+      "end": 22.8,
+      "text": "Ich hab jetzt kein neues Spiel gestartet, oder? Ich wollte..."
+    },
+    {
+      "start": 22.8,
+      "end": 24.8,
+      "text": "Ich wollte ein neues Spiel standen... Ach!"
+    }
+  ]
+}

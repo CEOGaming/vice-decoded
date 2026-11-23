@@ -1,0 +1,30 @@
+{
+  "language": "es",
+  "segments": [
+    {
+      "start": 3.0,
+      "end": 5.0,
+      "text": "¿Sabes qué, mami?"
+    },
+    {
+      "start": 5.0,
+      "end": 7.0,
+      "text": "Sí, me di cuenta, mami."
+    },
+    {
+      "start": 8.0,
+      "end": 10.0,
+      "text": "¿Qué carro me robó? ¿Será éste?"
+    },
+    {
+      "start": 10.0,
+      "end": 14.1,
+      "text": "Mirá, se apareció el cielo, señora."
+    },
+    {
+      "start": 14.1,
+      "end": 23.4,
+      "text": "¿Qué pasó?"
+    }
+  ]
+}

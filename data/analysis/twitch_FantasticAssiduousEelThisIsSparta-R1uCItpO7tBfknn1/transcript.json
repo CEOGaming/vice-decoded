@@ -1,0 +1,30 @@
+{
+  "language": "fr",
+  "segments": [
+    {
+      "start": 0.3,
+      "end": 4.3,
+      "text": "Je suis pas traque, je vais vous l'utiliser rapidement, je l'ai pas vu les motos."
+    },
+    {
+      "start": 4.3,
+      "end": 10.9,
+      "text": "Ah, je suis trop naze aujourd'hui là, qu'est-ce qui m'arrive ?"
+    },
+    {
+      "start": 16.2,
+      "end": 18.2,
+      "text": "J'ai aucun timing, j'ai rien !"
+    },
+    {
+      "start": 19.2,
+      "end": 20.2,
+      "text": "Allô ma maraca !"
+    },
+    {
+      "start": 26.8,
+      "end": 29.8,
+      "text": "J'ai passé un truc avec l'amage là qu'ils ont fait sur le jeu, je sais pas quoi mais..."
+    }
+  ]
+}

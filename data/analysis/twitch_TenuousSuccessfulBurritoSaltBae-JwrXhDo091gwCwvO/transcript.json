@@ -1,0 +1,70 @@
+{
+  "language": "de",
+  "segments": [
+    {
+      "start": 0.7,
+      "end": 3.7,
+      "text": "Oh, Mann!"
+    },
+    {
+      "start": 4.7,
+      "end": 6.7,
+      "text": "Harte Gar!"
+    },
+    {
+      "start": 6.7,
+      "end": 9.7,
+      "text": "Cut! Wir müssen weiterfahren!"
+    },
+    {
+      "start": 9.7,
+      "end": 19.9,
+      "text": "Unfassbar schön, diese Gegend hier."
+    },
+    {
+      "start": 20.9,
+      "end": 22.9,
+      "text": "Hier vorne haben wir unser erstes Opfer."
+    },
+    {
+      "start": 22.9,
+      "end": 27.5,
+      "text": "Die schwarze Witwe."
+    },
+    {
+      "start": 27.5,
+      "end": 31.3,
+      "text": "Die schwarze Witwe ist ihr Name."
+    },
+    {
+      "start": 32.3,
+      "end": 33.3,
+      "text": "Gewalttätig."
+    },
+    {
+      "start": 33.3,
+      "end": 41.9,
+      "text": "Ah, hier ist die Leih."
+    },
+    {
+      "start": 41.9,
+      "end": 48.9,
+      "text": "Das nicht mehr."
+    },
+    {
+      "start": 48.9,
+      "end": 51.9,
+      "text": "Ich kann das nicht mehr, Freunde."
+    },
+    {
+      "start": 52.9,
+      "end": 55.9,
+      "text": "Leon, das bleibt alles maximal nur Auto."
+    },
+    {
+      "start": 55.9,
+      "end": 59.5,
+      "text": "Maximal alles nur ins Auto."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.1,
+      "text": "Can I make it all the way there without getting into a horrible accident?"
+    },
+    {
+      "start": 7.2,
+      "end": 15.9,
+      "text": "Well, I think um, what does that sound? Somebody getting robbed?"
+    },
+    {
+      "start": 17.7,
+      "end": 19.7,
+      "text": "Oh look at the dog!"
+    },
+    {
+      "start": 20.9,
+      "end": 22.9,
+      "text": "Hello!"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.8,
+      "text": "This bag, there's no bronze, just my-"
+    },
+    {
+      "start": 2.8,
+      "end": 4.2,
+      "text": "Hey, yo!"
+    },
+    {
+      "start": 5.2,
+      "end": 8.4,
+      "text": "My darling, it is too much."
+    },
+    {
+      "start": 8.4,
+      "end": 10.9,
+      "text": "Well, I saw you admiring it."
+    },
+    {
+      "start": 10.9,
+      "end": 12.1,
+      "text": "Isn't that delicious?"
+    },
+    {
+      "start": 12.1,
+      "end": 14.1,
+      "text": "Whoa, whoa, whoa, whoa!"
+    },
+    {
+      "start": 14.1,
+      "end": 17.9,
+      "text": "Now, who are you exactly?"
+    },
+    {
+      "start": 18.8,
+      "end": 19.3,
+      "text": "Can we have a sa-"
+    }
+  ]
+}

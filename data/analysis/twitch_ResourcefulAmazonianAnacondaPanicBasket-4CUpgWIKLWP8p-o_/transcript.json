@@ -1,0 +1,15 @@
+{
+  "language": "es",
+  "segments": [
+    {
+      "start": 0.8,
+      "end": 29.2,
+      "text": "Soy un sapo! Soy un sapo! Soy alguien del chat! Busca una mosca. Tengo que comer."
+    },
+    {
+      "start": 29.2,
+      "end": 36.2,
+      "text": "¿Dónde hay una mosca? Aquí hay moscas. A comer moscas."
+    }
+  ]
+}

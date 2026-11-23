@@ -3,18 +3,43 @@
   "segments": [
     {
       "start": 0.0,
-      "end": 7.8,
-      "text": "God I'm opening this door but we're taking the other car here we go you're"
+      "end": 5.7,
+      "text": "Oh my god. I'm opening this door but we're taking the other car."
     },
     {
-      "start": 7.8,
-      "end": 26.1,
-      "text": "right sir you're welcome come here baby we're not taking that shit what 13"
+      "start": 5.7,
+      "end": 7.7,
+      "text": "There we go."
     },
     {
-      "start": 26.1,
-      "end": 28.3,
-      "text": "years"
+      "start": 7.7,
+      "end": 16.4,
+      "text": "Your ride, sir."
+    },
+    {
+      "start": 16.4,
+      "end": 17.4,
+      "text": "If you want, sir."
+    },
+    {
+      "start": 17.4,
+      "end": 20.7,
+      "text": "Aw, you're welcome."
+    },
+    {
+      "start": 20.7,
+      "end": 23.7,
+      "text": "Come here, baby. We're not taking that shop shit."
+    },
+    {
+      "start": 23.7,
+      "end": 25.7,
+      "text": "What?"
+    },
+    {
+      "start": 25.7,
+      "end": 27.7,
+      "text": "13 years."
     }
   ]
 }
