@@ -33,7 +33,7 @@
     {
       "original": true,
       "start": 18,
-      "end": 60,
+      "end": 54.5,
       "focus": 0.5,
       "subs": [
         [
@@ -48,13 +48,8 @@
         ],
         [
           50,
-          55.5,
+          54.4,
           "Fahr, fahr, fahr! Nein! Der Typ ist so dumm."
-        ],
-        [
-          58.6,
-          59.8,
-          "Bro…"
         ]
       ]
     }
