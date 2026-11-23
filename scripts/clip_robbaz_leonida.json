@@ -33,34 +33,43 @@
         [
           0.9,
           7.1,
-          "Moment, könnte ich…?"
+          "Moment, könnte ich…?",
+          "Robbaz"
         ],
         [
           7.1,
           9.1,
-          "Oh, warte mal kurz."
+          "Oh, warte mal kurz.",
+          "Robbaz"
         ],
         [
           10.1,
           12.1,
-          "Du hattest deine Chance. Du hattest keine Chance."
+          "Du hattest deine Chance. Du hattest keine Chance.",
+          "Robbaz"
         ],
         [
           16.1,
           17.1,
-          "Na gut."
+          "Na gut.",
+          "Robbaz"
         ],
         [
           18.1,
           20.1,
-          "Willst du mich verarschen?!"
+          "Willst du mich verarschen?!",
+          "Robbaz"
         ],
         [
           30.8,
           34.8,
-          "Hat sie dir gerade eine Kugel in den Kopf gejagt?"
+          "Hat sie dir gerade eine Kugel in den Kopf gejagt?",
+          "Robbaz"
         ]
       ]
     }
-  ]
+  ],
+  "style": "prompt",
+  "streamer": "Robbaz",
+  "credit": "Clip: Robbaz (Twitch)"
 }

@@ -39,9 +39,13 @@
         [
           5.5,
           8.8,
-          "Das kann man rauspolieren."
+          "Das kann man rauspolieren.",
+          "Ludwig"
         ]
       ]
     }
-  ]
+  ],
+  "style": "prompt",
+  "streamer": "Ludwig",
+  "credit": "Clip: Ludwig (Twitch)"
 }

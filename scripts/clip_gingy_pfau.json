@@ -33,19 +33,25 @@
         [
           4.5,
           8,
-          "Oh mein Gott…"
+          "Oh mein Gott…",
+          "Gingy"
         ],
         [
           12,
           17,
-          "Ich… ich hab nicht geschaut…"
+          "Ich… ich hab nicht geschaut…",
+          "Gingy"
         ],
         [
           22,
           25.2,
-          "…ob ich ihn streicheln kann."
+          "…ob ich ihn streicheln kann.",
+          "Gingy"
         ]
       ]
     }
-  ]
+  ],
+  "style": "prompt",
+  "streamer": "Gingy",
+  "credit": "Clip: Gingy (Twitch)"
 }

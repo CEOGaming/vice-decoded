@@ -39,24 +39,31 @@
         [
           0.7,
           3.6,
-          "Hey, alles okay, Kumpel? Was zur Hölle?"
+          "Hey, alles okay, Kumpel? Was zur Hölle?",
+          "Speed"
         ],
         [
           11.3,
           15.4,
-          "Hör zu, Großer, du musst gehen. Die werden nach dir suchen."
+          "Hör zu, Großer, du musst gehen. Die werden nach dir suchen.",
+          "Speed"
         ],
         [
           22.8,
           25.8,
-          "Soll ich ihn umarmen? Ich glaub, ich muss ihn umarmen."
+          "Soll ich ihn umarmen? Ich glaub, ich muss ihn umarmen.",
+          "Speed"
         ],
         [
           27.3,
           29.3,
-          "Der tut mir leid, Bro."
+          "Der tut mir leid, Bro.",
+          "Speed"
         ]
       ]
     }
-  ]
+  ],
+  "style": "prompt",
+  "streamer": "Speed",
+  "credit": "Clip: IShowSpeed (Twitch)"
 }

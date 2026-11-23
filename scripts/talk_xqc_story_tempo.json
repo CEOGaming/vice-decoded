@@ -45,49 +45,61 @@
         [
           0.1,
           5.8,
-          "Wenn du denkst, die Story entwickelt sich in einem bestimmten Tempo…"
+          "Wenn du denkst, die Story entwickelt sich in einem bestimmten Tempo…",
+          "xQc"
         ],
         [
           5.9,
           10.8,
-          "…wirst du enttäuscht. Ich war es. Und ich hab nicht mal ADHS."
+          "…wirst du enttäuscht. Ich war es. Und ich hab nicht mal ADHS.",
+          "xQc"
         ],
         [
           12.1,
           18.9,
-          "Das Tempo am Anfang war sehr langsam und zäh."
+          "Das Tempo am Anfang war sehr langsam und zäh.",
+          "xQc"
         ],
         [
           19.3,
           26.4,
-          "Die großen Story-Momente kriegst du gefühlt nur…"
+          "Die großen Story-Momente kriegst du gefühlt nur…",
+          "xQc"
         ],
         [
           27.4,
           32.4,
-          "…alle acht Stunden Spielzeit. Für ein Spiel dieser Größe…"
+          "…alle acht Stunden Spielzeit. Für ein Spiel dieser Größe…",
+          "xQc"
         ],
         [
           32.4,
           38.5,
-          "Die Entwickler wissen genau, dass die Spieler mehr wollen."
+          "Die Entwickler wissen genau, dass die Spieler mehr wollen.",
+          "xQc"
         ],
         [
           39.2,
           44.9,
-          "Um dich bei der Stange zu halten, braucht es mehr als den einen großen Moment…"
+          "Um dich bei der Stange zu halten, braucht es mehr als den einen großen Moment…",
+          "xQc"
         ],
         [
           45.6,
           48.8,
-          "…alle acht Stunden. Das reicht nicht."
+          "…alle acht Stunden. Das reicht nicht.",
+          "xQc"
         ],
         [
           49.4,
           55.2,
-          "Das Ende war voller Action, cool. Aber du brauchst mehr davon."
+          "Das Ende war voller Action, cool. Aber du brauchst mehr davon.",
+          "xQc"
         ]
       ]
     }
-  ]
+  ],
+  "style": "prompt",
+  "streamer": "xQc",
+  "credit": "Clip: xQc (Twitch)"
 }

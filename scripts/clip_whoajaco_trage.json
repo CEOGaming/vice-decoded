@@ -25,44 +25,55 @@
         [
           0.8,
           6,
-          "Glaubst du, dem geht's gut? Wir sollten ihn mitnehmen."
+          "Glaubst du, dem geht's gut? Wir sollten ihn mitnehmen.",
+          "whoajaco"
         ],
         [
           6.5,
           9.1,
-          "Was, wenn ich seine Trage mitten auf die Straße rolle?"
+          "Was, wenn ich seine Trage mitten auf die Straße rolle?",
+          "whoajaco"
         ],
         [
           9.6,
           17.1,
-          "Was, wenn ich ihn vor den Laster da rolle?"
+          "Was, wenn ich ihn vor den Laster da rolle?",
+          "whoajaco"
         ],
         [
           20.7,
           26.3,
-          "Nein!"
+          "Nein!",
+          "whoajaco"
         ],
         [
           26.3,
           32.4,
-          "Oh, schau! Er steht! Ich hab ihn geheilt!"
+          "Oh, schau! Er steht! Ich hab ihn geheilt!",
+          "whoajaco"
         ],
         [
           32.7,
           34.7,
-          "Fühlt sich für den Rücken wohl nicht so gut an."
+          "Fühlt sich für den Rücken wohl nicht so gut an.",
+          "whoajaco"
         ],
         [
           35.6,
           38.3,
-          "Schau, dem geht's gut. Oh mein Gott."
+          "Schau, dem geht's gut. Oh mein Gott.",
+          "whoajaco"
         ],
         [
           38.3,
           48,
-          "Leute, ihr könnt doch nicht über eine Leiche fahren!"
+          "Leute, ihr könnt doch nicht über eine Leiche fahren!",
+          "whoajaco"
         ]
       ]
     }
-  ]
+  ],
+  "style": "prompt",
+  "streamer": "whoajaco",
+  "credit": "Clip: whoajaco (Twitch)"
 }

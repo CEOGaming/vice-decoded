@@ -45,34 +45,43 @@
         [
           0,
           5.1,
-          "Wenn du von Anfang an weißt, dass dein Charakter vergeben ist…"
+          "Wenn du von Anfang an weißt, dass dein Charakter vergeben ist…",
+          "xQc"
         ],
         [
           5.9,
           10.8,
-          "…ist das schlecht. Vor allem, wenn fast nur Männer zuschauen."
+          "…ist das schlecht. Vor allem, wenn fast nur Männer zuschauen.",
+          "xQc"
         ],
         [
           11.7,
           17.6,
-          "Meistens Leute, die eh keine Dating-Optionen haben. Ich mein, Bruder…"
+          "Meistens Leute, die eh keine Dating-Optionen haben. Ich mein, Bruder…",
+          "xQc"
         ],
         [
           18.5,
           22.9,
-          "Die zu einer festen Wahl zwingen? Da verlierst du viele Spieler."
+          "Die zu einer festen Wahl zwingen? Da verlierst du viele Spieler.",
+          "xQc"
         ],
         [
           23.5,
           25.5,
-          "Wie schwer ist das zu verstehen?"
+          "Wie schwer ist das zu verstehen?",
+          "xQc"
         ],
         [
           25.7,
           28.6,
-          "Das sieht man doch kommen, bevor es passiert."
+          "Das sieht man doch kommen, bevor es passiert.",
+          "xQc"
         ]
       ]
     }
-  ]
+  ],
+  "style": "prompt",
+  "streamer": "xQc",
+  "credit": "Clip: xQc (Twitch)"
 }

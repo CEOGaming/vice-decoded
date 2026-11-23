@@ -33,24 +33,31 @@
         [
           0,
           2,
-          "Ja, nicht stören. Kurz mal. Ich komm durch."
+          "Ja, nicht stören. Kurz mal. Ich komm durch.",
+          "AussieAntics"
         ],
         [
           2,
           3,
-          "Oh, oh."
+          "Oh, oh.",
+          "AussieAntics"
         ],
         [
           3,
           5,
-          "Besser nur ein Kratzer!"
+          "Besser nur ein Kratzer!",
+          "AussieAntics"
         ],
         [
           5,
           10,
-          "Oh!"
+          "Oh!",
+          "AussieAntics"
         ]
       ]
     }
-  ]
+  ],
+  "style": "prompt",
+  "streamer": "AussieAntics",
+  "credit": "Clip: AussieAntics (Twitch)"
 }

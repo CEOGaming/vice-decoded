@@ -33,39 +33,49 @@
         [
           9,
           13.4,
-          "Du musst viel schneller fahren. Was labert ihr?"
+          "Du musst viel schneller fahren. Was labert ihr?",
+          "Elquaria"
         ],
         [
           18,
           22,
-          "Digga, wie kann man so dermaßen abpacken?"
+          "Digga, wie kann man so dermaßen abpacken?",
+          "Elquaria"
         ],
         [
           22.9,
           24.9,
-          "Oh mein Gott, das ist eine Wand."
+          "Oh mein Gott, das ist eine Wand.",
+          "Elquaria"
         ],
         [
           25.5,
           28.4,
-          "Das ist einfach eine Wand. Ich dachte…"
+          "Das ist einfach eine Wand. Ich dachte…",
+          "Elquaria"
         ],
         [
           30.9,
           34.9,
-          "Oh mein Gott. Okay…"
+          "Oh mein Gott. Okay…",
+          "Elquaria"
         ],
         [
           37.5,
           40.8,
-          "Ach, Mann."
+          "Ach, Mann.",
+          "Elquaria"
         ],
         [
           41.4,
           43.9,
-          "Das sah voll echt aus, ne?"
+          "Das sah voll echt aus, ne?",
+          "Elquaria"
         ]
       ]
     }
-  ]
+  ],
+  "style": "prompt",
+  "streamer": "Elquaria",
+  "credit": "Clip: Elquaria (Twitch)"
 }

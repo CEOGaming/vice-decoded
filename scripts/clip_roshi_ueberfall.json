@@ -33,19 +33,25 @@
         [
           0,
           9,
-          "Viel zu groß. Okay, mach die Kasse auf. Bitte!"
+          "Viel zu groß. Okay, mach die Kasse auf. Bitte!",
+          "yaboyroshi"
         ],
         [
           9,
           16,
-          "Du gibst mir nur mehr Grund, die Cops zu rufen. Hmm, das war eine dumme Idee."
+          "Du gibst mir nur mehr Grund, die Cops zu rufen. Hmm, das war eine dumme Idee.",
+          "yaboyroshi"
         ],
         [
           16,
           27,
-          "Oder ich knall dich einfach ab!"
+          "Oder ich knall dich einfach ab!",
+          "yaboyroshi"
         ]
       ]
     }
-  ]
+  ],
+  "style": "prompt",
+  "streamer": "yaboyroshi",
+  "credit": "Clip: yaboyroshi (Twitch)"
 }

@@ -33,24 +33,31 @@
         [
           40,
           44.1,
-          "Fahr! Oh mein Gott, der Typ fährt einfach nicht."
+          "Fahr! Oh mein Gott, der Typ fährt einfach nicht.",
+          "MurphSTR"
         ],
         [
           44.1,
           50,
-          "Hier hoch, hier hoch, hier hoch…"
+          "Hier hoch, hier hoch, hier hoch…",
+          "MurphSTR"
         ],
         [
           50,
           54.4,
-          "Fahr, fahr, fahr! Nein! Der Typ ist so dumm."
+          "Fahr, fahr, fahr! Nein! Der Typ ist so dumm.",
+          "MurphSTR"
         ],
         [
           58.6,
           59.8,
-          "Bro…"
+          "Bro…",
+          "MurphSTR"
         ]
       ]
     }
-  ]
+  ],
+  "style": "prompt",
+  "streamer": "MurphSTR",
+  "credit": "Clip: MurphSTR (Twitch)"
 }

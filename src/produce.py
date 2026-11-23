@@ -433,13 +433,22 @@ def ts(sec: float) -> str:
     return f"{int(h)}:{int(m):02d}:{s:05.2f}"
 
 
+SENTENCE = False  # wird in produce() für style "prompt" gesetzt
+
+
 def sub_words(beat: dict) -> list[tuple[float, float, str]]:
     """Untertitel für Original-Ton: "subs": [[start, ende, "Text"], ...] in Quellzeit.
     Die Wörter werden gleichmäßig über die Zeitspanne verteilt (relativ zum Beat-Start)."""
     out = []
     b0, b1 = float(beat["start"]), float(beat["end"])
-    for s, e, text in beat.get("subs", []):
+    for sub in beat.get("subs", []):
+        s, e, text = sub[0], sub[1], sub[2]
         s, e = max(float(s), b0), min(float(e), b1)
+        if SENTENCE:
+            # Stil "prompt": ganzer Satz pro Einblendung, optional mit Sprecher (4. Feld)
+            if text.strip() and e > s:
+                out.append((s - b0, e - b0, "\x01" + (sub[3] if len(sub) > 3 else "") + "\x02" + text.strip()))
+            continue
         ws = text.split()
         if not ws or e <= s:
             continue
@@ -447,6 +456,56 @@ def sub_words(beat: dict) -> list[tuple[float, float, str]]:
         for k, w in enumerate(ws):
             out.append((s - b0 + k * step, s - b0 + (k + 1) * step, w))
     return out
+
+
+def ass_text(t: str) -> str:
+    return t.replace("{", "(").replace("}", ")").replace("\n", " ")
+
+
+def build_ass_prompt(captions, hook: str, credit: str, total: float, hook_margin: int,
+                     hook_until: float, streamer: str = "") -> str:
+    """Stil nach dem Screenshot-Prompt des Inhabers (23.11.): gelbe Hook-Box oben,
+    ganze Sätze groß und mittig, Sprecher-Label (Streamer blau, andere gelb), kleine Credit-Zeile."""
+    f = P.get("prompt_font", "Archivo Black")
+    top = int(P.get("prompt_sub_top", 1430))
+    head = f"""[Script Info]
+ScriptType: v4.00+
+PlayResX: {W}
+PlayResY: {H}
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Hook,{f},{P.get("prompt_hook_size", 66)},&H00000000,&H00000000,&H0000D7FF,&H0000D7FF,0,0,0,0,100,100,0,0,3,18,0,8,90,90,{hook_margin},1
+Style: Sent,{f},{P.get("prompt_sub_size", 58)},&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,0,0,0,0,100,100,0,0,1,5,2,8,70,70,{top},1
+Style: LabY,{f},32,&H00000000,&H00000000,&H0000D7FF,&H0000D7FF,0,0,0,0,100,100,1,0,3,7,0,8,60,60,{top - 62},1
+Style: LabB,{f},32,&H00000000,&H00000000,&H00E8B04A,&H00E8B04A,0,0,0,0,100,100,1,0,3,7,0,8,60,60,{top - 62},1
+Style: Word,{f},{P.get("prompt_sub_size", 58) + 10},&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,0,0,0,0,100,100,0,0,1,5,2,8,70,70,{top},1
+Style: Credit,{f},30,&H00FFFFFF,&H00FFFFFF,&H00000000,&H90000000,0,0,0,0,100,100,0,0,1,2,1,8,60,60,{top + 200},1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+"""
+    lines = []
+    hook = re.sub(r"\s{2,}", " ", re.sub(r"[\U00010000-\U0010FFFF\uFE0F\u200D]", "", hook or "")).strip()
+    if hook:
+        lines.append(f"Dialogue: 1,{ts(0)},{ts(min(hook_until, total))},Hook,,0,0,0,,{ass_text(hook.upper())}")
+    if credit:
+        lines.append(f"Dialogue: 0,{ts(0)},{ts(total)},Credit,,0,0,0,,{ass_text(credit)}")
+    for j, (s, e, w, _b) in enumerate(captions):
+        if w.startswith("\x01"):
+            spk, txt = w[1:].split("\x02", 1)
+            nxt = captions[j + 1][0] if j + 1 < len(captions) else total
+            end = max(min(e + 0.5, nxt) if nxt > s else e, s + 0.3)
+            lines.append(f"Dialogue: 2,{ts(s)},{ts(end)},Sent,,0,0,0,,{ass_text(txt)}")
+            if spk:
+                st = "LabB" if streamer and spk.strip().upper() == streamer.strip().upper() else "LabY"
+                lines.append(f"Dialogue: 3,{ts(s)},{ts(end)},{st},,0,0,0,,{ass_text(spk.upper())}")
+        else:
+            nxt = captions[j + 1][0] if j + 1 < len(captions) else e + 0.3
+            end = min(nxt, e + 0.3) if nxt > e else nxt
+            lines.append(f"Dialogue: 2,{ts(s)},{ts(max(end, s + 0.08))},Word,,0,0,0,,{ass_text(w.upper())}")
+    return head + "\n".join(lines) + "\n"
 
 
 def build_ass(captions: list[tuple[float, float, str, int]], hook: str, credit: str, total: float,
@@ -513,6 +572,8 @@ def produce(script_path: Path) -> Path:
     script = json.loads(script_path.read_text(encoding="utf-8"))
     vid = script["id"]
     FPS = int(script.get("fps", 30))
+    global SENTENCE
+    SENTENCE = script.get("style") == "prompt"
     work = ROOT / "output" / vid / "work"
     if work.exists():
         shutil.rmtree(work)
@@ -553,7 +614,16 @@ def produce(script_path: Path) -> Path:
     run(["ffmpeg", "-y", "-f", "concat", "-safe", "0", "-i", str(concat), "-c", "copy", str(joined)])
 
     ass = work / "subs.ass"
-    ass.write_text(build_ass(captions, script.get("hook", ""),
+    hook_margin = (int(H * P.get("split_top", 0.40)) + 40
+                   if script.get("layout", P.get("layout")) == "split" else 230)
+    if SENTENCE:
+        ass.write_text(build_ass_prompt(captions, script.get("hook", ""), script.get("credit", ""), total,
+                                        min(hook_margin, 200) if script.get("layout", P.get("layout")) != "split"
+                                        else hook_margin,
+                                        total if script.get("hook_full", True) else 3.5,
+                                        script.get("streamer", "")), encoding="utf-8")
+    else:
+      ass.write_text(build_ass(captions, script.get("hook", ""),
                              script.get("credit", "") if P.get("show_credit", True) else "", total,
                              script.get("brand", P.get("brand", "")),
                              int(H * P.get("split_top", 0.40)) + 40

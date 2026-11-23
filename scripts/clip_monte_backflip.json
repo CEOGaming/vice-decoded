@@ -33,19 +33,25 @@
         [
           0.8,
           2.8,
-          "Oh, oh, Backflip! Ich mach Backflip."
+          "Oh, oh, Backflip! Ich mach Backflip.",
+          "Monte"
         ],
         [
           6.1,
           8.1,
-          "Oh, das ist episch, Digga."
+          "Oh, das ist episch, Digga.",
+          "Monte"
         ],
         [
           9.1,
           12.4,
-          "Oh mein Gott, das war…"
+          "Oh mein Gott, das war…",
+          "Monte"
         ]
       ]
     }
-  ]
+  ],
+  "style": "prompt",
+  "streamer": "Monte",
+  "credit": "Clip: MontanaBlack88 (Twitch)"
 }

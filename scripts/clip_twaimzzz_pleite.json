@@ -33,29 +33,37 @@
         [
           0,
           9.5,
-          "Klein anfangen. Ganz klein anfangen."
+          "Klein anfangen. Ganz klein anfangen.",
+          "twaimzzz"
         ],
         [
           9.5,
           20,
-          "Okay, wir können es so machen… oder du zahlst einfach."
+          "Okay, wir können es so machen… oder du zahlst einfach.",
+          "twaimzzz"
         ],
         [
           20,
           29.7,
-          "Oh mein Gott…"
+          "Oh mein Gott…",
+          "twaimzzz"
         ],
         [
           29.7,
           39.4,
-          "Du hast nur sieben Dollar?! Oh mein Gott!"
+          "Du hast nur sieben Dollar?! Oh mein Gott!",
+          "twaimzzz"
         ],
         [
           39.4,
           48.3,
-          "Vier Dollar. VIER verdammte Dollar. Her mit deinem Zeug!"
+          "Vier Dollar. VIER verdammte Dollar. Her mit deinem Zeug!",
+          "twaimzzz"
         ]
       ]
     }
-  ]
+  ],
+  "style": "prompt",
+  "streamer": "twaimzzz",
+  "credit": "Clip: twaimzzz (Twitch)"
 }

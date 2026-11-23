@@ -33,24 +33,31 @@
         [
           7.5,
           8.5,
-          "Was ist das?"
+          "Was ist das?",
+          "Huzsen"
         ],
         [
           14.6,
           15.6,
-          "Was?"
+          "Was?",
+          "Huzsen"
         ],
         [
           27,
           28,
-          "Was war das?"
+          "Was war das?",
+          "Huzsen"
         ],
         [
           37,
           38,
-          "Oh, wie scheiße."
+          "Oh, wie scheiße.",
+          "Huzsen"
         ]
       ]
     }
-  ]
+  ],
+  "style": "prompt",
+  "streamer": "Huzsen",
+  "credit": "Clip: Huzsen (Twitch)"
 }

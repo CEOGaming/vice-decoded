@@ -25,34 +25,43 @@
         [
           0,
           3,
-          "Nein!"
+          "Nein!",
+          "Monte"
         ],
         [
           27.9,
           31.6,
-          "Kurzer Prozess."
+          "Kurzer Prozess.",
+          "Monte"
         ],
         [
           31.6,
           37.2,
-          "Oh mein Gott! Die helfen mir!"
+          "Oh mein Gott! Die helfen mir!",
+          "Monte"
         ],
         [
           37.2,
           45,
-          "Moment, Moment! Ich muss schnell… ich bin aufgeregt!"
+          "Moment, Moment! Ich muss schnell… ich bin aufgeregt!",
+          "Monte"
         ],
         [
           45,
           49,
-          "Ich hab Fotos gemacht!"
+          "Ich hab Fotos gemacht!",
+          "Monte"
         ],
         [
           55.3,
           57.3,
-          "Ich hab Fotos gemacht, ich hab Beweise!"
+          "Ich hab Fotos gemacht, ich hab Beweise!",
+          "Monte"
         ]
       ]
     }
-  ]
+  ],
+  "style": "prompt",
+  "streamer": "Monte",
+  "credit": "Clip: MontanaBlack88 (Twitch)"
 }

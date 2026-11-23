@@ -25,14 +25,19 @@
         [
           5.9,
           14,
-          "Was machen wir hier drin? Was machen wir hier eigentlich?"
+          "Was machen wir hier drin? Was machen wir hier eigentlich?",
+          "EdyBot"
         ],
         [
           14,
           22.4,
-          "Hol dein Bier, los jetzt!"
+          "Hol dein Bier, los jetzt!",
+          "EdyBot"
         ]
       ]
     }
-  ]
+  ],
+  "style": "prompt",
+  "streamer": "EdyBot",
+  "credit": "Clip: EdyBot (Twitch)"
 }

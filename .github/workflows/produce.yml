@@ -61,7 +61,7 @@ jobs:
           cache: pip
       - run: sudo apt-get update -q && sudo apt-get install -y -q ffmpeg fonts-inter
       - name: Schrift Bangers installieren
-        run: mkdir -p ~/.fonts && curl -sfL -o ~/.fonts/Bangers-Regular.ttf https://github.com/google/fonts/raw/main/ofl/bangers/Bangers-Regular.ttf && fc-cache -f && fc-list | grep -i bangers
+        run: mkdir -p ~/.fonts && curl -sfL -o ~/.fonts/Bangers-Regular.ttf https://github.com/google/fonts/raw/main/ofl/bangers/Bangers-Regular.ttf && curl -sfL -o ~/.fonts/ArchivoBlack-Regular.ttf https://github.com/google/fonts/raw/main/ofl/archivoblack/ArchivoBlack-Regular.ttf && fc-cache -f && fc-list | grep -i -E 'bangers|archivo'
       - run: pip install -q torch torchaudio --index-url https://download.pytorch.org/whl/cpu
       - run: pip install -q -r requirements.txt demucs soundfile
       - name: Rendern

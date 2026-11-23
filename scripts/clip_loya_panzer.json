@@ -33,39 +33,49 @@
         [
           0.1,
           8,
-          "Wir sind da. Was soll das heißen?"
+          "Wir sind da. Was soll das heißen?",
+          "Loya"
         ],
         [
           8,
           17.2,
-          "Kann nicht lackiert oder repariert werden. Also kann ich den nicht anmelden."
+          "Kann nicht lackiert oder repariert werden. Also kann ich den nicht anmelden.",
+          "Loya"
         ],
         [
           18.4,
           23,
-          "Oh mein Gott, das ist das Traurigste überhaupt."
+          "Oh mein Gott, das ist das Traurigste überhaupt.",
+          "Loya"
         ],
         [
           23,
           27.7,
-          "Ihr versteht das nicht. Alles, was ich je wollte…"
+          "Ihr versteht das nicht. Alles, was ich je wollte…",
+          "Loya"
         ],
         [
           29.3,
           32,
-          "Alles, was ich je wollte, war ein…"
+          "Alles, was ich je wollte, war ein…",
+          "Loya"
         ],
         [
           33.4,
           39.4,
-          "…Panzer. Und dann darf ich ihn nicht anmelden oder lackieren."
+          "…Panzer. Und dann darf ich ihn nicht anmelden oder lackieren.",
+          "Loya"
         ],
         [
           42.3,
           48.4,
-          "Stellt euch vor, der wär pink. Und alle so: Da cruist Loya in ihrem Militärding."
+          "Stellt euch vor, der wär pink. Und alle so: Da cruist Loya in ihrem Militärding.",
+          "Loya"
         ]
       ]
     }
-  ]
+  ],
+  "style": "prompt",
+  "streamer": "Loya",
+  "credit": "Clip: Loya (Twitch)"
 }

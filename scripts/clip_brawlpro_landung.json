@@ -39,24 +39,31 @@
         [
           2.8,
           4.8,
-          "Bro, die Kurven sind viel zu weit."
+          "Bro, die Kurven sind viel zu weit.",
+          "brawlpro"
         ],
         [
           7.1,
           12,
-          "Okay, okay…"
+          "Okay, okay…",
+          "brawlpro"
         ],
         [
           20,
           26.1,
-          "Das war ziemlich gut. Gefällt euch das?"
+          "Das war ziemlich gut. Gefällt euch das?",
+          "brawlpro"
         ],
         [
           27.3,
           29.3,
-          "Das war perfekt. Los geht's."
+          "Das war perfekt. Los geht's.",
+          "brawlpro"
         ]
       ]
     }
-  ]
+  ],
+  "style": "prompt",
+  "streamer": "brawlpro",
+  "credit": "Clip: brawlpro (Twitch)"
 }

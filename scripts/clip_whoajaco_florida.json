@@ -25,24 +25,31 @@
         [
           0.5,
           2.5,
-          "Willkommen in Florida."
+          "Willkommen in Florida.",
+          "whoajaco"
         ],
         [
           3.3,
           9,
-          "Willkommen in Florida."
+          "Willkommen in Florida.",
+          "whoajaco"
         ],
         [
           27,
           31.5,
-          "Glaubst du, denen geht's gut?"
+          "Glaubst du, denen geht's gut?",
+          "whoajaco"
         ],
         [
           32.5,
           35.6,
-          "Ob die okay sind? Ich hoffe es, Bro."
+          "Ob die okay sind? Ich hoffe es, Bro.",
+          "whoajaco"
         ]
       ]
     }
-  ]
+  ],
+  "style": "prompt",
+  "streamer": "whoajaco",
+  "credit": "Clip: whoajaco (Twitch)"
 }

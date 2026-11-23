@@ -25,19 +25,25 @@
         [
           0,
           2,
-          "Uuuuh!"
+          "Uuuuh!",
+          "Mhiwka"
         ],
         [
           15,
           18.5,
-          "Was war das denn…"
+          "Was war das denn…",
+          "Mhiwka"
         ],
         [
           19.5,
           21.4,
-          "Ich wusste nicht, dass wir Khabib spielen!"
+          "Ich wusste nicht, dass wir Khabib spielen!",
+          "Mhiwka"
         ]
       ]
     }
-  ]
+  ],
+  "style": "prompt",
+  "streamer": "Mhiwka",
+  "credit": "Clip: Mhiwka (Twitch)"
 }
