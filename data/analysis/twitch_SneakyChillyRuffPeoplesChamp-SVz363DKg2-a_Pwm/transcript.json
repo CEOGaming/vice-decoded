@@ -1,0 +1,60 @@
+{
+  "language": "es",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "¡Sombran!"
+    },
+    {
+      "start": 1.0,
+      "end": 2.5,
+      "text": "¡Sombran!"
+    },
+    {
+      "start": 2.5,
+      "end": 3.8,
+      "text": "¡Espere..."
+    },
+    {
+      "start": 3.8,
+      "end": 5.5,
+      "text": "¡Estamos en tu posición!"
+    },
+    {
+      "start": 6.0,
+      "end": 8.5,
+      "text": "¡Es la primera vez que terminamos!"
+    },
+    {
+      "start": 8.5,
+      "end": 11.5,
+      "text": "¡Es una buena idea!"
+    },
+    {
+      "start": 11.5,
+      "end": 15.1,
+      "text": "¡Hasta la próxima!"
+    },
+    {
+      "start": 15.6,
+      "end": 16.6,
+      "text": "¡Vamos!"
+    },
+    {
+      "start": 18.6,
+      "end": 20.6,
+      "text": "¡¿Qué es eso?!"
+    },
+    {
+      "start": 20.6,
+      "end": 22.6,
+      "text": "¡Esta es mi madre!"
+    },
+    {
+      "start": 22.6,
+      "end": 26.1,
+      "text": "¡Por favor, no vas a preguntar!"
+    }
+  ]
+}

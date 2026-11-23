@@ -1,0 +1,55 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": "drag me"
+    },
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "text": "hi read"
+    },
+    {
+      "start": 6.0,
+      "end": 8.0,
+      "text": "stop stop stop stop"
+    },
+    {
+      "start": 8.0,
+      "end": 10.0,
+      "text": "stop stop"
+    },
+    {
+      "start": 10.0,
+      "end": 12.0,
+      "text": "alright wait let me"
+    },
+    {
+      "start": 12.0,
+      "end": 14.0,
+      "text": "let me uh"
+    },
+    {
+      "start": 14.0,
+      "end": 16.0,
+      "text": "yo what's going on y'all"
+    },
+    {
+      "start": 16.0,
+      "end": 18.0,
+      "text": "yo yo yo yo"
+    },
+    {
+      "start": 18.0,
+      "end": 25.4,
+      "text": "wait did y'all hear that"
+    },
+    {
+      "start": 25.4,
+      "end": 27.4,
+      "text": "y'all didn't hear that"
+    }
+  ]
+}

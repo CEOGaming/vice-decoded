@@ -1,0 +1,15 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 2.6,
+      "end": 4.6,
+      "text": "What the fuck?"
+    },
+    {
+      "start": 4.6,
+      "end": 30.0,
+      "text": "You."
+    }
+  ]
+}

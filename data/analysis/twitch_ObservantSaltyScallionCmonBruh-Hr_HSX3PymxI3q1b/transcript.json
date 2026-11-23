@@ -1,0 +1,30 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "What do you mean?"
+    },
+    {
+      "start": 2.0,
+      "end": 3.6,
+      "text": "What do you mean?"
+    },
+    {
+      "start": 3.6,
+      "end": 7.2,
+      "text": "Listen, I don't know what y'all do when you pee,"
+    },
+    {
+      "start": 7.2,
+      "end": 12.2,
+      "text": "but what I do is I sit like this on the toilet above it."
+    },
+    {
+      "start": 13.6,
+      "end": 14.5,
+      "text": "And then..."
+    }
+  ]
+}

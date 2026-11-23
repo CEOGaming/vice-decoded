@@ -1,0 +1,20 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 33.9,
+      "text": "You know what? I'm just gonna do this the old-fashioned way."
+    },
+    {
+      "start": 33.9,
+      "end": 35.4,
+      "text": "That's dairy?"
+    },
+    {
+      "start": 35.4,
+      "end": 36.4,
+      "text": "Potential units."
+    }
+  ]
+}

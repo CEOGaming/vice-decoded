@@ -1,0 +1,30 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.7,
+      "end": 3.6,
+      "text": "Hey, you okay, buddy? What the hell?"
+    },
+    {
+      "start": 11.3,
+      "end": 15.4,
+      "text": "Look, big guy, you need to leave gonna come looking for"
+    },
+    {
+      "start": 21.3,
+      "end": 22.8,
+      "text": "Red hole"
+    },
+    {
+      "start": 22.8,
+      "end": 25.8,
+      "text": "Check do I hug them? I feel like I got a hug them"
+    },
+    {
+      "start": 27.3,
+      "end": 29.3,
+      "text": "Feel bad, bro"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.9,
+      "end": 2.9,
+      "text": "There are so many officers that came!"
+    },
+    {
+      "start": 3.9,
+      "end": 5.9,
+      "text": "What the hell is wrong with you guys?"
+    },
+    {
+      "start": 5.9,
+      "end": 7.9,
+      "text": "We fear to have trespassing on Dr. Barad."
+    },
+    {
+      "start": 14.4,
+      "end": 31.5,
+      "text": "I do feel bad."
+    },
+    {
+      "start": 31.5,
+      "end": 33.5,
+      "text": "What the hell?"
+    }
+  ]
+}

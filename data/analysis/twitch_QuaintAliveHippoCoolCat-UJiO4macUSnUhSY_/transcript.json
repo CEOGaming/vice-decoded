@@ -1,0 +1,25 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Let's see"
+    },
+    {
+      "start": 21.3,
+      "end": 28.0,
+      "text": "Alright, let's just lock it"
+    },
+    {
+      "start": 29.1,
+      "end": 31.1,
+      "text": "Let's not try to flip the car over"
+    },
+    {
+      "start": 31.1,
+      "end": 38.0,
+      "text": "Probably no no no be cool. Yeah, I wanna flip the car over. I want to see miss which is red"
+    }
+  ]
+}

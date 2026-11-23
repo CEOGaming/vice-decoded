@@ -1,0 +1,55 @@
+{
+  "language": "es",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.4,
+      "text": "Me está diciendo que doble hueón."
+    },
+    {
+      "start": 4.4,
+      "end": 9.8,
+      "text": "Vamos, full recto."
+    },
+    {
+      "start": 11.8,
+      "end": 13.8,
+      "text": "Me reventaron una rueda, me reventaron una rueda."
+    },
+    {
+      "start": 13.8,
+      "end": 15.8,
+      "text": "¿O no?"
+    },
+    {
+      "start": 15.8,
+      "end": 16.8,
+      "text": "Hueón, ¿vieron eso?"
+    },
+    {
+      "start": 16.8,
+      "end": 18.8,
+      "text": "Por favor, díganme que vieron eso."
+    },
+    {
+      "start": 19.8,
+      "end": 21.8,
+      "text": "Por favor, díganme que vieron un..."
+    },
+    {
+      "start": 21.8,
+      "end": 23.8,
+      "text": "un carro de policía a volar a la concha de tumare."
+    },
+    {
+      "start": 23.8,
+      "end": 25.8,
+      "text": "Hueón, por favor."
+    },
+    {
+      "start": 26.8,
+      "end": 28.8,
+      "text": "Gusto, no lo vi. Hueón, no lo puedo creer."
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "language": "de",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 27.9,
+      "text": "Nein!"
+    },
+    {
+      "start": 27.9,
+      "end": 31.6,
+      "text": "Kurzer Prozess."
+    },
+    {
+      "start": 31.6,
+      "end": 33.5,
+      "text": "Oh mein Gott! Die helfen mir!"
+    },
+    {
+      "start": 33.5,
+      "end": 37.2,
+      "text": "Oh mein Gott!"
+    },
+    {
+      "start": 37.2,
+      "end": 41.0,
+      "text": "Moment, Moment!"
+    },
+    {
+      "start": 41.0,
+      "end": 43.0,
+      "text": "Ich muss schnell!"
+    },
+    {
+      "start": 43.0,
+      "end": 45.0,
+      "text": "Ich bin aufgeregt!"
+    },
+    {
+      "start": 45.0,
+      "end": 47.0,
+      "text": "Ich habe falsche Fotos gemacht!"
+    },
+    {
+      "start": 47.0,
+      "end": 49.0,
+      "text": "Stell!"
+    },
+    {
+      "start": 49.0,
+      "end": 55.3,
+      "text": "Ja!"
+    },
+    {
+      "start": 55.3,
+      "end": 57.3,
+      "text": "Ich habe mal Fotos gemacht, ich habe Beweise!"
+    }
+  ]
+}

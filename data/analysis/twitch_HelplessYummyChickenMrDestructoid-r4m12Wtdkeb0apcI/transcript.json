@@ -1,0 +1,40 @@
+{
+  "language": "es",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "espérame que no quiero chocar"
+    },
+    {
+      "start": 2.0,
+      "end": 5.0,
+      "text": "ey también me tienen que reconocer que he mejorado demasiado el juego"
+    },
+    {
+      "start": 5.0,
+      "end": 8.0,
+      "text": "ah que bueno, después de 30 horas ya si no me he mejorado"
+    },
+    {
+      "start": 18.3,
+      "end": 20.3,
+      "text": "me voy a callar, me voy a callar, me voy a callar"
+    },
+    {
+      "start": 20.3,
+      "end": 22.3,
+      "text": "puedes ir conociendo"
+    },
+    {
+      "start": 22.3,
+      "end": 25.3,
+      "text": "nomás le tengo un vergaso y ahora mi caro tiene un niñarro"
+    },
+    {
+      "start": 25.3,
+      "end": 27.3,
+      "text": "mi caro tiene un labio leporino"
+    }
+  ]
+}

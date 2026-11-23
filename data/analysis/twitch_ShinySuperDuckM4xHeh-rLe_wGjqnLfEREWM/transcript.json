@@ -1,0 +1,55 @@
+{
+  "language": "de",
+  "segments": [
+    {
+      "start": 0.6,
+      "end": 5.2,
+      "text": "Was ist das?"
+    },
+    {
+      "start": 5.2,
+      "end": 15.3,
+      "text": "Also Danny, könnt ihr mir gerade jetzt reinziehen?"
+    },
+    {
+      "start": 15.3,
+      "end": 22.1,
+      "text": "Was ist das? Viagra?"
+    },
+    {
+      "start": 22.1,
+      "end": 37.6,
+      "text": "Oh mein Gott."
+    },
+    {
+      "start": 37.6,
+      "end": 39.6,
+      "text": "Ach du Scheiße."
+    },
+    {
+      "start": 39.6,
+      "end": 41.6,
+      "text": "Was ist das bitte?"
+    },
+    {
+      "start": 41.6,
+      "end": 46.1,
+      "text": "Ist das jetzt nachdem er die Pillen genommen hat?"
+    },
+    {
+      "start": 46.1,
+      "end": 51.9,
+      "text": "Alter, was ist das?"
+    },
+    {
+      "start": 53.9,
+      "end": 55.9,
+      "text": "Oh mein Gott."
+    },
+    {
+      "start": 55.9,
+      "end": 57.9,
+      "text": "Ne, kaum das reicht."
+    }
+  ]
+}

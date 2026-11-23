@@ -1,0 +1,50 @@
+{
+  "language": "es",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "¡Evo!"
+    },
+    {
+      "start": 2.0,
+      "end": 3.0,
+      "text": "¡E! ¡Aquí está!"
+    },
+    {
+      "start": 3.0,
+      "end": 4.0,
+      "text": "¡Así!"
+    },
+    {
+      "start": 4.0,
+      "end": 5.0,
+      "text": "¡Ah!"
+    },
+    {
+      "start": 5.0,
+      "end": 6.0,
+      "text": "¡Qué es esto!"
+    },
+    {
+      "start": 7.0,
+      "end": 8.0,
+      "text": "¡Ya!"
+    },
+    {
+      "start": 8.0,
+      "end": 9.0,
+      "text": "¡Cúlmile!"
+    },
+    {
+      "start": 13.5,
+      "end": 14.5,
+      "text": "¡Qué es esto!"
+    },
+    {
+      "start": 14.5,
+      "end": 15.5,
+      "text": "¡Oh!"
+    }
+  ]
+}

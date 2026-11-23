@@ -1,0 +1,25 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": "My darling, it is too much"
+    },
+    {
+      "start": 6.0,
+      "end": 9.2,
+      "text": "Isn't that delicious? Oh my god"
+    },
+    {
+      "start": 10.9,
+      "end": 12.9,
+      "text": "She'll dry"
+    },
+    {
+      "start": 13.6,
+      "end": 19.6,
+      "text": "Can we ever say yes, I love one moment my dear"
+    }
+  ]
+}

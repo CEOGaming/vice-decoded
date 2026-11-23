@@ -1,0 +1,35 @@
+{
+  "language": "fr",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": "On custome la porche et on s'envoie le chapitre final, hein."
+    },
+    {
+      "start": 4.0,
+      "end": 7.0,
+      "text": "Vous savez que je pense qu'on va vraiment finir ce soir, on est à 85% du jour."
+    },
+    {
+      "start": 7.0,
+      "end": 14.8,
+      "text": "Putain, c'est un bombard."
+    },
+    {
+      "start": 19.3,
+      "end": 20.3,
+      "text": "Oh le stunt !"
+    },
+    {
+      "start": 20.3,
+      "end": 26.0,
+      "text": "La salle n'a qu'à bien se tenir !"
+    },
+    {
+      "start": 28.0,
+      "end": 30.0,
+      "text": "Salut à tous, c'est La Salle, et aujourd'hui..."
+    }
+  ]
+}

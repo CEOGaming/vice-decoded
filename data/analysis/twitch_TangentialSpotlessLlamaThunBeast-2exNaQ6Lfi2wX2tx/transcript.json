@@ -1,0 +1,40 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.8,
+      "end": 2.5,
+      "text": "Feminists come in for a lot of hate."
+    },
+    {
+      "start": 2.5,
+      "end": 4.3,
+      "text": "They even get called Femma-Fascists."
+    },
+    {
+      "start": 4.3,
+      "end": 5.5,
+      "text": "But I don't think that's fair."
+    },
+    {
+      "start": 5.5,
+      "end": 8.2,
+      "text": "The Fascists made the trains run on time."
+    },
+    {
+      "start": 8.2,
+      "end": 10.9,
+      "text": "When was a woman ever done anything on time?"
+    },
+    {
+      "start": 10.9,
+      "end": 12.9,
+      "text": "Please, not called Feminist-Fascists."
+    },
+    {
+      "start": 12.9,
+      "end": 14.9,
+      "text": "It's an insult to the memory of the victim."
+    }
+  ]
+}

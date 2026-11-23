@@ -1,0 +1,30 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.1,
+      "end": 2.1,
+      "text": "My god"
+    },
+    {
+      "start": 2.7,
+      "end": 22.4,
+      "text": "That's on"
+    },
+    {
+      "start": 22.8,
+      "end": 28.9,
+      "text": "Okay, don't worry. I got it this time 100% check this shit out"
+    },
+    {
+      "start": 43.5,
+      "end": 47.7,
+      "text": "Okay, that's good"
+    },
+    {
+      "start": 56.0,
+      "end": 58.0,
+      "text": "With the same man"
+    }
+  ]
+}

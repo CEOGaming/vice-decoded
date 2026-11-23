@@ -1,0 +1,30 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 2.8,
+      "end": 3.3,
+      "text": "I ju-"
+    },
+    {
+      "start": 3.3,
+      "end": 3.8,
+      "text": "UGH"
+    },
+    {
+      "start": 3.8,
+      "end": 16.2,
+      "text": "The fucking boat out of here!"
+    },
+    {
+      "start": 16.2,
+      "end": 23.1,
+      "text": "Who shits the left?"
+    },
+    {
+      "start": 23.1,
+      "end": 26.1,
+      "text": "Oh my god!"
+    }
+  ]
+}

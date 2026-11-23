@@ -1,0 +1,20 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.3,
+      "end": 9.3,
+      "text": "You need a contract. She got the bike in the air. She put it down. She put it down. She put it down again. She put it down."
+    },
+    {
+      "start": 9.3,
+      "end": 12.3,
+      "text": "Oh. No!"
+    },
+    {
+      "start": 12.3,
+      "end": 16.3,
+      "text": "Clip it, Jack. You'll switch clippin'!"
+    }
+  ]
+}

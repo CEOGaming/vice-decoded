@@ -1,0 +1,30 @@
+{
+  "language": "de",
+  "segments": [
+    {
+      "start": 7.5,
+      "end": 8.5,
+      "text": "Was ist das?"
+    },
+    {
+      "start": 14.6,
+      "end": 15.6,
+      "text": "Was?"
+    },
+    {
+      "start": 15.6,
+      "end": 20.1,
+      "text": "Ist kein Tisch."
+    },
+    {
+      "start": 27.0,
+      "end": 28.0,
+      "text": "Was war das?"
+    },
+    {
+      "start": 37.0,
+      "end": 38.0,
+      "text": "Oh, wie scheiße."
+    }
+  ]
+}

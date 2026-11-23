@@ -1,0 +1,25 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 2.5,
+      "end": 4.5,
+      "text": "You're done!"
+    },
+    {
+      "start": 4.5,
+      "end": 5.5,
+      "text": "Big misfortune!"
+    },
+    {
+      "start": 5.5,
+      "end": 6.5,
+      "text": "Get off me, asshole!"
+    },
+    {
+      "start": 8.5,
+      "end": 9.5,
+      "text": "What the shit?"
+    }
+  ]
+}

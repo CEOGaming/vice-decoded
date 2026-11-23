@@ -1,0 +1,25 @@
+{
+  "language": "it",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.3,
+      "text": "è no papo loro"
+    },
+    {
+      "start": 3.3,
+      "end": 5.3,
+      "text": "no papo loro loro loro"
+    },
+    {
+      "start": 5.3,
+      "end": 7.3,
+      "text": "e sarà qua allora"
+    },
+    {
+      "start": 21.3,
+      "end": 25.3,
+      "text": "che cosa state facendo voi due?"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "language": "hu",
+  "segments": [
+    {
+      "start": 0.2,
+      "end": 2.2,
+      "text": "Nem, húzod a hajam!"
+    },
+    {
+      "start": 2.2,
+      "end": 3.2,
+      "text": "Takorodsz."
+    },
+    {
+      "start": 3.2,
+      "end": 8.5,
+      "text": "Na, még mi az, te is valakit hívsz."
+    },
+    {
+      "start": 8.5,
+      "end": 11.5,
+      "text": "Nem akarom megnézni, hogy hogy néz ki maradjunk a nyomat."
+    },
+    {
+      "start": 14.5,
+      "end": 19.1,
+      "text": "Így szomózáshez."
+    },
+    {
+      "start": 25.7,
+      "end": 26.7,
+      "text": "Mondi, ittől vagyok."
+    },
+    {
+      "start": 26.7,
+      "end": 27.7,
+      "text": "Hát, úgy falhoz nyomtam."
+    },
+    {
+      "start": 27.7,
+      "end": 29.7,
+      "text": "Főrroband rendesen az ember."
+    }
+  ]
+}

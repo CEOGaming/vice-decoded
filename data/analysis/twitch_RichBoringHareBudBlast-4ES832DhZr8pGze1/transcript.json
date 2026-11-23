@@ -1,0 +1,20 @@
+{
+  "language": "de",
+  "segments": [
+    {
+      "start": 0.5,
+      "end": 7.5,
+      "text": "Gibt es schon ein Datum fürs Winter-Event? Ja, selbstverständlich gibt es ein Datum fürs Winter-Event, das ist der 20.12."
+    },
+    {
+      "start": 7.5,
+      "end": 11.5,
+      "text": "Also in nicht mal mehr einem Monat ist das Winter-Event."
+    },
+    {
+      "start": 11.5,
+      "end": 15.5,
+      "text": "In nicht mal einem Monat ist das Winter-Event schon."
+    }
+  ]
+}

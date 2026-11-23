@@ -1,0 +1,30 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.4,
+      "text": "Oof! Fucking mint, baby!"
+    },
+    {
+      "start": 3.4,
+      "end": 21.3,
+      "text": "Coming through."
+    },
+    {
+      "start": 21.3,
+      "end": 28.5,
+      "text": "Hey, some space, please."
+    },
+    {
+      "start": 28.5,
+      "end": 35.1,
+      "text": "Are you fucking serious?"
+    },
+    {
+      "start": 35.1,
+      "end": 42.6,
+      "text": "I knew you were an asshole."
+    }
+  ]
+}

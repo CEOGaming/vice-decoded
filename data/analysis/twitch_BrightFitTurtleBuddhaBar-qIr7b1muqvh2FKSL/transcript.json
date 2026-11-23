@@ -1,0 +1,20 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 1.6,
+      "end": 4.0,
+      "text": "Oh my god, that cat better get out of that alley and bike."
+    },
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "text": "You guys aren't going to close your eyes."
+    },
+    {
+      "start": 18.4,
+      "end": 21.6,
+      "text": "I mean dude, it went down the way I had to go."
+    }
+  ]
+}

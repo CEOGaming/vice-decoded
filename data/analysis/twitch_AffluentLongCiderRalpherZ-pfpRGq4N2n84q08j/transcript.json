@@ -1,0 +1,20 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 3.0,
+      "end": 5.0,
+      "text": "You like this place?"
+    },
+    {
+      "start": 8.4,
+      "end": 10.4,
+      "text": "What's taking so long?"
+    },
+    {
+      "start": 23.3,
+      "end": 25.3,
+      "text": "Sounds like you're starting to enjoy this."
+    }
+  ]
+}
