@@ -1,0 +1,88 @@
+{
+  "id": "talk_xqc_story_tempo",
+  "source": "https://www.twitch.tv/xqc/clip/SmoothSingleCoffeePeoplesChamp-mlJyCH5uu18ucZ9n",
+  "layout": "split",
+  "facecam": [
+    0,
+    0,
+    0.225,
+    0.3
+  ],
+  "hook": "xQc ZERLEGT DIE GTA 6 STORY",
+  "hook_full": true,
+  "title": "xQc: Die Story von GTA 6 ist zu langsam #shorts",
+  "description": "xQc kritisiert das Tempo der GTA-6-Story. Keine Spoiler. Original-Clip: xQc – https://www.twitch.tv/xqc/clip/SmoothSingleCoffeePeoplesChamp-mlJyCH5uu18ucZ9n\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #xqc #realtalk",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "xqc",
+    "realtalk"
+  ],
+  "tiktok": "Seht ihr das auch so? 😬 #gta6 #gtavi #xqc #fyp",
+  "instagram": "xQc findet die GTA 6 Story zu langsam 😬\n\n#gta6 #gtavi #gaming #reels",
+  "mask": [
+    [
+      0,
+      0,
+      0.23,
+      0.32
+    ],
+    [
+      0,
+      0.3,
+      0.3,
+      0.23
+    ]
+  ],
+  "beats": [
+    {
+      "original": true,
+      "start": 0,
+      "end": 49.2,
+      "focus": 0.5,
+      "subs": [
+        [
+          0.1,
+          5.8,
+          "Wenn du denkst, die Story entwickelt sich in einem bestimmten Tempo…"
+        ],
+        [
+          5.9,
+          10.8,
+          "…wirst du enttäuscht. Ich war es. Und ich hab nicht mal ADHS."
+        ],
+        [
+          12.1,
+          18.9,
+          "Das Tempo am Anfang war sehr langsam und zäh."
+        ],
+        [
+          19.3,
+          26.4,
+          "Die großen Story-Momente kriegst du gefühlt nur…"
+        ],
+        [
+          27.4,
+          32.4,
+          "…alle acht Stunden Spielzeit. Für ein Spiel dieser Größe…"
+        ],
+        [
+          32.4,
+          38.5,
+          "Die Entwickler wissen genau, dass die Spieler mehr wollen."
+        ],
+        [
+          39.2,
+          44.9,
+          "Um dich bei der Stange zu halten, braucht es mehr als den einen großen Moment…"
+        ],
+        [
+          45.6,
+          48.8,
+          "…alle acht Stunden. Das reicht nicht."
+        ]
+      ]
+    }
+  ]
+}

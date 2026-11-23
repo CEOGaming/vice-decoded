@@ -1,0 +1,41 @@
+{
+  "id": "clip_ludwig_kratzer",
+  "source": "https://www.twitch.tv/ludwig/clip/DeadAbnegateBadgerTinyFace-KTXjexsFTvKNF3PG",
+  "layout": "fill",
+  "hook": "KANN MAN RAUSPOLIEREN… ODER?",
+  "hook_full": true,
+  "title": "Ludwigs Auto ist komplett zerstört – kann man rauspolieren #shorts",
+  "description": "Ludwigs Oldtimer ist hinten komplett zerlegt. Seine Lösung: rauspolieren. Original-Clip: Ludwig – https://www.twitch.tv/ludwig/clip/DeadAbnegateBadgerTinyFace-KTXjexsFTvKNF3PG\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #ludwig #funny",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "ludwig",
+    "funny"
+  ],
+  "tiktok": "Nur ein kleiner Kratzer 💀 #gta6 #gtavi #ludwig #fyp",
+  "instagram": "Nur ein kleiner Kratzer 💀\n\n#gta6 #gtavi #gaming #reels",
+  "mask": [
+    [
+      0,
+      0.34,
+      0.18,
+      0.48
+    ]
+  ],
+  "beats": [
+    {
+      "original": true,
+      "start": 0,
+      "end": 12.4,
+      "focus": 0.5,
+      "subs": [
+        [
+          5.5,
+          8.8,
+          "Das kann man rauspolieren."
+        ]
+      ]
+    }
+  ]
+}

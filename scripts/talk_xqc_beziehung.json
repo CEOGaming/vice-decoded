@@ -1,0 +1,78 @@
+{
+  "id": "talk_xqc_beziehung",
+  "source": "https://www.twitch.tv/xqc/clip/ResilientDrabGrasshopperWow-fKAbKH4GGUaEC2dl",
+  "layout": "split",
+  "facecam": [
+    0,
+    0,
+    0.225,
+    0.3
+  ],
+  "hook": "IST DAS DER GRÖSSTE FEHLER VON GTA 6?",
+  "hook_full": true,
+  "title": "xQc: Das ist der größte Fehler von GTA 6 #shorts",
+  "description": "xQc findet es falsch, dass man in GTA 6 in einer festen Beziehung steckt. Original-Clip: xQc – https://www.twitch.tv/xqc/clip/ResilientDrabGrasshopperWow-fKAbKH4GGUaEC2dl\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #xqc #realtalk",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "xqc",
+    "realtalk"
+  ],
+  "tiktok": "Hat xQc recht? 🤔 #gta6 #gtavi #xqc #fyp",
+  "instagram": "Größter Fehler von GTA 6? xQc sagt ja 🤔\n\n#gta6 #gtavi #gaming #reels",
+  "mask": [
+    [
+      0,
+      0,
+      0.23,
+      0.32
+    ],
+    [
+      0,
+      0.3,
+      0.3,
+      0.23
+    ]
+  ],
+  "beats": [
+    {
+      "original": true,
+      "start": 0,
+      "end": 29,
+      "focus": 0.5,
+      "subs": [
+        [
+          0,
+          5.1,
+          "Wenn du von Anfang an weißt, dass dein Charakter vergeben ist…"
+        ],
+        [
+          5.9,
+          10.8,
+          "…ist das schlecht. Vor allem, wenn fast nur Männer zuschauen."
+        ],
+        [
+          11.7,
+          17.6,
+          "Meistens Leute, die eh keine Dating-Optionen haben. Ich mein, Bruder…"
+        ],
+        [
+          18.5,
+          22.9,
+          "Die zu einer festen Wahl zwingen? Da verlierst du viele Spieler."
+        ],
+        [
+          23.5,
+          25.5,
+          "Wie schwer ist das zu verstehen?"
+        ],
+        [
+          25.7,
+          28.6,
+          "Das sieht man doch kommen, bevor es passiert."
+        ]
+      ]
+    }
+  ]
+}
