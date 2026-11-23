@@ -1,0 +1,30 @@
+{
+  "language": "nl",
+  "segments": [
+    {
+      "start": 5.3,
+      "end": 6.3,
+      "text": "Rennepik!"
+    },
+    {
+      "start": 11.6,
+      "end": 17.6,
+      "text": "No way."
+    },
+    {
+      "start": 17.6,
+      "end": 20.6,
+      "text": "Die volste puntje op je map in een missie, dat is waar je heen moet."
+    },
+    {
+      "start": 23.6,
+      "end": 24.6,
+      "text": "Die kant op."
+    },
+    {
+      "start": 24.6,
+      "end": 26.6,
+      "text": "Ik schrok zo weg."
+    }
+  ]
+}

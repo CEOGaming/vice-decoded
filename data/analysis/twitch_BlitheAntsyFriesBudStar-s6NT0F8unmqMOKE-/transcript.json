@@ -1,0 +1,20 @@
+{
+  "language": "es",
+  "segments": [
+    {
+      "start": 6.0,
+      "end": 8.0,
+      "text": "No te quiero joder el coche y eso, venga."
+    },
+    {
+      "start": 8.0,
+      "end": 11.0,
+      "text": "Mira, corre, que no te quiero joder el coche, venga."
+    },
+    {
+      "start": 11.0,
+      "end": 14.7,
+      "text": "Corre, tonto!"
+    }
+  ]
+}

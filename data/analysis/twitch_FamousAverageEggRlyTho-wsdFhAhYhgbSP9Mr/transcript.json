@@ -1,0 +1,30 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 1.3,
+      "end": 3.3,
+      "text": "Now this looks like a party"
+    },
+    {
+      "start": 4.4,
+      "end": 7.1,
+      "text": "And I look like Ken so"
+    },
+    {
+      "start": 8.7,
+      "end": 13.6,
+      "text": "Let's go Barbie take your clothes off. I don't know all this wait, but it oh"
+    },
+    {
+      "start": 14.5,
+      "end": 25.8,
+      "text": "That it's that kind of party. Oh my god"
+    },
+    {
+      "start": 27.3,
+      "end": 35.8,
+      "text": "What I have found a naked club my god"
+    }
+  ]
+}
