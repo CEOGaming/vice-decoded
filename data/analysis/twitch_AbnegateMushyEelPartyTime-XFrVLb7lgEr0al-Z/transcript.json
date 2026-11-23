@@ -1,0 +1,35 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.1,
+      "end": 1.1,
+      "text": "Drop it."
+    },
+    {
+      "start": 17.9,
+      "end": 18.9,
+      "text": "What's up, guys?"
+    },
+    {
+      "start": 19.9,
+      "end": 22.9,
+      "text": "I am thinking about grabbing a drink here."
+    },
+    {
+      "start": 23.9,
+      "end": 25.9,
+      "text": "I don't see a problem with... Bro, it's not my fault."
+    },
+    {
+      "start": 25.9,
+      "end": 27.9,
+      "text": "Why could I not pull down the bat?"
+    },
+    {
+      "start": 27.9,
+      "end": 29.9,
+      "text": "Why could I not pull down the bat?"
+    }
+  ]
+}

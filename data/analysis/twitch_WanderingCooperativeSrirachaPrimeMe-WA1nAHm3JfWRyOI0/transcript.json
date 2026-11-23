@@ -1,0 +1,30 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Yep, don't mind me. One second. Yep, coming through."
+    },
+    {
+      "start": 2.0,
+      "end": 3.0,
+      "text": "Oh, oh."
+    },
+    {
+      "start": 3.0,
+      "end": 5.0,
+      "text": "Tis better scratch!"
+    },
+    {
+      "start": 5.0,
+      "end": 10.0,
+      "text": "Oh!"
+    },
+    {
+      "start": 10.0,
+      "end": 13.3,
+      "text": "Oh!"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 6.1,
+      "end": 19.8,
+      "text": "What the actual fuck is that?"
+    },
+    {
+      "start": 19.8,
+      "end": 20.8,
+      "text": "I missed that."
+    },
+    {
+      "start": 20.8,
+      "end": 27.0,
+      "text": "I'm doing it."
+    },
+    {
+      "start": 27.0,
+      "end": 35.8,
+      "text": "Should I click this for you later?"
+    },
+    {
+      "start": 35.8,
+      "end": 59.9,
+      "text": "Where's Lucia during all of this?"
+    }
+  ]
+}

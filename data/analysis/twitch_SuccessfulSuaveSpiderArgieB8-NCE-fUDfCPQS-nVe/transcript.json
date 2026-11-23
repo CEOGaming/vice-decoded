@@ -1,0 +1,40 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.2,
+      "text": "Did I actually get snagged? Yo, this game IS realistic."
+    },
+    {
+      "start": 2.2,
+      "end": 4.4,
+      "text": "Alright, done fishing. I caught my big fish, I'm chillin'."
+    },
+    {
+      "start": 6.5,
+      "end": 9.0,
+      "text": "Alright, do I have a gun yet so I can go to Nikkei 30 mode?"
+    },
+    {
+      "start": 14.1,
+      "end": 15.5,
+      "text": "No, I- I DO!"
+    },
+    {
+      "start": 24.4,
+      "end": 26.5,
+      "text": "Yo, my aim's better than what I thought, I'm gonna be honest."
+    },
+    {
+      "start": 26.9,
+      "end": 28.7,
+      "text": "I thought I sucked on control."
+    },
+    {
+      "start": 29.5,
+      "end": 31.3,
+      "text": "I thought there was almost no shit."
+    }
+  ]
+}

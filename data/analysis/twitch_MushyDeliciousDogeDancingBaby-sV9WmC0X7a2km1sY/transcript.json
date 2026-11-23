@@ -1,0 +1,20 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 12.3,
+      "end": 16.8,
+      "text": "Should I play music?"
+    },
+    {
+      "start": 16.8,
+      "end": 27.6,
+      "text": "Wait, I actually have to look at my speaker."
+    },
+    {
+      "start": 27.6,
+      "end": 29.9,
+      "text": "Hello first!"
+    }
+  ]
+}
