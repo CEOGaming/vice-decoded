@@ -1,0 +1,30 @@
+{
+  "language": "de",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "weg."
+    },
+    {
+      "start": 1.0,
+      "end": 12.1,
+      "text": "noch, noch, noch, noch, noch was zum."
+    },
+    {
+      "start": 12.1,
+      "end": 14.6,
+      "text": "Jo meine Kohle, war nur 2K."
+    },
+    {
+      "start": 14.6,
+      "end": 19.6,
+      "text": "Gott sei Dank, warum ist der voll rübergezogen?"
+    },
+    {
+      "start": 19.6,
+      "end": 23.0,
+      "text": "Das Ende von Lucia."
+    }
+  ]
+}

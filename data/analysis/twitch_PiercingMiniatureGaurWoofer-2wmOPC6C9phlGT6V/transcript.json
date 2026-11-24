@@ -1,0 +1,25 @@
+{
+  "language": "pt",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.0,
+      "text": "Que quem quiser a exposão de preços baixos, exclamação, cabum, chat, mano."
+    },
+    {
+      "start": 6.0,
+      "end": 10.0,
+      "text": "Exclamação, cabum no chat, play 5, play 6, play 7, play 8."
+    },
+    {
+      "start": 10.0,
+      "end": 13.0,
+      "text": "Mentira, não tem play 6, nem play 7, nem play 8, porque não existe."
+    },
+    {
+      "start": 13.0,
+      "end": 15.0,
+      "text": "Mas tem play 5, tem GTA 6."
+    }
+  ]
+}

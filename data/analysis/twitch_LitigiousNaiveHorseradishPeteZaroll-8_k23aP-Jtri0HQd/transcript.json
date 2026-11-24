@@ -1,0 +1,25 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "I'm so fucking stressed"
+    },
+    {
+      "start": 10.6,
+      "end": 34.5,
+      "text": "In the car!"
+    },
+    {
+      "start": 34.5,
+      "end": 59.2,
+      "text": "Shortcut!"
+    },
+    {
+      "start": 59.2,
+      "end": 60.2,
+      "text": "This is perfect"
+    }
+  ]
+}
