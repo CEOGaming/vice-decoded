@@ -1,0 +1,35 @@
+{
+  "language": "it",
+  "segments": [
+    {
+      "start": 0.3,
+      "end": 4.2,
+      "text": "Già vedete, grande tante, grande tante tante, no no no no, subscanio!"
+    },
+    {
+      "start": 5.7,
+      "end": 9.3,
+      "text": "Che lingua si appare?"
+    },
+    {
+      "start": 9.3,
+      "end": 12.2,
+      "text": "Faica lei eh?"
+    },
+    {
+      "start": 12.2,
+      "end": 13.2,
+      "text": "male"
+    },
+    {
+      "start": 13.2,
+      "end": 21.1,
+      "text": "Che te lo guidavo eh?"
+    },
+    {
+      "start": 21.1,
+      "end": 23.1,
+      "text": "Faica?"
+    }
+  ]
+}

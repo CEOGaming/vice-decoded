@@ -1,0 +1,40 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 3.5,
+      "end": 14.2,
+      "text": "How the fuck is it?"
+    },
+    {
+      "start": 14.2,
+      "end": 16.2,
+      "text": "It wasn't Solomon. No."
+    },
+    {
+      "start": 17.2,
+      "end": 19.2,
+      "text": "6pm Sunday chat."
+    },
+    {
+      "start": 19.2,
+      "end": 22.2,
+      "text": "Not deal or no deal. It was not the banker."
+    },
+    {
+      "start": 22.2,
+      "end": 24.2,
+      "text": "6pm Sunday."
+    },
+    {
+      "start": 25.2,
+      "end": 28.7,
+      "text": "Fucking hell."
+    },
+    {
+      "start": 28.7,
+      "end": 30.7,
+      "text": "No, it was not my dad thing."
+    }
+  ]
+}

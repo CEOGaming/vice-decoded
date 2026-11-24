@@ -1,0 +1,30 @@
+{
+  "language": "pt",
+  "segments": [
+    {
+      "start": 0.7,
+      "end": 4.1,
+      "text": "Ah, eu não sustento, gente. Se criminosa nem a pau."
+    },
+    {
+      "start": 4.1,
+      "end": 8.5,
+      "text": "Ai, ai, ai!"
+    },
+    {
+      "start": 8.5,
+      "end": 10.5,
+      "text": "Eu sonho de noite com essas coisas e dá pra mim, não?"
+    },
+    {
+      "start": 10.5,
+      "end": 12.5,
+      "text": "Ui, ui."
+    },
+    {
+      "start": 12.5,
+      "end": 14.5,
+      "text": "Corre pra onde? Corre, eu... Eu... Eu não jogo com o seu pra onde."
+    }
+  ]
+}

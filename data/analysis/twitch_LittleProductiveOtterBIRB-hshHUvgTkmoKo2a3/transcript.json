@@ -1,0 +1,30 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 4.8,
+      "end": 7.9,
+      "text": "Go go go. You sure it's on tight. Just go"
+    },
+    {
+      "start": 34.9,
+      "end": 40.8,
+      "text": "Think you'll get another shot"
+    },
+    {
+      "start": 49.1,
+      "end": 51.1,
+      "text": "Put it in the GPS"
+    },
+    {
+      "start": 51.7,
+      "end": 55.3,
+      "text": "Okay, sit. I'll tell the big guy better be there."
+    },
+    {
+      "start": 55.3,
+      "end": 57.3,
+      "text": "Or security."
+    }
+  ]
+}

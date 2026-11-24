@@ -1,0 +1,30 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.8,
+      "end": 6.1,
+      "text": "Somebody said the heartbeat mark was easy by the way. You are banned beyond belief. You are banned"
+    },
+    {
+      "start": 6.8,
+      "end": 48.5,
+      "text": "Where's the money at?"
+    },
+    {
+      "start": 48.5,
+      "end": 50.5,
+      "text": "Put the dumbest decision we could have ever made."
+    },
+    {
+      "start": 50.5,
+      "end": 52.0,
+      "text": "Who took it?"
+    },
+    {
+      "start": 52.0,
+      "end": 54.0,
+      "text": "I'm going to punch my money!"
+    }
+  ]
+}

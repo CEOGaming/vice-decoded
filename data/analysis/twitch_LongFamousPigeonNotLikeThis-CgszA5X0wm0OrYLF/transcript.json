@@ -1,0 +1,25 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 8.2,
+      "text": "I can't believe it."
+    },
+    {
+      "start": 8.2,
+      "end": 11.5,
+      "text": "Sorry, sorry, sorry child, sorry child,"
+    },
+    {
+      "start": 11.5,
+      "end": 12.7,
+      "text": "because I was in Florida."
+    },
+    {
+      "start": 14.1,
+      "end": 15.1,
+      "text": "Death row."
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "language": "nl",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Het schiet zo."
+    },
+    {
+      "start": 2.0,
+      "end": 5.6,
+      "text": "Ja."
+    },
+    {
+      "start": 5.6,
+      "end": 7.6,
+      "text": "Dit kaasje gaan we even raspen."
+    },
+    {
+      "start": 7.6,
+      "end": 29.7,
+      "text": "Entertainment."
+    },
+    {
+      "start": 29.7,
+      "end": 31.7,
+      "text": "Kijk, de kaas moet je raspen."
+    },
+    {
+      "start": 31.7,
+      "end": 37.8,
+      "text": "Die griffen."
+    },
+    {
+      "start": 37.8,
+      "end": 39.8,
+      "text": "Die fucking griffen."
+    }
+  ]
+}

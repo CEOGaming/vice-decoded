@@ -1,0 +1,30 @@
+{
+  "language": "fr",
+  "segments": [
+    {
+      "start": 0.5,
+      "end": 2.5,
+      "text": "Il y a sûr qu'il n'y a pas de répit"
+    },
+    {
+      "start": 4.6,
+      "end": 7.4,
+      "text": "Le seul répit qu'on a les gars ce sera avec la mort"
+    },
+    {
+      "start": 7.4,
+      "end": 34.1,
+      "text": "Ce qu'elle aime rapide, maintenant que j'ai mes repères de rotation chat"
+    },
+    {
+      "start": 34.1,
+      "end": 37.2,
+      "text": "Ça va quand même très très vite les rotards"
+    },
+    {
+      "start": 37.2,
+      "end": 42.8,
+      "text": "On fait le sud au nord de la map en quoi 4-5 minutes"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "language": "de",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.8,
+      "text": "Jetzt brauchen wir irgendeine Karre, am besten keinen kompletten Schrotthaufen."
+    },
+    {
+      "start": 7.8,
+      "end": 19.0,
+      "text": "Ähm, ja, also das schwierigste oder schlimmste eigentlich an unserem Livestream war der da."
+    },
+    {
+      "start": 19.0,
+      "end": 21.0,
+      "text": "Hallo!"
+    },
+    {
+      "start": 21.0,
+      "end": 23.0,
+      "text": "Egal, was ist das für ein Timing?"
+    },
+    {
+      "start": 23.0,
+      "end": 25.0,
+      "text": "Haben wir so vier Quadfahrer lang auf einmal."
+    },
+    {
+      "start": 25.0,
+      "end": 27.0,
+      "text": "Was sind wir hier?"
+    }
+  ]
+}

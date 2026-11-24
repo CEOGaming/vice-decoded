@@ -1,0 +1,15 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 1.5,
+      "end": 3.5,
+      "text": "I gotta live, oh!"
+    },
+    {
+      "start": 3.5,
+      "end": 8.3,
+      "text": "Peanuts, I'm fucking mad, bro."
+    }
+  ]
+}

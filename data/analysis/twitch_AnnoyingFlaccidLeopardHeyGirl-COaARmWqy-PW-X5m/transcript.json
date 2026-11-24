@@ -1,0 +1,25 @@
+{
+  "language": "de",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.0,
+      "text": "Guten Morgen, Demo Boy, Guten Morgen, Guten Morgen, Guten Morgen."
+    },
+    {
+      "start": 6.0,
+      "end": 21.5,
+      "text": "So, wir sind am nächsten Spot angekommen."
+    },
+    {
+      "start": 22.5,
+      "end": 25.5,
+      "text": "Wo landen wir denn hier idealerweise?"
+    },
+    {
+      "start": 25.5,
+      "end": 29.7,
+      "text": "Ich würde sagen hier..."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 5.5,
+      "end": 7.5,
+      "text": "Oh, he is wearing pants underneath."
+    },
+    {
+      "start": 7.5,
+      "end": 10.5,
+      "text": "Hey, thanks for visiting, Mo."
+    },
+    {
+      "start": 10.5,
+      "end": 12.5,
+      "text": "Oh, she's curious."
+    },
+    {
+      "start": 12.5,
+      "end": 23.3,
+      "text": "Jason, I'll take care of you, okay?"
+    },
+    {
+      "start": 23.3,
+      "end": 30.3,
+      "text": "I guess opening her door and buying her a ring and cleaning the house was all worth it."
+    },
+    {
+      "start": 30.3,
+      "end": 37.1,
+      "text": "She does nothing for him, I guess."
+    },
+    {
+      "start": 37.1,
+      "end": 41.1,
+      "text": "We'll see ya."
+    },
+    {
+      "start": 41.1,
+      "end": 44.1,
+      "text": "This game's cocksimulator!"
+    }
+  ]
+}

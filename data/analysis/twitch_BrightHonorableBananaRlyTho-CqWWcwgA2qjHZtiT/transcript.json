@@ -1,0 +1,20 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.3,
+      "end": 5.0,
+      "text": "You know man, if you nicely park in the woods, you're just enjoying your time."
+    },
+    {
+      "start": 5.0,
+      "end": 14.3,
+      "text": "Yeah, I am nicely parked here."
+    },
+    {
+      "start": 14.3,
+      "end": 16.3,
+      "text": "You're doing great!"
+    }
+  ]
+}

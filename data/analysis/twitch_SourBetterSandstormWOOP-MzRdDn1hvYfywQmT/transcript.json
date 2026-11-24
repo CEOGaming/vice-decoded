@@ -1,0 +1,25 @@
+{
+  "language": "id",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "ini poin neermis nih neermis"
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "poin itu"
+    },
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "text": "itu poin itu nih daggini"
+    },
+    {
+      "start": 6.0,
+      "end": 8.0,
+      "text": "daggini neermis"
+    }
+  ]
+}

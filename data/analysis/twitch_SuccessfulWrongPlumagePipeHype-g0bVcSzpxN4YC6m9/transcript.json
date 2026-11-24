@@ -1,0 +1,45 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 5.2,
+      "end": 9.2,
+      "text": "Maybe I could..."
+    },
+    {
+      "start": 9.2,
+      "end": 11.2,
+      "text": "This guy's problem."
+    },
+    {
+      "start": 11.2,
+      "end": 14.2,
+      "text": "You're on the other side of the window, you idiot!"
+    },
+    {
+      "start": 17.2,
+      "end": 18.2,
+      "text": "What?!"
+    },
+    {
+      "start": 18.2,
+      "end": 20.2,
+      "text": "That is weird of you!"
+    },
+    {
+      "start": 43.0,
+      "end": 46.5,
+      "text": "What?"
+    },
+    {
+      "start": 48.8,
+      "end": 50.8,
+      "text": "You couldn't do much!"
+    },
+    {
+      "start": 51.8,
+      "end": 52.8,
+      "text": "You can do anything at all!"
+    }
+  ]
+}

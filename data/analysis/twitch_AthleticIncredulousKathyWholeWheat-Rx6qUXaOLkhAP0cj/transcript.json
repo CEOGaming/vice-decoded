@@ -1,0 +1,30 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 2.1,
+      "end": 11.4,
+      "text": "Chase after me. I'll let you catch up. Oh my god. You can actually kind of run"
+    },
+    {
+      "start": 12.5,
+      "end": 35.1,
+      "text": "Run faster"
+    },
+    {
+      "start": 35.9,
+      "end": 38.9,
+      "text": "You got this. Oh, are you okay?"
+    },
+    {
+      "start": 38.9,
+      "end": 48.9,
+      "text": "You were good"
+    },
+    {
+      "start": 51.3,
+      "end": 56.4,
+      "text": "I think you need a scooter scooter now. I think you're gonna need a scooter"
+    }
+  ]
+}

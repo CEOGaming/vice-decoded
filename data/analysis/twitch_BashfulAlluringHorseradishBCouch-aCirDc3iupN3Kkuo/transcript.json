@@ -1,0 +1,30 @@
+{
+  "language": "es",
+  "segments": [
+    {
+      "start": 2.2,
+      "end": 4.2,
+      "text": "La que esté armando, eh."
+    },
+    {
+      "start": 5.2,
+      "end": 7.2,
+      "text": "La que esté armando, eh."
+    },
+    {
+      "start": 8.2,
+      "end": 9.2,
+      "text": "¡Vas!"
+    },
+    {
+      "start": 9.2,
+      "end": 10.2,
+      "text": "¡Qué lacorate!"
+    },
+    {
+      "start": 11.2,
+      "end": 12.2,
+      "text": "¡Vos!"
+    }
+  ]
+}

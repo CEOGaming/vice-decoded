@@ -1,0 +1,45 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.4,
+      "text": "I forgot. There's a pool."
+    },
+    {
+      "start": 4.9,
+      "end": 5.7,
+      "text": "So cool."
+    },
+    {
+      "start": 25.1,
+      "end": 27.2,
+      "text": "All I wanted to do is to get out of the pool."
+    },
+    {
+      "start": 27.2,
+      "end": 29.3,
+      "text": "Jason's fucking dead, bro!"
+    },
+    {
+      "start": 31.6,
+      "end": 33.8,
+      "text": "Jason just fucking died!"
+    },
+    {
+      "start": 36.4,
+      "end": 37.5,
+      "text": "Oh, shit, he's good."
+    },
+    {
+      "start": 39.0,
+      "end": 40.6,
+      "text": "Hey, bud. Everything okay?"
+    },
+    {
+      "start": 44.8,
+      "end": 46.5,
+      "text": "Hey, man. Uh..."
+    }
+  ]
+}

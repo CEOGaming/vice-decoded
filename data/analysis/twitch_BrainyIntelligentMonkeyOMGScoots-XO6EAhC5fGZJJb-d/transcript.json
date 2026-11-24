@@ -1,0 +1,35 @@
+{
+  "language": "de",
+  "segments": [
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "text": "Hahaha"
+    },
+    {
+      "start": 6.0,
+      "end": 8.0,
+      "text": "Hahaha"
+    },
+    {
+      "start": 8.0,
+      "end": 9.9,
+      "text": "Hahaha"
+    },
+    {
+      "start": 9.9,
+      "end": 11.9,
+      "text": "Äh, immerhin bin ich vlogge wie"
+    },
+    {
+      "start": 11.9,
+      "end": 13.9,
+      "text": "Vollsteidig vlogge"
+    },
+    {
+      "start": 13.9,
+      "end": 15.9,
+      "text": "What the fuuuuck"
+    }
+  ]
+}

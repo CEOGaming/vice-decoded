@@ -1,0 +1,25 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 3.5,
+      "end": 5.5,
+      "text": "Ah, I'm just playing, I'm just playing."
+    },
+    {
+      "start": 5.5,
+      "end": 6.3,
+      "text": "Oh!"
+    },
+    {
+      "start": 7.5,
+      "end": 8.7,
+      "text": "What the heck, bro?"
+    },
+    {
+      "start": 8.7,
+      "end": 9.6,
+      "text": "All right."
+    }
+  ]
+}

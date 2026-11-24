@@ -1,0 +1,35 @@
+{
+  "language": "de",
+  "segments": [
+    {
+      "start": 2.4,
+      "end": 4.3,
+      "text": "Ihr Stern ist schon immer kacke, ne?"
+    },
+    {
+      "start": 4.3,
+      "end": 13.4,
+      "text": "Oh mein Gott."
+    },
+    {
+      "start": 13.4,
+      "end": 17.4,
+      "text": "Okay, damit habe ich jetzt nicht gerechnet. Scheiße."
+    },
+    {
+      "start": 17.4,
+      "end": 19.4,
+      "text": "Ah, Mist."
+    },
+    {
+      "start": 19.4,
+      "end": 23.7,
+      "text": "Das war jetzt nicht so klug."
+    },
+    {
+      "start": 25.7,
+      "end": 29.7,
+      "text": "Ja, ich will diesen Scheiß das durchgeknallt, der Status."
+    }
+  ]
+}

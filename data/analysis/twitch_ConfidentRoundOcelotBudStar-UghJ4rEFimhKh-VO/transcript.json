@@ -1,0 +1,30 @@
+{
+  "language": "es",
+  "segments": [
+    {
+      "start": 1.4,
+      "end": 12.9,
+      "text": "¡Mandy!"
+    },
+    {
+      "start": 12.9,
+      "end": 14.9,
+      "text": "¡No he!"
+    },
+    {
+      "start": 14.9,
+      "end": 16.9,
+      "text": "¡No he! ¡Estoy roleando!"
+    },
+    {
+      "start": 16.9,
+      "end": 18.9,
+      "text": "¡Estoy roleando!"
+    },
+    {
+      "start": 18.9,
+      "end": 20.9,
+      "text": "¡Estoy roleando!"
+    }
+  ]
+}

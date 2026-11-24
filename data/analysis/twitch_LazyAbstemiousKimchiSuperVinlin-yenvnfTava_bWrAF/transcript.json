@@ -1,0 +1,45 @@
+{
+  "language": "de",
+  "segments": [
+    {
+      "start": 0.9,
+      "end": 2.9,
+      "text": "Hey, hey, Freundin."
+    },
+    {
+      "start": 2.9,
+      "end": 4.9,
+      "text": "Du bist okay?"
+    },
+    {
+      "start": 4.9,
+      "end": 12.2,
+      "text": "Okay."
+    },
+    {
+      "start": 12.2,
+      "end": 14.2,
+      "text": "Du musst weg."
+    },
+    {
+      "start": 14.2,
+      "end": 16.2,
+      "text": "Sie müssen weg."
+    },
+    {
+      "start": 16.2,
+      "end": 20.0,
+      "text": "Sie werden für dich angeschaut."
+    },
+    {
+      "start": 20.0,
+      "end": 33.2,
+      "text": "Okay, okay."
+    },
+    {
+      "start": 37.2,
+      "end": 41.0,
+      "text": "Schau für dich, got it."
+    }
+  ]
+}

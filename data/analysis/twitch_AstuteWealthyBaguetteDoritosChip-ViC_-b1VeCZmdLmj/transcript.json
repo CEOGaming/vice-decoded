@@ -1,0 +1,15 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.2,
+      "end": 14.2,
+      "text": "What was that green car? Fire truck?"
+    },
+    {
+      "start": 14.2,
+      "end": 18.2,
+      "text": "The green in America?"
+    }
+  ]
+}

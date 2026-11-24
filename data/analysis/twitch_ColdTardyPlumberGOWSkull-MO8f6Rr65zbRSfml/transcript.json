@@ -1,0 +1,20 @@
+{
+  "language": "it",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Eh, non ti girare!"
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "Ok."
+    },
+    {
+      "start": 8.0,
+      "end": 10.0,
+      "text": "Nooooo!"
+    }
+  ]
+}

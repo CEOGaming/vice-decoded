@@ -1,0 +1,25 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.1,
+      "end": 2.0,
+      "text": "Jayce and the males!"
+    },
+    {
+      "start": 3.0,
+      "end": 4.0,
+      "text": "See you in here!"
+    },
+    {
+      "start": 4.0,
+      "end": 7.1,
+      "text": "What the hell?"
+    },
+    {
+      "start": 8.1,
+      "end": 9.1,
+      "text": "What?"
+    }
+  ]
+}
