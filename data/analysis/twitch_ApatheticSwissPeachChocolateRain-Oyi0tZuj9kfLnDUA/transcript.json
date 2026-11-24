@@ -1,0 +1,35 @@
+{
+  "language": "es",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 9.1,
+      "text": "Vale, el pinche carotado ha hecho vaso fiel, o sea, a pintarlo para que mi vieja no pinche mal de menos."
+    },
+    {
+      "start": 17.8,
+      "end": 19.2,
+      "text": "A mí está tan chocado, güey."
+    },
+    {
+      "start": 19.8,
+      "end": 20.8,
+      "text": "¡Oh, qué pedo!"
+    },
+    {
+      "start": 20.8,
+      "end": 22.2,
+      "text": "¡Qué pedo con el cabrón!"
+    },
+    {
+      "start": 22.2,
+      "end": 25.3,
+      "text": "¡Qué pedo!"
+    },
+    {
+      "start": 25.3,
+      "end": 29.3,
+      "text": "¡Qué pedo!"
+    }
+  ]
+}

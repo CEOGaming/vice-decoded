@@ -1,0 +1,35 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 1.5,
+      "end": 3.2,
+      "text": "Oh, yeah, y'all get cooked."
+    },
+    {
+      "start": 3.2,
+      "end": 8.3,
+      "text": "Oh, easy, baby."
+    },
+    {
+      "start": 8.3,
+      "end": 13.5,
+      "text": "See ya, kid."
+    },
+    {
+      "start": 13.5,
+      "end": 21.1,
+      "text": "Mom, there's a little pearl in race over there."
+    },
+    {
+      "start": 21.1,
+      "end": 28.1,
+      "text": "You might win big."
+    },
+    {
+      "start": 28.1,
+      "end": 29.8,
+      "text": "OK."
+    }
+  ]
+}

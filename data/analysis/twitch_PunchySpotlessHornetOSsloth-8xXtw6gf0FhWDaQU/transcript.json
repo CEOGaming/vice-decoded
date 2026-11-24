@@ -1,0 +1,20 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.0,
+      "text": "Yeah, he's got a head tap! Yo, Tater's shot!"
+    },
+    {
+      "start": 6.0,
+      "end": 20.4,
+      "text": "Oh my god!"
+    },
+    {
+      "start": 20.4,
+      "end": 22.4,
+      "text": "Yeah, we're clipping that. We're clipping that."
+    }
+  ]
+}

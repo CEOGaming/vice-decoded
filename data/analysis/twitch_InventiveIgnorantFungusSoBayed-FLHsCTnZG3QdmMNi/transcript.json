@@ -1,0 +1,30 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 1.1,
+      "end": 8.5,
+      "text": "I just heard an NPC I walked by in this mission and I'm in the strip club and I just heard"
+    },
+    {
+      "start": 8.5,
+      "end": 9.5,
+      "text": "the do-go."
+    },
+    {
+      "start": 9.5,
+      "end": 11.8,
+      "text": "There's nothing in my pockets, darling."
+    },
+    {
+      "start": 11.8,
+      "end": 13.7,
+      "text": "I don't get paid till next week."
+    },
+    {
+      "start": 13.7,
+      "end": 21.0,
+      "text": "I want the fuck."
+    }
+  ]
+}
