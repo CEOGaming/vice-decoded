@@ -1,0 +1,20 @@
+{
+  "language": "es",
+  "segments": [
+    {
+      "start": 5.3,
+      "end": 8.9,
+      "text": "Esto es canción de mi país, ¿sabes?"
+    },
+    {
+      "start": 8.9,
+      "end": 11.3,
+      "text": "Por eso pongo porque es de mi país"
+    },
+    {
+      "start": 11.3,
+      "end": 17.9,
+      "text": "¡Como se ve esto Dios mío!"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "language": "de",
+  "segments": [
+    {
+      "start": 1.4,
+      "end": 2.4,
+      "text": "Benner!"
+    },
+    {
+      "start": 2.4,
+      "end": 3.4,
+      "text": "Benner!"
+    },
+    {
+      "start": 3.4,
+      "end": 7.4,
+      "text": "Was war das für eine Scheiße?"
+    },
+    {
+      "start": 7.4,
+      "end": 9.4,
+      "text": "Hab ich am Leben nicht gedacht."
+    },
+    {
+      "start": 9.4,
+      "end": 11.4,
+      "text": "Da kannst du Motorrad umbixen kannst du."
+    },
+    {
+      "start": 11.4,
+      "end": 13.4,
+      "text": "Boah!"
+    },
+    {
+      "start": 13.4,
+      "end": 15.4,
+      "text": "Alter, hi, definitiv."
+    }
+  ]
+}

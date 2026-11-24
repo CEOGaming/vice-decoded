@@ -1,0 +1,30 @@
+{
+  "language": "de",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.0,
+      "text": "Ich bin nicht so spezialist alter, wenn ihr den kommt."
+    },
+    {
+      "start": 5.0,
+      "end": 9.0,
+      "text": "Kurz vom Boden einfach rauspillen."
+    },
+    {
+      "start": 9.0,
+      "end": 10.0,
+      "text": "Boah!"
+    },
+    {
+      "start": 11.0,
+      "end": 12.0,
+      "text": "Boah!"
+    },
+    {
+      "start": 14.0,
+      "end": 17.0,
+      "text": "Alter, wie kann das nicht passieren, Junge!"
+    }
+  ]
+}
