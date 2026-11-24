@@ -1,0 +1,76 @@
+{
+  "id": "clip_josefa_bruecke",
+  "source": "https://www.twitch.tv/josefattv/clip/ExcitedJollyYamBIRB-ZSMUGDVWfH0JVjWw",
+  "layout": "fill",
+  "hook": "ER FLIEGT VON DER BRÜCKE",
+  "hook_full": true,
+  "title": "Illegales Rennen endet auf der Brücke #shorts",
+  "description": "JosefaTTV fährt ein illegales Rennen, als ein Gegner von der Brücke fliegt. Original-Clip: JosefaTTV – https://www.twitch.tv/josefattv/clip/ExcitedJollyYamBIRB-ZSMUGDVWfH0JVjWw\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #josefattv #rennen #crash",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "josefattv",
+    "rennen",
+    "crash"
+  ],
+  "tiktok": "Von der Brücke geflogen 😳 #gta6 #gtavi #fyp",
+  "instagram": "Das ganze Spektakel 🏁\n\n#gta6 #gtavi #gaming #reels",
+  "mask": [
+    [
+      0.75,
+      0.35,
+      0.25,
+      0.4
+    ]
+  ],
+  "beats": [
+    {
+      "original": true,
+      "start": 0,
+      "end": 30,
+      "focus": 0.5,
+      "subs": [
+        [
+          9.7,
+          10.7,
+          "Los, Alter, er ist gecrasht.",
+          "Josefa"
+        ],
+        [
+          12.7,
+          15.6,
+          "Er fällt… er fällt von der Brücke!",
+          "Josefa"
+        ],
+        [
+          16.3,
+          17.7,
+          "Alter, er ist von der Brücke gefallen.",
+          "Josefa"
+        ],
+        [
+          20.8,
+          21.7,
+          "Was geht?!",
+          "Josefa"
+        ],
+        [
+          25.1,
+          26.3,
+          "Habt ihr das gesehen?",
+          "Josefa"
+        ],
+        [
+          26.4,
+          29.7,
+          "Er ist gecrasht, hat sich überschlagen, das ganze Spektakel.",
+          "Josefa"
+        ]
+      ]
+    }
+  ],
+  "style": "prompt",
+  "streamer": "Josefa",
+  "credit": "Clip: JosefaTTV (Twitch)"
+}

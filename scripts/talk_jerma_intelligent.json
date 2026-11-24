@@ -1,0 +1,64 @@
+{
+  "id": "talk_jerma_intelligent",
+  "source": "https://www.twitch.tv/jerma985/clip/GlamorousSpookyAlmondPJSalt-rHXPwty62ZwJsJka",
+  "layout": "fill",
+  "hook": "NENN MICH NICHT DUMM",
+  "hook_full": true,
+  "title": "Jerma: einer der intelligentesten Streamer #shorts",
+  "description": "Jerma wird von seinem Chat als dumm bezeichnet und stellt etwas klar. Original-Clip: Jerma985 – https://www.twitch.tv/jerma985/clip/GlamorousSpookyAlmondPJSalt-rHXPwty62ZwJsJka\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #jerma #realtalk #funny",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "jerma",
+    "realtalk",
+    "funny"
+  ],
+  "tiktok": "Einer der intelligentesten Streamer 🧠😂 #gta6 #gtavi #fyp",
+  "instagram": "Nenn ihn nicht dumm 😤\n\n#gta6 #gtavi #gaming #reels",
+  "mask": [
+    [
+      0.28,
+      0.84,
+      0.44,
+      0.13
+    ]
+  ],
+  "beats": [
+    {
+      "original": true,
+      "start": 0,
+      "end": 21.7,
+      "focus": 0.5,
+      "subs": [
+        [
+          0,
+          5,
+          "Es ist 4:30. Es ist Grand Theft Auto, du Idiot.",
+          "Jerma"
+        ],
+        [
+          5,
+          10.6,
+          "Nenn mich nicht… nenn mich nicht Idiot.",
+          "Jerma"
+        ],
+        [
+          10.6,
+          15,
+          "Entschuldige mal, ich bin wahrscheinlich…",
+          "Jerma"
+        ],
+        [
+          15,
+          21.5,
+          "…einer der intelligentesten Streamer überhaupt.",
+          "Jerma"
+        ]
+      ]
+    }
+  ],
+  "style": "prompt",
+  "streamer": "Jerma",
+  "credit": "Clip: Jerma985 (Twitch)"
+}

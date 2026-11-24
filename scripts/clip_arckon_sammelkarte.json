@@ -1,0 +1,68 @@
+{
+  "id": "clip_arckon_sammelkarte",
+  "source": "https://www.twitch.tv/arckon/clip/RichObservantWebDoubleRainbow-7pr0lAZ1eagtdSZa",
+  "layout": "fill",
+  "hook": "ICH BIN IN GTA 6?!",
+  "hook_full": true,
+  "title": "Streamer findet sich selbst in GTA 6 #shorts",
+  "description": "Arckon findet eine Baseball-Sammelkarte, die ihm verdächtig ähnlich sieht. Original-Clip: Arckon – https://www.twitch.tv/arckon/clip/RichObservantWebDoubleRainbow-7pr0lAZ1eagtdSZa\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #arckon #eastereggs #funny",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "arckon",
+    "eastereggs",
+    "funny"
+  ],
+  "tiktok": "Er ist in GTA 6 😳 #gta6 #gtavi #fyp",
+  "instagram": "Die haben mich beobachtet 👀\n\n#gta6 #gtavi #gaming #reels",
+  "beats": [
+    {
+      "original": true,
+      "start": 0,
+      "end": 42,
+      "focus": 0.5,
+      "subs": [
+        [
+          10.5,
+          12.5,
+          "Rate mal: Ich komm aus Bohan?",
+          "NPC"
+        ],
+        [
+          12.9,
+          20,
+          "Das ist doch ein Witz. Das denkt ihr euch nicht aus, Bro.",
+          "Arckon"
+        ],
+        [
+          20,
+          26.1,
+          "Das kann man sich nicht ausdenken.",
+          "Arckon"
+        ],
+        [
+          27.7,
+          29.7,
+          "Ich hasse es hier.",
+          "Arckon"
+        ],
+        [
+          30.6,
+          36.4,
+          "Ich wusste, dass die mich beobachten.",
+          "Arckon"
+        ],
+        [
+          36.4,
+          40.2,
+          "Ich wusste die ganze Zeit, dass mich jemand beobachtet.",
+          "Arckon"
+        ]
+      ]
+    }
+  ],
+  "style": "prompt",
+  "streamer": "Arckon",
+  "credit": "Clip: Arckon (Twitch)"
+}

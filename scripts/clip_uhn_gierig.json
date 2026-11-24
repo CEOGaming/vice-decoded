@@ -1,0 +1,50 @@
+{
+  "id": "clip_uhn_gierig",
+  "source": "https://www.twitch.tv/uhn/clip/CloudyAdventurousAubergineWTRuck-ZazvSdKPEcN4Gnvw",
+  "layout": "fill",
+  "hook": "ZU GIERIG?",
+  "hook_full": true,
+  "title": "Zu gierig in GTA 6 #shorts",
+  "description": "UHN flieht vor der Polizei und will noch schnell die grüne Ampel erwischen. Original-Clip: UHN – https://www.twitch.tv/uhn/clip/CloudyAdventurousAubergineWTRuck-ZazvSdKPEcN4Gnvw\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #uhn #polizei #fail",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "uhn",
+    "polizei",
+    "fail"
+  ],
+  "tiktok": "Zu gierig? 🚦 #gta6 #gtavi #fyp",
+  "instagram": "Die grüne Ampel war es wert 😂\n\n#gta6 #gtavi #gaming #reels",
+  "beats": [
+    {
+      "original": true,
+      "start": 0,
+      "end": 24.8,
+      "focus": 0.5,
+      "subs": [
+        [
+          3.8,
+          12,
+          "Los geht’s, okay, okay, okay…",
+          "UHN"
+        ],
+        [
+          12,
+          20.2,
+          "Alles klar, alles klar, ich wollte nur…",
+          "UHN"
+        ],
+        [
+          20.2,
+          24.7,
+          "…die grüne Ampel erwischen. Heilige…!",
+          "UHN"
+        ]
+      ]
+    }
+  ],
+  "style": "prompt",
+  "streamer": "UHN",
+  "credit": "Clip: UHN (Twitch)"
+}

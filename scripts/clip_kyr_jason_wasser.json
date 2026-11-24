@@ -1,0 +1,88 @@
+{
+  "id": "clip_kyr_jason_wasser",
+  "source": "https://www.twitch.tv/kyr_sp33dy/clip/ElatedIcyReubenGingerPower-dxLYy9HUCcxnAkAO",
+  "layout": "fill",
+  "hook": "JASON LÄUFT ÜBERS WASSER",
+  "hook_full": true,
+  "title": "Jason läuft in GTA 6 übers Wasser #shorts",
+  "description": "Nach einem Motorradunfall landet Jason im Sumpf und läuft einfach weiter, als wäre nichts. Original-Clip: KYR_SP33DY – https://www.twitch.tv/kyr_sp33dy/clip/ElatedIcyReubenGingerPower-dxLYy9HUCcxnAkAO\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #kyrspeedy #bug #jason",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "kyrspeedy",
+    "bug",
+    "jason"
+  ],
+  "tiktok": "Jason läuft übers Wasser 😳 #gta6 #gtavi #fyp",
+  "instagram": "Gators? Egal 🐊\n\n#gta6 #gtavi #gaming #reels",
+  "mask": [
+    [
+      0.75,
+      0.2,
+      0.25,
+      0.5
+    ]
+  ],
+  "beats": [
+    {
+      "original": true,
+      "start": 0,
+      "end": 34.5,
+      "focus": 0.5,
+      "subs": [
+        [
+          0,
+          7.5,
+          "Wenn du dich eindecken willst: Am South Cunningham Drive gibt’s einen Waffenladen.",
+          "Lucia"
+        ],
+        [
+          7.5,
+          8.5,
+          "Was zum…?",
+          "Kyr"
+        ],
+        [
+          12.5,
+          14.5,
+          "Oh, das ist nicht gut.",
+          "Kyr"
+        ],
+        [
+          16.5,
+          18.5,
+          "Da gibt’s bestimmt Alligatoren!",
+          "Kyr"
+        ],
+        [
+          18.5,
+          22.5,
+          "Wow, Jason, ist das entspannt, Bro!",
+          "Kyr"
+        ],
+        [
+          22.5,
+          24.5,
+          "Heilige…!",
+          "Kyr"
+        ],
+        [
+          26.5,
+          28.5,
+          "Schau dir an, welchen Weg er genommen hat!",
+          "Kyr"
+        ],
+        [
+          28.5,
+          33.5,
+          "Yo, Lucia, das war krass!",
+          "Kyr"
+        ]
+      ]
+    }
+  ],
+  "style": "prompt",
+  "streamer": "Kyr",
+  "credit": "Clip: KYR_SP33DY (Twitch)"
+}

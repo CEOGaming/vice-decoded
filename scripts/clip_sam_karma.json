@@ -1,0 +1,82 @@
+{
+  "id": "clip_sam_karma",
+  "source": "https://www.twitch.tv/samwitch/clip/BraveSlipperyHippoDxCat-k5alDsBIjEARAfWL",
+  "layout": "fill",
+  "hook": "SOFORTIGES KARMA",
+  "hook_full": true,
+  "title": "Sofortiges Karma in GTA 6 #shorts",
+  "description": "Samwitch soll einen Krankenwagen zerstören und will es besonders kreativ machen. Original-Clip: Samwitch – https://www.twitch.tv/samwitch/clip/BraveSlipperyHippoDxCat-k5alDsBIjEARAfWL\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #samwitch #karma #fail",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "samwitch",
+    "karma",
+    "fail"
+  ],
+  "tiktok": "Sofortiges Karma 💀 #gta6 #gtavi #fyp",
+  "instagram": "Der Kanister war direkt da… 😭\n\n#gta6 #gtavi #gaming #reels",
+  "mask": [
+    [
+      0.8,
+      0.3,
+      0.2,
+      0.45
+    ]
+  ],
+  "beats": [
+    {
+      "original": true,
+      "start": 0,
+      "end": 50.3,
+      "focus": 0.5,
+      "subs": [
+        [
+          0,
+          3.6,
+          "Okay, ich muss den Krankenwagen zerstören.",
+          "Samwitch"
+        ],
+        [
+          9.1,
+          12.8,
+          "Direkt dahinter steht ein Benzinkanister?",
+          "Samwitch"
+        ],
+        [
+          12.8,
+          14.8,
+          "Ach, das ist doch langweilig.",
+          "Samwitch"
+        ],
+        [
+          16,
+          22.7,
+          "Ich soll echt nehmen, was direkt vor mir liegt, wenn ich das alles hier habe?",
+          "Samwitch"
+        ],
+        [
+          22.7,
+          27.8,
+          "Ich zeige auf die ganze Karte. Mit meinem Herzen!",
+          "Samwitch"
+        ],
+        [
+          37.6,
+          41.6,
+          "Oh, ein Benzinkanister! Da ist ein Benzinkanister!",
+          "Samwitch"
+        ],
+        [
+          41.6,
+          50,
+          "Gestreift! Ich hab ihn gestreift!",
+          "Samwitch"
+        ]
+      ]
+    }
+  ],
+  "style": "prompt",
+  "streamer": "Samwitch",
+  "credit": "Clip: Samwitch (Twitch)"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "clip_berry_brennendes_auto",
+  "source": "https://www.twitch.tv/berrycrepe/clip/ElegantEntertainingFriesTinyFace-q1oQ0csN0w-zg_nl",
+  "layout": "fill",
+  "hook": "WARUM PIEPT DAS?",
+  "hook_full": true,
+  "title": "Das Auto brennt – sie lacht #shorts",
+  "description": "BerryCrepe hört ein Piepen. Kurz danach steht das Auto in Flammen. Original-Clip: BerryCrepe – https://www.twitch.tv/berrycrepe/clip/ElegantEntertainingFriesTinyFace-q1oQ0csN0w-zg_nl\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #berrycrepe #feuer #fail",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "berrycrepe",
+    "feuer",
+    "fail"
+  ],
+  "tiktok": "Warum piept das? 🔥 #gta6 #gtavi #fyp",
+  "instagram": "Vielleicht werd ich ja nicht erwischt 😂\n\n#gta6 #gtavi #gaming #reels",
+  "beats": [
+    {
+      "original": true,
+      "start": 0,
+      "end": 32,
+      "focus": 0.5,
+      "subs": [
+        [
+          1.6,
+          3.5,
+          "Warum piept das? Oh…",
+          "Berry"
+        ],
+        [
+          4.3,
+          6.3,
+          "Vielleicht werd ich ja nicht erwischt.",
+          "Berry"
+        ]
+      ]
+    }
+  ],
+  "style": "prompt",
+  "streamer": "Berry",
+  "credit": "Clip: BerryCrepe (Twitch)"
+}

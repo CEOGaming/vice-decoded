@@ -1,0 +1,56 @@
+{
+  "id": "clip_vine_affen",
+  "source": "https://www.twitch.tv/vinesauce/clip/EasyDreamyConsoleMrDestructoid-oa-E_Ucl8j-vVaO9",
+  "layout": "fill",
+  "hook": "FASS DIE AFFEN NICHT AN",
+  "hook_full": true,
+  "title": "Fass in GTA 6 bloß nicht die Affen an #shorts",
+  "description": "Vinesauce soll in einem Auftrag Fotos von Affenkäfigen machen. Die Warnung im Spiel ist eindeutig. Original-Clip: Vinesauce – https://www.twitch.tv/vinesauce/clip/EasyDreamyConsoleMrDestructoid-oa-E_Ucl8j-vVaO9\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #vinesauce #tiere #affen",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "vinesauce",
+    "tiere",
+    "affen"
+  ],
+  "tiktok": "Fass die Affen nicht an 🐒 #gta6 #gtavi #fyp",
+  "instagram": "Die Warnung war eindeutig 🐒😂\n\n#gta6 #gtavi #gaming #reels",
+  "beats": [
+    {
+      "original": true,
+      "start": 0,
+      "end": 30,
+      "focus": 0.5,
+      "subs": [
+        [
+          9,
+          15.6,
+          "Mach Fotos von den Käfigen, Nahaufnahmen, aber fass auf keinen Fall die Tiere an.",
+          "NPC"
+        ],
+        [
+          15.6,
+          21.2,
+          "Die werden hier ständig gezüchtet, aber Tests auf Krankheiten sind teuer.",
+          "NPC"
+        ],
+        [
+          21.2,
+          24.4,
+          "Die Hälfte der Schimpansen hat irgendeinen krassen Stamm von…",
+          "NPC"
+        ],
+        [
+          24.9,
+          29.4,
+          "Herpes?! Was zur Hölle?",
+          "Vinny"
+        ]
+      ]
+    }
+  ],
+  "style": "prompt",
+  "streamer": "Vinny",
+  "credit": "Clip: Vinesauce (Twitch)"
+}
