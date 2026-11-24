@@ -1,0 +1,45 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.5,
+      "text": "I'm gonna go back to work, all right?"
+    },
+    {
+      "start": 1.5,
+      "end": 3.5,
+      "text": "No, Jason, you have to tell me."
+    },
+    {
+      "start": 3.5,
+      "end": 5.5,
+      "text": "You and me, we were supposed to get married."
+    },
+    {
+      "start": 5.5,
+      "end": 7.5,
+      "text": "We really fucking know each other."
+    },
+    {
+      "start": 7.5,
+      "end": 8.5,
+      "text": "Damn, man."
+    },
+    {
+      "start": 8.5,
+      "end": 11.5,
+      "text": "So you just get bished at by chicks in this game?"
+    },
+    {
+      "start": 11.5,
+      "end": 13.0,
+      "text": "God damn!"
+    },
+    {
+      "start": 13.0,
+      "end": 13.5,
+      "text": "Holy-"
+    }
+  ]
+}

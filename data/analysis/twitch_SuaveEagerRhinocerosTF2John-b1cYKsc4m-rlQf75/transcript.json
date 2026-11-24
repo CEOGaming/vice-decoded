@@ -1,0 +1,45 @@
+{
+  "language": "de",
+  "segments": [
+    {
+      "start": 0.2,
+      "end": 4.2,
+      "text": "Das lauere ich."
+    },
+    {
+      "start": 4.2,
+      "end": 8.2,
+      "text": "Was machen die denn da?"
+    },
+    {
+      "start": 8.2,
+      "end": 12.2,
+      "text": "Digger, Jungs!"
+    },
+    {
+      "start": 12.2,
+      "end": 16.2,
+      "text": "Bro!"
+    },
+    {
+      "start": 16.2,
+      "end": 21.9,
+      "text": "Bro, ey, nein!"
+    },
+    {
+      "start": 21.9,
+      "end": 25.9,
+      "text": "Du crazy motherfucker, Digger!"
+    },
+    {
+      "start": 25.9,
+      "end": 34.7,
+      "text": "Erst mal plendern."
+    },
+    {
+      "start": 34.7,
+      "end": 43.5,
+      "text": "Scheiße, da hinten sind Zeug!"
+    }
+  ]
+}
