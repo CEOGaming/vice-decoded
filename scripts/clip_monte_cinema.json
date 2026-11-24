@@ -1,0 +1,44 @@
+{
+  "id": "clip_monte_cinema",
+  "source": "https://www.twitch.tv/montanablack88/clip/CloudyEsteemedSageDuDudu-9Ici4gQM8-oBSoNK",
+  "layout": "fill",
+  "hook": "SEID IHR BEREIT? ABFAHRT!",
+  "hook_full": true,
+  "title": "MontanaBlack: Motorrad-Sprung wie im Kino #shorts",
+  "description": "MontanaBlack setzt zum großen Motorrad-Sprung an. Original-Clip: MontanaBlack88 – https://www.twitch.tv/montanablack88/clip/CloudyEsteemedSageDuDudu-9Ici4gQM8-oBSoNK\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #motorrad #montanablack #stunt",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "motorrad",
+    "montanablack",
+    "stunt"
+  ],
+  "tiktok": "Dieser Sprung ist pures Kino 🎬 #gta6 #gtavi #fyp",
+  "instagram": "Motorrad-Sprung wie im Film 🏍️\n\n#gta6 #gtavi #gaming #reels",
+  "beats": [
+    {
+      "original": true,
+      "start": 10,
+      "end": 40,
+      "focus": 0.5,
+      "subs": [
+        [
+          18.7,
+          22.8,
+          "Freunde, seid ihr bereit?",
+          "MontanaBlack"
+        ],
+        [
+          22.8,
+          24.8,
+          "Abfahrt!",
+          "MontanaBlack"
+        ]
+      ]
+    }
+  ],
+  "style": "prompt",
+  "streamer": "MontanaBlack",
+  "credit": "Clip: MontanaBlack88 (Twitch)"
+}

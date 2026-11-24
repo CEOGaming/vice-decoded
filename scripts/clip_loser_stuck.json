@@ -1,0 +1,74 @@
+{
+  "id": "clip_loser_stuck",
+  "source": "https://www.twitch.tv/loserfruit/clip/SpikyFurryGazelleHumbleLife-FEyXw35Rj8A2h3Um",
+  "layout": "fill",
+  "hook": "DER NPC STECKT FEST",
+  "hook_full": true,
+  "title": "Gruseliger NPC steckt in GTA 6 fest #shorts",
+  "description": "Ein unfreundlicher NPC steckt fest – Loserfruit flüchtet. Original-Clip: Loserfruit – https://www.twitch.tv/loserfruit/clip/SpikyFurryGazelleHumbleLife-FEyXw35Rj8A2h3Um\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #loserfruit #npc #bug",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "loserfruit",
+    "npc",
+    "bug"
+  ],
+  "tiktok": "Dieser NPC ist so gruselig 😨 #gta6 #gtavi #fyp",
+  "instagram": "Ein NPC, der einfach feststeckt 😨\n\n#gta6 #gtavi #gaming #reels",
+  "beats": [
+    {
+      "original": true,
+      "start": 0,
+      "end": 55,
+      "focus": 0.5,
+      "subs": [
+        [
+          0,
+          3.3,
+          "Ist mir egal, was du machst. Ich geh. Ich rede nicht mal mit dir.",
+          "NPC"
+        ],
+        [
+          11.1,
+          13.1,
+          "Lass mich in Ruhe. Ich hab keine Zeit für Spielchen.",
+          "NPC"
+        ],
+        [
+          13.8,
+          20.9,
+          "Er steckt da wirklich fest. Das ist so gruselig.",
+          "Loserfruit"
+        ],
+        [
+          22.5,
+          26.6,
+          "Ich kann ihn nicht mehr anvisieren, bitte!",
+          "Loserfruit"
+        ],
+        [
+          31.1,
+          33.1,
+          "Tut mir so leid.",
+          "Loserfruit"
+        ],
+        [
+          33.1,
+          38.6,
+          "Okay, ich geh. Nicht dein Tag heute, Daytrader.",
+          "Loserfruit"
+        ],
+        [
+          43.2,
+          54.2,
+          "Man denkt, ältere Charaktere sind netter – und dann machen sie den Mund auf.",
+          "Loserfruit"
+        ]
+      ]
+    }
+  ],
+  "style": "prompt",
+  "streamer": "Loserfruit",
+  "credit": "Clip: Loserfruit (Twitch)"
+}

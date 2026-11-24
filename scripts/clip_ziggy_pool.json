@@ -1,0 +1,80 @@
+{
+  "id": "clip_ziggy_pool",
+  "source": "https://www.twitch.tv/ziggy/clip/FitAbstemiousLaptopUncleNox-oDNHmiryx48YhoS5",
+  "layout": "fill",
+  "hook": "ICH WOLLTE NUR AUS DEM POOL",
+  "hook_full": true,
+  "title": "Raus aus dem Pool – und Jason ist tot #shorts",
+  "description": "Ziggy will nur aus dem Pool klettern. Es endet anders. Original-Clip: Ziggy – https://www.twitch.tv/ziggy/clip/FitAbstemiousLaptopUncleNox-oDNHmiryx48YhoS5\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #ziggy #pool #fail",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "ziggy",
+    "pool",
+    "fail"
+  ],
+  "tiktok": "Er wollte nur aus dem Pool 😭 #gta6 #gtavi #fyp",
+  "instagram": "Wenn Aus-dem-Pool-Klettern tödlich ist 🏊\n\n#gta6 #gtavi #gaming #reels",
+  "beats": [
+    {
+      "original": true,
+      "start": 0,
+      "end": 47.4,
+      "focus": 0.5,
+      "subs": [
+        [
+          0,
+          1.4,
+          "Ach, da ist ja ein Pool.",
+          "Ziggy"
+        ],
+        [
+          4.9,
+          5.7,
+          "So cool.",
+          "Ziggy"
+        ],
+        [
+          25.1,
+          27.2,
+          "Ich wollte nur aus dem Pool raus!",
+          "Ziggy"
+        ],
+        [
+          27.2,
+          29.3,
+          "Jason ist tot, Bro!",
+          "Ziggy"
+        ],
+        [
+          31.6,
+          33.8,
+          "Jason ist einfach gestorben!",
+          "Ziggy"
+        ],
+        [
+          36.4,
+          37.5,
+          "Oh, er lebt doch.",
+          "Ziggy"
+        ],
+        [
+          39,
+          40.6,
+          "Hey, alles okay?",
+          "NPC"
+        ],
+        [
+          44.8,
+          46.5,
+          "Hey Mann, äh…",
+          "NPC"
+        ]
+      ]
+    }
+  ],
+  "style": "prompt",
+  "streamer": "Ziggy",
+  "credit": "Clip: Ziggy (Twitch)"
+}

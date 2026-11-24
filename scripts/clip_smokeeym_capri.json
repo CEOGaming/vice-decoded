@@ -1,0 +1,80 @@
+{
+  "id": "clip_smokeeym_capri",
+  "source": "https://www.twitch.tv/smokeeym/clip/ReliableResolutePterodactylLitty-5RXSQfsxd7Y1eRW2",
+  "layout": "fill",
+  "hook": "DIE POLIZEI WEISS ALLES",
+  "hook_full": true,
+  "title": "Die Capri-Polizei hält dich für obdachlos #shorts",
+  "description": "Die Polizei in Capri stoppt die Gruppe – und der Dialog ist wild. Original-Clip: smokeeym – https://www.twitch.tv/smokeeym/clip/ReliableResolutePterodactylLitty-5RXSQfsxd7Y1eRW2\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #polizei #capri #npc",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "polizei",
+    "capri",
+    "npc"
+  ],
+  "tiktok": "Diese Polizisten sind wild 🚔 #gta6 #gtavi #fyp",
+  "instagram": "Die Polizei von Capri ist nicht normal 🚔\n\n#gta6 #gtavi #gaming #reels",
+  "beats": [
+    {
+      "original": true,
+      "start": 0,
+      "end": 55,
+      "focus": 0.5,
+      "subs": [
+        [
+          0.2,
+          6.6,
+          "Sir, auf ein Wort. Hey, ihr zwei, auf ein Wort.",
+          "POLIZIST"
+        ],
+        [
+          10.8,
+          12.8,
+          "Was machst du in Capri?",
+          "POLIZIST"
+        ],
+        [
+          16.1,
+          17.8,
+          "Nur auf der Durchreise.",
+          "smokeeym"
+        ],
+        [
+          17.8,
+          22.8,
+          "Hier Capri 619, benötige Unterstützung.",
+          "POLIZIST"
+        ],
+        [
+          23,
+          30.3,
+          "Deiner Kleidung nach bist du obdachlos. Ohne Zuhause in der Öffentlichkeit – das wäre ein Problem.",
+          "POLIZIST"
+        ],
+        [
+          30.3,
+          39.1,
+          "Du bist nicht von hier. Du denkst vielleicht, wir kennen dich nicht. Aber wir wissen alles über dich.",
+          "POLIZIST"
+        ],
+        [
+          39.2,
+          46.1,
+          "Unser Motto: Nicht unter unserer Aufsicht. Genau. Wir haben alle Uhren.",
+          "POLIZIST"
+        ],
+        [
+          46.5,
+          52.9,
+          "Du störst unseren Frieden.",
+          "POLIZIST"
+        ]
+      ]
+    }
+  ],
+  "style": "prompt",
+  "streamer": "smokeeym",
+  "credit": "Clip: smokeeym (Twitch)"
+}

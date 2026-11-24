@@ -1,0 +1,56 @@
+{
+  "id": "clip_matin_jason",
+  "source": "https://www.twitch.tv/matinbum/clip/SassyEmpathicHorseLitty-8J4l7YEseossu9k5",
+  "layout": "fill",
+  "hook": "WAS ZUR HÖLLE?",
+  "hook_full": true,
+  "title": "Jason erlebt eine Überraschung #shorts",
+  "description": "Matinbum spielt Jason – und dann das. Original-Clip: Matinbum – https://www.twitch.tv/matinbum/clip/SassyEmpathicHorseLitty-8J4l7YEseossu9k5\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #jason #lustig #fail",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "jason",
+    "lustig",
+    "fail"
+  ],
+  "tiktok": "Was zur Hölle? 😂 #gta6 #gtavi #fyp",
+  "instagram": "Jason, was war das? 😂\n\n#gta6 #gtavi #gaming #reels",
+  "beats": [
+    {
+      "original": true,
+      "start": 0,
+      "end": 16.6,
+      "focus": 0.5,
+      "subs": [
+        [
+          0.1,
+          2,
+          "Jason und die Jungs!",
+          "Matinbum"
+        ],
+        [
+          3,
+          4,
+          "Wir sehen uns da drin!",
+          "Matinbum"
+        ],
+        [
+          4,
+          7.1,
+          "Was zur Hölle?",
+          "Matinbum"
+        ],
+        [
+          8.1,
+          9.1,
+          "Was?",
+          "Matinbum"
+        ]
+      ]
+    }
+  ],
+  "style": "prompt",
+  "streamer": "Matinbum",
+  "credit": "Clip: Matinbum (Twitch)"
+}

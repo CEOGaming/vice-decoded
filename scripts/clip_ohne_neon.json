@@ -1,0 +1,50 @@
+{
+  "id": "clip_ohne_neon",
+  "source": "https://www.twitch.tv/ohnepixel/clip/PlausibleVibrantWalletRaccAttack-dQZ9Rh6lrpYttvXs",
+  "layout": "fill",
+  "hook": "DAS FÜHLTE SICH SO GUT AN",
+  "hook_full": true,
+  "title": "Saubere Neon-Fahrt durch Vice City #shorts",
+  "description": "ohnePixel fährt die cleanste Runde durch Vice City. Original-Clip: ohnePixel – https://www.twitch.tv/ohnepixel/clip/PlausibleVibrantWalletRaccAttack-dQZ9Rh6lrpYttvXs\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #ohnepixel #fahren #neon",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "ohnepixel",
+    "fahren",
+    "neon"
+  ],
+  "tiktok": "Die cleanste Fahrt in GTA 6 🔥 #gta6 #gtavi #fyp",
+  "instagram": "So clean fährt man durch Vice City 🌴\n\n#gta6 #gtavi #gaming #reels",
+  "beats": [
+    {
+      "original": true,
+      "start": 0,
+      "end": 58,
+      "focus": 0.5,
+      "subs": [
+        [
+          0,
+          6,
+          "Was sagst du, Bro? Keine Albträume bitte.",
+          "ohnePixel"
+        ],
+        [
+          9,
+          48.4,
+          "Gib mir eine Sekunde… heilige… das fühlte sich gut an. Das war clean.",
+          "ohnePixel"
+        ],
+        [
+          48.4,
+          57.6,
+          "Bis dahin… aber das kostet hundert Prozent meiner Gehirnleistung.",
+          "ohnePixel"
+        ]
+      ]
+    }
+  ],
+  "style": "prompt",
+  "streamer": "ohnePixel",
+  "credit": "Clip: ohnePixel (Twitch)"
+}
