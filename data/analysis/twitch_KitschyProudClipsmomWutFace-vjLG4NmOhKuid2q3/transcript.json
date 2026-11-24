@@ -1,0 +1,35 @@
+{
+  "language": "es",
+  "segments": [
+    {
+      "start": 7.5,
+      "end": 9.5,
+      "text": "Perdón, perdón, perdón"
+    },
+    {
+      "start": 11.5,
+      "end": 14.5,
+      "text": "Perdón, ni de puta coña, ni de puta coña, ni de puta coña, tío"
+    },
+    {
+      "start": 14.5,
+      "end": 17.5,
+      "text": "No me lo creo, tío, si no lo he tocado"
+    },
+    {
+      "start": 23.1,
+      "end": 24.1,
+      "text": "¿Qué me ha dado el retrovisor?"
+    },
+    {
+      "start": 25.1,
+      "end": 27.1,
+      "text": "¿Qué ha sido el puto retrovisor?"
+    },
+    {
+      "start": 27.1,
+      "end": 28.1,
+      "text": "Venga hombre, tío"
+    }
+  ]
+}

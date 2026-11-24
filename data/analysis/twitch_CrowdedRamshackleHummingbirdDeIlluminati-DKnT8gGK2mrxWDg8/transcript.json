@@ -1,0 +1,70 @@
+{
+  "language": "de",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.8,
+      "text": "Ja, wir lernen das gar nicht kennen."
+    },
+    {
+      "start": 2.0,
+      "end": 3.0,
+      "text": "Nee."
+    },
+    {
+      "start": 3.1,
+      "end": 4.6,
+      "text": "Er ist nicht püßtig mehr?"
+    },
+    {
+      "start": 4.7,
+      "end": 5.7,
+      "text": "Nein!"
+    },
+    {
+      "start": 5.8,
+      "end": 6.8,
+      "text": "Nein!"
+    },
+    {
+      "start": 7.0,
+      "end": 8.0,
+      "text": "Nein!"
+    },
+    {
+      "start": 8.1,
+      "end": 9.1,
+      "text": "Nein!"
+    },
+    {
+      "start": 9.2,
+      "end": 14.6,
+      "text": "Bro, das gibt's nicht!"
+    },
+    {
+      "start": 14.7,
+      "end": 16.6,
+      "text": "Der Flug ist real, Digger!"
+    },
+    {
+      "start": 18.7,
+      "end": 19.7,
+      "text": "Boah, er kommt!"
+    },
+    {
+      "start": 19.9,
+      "end": 23.5,
+      "text": "Das gibt's nicht, Bro!"
+    },
+    {
+      "start": 23.6,
+      "end": 25.6,
+      "text": "Das gibt's nicht!"
+    },
+    {
+      "start": 25.7,
+      "end": 27.7,
+      "text": "All die Presse, Digger!"
+    }
+  ]
+}

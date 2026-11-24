@@ -1,0 +1,25 @@
+{
+  "language": "nl",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": "Ik ben Jason."
+    },
+    {
+      "start": 3.0,
+      "end": 4.0,
+      "text": "Oh shit!"
+    },
+    {
+      "start": 4.0,
+      "end": 7.0,
+      "text": "Neem die auto mee, neem die auto mee, neem die auto mee!"
+    },
+    {
+      "start": 9.0,
+      "end": 11.0,
+      "text": "What the fuck!"
+    }
+  ]
+}

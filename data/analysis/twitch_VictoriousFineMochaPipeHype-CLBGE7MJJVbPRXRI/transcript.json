@@ -1,0 +1,20 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.5,
+      "end": 2.5,
+      "text": "Whoa, come on"
+    },
+    {
+      "start": 2.9,
+      "end": 5.4,
+      "text": "Bro, her hair looks insanely good."
+    },
+    {
+      "start": 6.8,
+      "end": 8.8,
+      "text": "I love buns like that. It's called a bun."
+    }
+  ]
+}

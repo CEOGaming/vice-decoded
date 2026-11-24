@@ -1,0 +1,30 @@
+{
+  "language": "fr",
+  "segments": [
+    {
+      "start": 0.7,
+      "end": 21.0,
+      "text": "Non non, il faut me déranger pas du tout."
+    },
+    {
+      "start": 27.0,
+      "end": 29.0,
+      "text": "Je teste, je teste."
+    },
+    {
+      "start": 29.0,
+      "end": 32.0,
+      "text": "On m'a dit, prends tout ton temps, découvre tout."
+    },
+    {
+      "start": 32.0,
+      "end": 41.7,
+      "text": "Bah là je découvre, moi je te le dis."
+    },
+    {
+      "start": 41.7,
+      "end": 55.3,
+      "text": "Oh bordel, je pensais pas, franchement je pensais pas."
+    }
+  ]
+}

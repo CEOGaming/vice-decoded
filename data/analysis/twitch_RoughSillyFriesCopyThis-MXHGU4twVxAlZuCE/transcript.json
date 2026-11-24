@@ -1,0 +1,65 @@
+{
+  "language": "de",
+  "segments": [
+    {
+      "start": 1.0,
+      "end": 5.9,
+      "text": "Hier, Mann, was hast du denn gemacht?"
+    },
+    {
+      "start": 5.9,
+      "end": 12.5,
+      "text": "Ei, ei, ei, jetzt zwei Stück!"
+    },
+    {
+      "start": 12.5,
+      "end": 16.5,
+      "text": "Hey, Kollege, kannst du da mal zu Mundberatmung machen oder was?"
+    },
+    {
+      "start": 16.5,
+      "end": 18.5,
+      "text": "Der ist gestorben hier."
+    },
+    {
+      "start": 18.5,
+      "end": 20.5,
+      "text": "Kannst du da eventuell mal helfen?"
+    },
+    {
+      "start": 20.5,
+      "end": 26.4,
+      "text": "Guck dir das Ding mal ganz genau an, siehst du das?"
+    },
+    {
+      "start": 26.4,
+      "end": 28.4,
+      "text": "Ja, was ist denn los?"
+    },
+    {
+      "start": 28.4,
+      "end": 31.4,
+      "text": "Hey, was soll das?"
+    },
+    {
+      "start": 31.4,
+      "end": 33.4,
+      "text": "Ja, komm her."
+    },
+    {
+      "start": 33.4,
+      "end": 40.2,
+      "text": "Hey, so, und tschüss, ciao."
+    },
+    {
+      "start": 40.2,
+      "end": 42.2,
+      "text": "Gute Nacht."
+    },
+    {
+      "start": 42.2,
+      "end": 44.2,
+      "text": "Gute Nacht."
+    }
+  ]
+}

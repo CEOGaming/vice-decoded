@@ -1,0 +1,80 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": "Hey, nice to meet you."
+    },
+    {
+      "start": 4.0,
+      "end": 6.5,
+      "text": "Hello, sweeties."
+    },
+    {
+      "start": 6.5,
+      "end": 7.6,
+      "text": "Very cute."
+    },
+    {
+      "start": 7.6,
+      "end": 8.5,
+      "text": "OK, bye."
+    },
+    {
+      "start": 8.5,
+      "end": 12.2,
+      "text": "I'm just going to leave my car in the middle of the road."
+    },
+    {
+      "start": 12.2,
+      "end": 12.9,
+      "text": "It's chill."
+    },
+    {
+      "start": 12.9,
+      "end": 22.9,
+      "text": "What a good boy."
+    },
+    {
+      "start": 22.9,
+      "end": 32.3,
+      "text": "Jason's car handles like a baby deer in ice skates."
+    },
+    {
+      "start": 32.3,
+      "end": 34.7,
+      "text": "Ew."
+    },
+    {
+      "start": 34.7,
+      "end": 36.5,
+      "text": "Don't make me beat you up in front of your dog."
+    },
+    {
+      "start": 40.5,
+      "end": 44.0,
+      "text": "Ew."
+    },
+    {
+      "start": 44.0,
+      "end": 46.7,
+      "text": "I thought we was having fun."
+    },
+    {
+      "start": 46.7,
+      "end": 48.1,
+      "text": "What did I do?"
+    },
+    {
+      "start": 48.1,
+      "end": 52.9,
+      "text": "I am not punching a dog, but I will punch a man."
+    },
+    {
+      "start": 52.9,
+      "end": 54.4,
+      "text": "Bye."
+    }
+  ]
+}
