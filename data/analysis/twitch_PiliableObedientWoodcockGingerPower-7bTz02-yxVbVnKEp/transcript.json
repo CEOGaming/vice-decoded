@@ -1,0 +1,25 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 1.9,
+      "end": 3.9,
+      "text": "No"
+    },
+    {
+      "start": 3.9,
+      "end": 5.4,
+      "text": "Don't shoot the wheels"
+    },
+    {
+      "start": 5.4,
+      "end": 16.6,
+      "text": "Bro, we got four stars right now"
+    },
+    {
+      "start": 24.9,
+      "end": 54.1,
+      "text": "This is insane. This is absolutely insane, bro. This is mental. This is ridiculous"
+    }
+  ]
+}

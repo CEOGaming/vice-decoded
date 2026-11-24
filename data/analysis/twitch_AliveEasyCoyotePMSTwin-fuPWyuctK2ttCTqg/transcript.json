@@ -1,0 +1,35 @@
+{
+  "language": "pt",
+  "segments": [
+    {
+      "start": 7.8,
+      "end": 14.4,
+      "text": "Eu estou posendo lugar"
+    },
+    {
+      "start": 14.4,
+      "end": 16.4,
+      "text": "Mano, esse avião não para, ele literalmente não para"
+    },
+    {
+      "start": 16.4,
+      "end": 18.4,
+      "text": "Ele para, mano, ai ele se tava desligado"
+    },
+    {
+      "start": 18.4,
+      "end": 20.4,
+      "text": "Vocês viram que ele estava desligado"
+    },
+    {
+      "start": 20.4,
+      "end": 22.4,
+      "text": "Ele não para, ele literalmente não para"
+    },
+    {
+      "start": 22.4,
+      "end": 25.4,
+      "text": "Não tem um freio ar, freio ar, freio motor"
+    }
+  ]
+}

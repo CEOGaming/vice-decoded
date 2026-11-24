@@ -1,0 +1,25 @@
+{
+  "language": "pt",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "porque todo mundo que pega esse carro bate"
+    },
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "text": "tá achando que problema é o veículo"
+    },
+    {
+      "start": 7.0,
+      "end": 9.0,
+      "text": "eu não vou frear, duvido eu bater mano"
+    },
+    {
+      "start": 9.0,
+      "end": 10.0,
+      "text": "mil caroia é minha direita"
+    }
+  ]
+}

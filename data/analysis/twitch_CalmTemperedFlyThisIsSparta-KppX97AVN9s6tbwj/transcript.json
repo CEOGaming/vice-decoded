@@ -1,0 +1,70 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.7,
+      "end": 2.7,
+      "text": "YouTube you're pretty bad please."
+    },
+    {
+      "start": 2.7,
+      "end": 4.7,
+      "text": "Please tell me I'm pretty bad."
+    },
+    {
+      "start": 4.7,
+      "end": 6.7,
+      "text": "Please."
+    },
+    {
+      "start": 6.7,
+      "end": 8.7,
+      "text": "That makes no goddamn sense."
+    },
+    {
+      "start": 8.7,
+      "end": 10.7,
+      "text": "Watch this, lady."
+    },
+    {
+      "start": 12.7,
+      "end": 14.7,
+      "text": "Oh, can I get your number?"
+    },
+    {
+      "start": 16.7,
+      "end": 18.7,
+      "text": "So what's the digits, ma'am?"
+    },
+    {
+      "start": 18.7,
+      "end": 20.7,
+      "text": "Which uh, what's uh,"
+    },
+    {
+      "start": 20.7,
+      "end": 22.7,
+      "text": "what's the dang-a-lang on the dang-a-lang, huh?"
+    },
+    {
+      "start": 22.7,
+      "end": 24.7,
+      "text": "What's the uh..."
+    },
+    {
+      "start": 24.7,
+      "end": 26.7,
+      "text": "Honestly, I don't have time for this, ma'am."
+    },
+    {
+      "start": 26.7,
+      "end": 28.7,
+      "text": "Stop trying to raise me up."
+    },
+    {
+      "start": 28.7,
+      "end": 30.7,
+      "text": "I gotta get out."
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.1,
+      "end": 2.1,
+      "text": "I'm so lost!"
+    },
+    {
+      "start": 2.1,
+      "end": 4.1,
+      "text": "What are you creeping around for? Get in!"
+    },
+    {
+      "start": 4.1,
+      "end": 6.1,
+      "text": "I am in! There's no light down!"
+    },
+    {
+      "start": 6.1,
+      "end": 8.1,
+      "text": "Okay, maybe you have to like..."
+    },
+    {
+      "start": 8.1,
+      "end": 10.1,
+      "text": "Hold on, hold on."
+    },
+    {
+      "start": 10.1,
+      "end": 12.1,
+      "text": "Maybe you have to just get out of the truck"
+    },
+    {
+      "start": 12.1,
+      "end": 14.1,
+      "text": "and then get in the trunk again."
+    },
+    {
+      "start": 14.1,
+      "end": 16.1,
+      "text": "Hold on, give me one sec."
+    },
+    {
+      "start": 16.1,
+      "end": 18.1,
+      "text": "Okay."
+    },
+    {
+      "start": 18.1,
+      "end": 20.1,
+      "text": "And then crouch."
+    },
+    {
+      "start": 22.1,
+      "end": 24.1,
+      "text": "Would you get in the truck?"
+    },
+    {
+      "start": 24.1,
+      "end": 26.1,
+      "text": "A truck!"
+    },
+    {
+      "start": 26.1,
+      "end": 42.5,
+      "text": "Fuck!"
+    },
+    {
+      "start": 42.5,
+      "end": 44.5,
+      "text": "I was so confused!"
+    },
+    {
+      "start": 44.5,
+      "end": 46.5,
+      "text": "I was like, what the fuck am I doing wrong?"
+    },
+    {
+      "start": 46.5,
+      "end": 48.5,
+      "text": "Oh, he wants me to drive!"
+    }
+  ]
+}

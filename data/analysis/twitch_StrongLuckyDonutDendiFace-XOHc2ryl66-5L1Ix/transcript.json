@@ -1,0 +1,30 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.8,
+      "text": "You're my supervisor."
+    },
+    {
+      "start": 6.8,
+      "end": 7.7,
+      "text": "Baby, hold my hand."
+    },
+    {
+      "start": 7.7,
+      "end": 8.2,
+      "text": "Oh!"
+    },
+    {
+      "start": 8.2,
+      "end": 8.7,
+      "text": "All right."
+    },
+    {
+      "start": 8.7,
+      "end": 10.4,
+      "text": "Hold milk."
+    }
+  ]
+}

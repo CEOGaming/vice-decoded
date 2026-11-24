@@ -1,0 +1,35 @@
+{
+  "language": "pt",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.8,
+      "text": "Meus irmãos se importaram mais dos guardiões do que eles nunca fizeram sobre..."
+    },
+    {
+      "start": 3.8,
+      "end": 5.4,
+      "text": "Vamo, sério!"
+    },
+    {
+      "start": 5.4,
+      "end": 6.9,
+      "text": "Como é que você..."
+    },
+    {
+      "start": 6.9,
+      "end": 9.4,
+      "text": "Oh, por que você fez isso, mano?"
+    },
+    {
+      "start": 9.4,
+      "end": 10.9,
+      "text": "Eu não sei o que eu faço, mano!"
+    },
+    {
+      "start": 16.4,
+      "end": 20.3,
+      "text": "Mas, talvez se eu tivesse amado naquela casa, eu não teria que pensar em uma outra casa."
+    }
+  ]
+}

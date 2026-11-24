@@ -1,0 +1,40 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 1.0,
+      "end": 3.0,
+      "text": "Hey, babe, you want to hang out?"
+    },
+    {
+      "start": 3.0,
+      "end": 4.0,
+      "text": "No, I'm down."
+    },
+    {
+      "start": 4.0,
+      "end": 43.3,
+      "text": "Okay, but where are you at?"
+    },
+    {
+      "start": 43.3,
+      "end": 50.0,
+      "text": "There's an accident."
+    },
+    {
+      "start": 50.0,
+      "end": 51.0,
+      "text": "Over here."
+    },
+    {
+      "start": 51.0,
+      "end": 52.0,
+      "text": "Yeah, no problem."
+    },
+    {
+      "start": 52.0,
+      "end": 53.0,
+      "text": "No."
+    }
+  ]
+}

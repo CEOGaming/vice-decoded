@@ -1,0 +1,35 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 1.4,
+      "end": 3.4,
+      "text": "Okay, good"
+    },
+    {
+      "start": 4.9,
+      "end": 7.4,
+      "text": "Yeah, that coming probably"
+    },
+    {
+      "start": 9.0,
+      "end": 15.6,
+      "text": "Okay, get some photos of the cages some close-ups, but whatever you do do not touch the animals"
+    },
+    {
+      "start": 15.6,
+      "end": 21.2,
+      "text": "They breed these guys like crazy to keep the population up, but testing them for STDs is expensive"
+    },
+    {
+      "start": 21.2,
+      "end": 24.4,
+      "text": "Now half the chimps have some crazy strand of"
+    },
+    {
+      "start": 24.9,
+      "end": 29.4,
+      "text": "Herpes what the fuck gonna react maybe some syphilis thrown in there, too"
+    }
+  ]
+}

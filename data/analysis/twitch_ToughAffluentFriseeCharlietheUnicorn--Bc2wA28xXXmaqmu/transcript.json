@@ -1,0 +1,25 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.7,
+      "text": "What?"
+    },
+    {
+      "start": 3.7,
+      "end": 4.7,
+      "text": "Mr. Lucio?"
+    },
+    {
+      "start": 4.7,
+      "end": 5.7,
+      "text": "Ah!"
+    },
+    {
+      "start": 5.7,
+      "end": 14.2,
+      "text": "Not cool."
+    }
+  ]
+}

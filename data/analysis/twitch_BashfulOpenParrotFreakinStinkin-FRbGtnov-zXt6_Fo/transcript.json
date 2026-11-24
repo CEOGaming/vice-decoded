@@ -1,0 +1,40 @@
+{
+  "language": "pt",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Pô, de caminho é esse, velho."
+    },
+    {
+      "start": 2.0,
+      "end": 11.2,
+      "text": "Onde que ele foi?"
+    },
+    {
+      "start": 11.2,
+      "end": 13.2,
+      "text": "Eu perdi o Iago."
+    },
+    {
+      "start": 15.2,
+      "end": 17.2,
+      "text": "Pô, Iago, você me arregaçou, mano!"
+    },
+    {
+      "start": 23.7,
+      "end": 25.7,
+      "text": "Você não se arregou do meu carro!"
+    },
+    {
+      "start": 25.7,
+      "end": 27.7,
+      "text": "Iago, olha o que você fez, mano!"
+    },
+    {
+      "start": 27.7,
+      "end": 29.7,
+      "text": "Cadê meu carro?"
+    }
+  ]
+}

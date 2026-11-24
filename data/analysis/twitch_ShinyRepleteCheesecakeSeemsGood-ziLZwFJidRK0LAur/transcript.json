@@ -1,0 +1,45 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Get in! Get in!"
+    },
+    {
+      "start": 2.0,
+      "end": 14.6,
+      "text": "My best friend!"
+    },
+    {
+      "start": 14.6,
+      "end": 18.0,
+      "text": "Come on, please."
+    },
+    {
+      "start": 18.0,
+      "end": 20.0,
+      "text": "Don't worry, I'm gonna get you out of here."
+    },
+    {
+      "start": 22.0,
+      "end": 24.0,
+      "text": "I'll get you out of here. Don't worry."
+    },
+    {
+      "start": 24.0,
+      "end": 26.0,
+      "text": "You're my hero."
+    },
+    {
+      "start": 26.0,
+      "end": 28.0,
+      "text": "Don't worry. I know what it's like."
+    },
+    {
+      "start": 28.0,
+      "end": 30.0,
+      "text": "Go! Go! Go! Go! Go!"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 1.1,
+      "end": 3.1,
+      "text": "Whatever"
+    },
+    {
+      "start": 11.1,
+      "end": 13.1,
+      "text": "Right, thanks"
+    },
+    {
+      "start": 16.8,
+      "end": 18.8,
+      "text": "Alright, I think I'm done here."
+    },
+    {
+      "start": 19.8,
+      "end": 20.8,
+      "text": "You should work fine now."
+    },
+    {
+      "start": 20.8,
+      "end": 23.8,
+      "text": "These are my dad's, but I think you forgot about that."
+    },
+    {
+      "start": 23.8,
+      "end": 24.8,
+      "text": "But why are your clothes off?"
+    },
+    {
+      "start": 24.8,
+      "end": 26.8,
+      "text": "Can you have them for fixing my sink?"
+    },
+    {
+      "start": 26.8,
+      "end": 28.8,
+      "text": "Oh, I appreciate that, Mandy."
+    }
+  ]
+}

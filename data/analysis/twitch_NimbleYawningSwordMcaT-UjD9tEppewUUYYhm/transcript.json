@@ -1,0 +1,20 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.2,
+      "end": 12.2,
+      "text": "Hello? Oh! She's alive! She's alive! I knew it! Oh my god! Oh my god! I knew she wasn't dead! I knew she wasn't dead, bro! I knew it!"
+    },
+    {
+      "start": 20.2,
+      "end": 27.9,
+      "text": "Where am I right now? I'm just like in some random spot."
+    },
+    {
+      "start": 27.9,
+      "end": 46.5,
+      "text": "Crime reported! I saved her life! Oh my god, the police are after me. Yo, I gotta go. Oh shoot. Go! Go! Go!"
+    }
+  ]
+}

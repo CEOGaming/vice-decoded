@@ -1,0 +1,35 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Screw you jackass"
+    },
+    {
+      "start": 5.0,
+      "end": 7.0,
+      "text": "Oh, he's"
+    },
+    {
+      "start": 9.1,
+      "end": 12.3,
+      "text": "All right, let's get moving Jay. He's not gonna wait. Oh"
+    },
+    {
+      "start": 13.7,
+      "end": 15.7,
+      "text": "Gotta be careful"
+    },
+    {
+      "start": 17.5,
+      "end": 19.5,
+      "text": "Oh"
+    },
+    {
+      "start": 30.0,
+      "end": 32.0,
+      "text": "You"
+    }
+  ]
+}

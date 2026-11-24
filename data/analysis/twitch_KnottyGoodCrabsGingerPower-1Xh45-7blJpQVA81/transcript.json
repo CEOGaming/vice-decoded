@@ -1,0 +1,40 @@
+{
+  "language": "pt",
+  "segments": [
+    {
+      "start": 3.5,
+      "end": 5.5,
+      "text": "Ela tá do lado de fora?"
+    },
+    {
+      "start": 5.5,
+      "end": 7.5,
+      "text": "Meu Deus, ela tá do lado de fora!"
+    },
+    {
+      "start": 7.5,
+      "end": 9.5,
+      "text": "Não sei, pelo amor de Deus!"
+    },
+    {
+      "start": 9.5,
+      "end": 38.9,
+      "text": "Mano, ela tem os braços fortes, velho"
+    },
+    {
+      "start": 38.9,
+      "end": 40.9,
+      "text": "É uma plantação de arroz"
+    },
+    {
+      "start": 40.9,
+      "end": 48.8,
+      "text": "Mano, que que isso é uma fábrica?"
+    },
+    {
+      "start": 48.8,
+      "end": 50.8,
+      "text": "Eu não sou satânico, cara"
+    }
+  ]
+}

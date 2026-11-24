@@ -1,0 +1,25 @@
+{
+  "language": "pt",
+  "segments": [
+    {
+      "start": 2.5,
+      "end": 7.2,
+      "text": "Ela caiu lá?"
+    },
+    {
+      "start": 7.2,
+      "end": 9.2,
+      "text": "Meu Deus, a luz já caiu!"
+    },
+    {
+      "start": 9.2,
+      "end": 18.3,
+      "text": "Morreu."
+    },
+    {
+      "start": 18.3,
+      "end": 19.3,
+      "text": "Caralho, a luz só morreu, viado."
+    }
+  ]
+}

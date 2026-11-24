@@ -1,0 +1,55 @@
+{
+  "language": "es",
+  "segments": [
+    {
+      "start": 10.6,
+      "end": 12.6,
+      "text": "¡Oh!"
+    },
+    {
+      "start": 12.6,
+      "end": 14.6,
+      "text": "¡Oh!"
+    },
+    {
+      "start": 14.6,
+      "end": 16.6,
+      "text": "Espérate, espérate."
+    },
+    {
+      "start": 16.6,
+      "end": 17.6,
+      "text": "Espérate un momento."
+    },
+    {
+      "start": 17.6,
+      "end": 38.6,
+      "text": "Está guapísimo, a ver."
+    },
+    {
+      "start": 38.6,
+      "end": 41.6,
+      "text": "Cerrado con la arma y sin localizador."
+    },
+    {
+      "start": 41.6,
+      "end": 43.6,
+      "text": "Y valor de venta, una mierda."
+    },
+    {
+      "start": 43.6,
+      "end": 45.6,
+      "text": "Pero esto es para vender gente."
+    },
+    {
+      "start": 45.6,
+      "end": 48.6,
+      "text": "Esto es para guardar, coleccionar y usar."
+    },
+    {
+      "start": 48.6,
+      "end": 51.6,
+      "text": "Maibatsu, penumbra FF."
+    }
+  ]
+}

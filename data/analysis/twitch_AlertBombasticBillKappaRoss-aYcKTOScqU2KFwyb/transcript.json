@@ -1,0 +1,35 @@
+{
+  "language": "es",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": "¿Qué? ¿Qué? Ya voy, ya voy. Una chévez. ¡Cállate!"
+    },
+    {
+      "start": 4.0,
+      "end": 7.0,
+      "text": "Vasí jalo, por espérame."
+    },
+    {
+      "start": 7.0,
+      "end": 11.0,
+      "text": "¿Cómo veo para atrás, gente? ¿En el carro?"
+    },
+    {
+      "start": 21.0,
+      "end": 23.0,
+      "text": "¿Cómo?"
+    },
+    {
+      "start": 23.0,
+      "end": 25.0,
+      "text": "Doble triángulo. Ok."
+    },
+    {
+      "start": 25.0,
+      "end": 29.0,
+      "text": "¿Ya traigo nadie atrás? ¿No? ¿Lo has perdido? ¿Lo has perdido?"
+    }
+  ]
+}

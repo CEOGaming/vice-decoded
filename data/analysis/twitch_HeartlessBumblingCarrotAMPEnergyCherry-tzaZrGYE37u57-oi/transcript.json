@@ -1,0 +1,30 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.3,
+      "end": 4.6,
+      "text": "No, you can't"
+    },
+    {
+      "start": 22.8,
+      "end": 24.8,
+      "text": "Way too sober"
+    },
+    {
+      "start": 32.6,
+      "end": 34.6,
+      "text": "Oh"
+    },
+    {
+      "start": 43.9,
+      "end": 46.7,
+      "text": "That was good. That was good. That was a clean one. I like that"
+    },
+    {
+      "start": 51.3,
+      "end": 59.7,
+      "text": "Which hook goes on I'ma go with I mean the first one"
+    }
+  ]
+}

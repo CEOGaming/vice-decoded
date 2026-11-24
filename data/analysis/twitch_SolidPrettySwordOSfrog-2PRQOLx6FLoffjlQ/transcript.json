@@ -1,0 +1,25 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.2,
+      "end": 3.1,
+      "text": "I got you, I got you, I got you, I got you."
+    },
+    {
+      "start": 3.1,
+      "end": 7.5,
+      "text": "Mr. Lucio?"
+    },
+    {
+      "start": 7.5,
+      "end": 15.9,
+      "text": "Ah!"
+    },
+    {
+      "start": 15.9,
+      "end": 16.9,
+      "text": "Not cool."
+    }
+  ]
+}

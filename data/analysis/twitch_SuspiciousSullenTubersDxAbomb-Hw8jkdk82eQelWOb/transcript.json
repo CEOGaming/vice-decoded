@@ -1,0 +1,30 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": "Ay, gracias mi niña, but you don't need to do that."
+    },
+    {
+      "start": 3.0,
+      "end": 5.7,
+      "text": "Well, kiss Tommy for me, alright? I love you."
+    },
+    {
+      "start": 5.7,
+      "end": 7.7,
+      "text": "Cuidate, mi hija! Love you!"
+    },
+    {
+      "start": 8.7,
+      "end": 12.6,
+      "text": "Cuidate, mi hija!"
+    },
+    {
+      "start": 12.6,
+      "end": 16.7,
+      "text": "Y bueno!"
+    }
+  ]
+}

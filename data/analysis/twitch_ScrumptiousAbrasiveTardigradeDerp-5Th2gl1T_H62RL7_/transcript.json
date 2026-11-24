@@ -1,0 +1,30 @@
+{
+  "language": "pt",
+  "segments": [
+    {
+      "start": 2.2,
+      "end": 4.2,
+      "text": "Este carro é muito rápido, mano!"
+    },
+    {
+      "start": 9.9,
+      "end": 10.9,
+      "text": "Ah, porra!"
+    },
+    {
+      "start": 10.9,
+      "end": 11.9,
+      "text": "Iago!"
+    },
+    {
+      "start": 16.3,
+      "end": 17.3,
+      "text": "Iago!"
+    },
+    {
+      "start": 17.3,
+      "end": 18.3,
+      "text": "Aqui!"
+    }
+  ]
+}

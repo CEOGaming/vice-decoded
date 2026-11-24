@@ -1,0 +1,55 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.6,
+      "text": "Okay, I have to destroy the ambulance."
+    },
+    {
+      "start": 3.6,
+      "end": 9.1,
+      "text": "Well, we've been in this situation before, and there's a dairy farm back there, so..."
+    },
+    {
+      "start": 9.1,
+      "end": 12.8,
+      "text": "There's a gas can right behind it?"
+    },
+    {
+      "start": 12.8,
+      "end": 14.8,
+      "text": "Oh, that's boring, though."
+    },
+    {
+      "start": 16.0,
+      "end": 22.7,
+      "text": "Really? You really want me to use the resources that are directly at my fingertips when I've got all of this?"
+    },
+    {
+      "start": 22.7,
+      "end": 27.8,
+      "text": "Gestures to the entire map? With my heart?"
+    },
+    {
+      "start": 27.8,
+      "end": 37.6,
+      "text": "Yeah, okay."
+    },
+    {
+      "start": 37.6,
+      "end": 39.6,
+      "text": "Oh, gas can! Oh, there's a gas can!"
+    },
+    {
+      "start": 39.6,
+      "end": 41.6,
+      "text": "Oh, there's a gas can! Yeah!"
+    },
+    {
+      "start": 41.6,
+      "end": 50.1,
+      "text": "Aised it! I grazed it!"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "language": "es",
+  "segments": [
+    {
+      "start": 3.6,
+      "end": 8.5,
+      "text": "¿Qué lo bloquea?"
+    },
+    {
+      "start": 8.5,
+      "end": 12.4,
+      "text": "Gameplay no reaches, the games minimap, mesh, pipelines are still refused."
+    },
+    {
+      "start": 12.4,
+      "end": 18.7,
+      "text": "Abot 15gb of memory comitted in the menu, este es una 32gb PC, es un self-ported,"
+    },
+    {
+      "start": 18.7,
+      "end": 26.0,
+      "text": "discriminating text only, no produces nada."
+    },
+    {
+      "start": 26.0,
+      "end": 41.9,
+      "text": "Nah, bueno, están intentando el menú principal, eh, todavía no lo han conseguido."
+    },
+    {
+      "start": 41.9,
+      "end": 47.6,
+      "text": "Y Tuxbox está con... madre mía, si se han organizado increíble, cada uno está"
+    },
+    {
+      "start": 47.6,
+      "end": 49.6,
+      "text": "haciendo submovidas, ¿sabes?"
+    },
+    {
+      "start": 49.6,
+      "end": 54.5,
+      "text": "Estos son usuarios de GitHub."
+    }
+  ]
+}

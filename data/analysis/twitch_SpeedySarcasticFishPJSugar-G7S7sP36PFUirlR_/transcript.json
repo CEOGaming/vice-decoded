@@ -1,0 +1,30 @@
+{
+  "language": "fr",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Quoi ? Qu'est-ce qu'il y a ?"
+    },
+    {
+      "start": 4.5,
+      "end": 20.0,
+      "text": "Tu veux voir un maqueux qui dit ?"
+    },
+    {
+      "start": 20.0,
+      "end": 22.0,
+      "text": "Eh bah si ! Ah bah là il y a des clips !"
+    },
+    {
+      "start": 23.0,
+      "end": 26.0,
+      "text": "Ça va clipper partout ! Ça va clipper..."
+    },
+    {
+      "start": 29.0,
+      "end": 30.0,
+      "text": "Mais il y a vraiment un truc..."
+    }
+  ]
+}

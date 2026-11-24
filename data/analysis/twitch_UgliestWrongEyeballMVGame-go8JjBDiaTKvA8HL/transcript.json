@@ -1,0 +1,30 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 12.2,
+      "end": 18.4,
+      "text": "It won't let us see."
+    },
+    {
+      "start": 18.4,
+      "end": 23.9,
+      "text": "Trying to cop a peek."
+    },
+    {
+      "start": 23.9,
+      "end": 26.5,
+      "text": "Yeah, this soap detail is pretty good too."
+    },
+    {
+      "start": 27.7,
+      "end": 28.5,
+      "text": "We all try."
+    },
+    {
+      "start": 28.5,
+      "end": 29.4,
+      "text": "Ha ha ha."
+    }
+  ]
+}

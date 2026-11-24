@@ -1,0 +1,40 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.4,
+      "end": 2.4,
+      "text": "Nice guy mm-hmm"
+    },
+    {
+      "start": 3.4,
+      "end": 9.2,
+      "text": "He likes to talk could you get me some coffee coming up to coffee? I love the way you say coffee"
+    },
+    {
+      "start": 10.5,
+      "end": 12.5,
+      "text": "Can you guess I'm from bohan?"
+    },
+    {
+      "start": 12.9,
+      "end": 26.1,
+      "text": "That's just a bit you're not making this shit up bro. You cannot make this shit up. I"
+    },
+    {
+      "start": 27.7,
+      "end": 29.7,
+      "text": "Fucking hate it here"
+    },
+    {
+      "start": 30.6,
+      "end": 36.4,
+      "text": "Fucking hate it here. I knew they were watching me. I"
+    },
+    {
+      "start": 36.4,
+      "end": 40.2,
+      "text": "Knew someone for watching me all this time"
+    }
+  ]
+}

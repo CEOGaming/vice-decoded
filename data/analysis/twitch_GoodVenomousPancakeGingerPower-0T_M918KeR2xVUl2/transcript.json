@@ -1,0 +1,30 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 7.2,
+      "end": 9.2,
+      "text": "Oh shit, look at my car"
+    },
+    {
+      "start": 16.5,
+      "end": 19.5,
+      "text": "He's fucking mangled, dude"
+    },
+    {
+      "start": 26.5,
+      "end": 41.1,
+      "text": "Ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha"
+    },
+    {
+      "start": 42.1,
+      "end": 44.1,
+      "text": "Oh my fucking god"
+    },
+    {
+      "start": 47.1,
+      "end": 57.1,
+      "text": "That might have been, that might have been the best possible sequence ever dude"
+    }
+  ]
+}

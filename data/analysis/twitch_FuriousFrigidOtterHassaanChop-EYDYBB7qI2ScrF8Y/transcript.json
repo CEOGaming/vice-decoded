@@ -1,0 +1,45 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 2.3,
+      "end": 3.5,
+      "text": "Seriously, you're gonna be..."
+    },
+    {
+      "start": 5.9,
+      "end": 8.5,
+      "text": "Oh, I'm gonna hit you so bad! Move!"
+    },
+    {
+      "start": 8.8,
+      "end": 11.5,
+      "text": "Hey, you're a piece of trash, you know that?"
+    },
+    {
+      "start": 12.1,
+      "end": 13.4,
+      "text": "Honestly, I'll hit you."
+    },
+    {
+      "start": 13.4,
+      "end": 14.8,
+      "text": "I'll hit a chick, bro."
+    },
+    {
+      "start": 17.8,
+      "end": 18.7,
+      "text": "Come here!"
+    },
+    {
+      "start": 25.5,
+      "end": 26.9,
+      "text": "Had enough, bitch?"
+    },
+    {
+      "start": 28.7,
+      "end": 31.3,
+      "text": "Ugh, fuck it, I got better things to do."
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 31.1,
+      "end": 33.2,
+      "text": "No, but I want to come first. I want to come first"
+    },
+    {
+      "start": 33.7,
+      "end": 40.9,
+      "text": "No, we're Mr.. Nice guy Jake suss live said it best"
+    },
+    {
+      "start": 40.9,
+      "end": 43.9,
+      "text": "Then one mr.. Nice guy take the shortest route around the course, which is inside lines"
+    },
+    {
+      "start": 46.6,
+      "end": 48.9,
+      "text": "Apparently the inside line in the shortest way"
+    },
+    {
+      "start": 50.1,
+      "end": 52.1,
+      "text": "Not the outside line"
+    },
+    {
+      "start": 52.5,
+      "end": 54.5,
+      "text": "once"
+    }
+  ]
+}

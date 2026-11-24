@@ -1,0 +1,20 @@
+{
+  "language": "es",
+  "segments": [
+    {
+      "start": 1.1,
+      "end": 3.7,
+      "text": "¡No te quiero dar a ti, pedazo de puto viejo!"
+    },
+    {
+      "start": 8.4,
+      "end": 10.6,
+      "text": "Te gusta el cuchillo de Rambo, eh? Te gusta el cuchillo de Rambo?"
+    },
+    {
+      "start": 12.5,
+      "end": 14.5,
+      "text": "¿Sabes lo que se siente, eh?"
+    }
+  ]
+}

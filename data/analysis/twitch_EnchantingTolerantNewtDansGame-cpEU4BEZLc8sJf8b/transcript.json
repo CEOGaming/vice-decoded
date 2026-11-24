@@ -1,0 +1,75 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.6,
+      "text": "Go find Jason. Matty is ready to go."
+    },
+    {
+      "start": 2.6,
+      "end": 4.0,
+      "text": "Is she okay?"
+    },
+    {
+      "start": 4.0,
+      "end": 5.7,
+      "text": "Have fun. Thank you."
+    },
+    {
+      "start": 6.5,
+      "end": 7.5,
+      "text": "Guys, okay."
+    },
+    {
+      "start": 8.2,
+      "end": 11.9,
+      "text": "I'm trying to show that I care about her emotions, but..."
+    },
+    {
+      "start": 11.9,
+      "end": 13.7,
+      "text": "Fancy meeting you here."
+    },
+    {
+      "start": 14.3,
+      "end": 15.3,
+      "text": "Wow."
+    },
+    {
+      "start": 15.8,
+      "end": 16.8,
+      "text": "You look..."
+    },
+    {
+      "start": 17.8,
+      "end": 18.8,
+      "text": "Wow."
+    },
+    {
+      "start": 19.3,
+      "end": 20.4,
+      "text": "Dude, like, I'm being set up."
+    },
+    {
+      "start": 20.4,
+      "end": 22.2,
+      "text": "Like, bro, I'm being set up."
+    },
+    {
+      "start": 22.2,
+      "end": 23.3,
+      "text": "Like, I don't know what to tell you, bro."
+    },
+    {
+      "start": 23.3,
+      "end": 24.4,
+      "text": "Like, this is just like..."
+    },
+    {
+      "start": 25.0,
+      "end": 26.2,
+      "text": "Dude, like..."
+    }
+  ]
+}
