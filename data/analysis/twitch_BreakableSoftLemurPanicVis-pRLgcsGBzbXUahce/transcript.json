@@ -1,0 +1,25 @@
+{
+  "language": "fr",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": "Salut à tous, c'est La Salle. Aujourd'hui, nous nous stuns sans CTA. C'est parti."
+    },
+    {
+      "start": 4.0,
+      "end": 10.6,
+      "text": "D'abord, je vais commencer à faire une route. Ensuite, je vais continuer sur la route."
+    },
+    {
+      "start": 10.6,
+      "end": 12.6,
+      "text": "On est là, petit trempe, vous faites un sale tour."
+    },
+    {
+      "start": 12.6,
+      "end": 18.8,
+      "text": "À tout moment, je rigole, je suis mort."
+    }
+  ]
+}

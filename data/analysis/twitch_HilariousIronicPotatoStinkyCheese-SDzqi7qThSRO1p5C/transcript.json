@@ -1,0 +1,30 @@
+{
+  "language": "fr",
+  "segments": [
+    {
+      "start": 2.7,
+      "end": 4.1,
+      "text": "Ah ouais ça va vite !"
+    },
+    {
+      "start": 10.2,
+      "end": 13.1,
+      "text": "Ah ouais ouais ouais ouais ouais ouais ouais ouais ouais ouais ouais ouais ouais ouais ouais, ça va très très vite."
+    },
+    {
+      "start": 19.9,
+      "end": 21.3,
+      "text": "Oh c'est le 4 étoiles du coup."
+    },
+    {
+      "start": 26.7,
+      "end": 28.7,
+      "text": "3 4 4 4 4 4 4 4 ehhh..."
+    },
+    {
+      "start": 29.5,
+      "end": 30.2,
+      "text": "Il est là."
+    }
+  ]
+}

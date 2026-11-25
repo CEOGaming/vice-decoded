@@ -1,0 +1,50 @@
+{
+  "language": "hu",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 8.8,
+      "text": "Mi a fasz? Mi a fasz?"
+    },
+    {
+      "start": 8.8,
+      "end": 10.8,
+      "text": "Hölj el, mi van?"
+    },
+    {
+      "start": 10.8,
+      "end": 17.5,
+      "text": "Halló."
+    },
+    {
+      "start": 17.5,
+      "end": 28.6,
+      "text": "Mi csodál? Jól vagy?"
+    },
+    {
+      "start": 28.6,
+      "end": 33.6,
+      "text": "Emléksz el valamire? Ki vagyok?"
+    },
+    {
+      "start": 33.6,
+      "end": 35.6,
+      "text": "Mi, hol vagyok? Bocsened?"
+    },
+    {
+      "start": 35.6,
+      "end": 36.6,
+      "text": "Jó!"
+    },
+    {
+      "start": 36.6,
+      "end": 43.0,
+      "text": "De látod ezt?"
+    },
+    {
+      "start": 43.0,
+      "end": 46.0,
+      "text": "Tudod segíteni?"
+    }
+  ]
+}

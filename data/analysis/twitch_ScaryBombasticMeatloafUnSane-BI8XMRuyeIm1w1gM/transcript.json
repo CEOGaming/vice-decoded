@@ -1,0 +1,30 @@
+{
+  "language": "es",
+  "segments": [
+    {
+      "start": 2.1,
+      "end": 5.1,
+      "text": "Mando, veniendo, chingando"
+    },
+    {
+      "start": 8.1,
+      "end": 17.9,
+      "text": "Hermano, aquí tendría que estar con manches jugando, tío"
+    },
+    {
+      "start": 17.9,
+      "end": 18.9,
+      "text": "Estaría flipando ahora"
+    },
+    {
+      "start": 18.9,
+      "end": 26.3,
+      "text": "Hay tres ahí"
+    },
+    {
+      "start": 27.3,
+      "end": 28.3,
+      "text": "Pero seguramente hay ama..."
+    }
+  ]
+}

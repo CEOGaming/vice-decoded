@@ -1,0 +1,40 @@
+{
+  "language": "de",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Ich bin überfordert, ich sag so wie's ist."
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "Ich bin völlig überfordert."
+    },
+    {
+      "start": 4.0,
+      "end": 8.0,
+      "text": "Jetzt feiern, jetzt sind sie wieder befreundet, ne?"
+    },
+    {
+      "start": 8.0,
+      "end": 11.0,
+      "text": "Probleme, ich verstehe nichts, was abgeht."
+    },
+    {
+      "start": 14.0,
+      "end": 16.0,
+      "text": "Okay, wir überspringen diese Szene."
+    },
+    {
+      "start": 16.0,
+      "end": 17.0,
+      "text": "Supi..."
+    },
+    {
+      "start": 17.0,
+      "end": 20.7,
+      "text": "Was ist jetzt passiert? Hallo."
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.2,
+      "end": 2.0,
+      "text": "Hey man, whoa!"
+    },
+    {
+      "start": 2.0,
+      "end": 4.3,
+      "text": "Hey man, y'all shoot my car!"
+    },
+    {
+      "start": 4.3,
+      "end": 6.8,
+      "text": "Y'all shoot my damn car, bruh!"
+    },
+    {
+      "start": 6.8,
+      "end": 9.0,
+      "text": "I ain't did shit, bruh!"
+    },
+    {
+      "start": 9.0,
+      "end": 27.5,
+      "text": "Niggas that tried to kill me, man!"
+    },
+    {
+      "start": 27.5,
+      "end": 29.5,
+      "text": "We ain't dropping off no dope right now."
+    },
+    {
+      "start": 29.5,
+      "end": 30.3,
+      "text": "It ain't the..."
+    }
+  ]
+}

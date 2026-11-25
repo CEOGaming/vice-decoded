@@ -1,0 +1,25 @@
+{
+  "language": "fr",
+  "segments": [
+    {
+      "start": 1.2,
+      "end": 8.5,
+      "text": "T'as toi je crois sûr"
+    },
+    {
+      "start": 8.5,
+      "end": 12.0,
+      "text": "C'était où qu'on était partis ?"
+    },
+    {
+      "start": 12.0,
+      "end": 23.7,
+      "text": "Nous ce qu'on voulait c'était je crois que c'était un truc de luxe non ?"
+    },
+    {
+      "start": 23.7,
+      "end": 29.6,
+      "text": "Attends peut-être qu'on va rechercher donc luxe et soit là"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.8,
+      "text": "I think that's one of the spookiest, spookiest movies."
+    },
+    {
+      "start": 2.8,
+      "end": 3.6,
+      "text": "Oh my god."
+    },
+    {
+      "start": 4.6,
+      "end": 6.1,
+      "text": "Someone getting like,"
+    },
+    {
+      "start": 6.1,
+      "end": 8.5,
+      "text": "drugged and then addicted to the substance,"
+    },
+    {
+      "start": 8.5,
+      "end": 9.3,
+      "text": "you know what I mean?"
+    }
+  ]
+}

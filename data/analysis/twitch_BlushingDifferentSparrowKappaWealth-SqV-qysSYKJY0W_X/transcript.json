@@ -1,0 +1,30 @@
+{
+  "language": "es",
+  "segments": [
+    {
+      "start": 0.7,
+      "end": 15.7,
+      "text": "Me ha folido, eh?"
+    },
+    {
+      "start": 15.7,
+      "end": 17.6,
+      "text": "¡Mate, volé a paloma!"
+    },
+    {
+      "start": 17.6,
+      "end": 21.6,
+      "text": "En el medio de la siente, volé a paloma, mira."
+    },
+    {
+      "start": 21.6,
+      "end": 29.4,
+      "text": "¡Mate! ¡Uh, volé, volé, volé!"
+    },
+    {
+      "start": 29.4,
+      "end": 31.4,
+      "text": "¡Me di justo!"
+    }
+  ]
+}

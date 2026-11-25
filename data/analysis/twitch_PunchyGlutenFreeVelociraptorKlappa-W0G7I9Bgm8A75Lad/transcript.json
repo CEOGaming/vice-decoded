@@ -1,0 +1,30 @@
+{
+  "language": "zh",
+  "segments": [
+    {
+      "start": 3.8,
+      "end": 5.3,
+      "text": "隔壁開跳了"
+    },
+    {
+      "start": 6.3,
+      "end": 7.4,
+      "text": "不是不是不是"
+    },
+    {
+      "start": 7.4,
+      "end": 8.7,
+      "text": "一牙還一牙"
+    },
+    {
+      "start": 9.4,
+      "end": 10.7,
+      "text": "隔壁開跳了"
+    },
+    {
+      "start": 10.9,
+      "end": 12.8,
+      "text": "Oh my god"
+    }
+  ]
+}

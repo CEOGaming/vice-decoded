@@ -1,0 +1,40 @@
+{
+  "language": "pl",
+  "segments": [
+    {
+      "start": 4.9,
+      "end": 6.9,
+      "text": "Sprowakuj."
+    },
+    {
+      "start": 9.9,
+      "end": 10.9,
+      "text": "O kurwa."
+    },
+    {
+      "start": 13.9,
+      "end": 15.9,
+      "text": "Gdzie jest ten czek? Gdzie jest czek?"
+    },
+    {
+      "start": 17.9,
+      "end": 19.9,
+      "text": "Nie wiem gdzie pojechał czek."
+    },
+    {
+      "start": 21.9,
+      "end": 22.9,
+      "text": "Czekaj, tam chyba."
+    },
+    {
+      "start": 22.9,
+      "end": 24.9,
+      "text": "Ono kierunek w prawo czy w lewo włączony?"
+    },
+    {
+      "start": 24.9,
+      "end": 27.9,
+      "text": "To jest on chyba, tak, z kierunkiem. Poznam go po kierunku."
+    }
+  ]
+}

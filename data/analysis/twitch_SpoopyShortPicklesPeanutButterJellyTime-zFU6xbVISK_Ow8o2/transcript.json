@@ -1,0 +1,30 @@
+{
+  "language": "de",
+  "segments": [
+    {
+      "start": 0.9,
+      "end": 2.9,
+      "text": "Egal, es hat den Prime dargelassen, ich seh's jetzt erst."
+    },
+    {
+      "start": 2.9,
+      "end": 5.9,
+      "text": "XA TTN hat Prime dargelassen."
+    },
+    {
+      "start": 5.9,
+      "end": 7.9,
+      "text": "Großalter, danke schön. Auf die Höhe, danke."
+    },
+    {
+      "start": 7.9,
+      "end": 10.9,
+      "text": "10% bist du begrafen, aber bei 70, das kann nicht wahr sein."
+    },
+    {
+      "start": 10.9,
+      "end": 12.9,
+      "text": "Ich dachte, ich bin schon viel weiter..."
+    }
+  ]
+}
