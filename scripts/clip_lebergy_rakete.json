@@ -1,0 +1,62 @@
+{
+  "id": "clip_lebergy_rakete",
+  "source": "https://www.twitch.tv/lebergy/clip/BenevolentAverageSaladAMPEnergyCherry-V_8U1FJlXd-tElyz",
+  "layout": "fill",
+  "hook": "DIESER NPC HAT NULL ANGST",
+  "hook_full": true,
+  "title": "Er hat einen Raketenwerfer – den NPC interessiert das nicht #shorts",
+  "description": "LeBergy steht in GTA 6 mit Raketenwerfer da. Ein NPC lässt sich davon kein bisschen beeindrucken. Original-Clip: LeBergy – https://www.twitch.tv/lebergy/clip/BenevolentAverageSaladAMPEnergyCherry-V_8U1FJlXd-tElyz\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #npc #raketenwerfer #lebergy",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "npc",
+    "raketenwerfer",
+    "lebergy"
+  ],
+  "tiktok": "Null Angst vor dem Raketenwerfer 🚀😂 #gta6 #gtavi #fyp",
+  "instagram": "Furchtloser NPC 🚀\n\n#gta6 #gtavi #gaming #reels",
+  "beats": [
+    {
+      "original": true,
+      "start": 0,
+      "end": 36,
+      "focus": 0.5,
+      "subs": [
+        [
+          1.6,
+          6.7,
+          "Hey, jag mich nicht! Ich hab einen Raketenwerfer!",
+          "LeBergy"
+        ],
+        [
+          6.7,
+          11.2,
+          "Hey, weg da! Weg da!",
+          "LeBergy"
+        ],
+        [
+          18.3,
+          20.3,
+          "Hey! Hey!",
+          "LeBergy"
+        ],
+        [
+          20.3,
+          21.3,
+          "Nein!",
+          "LeBergy"
+        ],
+        [
+          21.3,
+          25,
+          "Oh nein…",
+          "LeBergy"
+        ]
+      ]
+    }
+  ],
+  "style": "prompt",
+  "streamer": "LeBergy",
+  "credit": "Clip: LeBergy (Twitch)"
+}

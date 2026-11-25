@@ -1,0 +1,62 @@
+{
+  "id": "clip_cinna_einbrecher",
+  "source": "https://www.twitch.tv/cinna/clip/PleasantStylishPicklesPipeHype-yJbMmLqm0CWgEMIj",
+  "layout": "fill",
+  "hook": "WER STEHT DA IM FLUR?",
+  "hook_full": true,
+  "title": "Cinna bekommt in GTA 6 den Schreck ihres Lebens #shorts",
+  "description": "Cinna läuft in GTA 6 nichtsahnend durchs Haus – dann steht plötzlich jemand im Flur. Original-Clip: Cinna – https://www.twitch.tv/cinna/clip/PleasantStylishPicklesPipeHype-yJbMmLqm0CWgEMIj\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #cinna #jumpscare #reaction",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "cinna",
+    "jumpscare",
+    "reaction"
+  ],
+  "tiktok": "Ihre Seele hat den Körper verlassen 😱 #gta6 #gtavi #fyp",
+  "instagram": "Jumpscare in GTA 6 😱\n\n#gta6 #gtavi #gaming #reels",
+  "beats": [
+    {
+      "original": true,
+      "start": 0,
+      "end": 30,
+      "focus": 0.5,
+      "subs": [
+        [
+          0.3,
+          1.8,
+          "Jay? Sean?",
+          "Cinna"
+        ],
+        [
+          4.5,
+          12,
+          "Oh mein Gott! Meine Seele hat meinen Körper verlassen!",
+          "Cinna"
+        ],
+        [
+          19.7,
+          21.7,
+          "Das ist mein schlimmster Albtraum!",
+          "Cinna"
+        ],
+        [
+          21.7,
+          23.7,
+          "Oh mein Gott!",
+          "Cinna"
+        ],
+        [
+          23.7,
+          26.7,
+          "Alter, darauf war ich nicht vorbereitet…",
+          "Cinna"
+        ]
+      ]
+    }
+  ],
+  "style": "prompt",
+  "streamer": "Cinna",
+  "credit": "Clip: Cinna (Twitch)"
+}

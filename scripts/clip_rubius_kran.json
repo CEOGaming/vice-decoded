@@ -1,0 +1,74 @@
+{
+  "id": "clip_rubius_kran",
+  "source": "https://www.twitch.tv/rubius/clip/ThoughtfulPerfectRavenKeepo-40U8cz1Jzx8XKWOO",
+  "layout": "fill",
+  "hook": "JASON GEHT INS GYM",
+  "hook_full": true,
+  "title": "Rubius macht mit dem Kranwagen Klimmzüge #shorts",
+  "description": "Rubius entdeckt in GTA 6 den Kranwagen und macht damit Klimmzüge an der Schilderbrücke. Original-Clip: Rubius – https://www.twitch.tv/rubius/clip/ThoughtfulPerfectRavenKeepo-40U8cz1Jzx8XKWOO\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #rubius #kran #lustig",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "rubius",
+    "kran",
+    "lustig"
+  ],
+  "tiktok": "Gym-Time mit dem Kran 💪🏗️ #gta6 #gtavi #fyp",
+  "instagram": "Leg day? Kran day 💪\n\n#gta6 #gtavi #gaming #reels",
+  "beats": [
+    {
+      "original": true,
+      "start": 0,
+      "end": 30,
+      "focus": 0.5,
+      "subs": [
+        [
+          0,
+          2,
+          "Jasons Wiederholungen…",
+          "Rubius"
+        ],
+        [
+          2,
+          6,
+          "…im Gym. Vorsicht.",
+          "Rubius"
+        ],
+        [
+          6,
+          10,
+          "Ai, ai, ai, ai.",
+          "Rubius"
+        ],
+        [
+          10,
+          14,
+          "Perfekt. Noch eine.",
+          "Rubius"
+        ],
+        [
+          14,
+          20,
+          "Erste Sahne, Leute. Perfekt!",
+          "Rubius"
+        ],
+        [
+          20,
+          28,
+          "Perfekt, Leute. Jetzt zurück.",
+          "Rubius"
+        ],
+        [
+          28,
+          30,
+          "Aber wie kommen wir zurück…",
+          "Rubius"
+        ]
+      ]
+    }
+  ],
+  "style": "prompt",
+  "streamer": "Rubius",
+  "credit": "Clip: Rubius (Twitch)"
+}

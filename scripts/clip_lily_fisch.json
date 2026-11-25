@@ -1,0 +1,68 @@
+{
+  "id": "clip_lily_fisch",
+  "source": "https://www.twitch.tv/lilypichu/clip/EvilDoubtfulGoblinDoggo-uxQeISfL7OFAYLWx",
+  "layout": "fill",
+  "hook": "SIE GIBT IHM EIN BEGRÄBNIS",
+  "hook_full": true,
+  "title": "LilyPichu verabschiedet ihren Fisch in GTA 6 #shorts",
+  "description": "LilyPichu läuft in GTA 6 mit einem Fisch zum Wasser und gibt ihm ein würdiges Begräbnis. Original-Clip: lilypichu – https://www.twitch.tv/lilypichu/clip/EvilDoubtfulGoblinDoggo-uxQeISfL7OFAYLWx\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #lilypichu #fisch #lustig",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "lilypichu",
+    "fisch",
+    "lustig"
+  ],
+  "tiktok": "Sei frei, kleiner Fisch 🐟 #gta6 #gtavi #fyp",
+  "instagram": "Ein Begräbnis für den Fisch 🐟\n\n#gta6 #gtavi #gaming #reels",
+  "beats": [
+    {
+      "original": true,
+      "start": 0,
+      "end": 30,
+      "focus": 0.5,
+      "subs": [
+        [
+          3.5,
+          10,
+          "Ich gebe dir ein Begräbnis.",
+          "Lily"
+        ],
+        [
+          10,
+          12,
+          "Warte, einfach werfen?",
+          "Lily"
+        ],
+        [
+          12,
+          14,
+          "Kann ich ihn ins Wasser werfen?",
+          "Lily"
+        ],
+        [
+          14,
+          15,
+          "Sei frei!",
+          "Lily"
+        ],
+        [
+          15,
+          25.4,
+          "Ich bin aber hier, also lass mich parken.",
+          "Lily"
+        ],
+        [
+          25.4,
+          29.4,
+          "Ich kann mein Auto nicht mitten auf der Straße lassen. Das ist nicht cool.",
+          "Lily"
+        ]
+      ]
+    }
+  ],
+  "style": "prompt",
+  "streamer": "Lily",
+  "credit": "Clip: lilypichu (Twitch)"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "clip_elastic_landung",
+  "source": "https://www.twitch.tv/elasticdroid/clip/SmokyMoralHorseOSkomodo-TDlZFova6mv4rxT9",
+  "layout": "fill",
+  "hook": "DIE PERFEKTE LANDUNG",
+  "hook_full": true,
+  "title": "Fallschirmsprung über Vice City – und er landet es #shorts",
+  "description": "ElasticDroid springt in GTA 6 mit dem Fallschirm vom Hochhaus und schafft eine saubere Landung. Original-Clip: ElasticDroid – https://www.twitch.tv/elasticdroid/clip/SmokyMoralHorseOSkomodo-TDlZFova6mv4rxT9\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #fallschirm #vicecity #elasticdroid",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "fallschirm",
+    "vicecity",
+    "elasticdroid"
+  ],
+  "tiktok": "Gelandet! 🪂🔥 #gta6 #gtavi #fyp",
+  "instagram": "Perfekte Landung 🪂\n\n#gta6 #gtavi #gaming #reels",
+  "beats": [
+    {
+      "original": true,
+      "start": 0,
+      "end": 18,
+      "focus": 0.5,
+      "subs": [
+        [
+          0.8,
+          8,
+          "Wir machen das wirklich!",
+          "ElasticDroid"
+        ],
+        [
+          8,
+          16.9,
+          "Heilige Scheiße, gelandet!",
+          "ElasticDroid"
+        ]
+      ]
+    }
+  ],
+  "style": "prompt",
+  "streamer": "ElasticDroid",
+  "credit": "Clip: ElasticDroid (Twitch)"
+}

@@ -1,0 +1,68 @@
+{
+  "id": "clip_elajjaz_npc",
+  "source": "https://www.twitch.tv/elajjaz/clip/StrongColorfulPenguinMoreCowbell-Lcnl82-7rzdZoRrU",
+  "layout": "fill",
+  "hook": "WARUM FILMST DU DAS?",
+  "hook_full": true,
+  "title": "Überfall auf der Straße – und ein NPC filmt einfach #shorts",
+  "description": "Elajjaz beobachtet in GTA 6 einen Straßenüberfall. Ein Passant zückt lieber das Handy. Original-Clip: Elajjaz – https://www.twitch.tv/elajjaz/clip/StrongColorfulPenguinMoreCowbell-Lcnl82-7rzdZoRrU\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #npc #elajjaz #lustig",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "npc",
+    "elajjaz",
+    "lustig"
+  ],
+  "tiktok": "Er filmt einfach 📱😂 #gta6 #gtavi #fyp",
+  "instagram": "NPCs in GTA 6 sind wild 📱\n\n#gta6 #gtavi #gaming #reels",
+  "beats": [
+    {
+      "original": true,
+      "start": 0,
+      "end": 58,
+      "focus": 0.5,
+      "subs": [
+        [
+          0,
+          5,
+          "Gib schon her, du Punk!",
+          "NPC"
+        ],
+        [
+          5,
+          9.4,
+          "Whoa, halt dich da raus!",
+          "NPC"
+        ],
+        [
+          9.4,
+          13,
+          "Ja Bruder, ich film nur.",
+          "NPC"
+        ],
+        [
+          13,
+          17.4,
+          "Alles cool, ich bin weg.",
+          "NPC"
+        ],
+        [
+          18,
+          26.7,
+          "Was ist los mit dir? Warum filmst du das?",
+          "NPC"
+        ],
+        [
+          44.2,
+          57.7,
+          "Was zur Hölle? Das ist wild.",
+          "Elajjaz"
+        ]
+      ]
+    }
+  ],
+  "style": "prompt",
+  "streamer": "Elajjaz",
+  "credit": "Clip: Elajjaz (Twitch)"
+}

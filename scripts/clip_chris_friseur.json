@@ -1,0 +1,56 @@
+{
+  "id": "clip_chris_friseur",
+  "source": "https://www.twitch.tv/chris_keepin/clip/UgliestObliqueSlothKlappa-jvcmhH-6AExVINCj",
+  "layout": "fill",
+  "hook": "ER WOLLTE NUR ZUM FRISEUR",
+  "hook_full": true,
+  "title": "Er wollte nur einen Haarschnitt – dann eskaliert alles #shorts",
+  "description": "Chris_Keepin geht in GTA 6 zum Friseur. Am Ende gibt es keinen Haarschnitt, sondern einen Überfall. Original-Clip: Chris_Keepin – https://www.twitch.tv/chris_keepin/clip/UgliestObliqueSlothKlappa-jvcmhH-6AExVINCj\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #friseur #ueberfall #lustig",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "friseur",
+    "ueberfall",
+    "lustig"
+  ],
+  "tiktok": "Kein Haarschnitt heute 💇‍♂️💀 #gta6 #gtavi #fyp",
+  "instagram": "Friseurbesuch eskaliert 💇‍♂️\n\n#gta6 #gtavi #gaming #reels",
+  "beats": [
+    {
+      "original": true,
+      "start": 0,
+      "end": 30,
+      "focus": 0.5,
+      "subs": [
+        [
+          0.1,
+          6,
+          "Oh je, du brauchst die Polizei, ja?",
+          "Chris"
+        ],
+        [
+          6,
+          12.6,
+          "Halt die Klappe, Mann! Dann überfall ich sie halt!",
+          "Chris"
+        ],
+        [
+          12.6,
+          18,
+          "Du auch! Steh auf! Stopp, stopp, beweg dich!",
+          "Chris"
+        ],
+        [
+          22.5,
+          28.6,
+          "Sieht aus, als bekomme ich heute keinen Haarschnitt mehr.",
+          "Chris"
+        ]
+      ]
+    }
+  ],
+  "style": "prompt",
+  "streamer": "Chris",
+  "credit": "Clip: Chris_Keepin (Twitch)"
+}

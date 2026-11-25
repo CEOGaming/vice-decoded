@@ -1,0 +1,61 @@
+{
+  "id": "clip_cohh_rennen",
+  "source": "https://www.twitch.tv/cohhcarnage/clip/ObliviousRoughDelicataFutureMan-CS3ZEl3poE2C9fMP",
+  "layout": "fill",
+  "hook": "WIE IST DER SO SCHNELL?",
+  "hook_full": true,
+  "title": "Ein NPC rammt Cohh im Rennen mit Überschall #shorts",
+  "description": "Straßenrennen in Vice City: Ein Gegner kommt aus dem Nichts und rammt CohhCarnage mit absurdem Tempo. Original-Clip: CohhCarnage – https://www.twitch.tv/cohhcarnage/clip/ObliviousRoughDelicataFutureMan-CS3ZEl3poE2C9fMP\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #rennen #cohhcarnage",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "rennen",
+    "cohhcarnage"
+  ],
+  "tiktok": "Hat der einen Reaktor im Kofferraum?! 🚀 #gta6 #gtavi #fyp",
+  "instagram": "Überschall-Rammbock 💥🏎️\n\n#gta6 #gtavi #gaming #reels",
+  "beats": [
+    {
+      "original": true,
+      "start": 0,
+      "end": 32,
+      "focus": 0.5,
+      "subs": [
+        [
+          2,
+          6,
+          "Bro! Der ist mir einfach hinten reingeknallt!",
+          "Cohh"
+        ],
+        [
+          6,
+          12,
+          "Was zur Hölle? Hat der einen Reaktor im Kofferraum?",
+          "Cohh"
+        ],
+        [
+          12,
+          20,
+          "Was passiert hier gerade?",
+          "Cohh"
+        ],
+        [
+          22,
+          26,
+          "Habt ihr das gesehen? Der hat mich mit Überschall gerammt!",
+          "Cohh"
+        ],
+        [
+          26,
+          32,
+          "Ich war schon mit Boost unterwegs. So schnell fahren Autos nicht!",
+          "Cohh"
+        ]
+      ]
+    }
+  ],
+  "style": "prompt",
+  "streamer": "Cohh",
+  "credit": "Clip: CohhCarnage (Twitch)"
+}
