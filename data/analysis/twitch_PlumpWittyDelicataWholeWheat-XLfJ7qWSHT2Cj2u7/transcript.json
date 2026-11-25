@@ -1,0 +1,40 @@
+{
+  "language": "it",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.0,
+      "text": "Oh, dio ti prego. Seconda me è enorme. È molto verde, va be', grazie."
+    },
+    {
+      "start": 6.0,
+      "end": 16.9,
+      "text": "È un hotel, c'è il colore verde. Signora, salve."
+    },
+    {
+      "start": 16.9,
+      "end": 38.9,
+      "text": "Ci serve altro vino. Oh, bello sto pezzo!"
+    },
+    {
+      "start": 38.9,
+      "end": 45.9,
+      "text": "Ha detto ci serve altro vino? Bello sto pezzo?"
+    },
+    {
+      "start": 45.9,
+      "end": 48.9,
+      "text": "Ma quanti italiani hanno messo in questo gioco?"
+    },
+    {
+      "start": 48.9,
+      "end": 53.9,
+      "text": "Comunque, gli italiani e il vino, cazzo, ragazzo, gemelli, eh?"
+    },
+    {
+      "start": 53.9,
+      "end": 59.9,
+      "text": "Vanno insieme, loro partono insieme, prendono l'aerio insieme, gli italiani..."
+    }
+  ]
+}

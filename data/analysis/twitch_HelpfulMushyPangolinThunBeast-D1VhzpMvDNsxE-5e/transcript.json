@@ -1,0 +1,65 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 4.5,
+      "end": 5.0,
+      "text": "Hey!"
+    },
+    {
+      "start": 5.0,
+      "end": 5.5,
+      "text": "Hurry up!"
+    },
+    {
+      "start": 5.5,
+      "end": 6.5,
+      "text": "Hey, I'm off, mate!"
+    },
+    {
+      "start": 6.5,
+      "end": 7.5,
+      "text": "You should be guys penthouse."
+    },
+    {
+      "start": 7.5,
+      "end": 8.5,
+      "text": "That was a new level."
+    },
+    {
+      "start": 8.5,
+      "end": 13.5,
+      "text": "The point in the after is when the cool crowd starts to just kind of filter out all the hot girls are gone."
+    },
+    {
+      "start": 13.5,
+      "end": 20.2,
+      "text": "What the fuck is that?"
+    },
+    {
+      "start": 32.4,
+      "end": 34.4,
+      "text": "I'm still taking it!"
+    },
+    {
+      "start": 34.4,
+      "end": 35.4,
+      "text": "Little shit!"
+    },
+    {
+      "start": 39.4,
+      "end": 40.4,
+      "text": "That is amazing!"
+    },
+    {
+      "start": 41.4,
+      "end": 44.4,
+      "text": "I've packed so many cards and I've never seen that."
+    },
+    {
+      "start": 44.4,
+      "end": 45.4,
+      "text": "That is awesome."
+    }
+  ]
+}

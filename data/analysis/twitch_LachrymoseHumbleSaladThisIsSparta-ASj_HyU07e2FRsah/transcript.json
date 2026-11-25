@@ -1,0 +1,15 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 1.6,
+      "end": 9.7,
+      "text": "We should not do this!"
+    },
+    {
+      "start": 10.7,
+      "end": 40.7,
+      "text": "Nope, there's nothing to gain. Never mind."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "language": "fi",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.0,
+      "text": "Nait will be in touch. No mä me salille sitten tämän kanssa. Yksin."
+    },
+    {
+      "start": 5.0,
+      "end": 12.7,
+      "text": "Kuinka tu soittaa sille, että oleks mässii?"
+    },
+    {
+      "start": 12.7,
+      "end": 22.9,
+      "text": "Ei tahtu todellista."
+    },
+    {
+      "start": 22.9,
+      "end": 27.0,
+      "text": "Puri itse!"
+    }
+  ]
+}

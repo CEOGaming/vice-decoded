@@ -1,0 +1,40 @@
+{
+  "language": "fr",
+  "segments": [
+    {
+      "start": 4.2,
+      "end": 6.2,
+      "text": "Bon, de toute façon, faut qu'on voit l'un véhicule."
+    },
+    {
+      "start": 6.2,
+      "end": 7.2,
+      "text": "Sort de là."
+    },
+    {
+      "start": 11.7,
+      "end": 13.7,
+      "text": "Jazan, on s'épargne, on s'épargne, on s'épargne."
+    },
+    {
+      "start": 13.7,
+      "end": 14.7,
+      "text": "Sort de la bagnole."
+    },
+    {
+      "start": 17.9,
+      "end": 20.4,
+      "text": "J'ai que d'istre à l'éfic. On peut pas se séparer."
+    },
+    {
+      "start": 22.9,
+      "end": 24.4,
+      "text": "Ah merde, c'est un mur ça."
+    },
+    {
+      "start": 24.4,
+      "end": 37.9,
+      "text": "Je pense que c'était un bout de trottoir, j'avais pas fait la..."
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "language": "pl",
+  "segments": [
+    {
+      "start": 4.5,
+      "end": 5.6,
+      "text": "Wspólnie na nas!"
+    },
+    {
+      "start": 5.6,
+      "end": 6.5,
+      "text": "Nie bądź się!"
+    },
+    {
+      "start": 6.5,
+      "end": 8.5,
+      "text": "Nie bądź się!"
+    },
+    {
+      "start": 8.5,
+      "end": 10.0,
+      "text": "Kurwa, matka!"
+    },
+    {
+      "start": 10.0,
+      "end": 11.0,
+      "text": "Pijuj, że..."
+    },
+    {
+      "start": 11.0,
+      "end": 12.5,
+      "text": "O, w dupę!"
+    },
+    {
+      "start": 12.5,
+      "end": 13.5,
+      "text": "Wybrzesz się!"
+    },
+    {
+      "start": 13.5,
+      "end": 16.5,
+      "text": "W dupę, w dupę, w dupę, w dupę, w dupę, w dupę, w dupę, w dupę, w dupę!"
+    },
+    {
+      "start": 16.5,
+      "end": 18.5,
+      "text": "Ciężko, ciężko jest, Król!"
+    }
+  ]
+}

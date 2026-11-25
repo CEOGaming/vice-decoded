@@ -1,0 +1,60 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.2,
+      "end": 3.2,
+      "text": "What? You want us to have a problem here?"
+    },
+    {
+      "start": 3.2,
+      "end": 4.2,
+      "text": "No, your dog loves me."
+    },
+    {
+      "start": 4.2,
+      "end": 6.2,
+      "text": "Don't want me up in- What?"
+    },
+    {
+      "start": 6.2,
+      "end": 7.2,
+      "text": "Come on, show me something!"
+    },
+    {
+      "start": 7.2,
+      "end": 8.2,
+      "text": "What you got?"
+    },
+    {
+      "start": 8.2,
+      "end": 9.2,
+      "text": "Back!"
+    },
+    {
+      "start": 9.2,
+      "end": 11.2,
+      "text": "Don't let me find you here again!"
+    },
+    {
+      "start": 11.2,
+      "end": 13.2,
+      "text": "What the dog and I were f-"
+    },
+    {
+      "start": 13.2,
+      "end": 20.4,
+      "text": "That was not my fault."
+    },
+    {
+      "start": 20.4,
+      "end": 21.4,
+      "text": "That was not my fault."
+    },
+    {
+      "start": 21.4,
+      "end": 30.3,
+      "text": "I'm just so embarrassed right now."
+    }
+  ]
+}

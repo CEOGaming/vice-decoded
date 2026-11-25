@@ -1,0 +1,25 @@
+{
+  "language": "de",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 15.4,
+      "text": "Ich bin eine Tasche zu hoch."
+    },
+    {
+      "start": 15.4,
+      "end": 17.4,
+      "text": "Oh."
+    },
+    {
+      "start": 17.4,
+      "end": 34.7,
+      "text": "Ähm."
+    },
+    {
+      "start": 34.7,
+      "end": 36.7,
+      "text": "Da sind wir wieder."
+    }
+  ]
+}

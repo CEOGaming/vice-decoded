@@ -1,0 +1,20 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.6,
+      "end": 2.6,
+      "text": "Happy Thanksgiving everybody"
+    },
+    {
+      "start": 3.6,
+      "end": 8.3,
+      "text": "Love you yams. Love all of you. Hope everybody has a great holiday if you"
+    },
+    {
+      "start": 9.2,
+      "end": 15.9,
+      "text": "Celebrate Thanksgiving where you live. If not, I hope everybody says a great fucking Thursday and I will be back"
+    }
+  ]
+}

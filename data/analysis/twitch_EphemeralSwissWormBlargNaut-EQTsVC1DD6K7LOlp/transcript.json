@@ -1,0 +1,25 @@
+{
+  "language": "de",
+  "segments": [
+    {
+      "start": 0.3,
+      "end": 4.3,
+      "text": "Hier ist ein ziemlich großer Abgrund und ich mache das später."
+    },
+    {
+      "start": 5.3,
+      "end": 6.3,
+      "text": "Zukunfts-Holly?"
+    },
+    {
+      "start": 7.3,
+      "end": 9.3,
+      "text": "Ich hoffe, du hast bis dahin ein U-Boat."
+    },
+    {
+      "start": 10.3,
+      "end": 12.3,
+      "text": "Welches du mit einem Logitech-Controller steuern kannst."
+    }
+  ]
+}

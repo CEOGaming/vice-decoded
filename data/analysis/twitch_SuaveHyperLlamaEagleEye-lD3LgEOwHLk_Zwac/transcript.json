@@ -1,0 +1,30 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 3.8,
+      "end": 7.8,
+      "text": "Uh, alright, let me just cut into the line here, what's up guys?"
+    },
+    {
+      "start": 7.8,
+      "end": 12.6,
+      "text": "Hey bro."
+    },
+    {
+      "start": 12.6,
+      "end": 25.4,
+      "text": "I heard I was supposed to be here."
+    },
+    {
+      "start": 25.4,
+      "end": 27.4,
+      "text": "I just got murdered for no reason!"
+    },
+    {
+      "start": 27.4,
+      "end": 29.4,
+      "text": "At all!"
+    }
+  ]
+}

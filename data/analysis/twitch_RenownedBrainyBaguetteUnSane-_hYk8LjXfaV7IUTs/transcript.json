@@ -1,0 +1,30 @@
+{
+  "language": "fr",
+  "segments": [
+    {
+      "start": 14.0,
+      "end": 16.0,
+      "text": "Je vais défaite à la Jude !"
+    },
+    {
+      "start": 16.0,
+      "end": 17.0,
+      "text": "Ça me régale !"
+    },
+    {
+      "start": 17.0,
+      "end": 20.5,
+      "text": "Ça gueule !"
+    },
+    {
+      "start": 20.5,
+      "end": 24.9,
+      "text": "Mais c'est vraiment le meilleur jeu de l'univers les gars !"
+    },
+    {
+      "start": 24.9,
+      "end": 26.9,
+      "text": "Je leur ai fait défaite RPA à la Jude !"
+    }
+  ]
+}

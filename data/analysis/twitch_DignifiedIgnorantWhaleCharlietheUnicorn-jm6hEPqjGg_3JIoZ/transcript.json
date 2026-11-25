@@ -1,0 +1,35 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.7,
+      "end": 2.7,
+      "text": "I'm happy it's working out."
+    },
+    {
+      "start": 2.7,
+      "end": 6.2,
+      "text": "Well, I just wanted to say hey, so I'll let you go."
+    },
+    {
+      "start": 6.2,
+      "end": 7.2,
+      "text": "Thanks."
+    },
+    {
+      "start": 7.2,
+      "end": 8.2,
+      "text": "Love you."
+    },
+    {
+      "start": 8.2,
+      "end": 9.7,
+      "text": "Love you too."
+    },
+    {
+      "start": 9.7,
+      "end": 10.7,
+      "text": "Bye."
+    }
+  ]
+}

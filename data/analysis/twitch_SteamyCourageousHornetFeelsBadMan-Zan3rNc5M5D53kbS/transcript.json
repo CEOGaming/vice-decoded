@@ -1,0 +1,80 @@
+{
+  "language": "fr",
+  "segments": [
+    {
+      "start": 1.5,
+      "end": 3.5,
+      "text": "Mais c'est pas par où il vient, moi !"
+    },
+    {
+      "start": 3.5,
+      "end": 8.8,
+      "text": "T'es... T'es grand-père, t'es vraiment..."
+    },
+    {
+      "start": 8.8,
+      "end": 11.8,
+      "text": "Oh ouais, j'ai raté tous mes balles, moi !"
+    },
+    {
+      "start": 11.8,
+      "end": 12.8,
+      "text": "Derrière !"
+    },
+    {
+      "start": 12.8,
+      "end": 14.8,
+      "text": "Bah ouais, cousin !"
+    },
+    {
+      "start": 14.8,
+      "end": 16.8,
+      "text": "Moi, c'est trop dur !"
+    },
+    {
+      "start": 16.8,
+      "end": 18.8,
+      "text": "Moi, je vois là, c'est trop dur, ouais !"
+    },
+    {
+      "start": 18.8,
+      "end": 23.7,
+      "text": "Comment tu fais ?"
+    },
+    {
+      "start": 23.7,
+      "end": 24.7,
+      "text": "C'est même pas par où il y a même pas..."
+    },
+    {
+      "start": 24.7,
+      "end": 27.7,
+      "text": "Il y a pas de trucs sur la carte, là, pour voir où sont les ennemis."
+    },
+    {
+      "start": 27.7,
+      "end": 32.8,
+      "text": "J'ai cassé les couilles, frère !"
+    },
+    {
+      "start": 35.8,
+      "end": 37.8,
+      "text": "Si, il force."
+    },
+    {
+      "start": 39.1,
+      "end": 41.1,
+      "text": "Voilà !"
+    },
+    {
+      "start": 41.1,
+      "end": 43.1,
+      "text": "Moi, c'est sanglant quand même, là."
+    },
+    {
+      "start": 44.1,
+      "end": 46.1,
+      "text": "C'est chaud, hein ?"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "language": "pl",
+  "segments": [
+    {
+      "start": 1.3,
+      "end": 3.3,
+      "text": "Z nimi jest o 15."
+    },
+    {
+      "start": 3.3,
+      "end": 5.3,
+      "text": "Pa!"
+    }
+  ]
+}

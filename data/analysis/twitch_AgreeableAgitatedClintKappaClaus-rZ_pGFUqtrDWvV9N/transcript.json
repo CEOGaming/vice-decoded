@@ -1,0 +1,60 @@
+{
+  "language": "fr",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "120 fps ! Non non c'est pas une blague c'est pas une blague !"
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "130 fps ! 130 fps !"
+    },
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "text": "Clipé clipé faut poster ça"
+    },
+    {
+      "start": 6.0,
+      "end": 8.0,
+      "text": "Oh mon dieu ! Oh mon dieu !"
+    },
+    {
+      "start": 10.0,
+      "end": 12.0,
+      "text": "Oh mon dieu !"
+    },
+    {
+      "start": 12.0,
+      "end": 16.9,
+      "text": "Dans l'intro c'est énorme !"
+    },
+    {
+      "start": 16.9,
+      "end": 18.9,
+      "text": "Je lance le rec je lance le rec"
+    },
+    {
+      "start": 18.9,
+      "end": 20.9,
+      "text": "Putain je passe à 30 fps j'ai eu l'intro à 140 fps"
+    },
+    {
+      "start": 22.9,
+      "end": 24.9,
+      "text": "Clipé tout ce qui peuvent clipé tout ce qui peuvent"
+    },
+    {
+      "start": 24.9,
+      "end": 26.9,
+      "text": "Mais on s'en fout mais c'est énorme"
+    },
+    {
+      "start": 26.9,
+      "end": 28.9,
+      "text": "Il est quoi j'ai un overlaid non c'est pas d'overlaid ah vous voyez pas"
+    }
+  ]
+}

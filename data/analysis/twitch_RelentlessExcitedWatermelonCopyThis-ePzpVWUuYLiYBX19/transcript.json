@@ -1,0 +1,35 @@
+{
+  "language": "de",
+  "segments": [
+    {
+      "start": 2.8,
+      "end": 15.9,
+      "text": "Hat das wer gerade gesehen?"
+    },
+    {
+      "start": 15.9,
+      "end": 17.9,
+      "text": "Nein, nein, nein, das habt ihr gerade nicht gesehen, oder?"
+    },
+    {
+      "start": 17.9,
+      "end": 23.0,
+      "text": "Hat du das gerade gesehen?"
+    },
+    {
+      "start": 23.0,
+      "end": 26.8,
+      "text": "Das darf nicht im Spiel sein, bro!"
+    },
+    {
+      "start": 26.8,
+      "end": 28.8,
+      "text": "Das darf doch nicht im Spiel sein!"
+    },
+    {
+      "start": 28.8,
+      "end": 30.8,
+      "text": "Ich bitte euch!"
+    }
+  ]
+}

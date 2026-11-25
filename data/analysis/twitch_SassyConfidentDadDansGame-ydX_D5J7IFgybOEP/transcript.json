@@ -1,0 +1,25 @@
+{
+  "language": "fi",
+  "segments": [
+    {
+      "start": 2.5,
+      "end": 6.0,
+      "text": "Menestys sinne."
+    },
+    {
+      "start": 6.0,
+      "end": 11.1,
+      "text": "Mä en ole mietitytä kyllä, että Seisoni on ihan vanheensi toi."
+    },
+    {
+      "start": 11.1,
+      "end": 18.1,
+      "text": "Mietitytä kyllä, että Seisoni on ihan vanheensi toi duuni, mutta ei se ollutkaan ihan tota..."
+    },
+    {
+      "start": 18.1,
+      "end": 22.1,
+      "text": "Ei se ollutkaan tota ihan niin rankkatoi."
+    }
+  ]
+}

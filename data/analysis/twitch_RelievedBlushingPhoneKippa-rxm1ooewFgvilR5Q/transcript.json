@@ -1,0 +1,30 @@
+{
+  "language": "es",
+  "segments": [
+    {
+      "start": 3.1,
+      "end": 5.1,
+      "text": "¡Vámonos!"
+    },
+    {
+      "start": 6.1,
+      "end": 8.1,
+      "text": "¡Qué coño!"
+    },
+    {
+      "start": 11.1,
+      "end": 13.1,
+      "text": "¡Se me ha metido un bendito en el coche!"
+    },
+    {
+      "start": 15.1,
+      "end": 17.1,
+      "text": "¡Una polla!"
+    },
+    {
+      "start": 19.1,
+      "end": 21.1,
+      "text": "¡Referencia, Mighty!"
+    }
+  ]
+}

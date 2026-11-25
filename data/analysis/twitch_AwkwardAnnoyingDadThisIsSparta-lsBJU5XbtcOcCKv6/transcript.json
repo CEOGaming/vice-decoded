@@ -1,0 +1,75 @@
+{
+  "language": "pt",
+  "segments": [
+    {
+      "start": 0.4,
+      "end": 5.0,
+      "text": "praticamente isso, e também upar as correções."
+    },
+    {
+      "start": 5.0,
+      "end": 9.3,
+      "text": "Então, por exemplo, eu peguei o fork do DexNone,"
+    },
+    {
+      "start": 9.3,
+      "end": 13.6,
+      "text": "consegui fazer tal coisa que a gente estava com problema pegar."
+    },
+    {
+      "start": 13.6,
+      "end": 18.3,
+      "text": "A própria A vai ficar olhando a API"
+    },
+    {
+      "start": 18.3,
+      "end": 22.3,
+      "text": "para poder ver se tem correção, se alguém enviou a correção, entendeu?"
+    },
+    {
+      "start": 22.3,
+      "end": 24.9,
+      "text": "E já baixa automaticamente no seu projeto."
+    },
+    {
+      "start": 24.9,
+      "end": 27.1,
+      "text": "Eu consegui corrigir com a minha A,"
+    },
+    {
+      "start": 27.2,
+      "end": 31.6,
+      "text": "A e A, ela vai mandar automático para outras pessoas usar essa correção."
+    },
+    {
+      "start": 31.6,
+      "end": 35.1,
+      "text": "E também vai falar qual fork que foi utilizado,"
+    },
+    {
+      "start": 35.1,
+      "end": 39.1,
+      "text": "as especificações do PC, a NVIDIA, a MD."
+    },
+    {
+      "start": 39.1,
+      "end": 42.5,
+      "text": "Isso é um bagulho muito interessante para a gente usar."
+    },
+    {
+      "start": 43.5,
+      "end": 46.5,
+      "text": "E isso seria muito bom se vocês usassem"
+    },
+    {
+      "start": 46.5,
+      "end": 49.2,
+      "text": "a galera que está aí no Discord ajudando."
+    },
+    {
+      "start": 49.2,
+      "end": 50.7,
+      "text": "Quem quiser clicar..."
+    }
+  ]
+}

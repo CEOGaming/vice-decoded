@@ -1,0 +1,15 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.5,
+      "end": 5.0,
+      "text": "You can look for a person. Yeah, you can drive like this. Hey, it's okay, you know"
+    },
+    {
+      "start": 9.9,
+      "end": 27.4,
+      "text": "It's like off just getting away to see oh shit"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.5,
+      "end": 1.5,
+      "text": "Get out of the car!"
+    },
+    {
+      "start": 1.5,
+      "end": 2.5,
+      "text": "Fuck you!"
+    },
+    {
+      "start": 2.5,
+      "end": 3.5,
+      "text": "Move!"
+    },
+    {
+      "start": 3.5,
+      "end": 4.5,
+      "text": "Where are you going?"
+    }
+  ]
+}

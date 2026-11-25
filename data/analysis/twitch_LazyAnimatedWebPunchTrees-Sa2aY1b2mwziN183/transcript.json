@@ -1,0 +1,20 @@
+{
+  "language": "de",
+  "segments": [
+    {
+      "start": 3.4,
+      "end": 11.9,
+      "text": "Da ist der Wal gefunden. Was macht jeder?"
+    },
+    {
+      "start": 13.5,
+      "end": 20.5,
+      "text": "Der ist das Ding fett. Da bin ich. Nein, meine Barm. Alles gut."
+    },
+    {
+      "start": 26.5,
+      "end": 28.5,
+      "text": "Oh mein Gott, habe ich mich erschrocken."
+    }
+  ]
+}

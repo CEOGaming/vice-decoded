@@ -1,0 +1,35 @@
+{
+  "language": "de",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 10.9,
+      "text": "Ich weiß ja nicht. Alter, der Heli schießt..."
+    },
+    {
+      "start": 10.9,
+      "end": 14.9,
+      "text": "Schatz, schießt doch mal da drauf!"
+    },
+    {
+      "start": 17.3,
+      "end": 19.3,
+      "text": "Kann das Sender unser Boot absolft?"
+    },
+    {
+      "start": 20.3,
+      "end": 22.3,
+      "text": "Scheiße!"
+    },
+    {
+      "start": 24.3,
+      "end": 26.3,
+      "text": "Krieg, krieg, die Krise!"
+    },
+    {
+      "start": 29.4,
+      "end": 34.3,
+      "text": "Ach komm! Kein Zeit für so was."
+    }
+  ]
+}

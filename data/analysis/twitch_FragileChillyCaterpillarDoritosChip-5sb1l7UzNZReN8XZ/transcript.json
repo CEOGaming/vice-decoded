@@ -1,0 +1,50 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": "And this is, I spilled my coffee, GGs."
+    },
+    {
+      "start": 4.0,
+      "end": 6.5,
+      "text": "Okay, my phone full of coffee, by the way."
+    },
+    {
+      "start": 6.5,
+      "end": 7.6,
+      "text": "I'm done."
+    },
+    {
+      "start": 7.6,
+      "end": 14.4,
+      "text": "Oh my God."
+    },
+    {
+      "start": 14.4,
+      "end": 17.1,
+      "text": "Oh, hell no."
+    },
+    {
+      "start": 17.1,
+      "end": 18.8,
+      "text": "Yeah, and this is really bad."
+    },
+    {
+      "start": 18.8,
+      "end": 19.9,
+      "text": "Oh, fuck."
+    },
+    {
+      "start": 19.9,
+      "end": 20.8,
+      "text": "I'll be happy."
+    },
+    {
+      "start": 21.8,
+      "end": 22.6,
+      "text": "Oh."
+    }
+  ]
+}

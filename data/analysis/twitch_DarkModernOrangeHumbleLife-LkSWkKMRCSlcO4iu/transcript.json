@@ -1,0 +1,15 @@
+{
+  "language": "es",
+  "segments": [
+    {
+      "start": 0.4,
+      "end": 5.2,
+      "text": "¡Refrescarse!"
+    },
+    {
+      "start": 5.2,
+      "end": 28.0,
+      "text": "¡Frotad!"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.1,
+      "end": 3.8,
+      "text": "You can do first person. Yeah, you can drive like this. Hey, it's okay"
+    },
+    {
+      "start": 9.5,
+      "end": 32.0,
+      "text": "It's like off your screen anyway to see oh shit, I'm gonna try Abe"
+    }
+  ]
+}

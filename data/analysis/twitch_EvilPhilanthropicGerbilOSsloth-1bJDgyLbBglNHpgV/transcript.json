@@ -1,0 +1,30 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 1.7,
+      "end": 4.7,
+      "text": "Can I go even faster? I saw some people go even faster than this."
+    },
+    {
+      "start": 4.7,
+      "end": 10.5,
+      "text": "Triangle and you're even faster actually."
+    },
+    {
+      "start": 10.5,
+      "end": 11.5,
+      "text": "Zuck."
+    },
+    {
+      "start": 11.5,
+      "end": 12.5,
+      "text": "Hey!"
+    },
+    {
+      "start": 13.5,
+      "end": 14.5,
+      "text": "No, no, no, no, no."
+    }
+  ]
+}

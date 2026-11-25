@@ -3,28 +3,33 @@
   "segments": [
     {
       "start": 2.7,
-      "end": 4.1,
-      "text": "Ah ouais ça va vite !"
+      "end": 10.6,
+      "text": "Alors ça va vite"
     },
     {
-      "start": 10.2,
-      "end": 13.1,
-      "text": "Ah ouais ouais ouais ouais ouais ouais ouais ouais ouais ouais ouais ouais ouais ouais ouais, ça va très très vite."
+      "start": 10.6,
+      "end": 12.6,
+      "text": "Ah ouai ouai ouai ouai ouai ouai boards"
     },
     {
-      "start": 19.9,
-      "end": 21.3,
-      "text": "Oh c'est le 4 étoiles du coup."
+      "start": 12.6,
+      "end": 20.0,
+      "text": "ça va très très vite"
     },
     {
-      "start": 26.7,
-      "end": 28.7,
-      "text": "3 4 4 4 4 4 4 4 ehhh..."
+      "start": 20.0,
+      "end": 26.9,
+      "text": "oh c'est le 4 étoiles du coup"
     },
     {
-      "start": 29.5,
-      "end": 30.2,
-      "text": "Il est là."
+      "start": 26.9,
+      "end": 28.9,
+      "text": "trop de tropes tropes"
+    },
+    {
+      "start": 28.9,
+      "end": 30.9,
+      "text": "il est là"
     }
   ]
 }

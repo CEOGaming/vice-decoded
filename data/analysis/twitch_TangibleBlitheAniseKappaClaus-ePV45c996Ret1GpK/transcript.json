@@ -1,0 +1,20 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.9,
+      "end": 2.0,
+      "text": "Oh f**k!"
+    },
+    {
+      "start": 17.2,
+      "end": 18.2,
+      "text": "Lucia!"
+    },
+    {
+      "start": 18.2,
+      "end": 20.2,
+      "text": "Don't be f**king irrational!"
+    }
+  ]
+}

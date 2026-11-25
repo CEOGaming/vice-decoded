@@ -1,0 +1,30 @@
+{
+  "language": "es",
+  "segments": [
+    {
+      "start": 5.1,
+      "end": 7.1,
+      "text": "¿Cocoteo porfa música?"
+    },
+    {
+      "start": 8.7,
+      "end": 10.7,
+      "text": "¿Chalocura?"
+    },
+    {
+      "start": 10.9,
+      "end": 12.3,
+      "text": "Estoy en una bici."
+    },
+    {
+      "start": 12.3,
+      "end": 21.6,
+      "text": "Yo entiendo que es 6 intenso porque el chat es de ser intenso, Mario Becom Mandi, Mario Ducha,"
+    },
+    {
+      "start": 22.1,
+      "end": 27.1,
+      "text": "Mario Bego Lucia, porque tenéis retraso, pero hombre que me pida la radio la bici."
+    }
+  ]
+}

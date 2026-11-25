@@ -1,0 +1,40 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 1.2,
+      "end": 7.2,
+      "text": "Help me, my bird back."
+    },
+    {
+      "start": 7.2,
+      "end": 13.5,
+      "text": "Shit."
+    },
+    {
+      "start": 13.5,
+      "end": 14.9,
+      "text": "Come on, Black, what happened?"
+    },
+    {
+      "start": 14.9,
+      "end": 17.0,
+      "text": "Okay, false, it's loading."
+    },
+    {
+      "start": 17.0,
+      "end": 18.9,
+      "text": "I think we're just hitting a bit of a loading screen here,"
+    },
+    {
+      "start": 18.9,
+      "end": 19.8,
+      "text": "y'all."
+    },
+    {
+      "start": 19.8,
+      "end": 20.8,
+      "text": "Just give it a second."
+    }
+  ]
+}

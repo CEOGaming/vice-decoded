@@ -1,0 +1,30 @@
+{
+  "language": "zh",
+  "segments": [
+    {
+      "start": 0.3,
+      "end": 3.2,
+      "text": "Hey, want to run in that store?"
+    },
+    {
+      "start": 3.2,
+      "end": 4.8,
+      "text": "You grab some new clothes"
+    },
+    {
+      "start": 4.8,
+      "end": 6.8,
+      "text": "什麼?他想買衣服喔?"
+    },
+    {
+      "start": 6.8,
+      "end": 13.2,
+      "text": "我們穿這樣感覺不太對"
+    },
+    {
+      "start": 27.5,
+      "end": 30.0,
+      "text": "這怎麼回事?這邊的人都在對"
+    }
+  ]
+}

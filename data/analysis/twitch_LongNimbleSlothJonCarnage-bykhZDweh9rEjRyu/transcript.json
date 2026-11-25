@@ -1,0 +1,40 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 27.2,
+      "end": 31.7,
+      "text": "No, I had a call with someone, bro."
+    },
+    {
+      "start": 31.7,
+      "end": 34.7,
+      "text": "Well, then a lady that works for my bank"
+    },
+    {
+      "start": 34.7,
+      "end": 36.7,
+      "text": "wanted to arrange a meeting next year,"
+    },
+    {
+      "start": 36.7,
+      "end": 41.5,
+      "text": "and I said, yeah, potentially."
+    },
+    {
+      "start": 41.5,
+      "end": 42.5,
+      "text": "They won't be able to hear you."
+    },
+    {
+      "start": 42.5,
+      "end": 43.5,
+      "text": "You're not talking that enough."
+    },
+    {
+      "start": 43.5,
+      "end": 44.5,
+      "text": "They've talked."
+    }
+  ]
+}
