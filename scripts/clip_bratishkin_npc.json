@@ -1,0 +1,74 @@
+{
+  "id": "clip_bratishkin_npc",
+  "source": "https://www.twitch.tv/bratishkinoff/clip/BlazingSweetKumquatMikeHogu-QtG1CULfUDuBBhD4",
+  "layout": "fill",
+  "hook": "DIESER NPC STIRBT NICHT",
+  "hook_full": true,
+  "title": "Wie entkommt man einem unbesiegbaren NPC? #shorts",
+  "description": "Bratishkin wird in GTA 6 von einem NPC bis auf einen Turm gejagt – und der Typ hört einfach nicht auf. Original-Clip: bratishkinOFF – https://www.twitch.tv/bratishkinoff/clip/BlazingSweetKumquatMikeHogu-QtG1CULfUDuBBhD4\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #npc #verfolgung #bratishkin",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "npc",
+    "verfolgung",
+    "bratishkin"
+  ],
+  "tiktok": "Der NPC gibt nicht auf 😨 #gta6 #gtavi #fyp",
+  "instagram": "Unbesiegbarer NPC 😨\n\n#gta6 #gtavi #gaming #reels",
+  "beats": [
+    {
+      "original": true,
+      "start": 0,
+      "end": 60,
+      "focus": 0.5,
+      "subs": [
+        [
+          0,
+          5.4,
+          "Er rennt, er rennt, er rennt!",
+          "Bratishkin"
+        ],
+        [
+          9.2,
+          10.6,
+          "Wie ist der denn nach oben gekommen?",
+          "Bratishkin"
+        ],
+        [
+          11.2,
+          12.8,
+          "Der killt mit einem Schuss übrigens.",
+          "Bratishkin"
+        ],
+        [
+          18.3,
+          19.3,
+          "Ich bin erledigt…",
+          "Bratishkin"
+        ],
+        [
+          28.3,
+          29.3,
+          "Was soll ich machen?",
+          "Bratishkin"
+        ],
+        [
+          35.6,
+          37.6,
+          "Ich könnte mit dem Fallschirm runterspringen.",
+          "Bratishkin"
+        ],
+        [
+          44,
+          45.6,
+          "Mist, und der hat…",
+          "Bratishkin"
+        ]
+      ]
+    }
+  ],
+  "style": "prompt",
+  "streamer": "Bratishkin",
+  "credit": "Clip: bratishkinOFF (Twitch)"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "clip_singsing_handy",
+  "source": "https://www.twitch.tv/singsing/clip/TangentialSparklingWheelUnSane-FO3GKTUHDci_SyQ5",
+  "layout": "fill",
+  "hook": "HANDY AM STEUER",
+  "hook_full": true,
+  "title": "Darum lässt man das Handy beim Fahren weg #shorts",
+  "description": "singsing schaut in GTA 6 während der Fahrt aufs Handy. Das Ergebnis siehst du selbst. Original-Clip: singsing – https://www.twitch.tv/singsing/clip/TangentialSparklingWheelUnSane-FO3GKTUHDci_SyQ5\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #handy #fail #singsing",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "handy",
+    "fail",
+    "singsing"
+  ],
+  "tiktok": "Handy am Steuer 📱💀 #gta6 #gtavi #fyp",
+  "instagram": "Lektion gelernt 📱\n\n#gta6 #gtavi #gaming #reels",
+  "beats": [
+    {
+      "original": true,
+      "start": 0,
+      "end": 30,
+      "focus": 0.5,
+      "subs": [
+        [
+          0.5,
+          5,
+          "Du kannst so fahren. Hey, alles gut.",
+          "singsing"
+        ],
+        [
+          9.9,
+          20,
+          "…nur kurz schauen… oh shit!",
+          "singsing"
+        ]
+      ]
+    }
+  ],
+  "style": "prompt",
+  "streamer": "singsing",
+  "credit": "Clip: singsing (Twitch)"
+}

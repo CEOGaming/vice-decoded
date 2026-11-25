@@ -1,0 +1,62 @@
+{
+  "id": "clip_zerkaa_film",
+  "source": "https://www.twitch.tv/zerkaa/clip/ShortApatheticTrianglePupper-rogCBJxtUNjmP5Pi",
+  "layout": "fill",
+  "hook": "ICH DACHTE ICH BIN IM FILM",
+  "hook_full": true,
+  "title": "Zerkaa will die coolste Filmszene – GTA 6 sagt nein #shorts",
+  "description": "Zerkaa verfolgt in GTA 6 auf dem Motorrad ein Ziel und will einen Stunt wie im Film. Es läuft anders. Original-Clip: Zerkaa – https://www.twitch.tv/zerkaa/clip/ShortApatheticTrianglePupper-rogCBJxtUNjmP5Pi\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #zerkaa #stunt #fail",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "zerkaa",
+    "stunt",
+    "fail"
+  ],
+  "tiktok": "Wäre eine coole Szene gewesen 🎬💀 #gta6 #gtavi #fyp",
+  "instagram": "Filmreif? Fast. 🎬\n\n#gta6 #gtavi #gaming #reels",
+  "beats": [
+    {
+      "original": true,
+      "start": 4,
+      "end": 50,
+      "focus": 0.5,
+      "subs": [
+        [
+          4,
+          14,
+          "Was für ein Glück, dass hier perfekt ein Motorrad steht.",
+          "Zerkaa"
+        ],
+        [
+          14,
+          28,
+          "Das hab ich für die Story gemacht.",
+          "Zerkaa"
+        ],
+        [
+          28,
+          33.8,
+          "Ich dachte, ich bin in einem Film.",
+          "Zerkaa"
+        ],
+        [
+          33.8,
+          43.8,
+          "Ich dachte, ich mach so eine richtig coole Szene. Ist nicht passiert.",
+          "Zerkaa"
+        ],
+        [
+          43.8,
+          50,
+          "Wär eine coole Szene gewesen.",
+          "Zerkaa"
+        ]
+      ]
+    }
+  ],
+  "style": "prompt",
+  "streamer": "Zerkaa",
+  "credit": "Clip: Zerkaa (Twitch)"
+}

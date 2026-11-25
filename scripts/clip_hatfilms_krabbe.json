@@ -1,0 +1,86 @@
+{
+  "id": "clip_hatfilms_krabbe",
+  "source": "https://www.twitch.tv/hatfilms/clip/VastCourteousOctopusMau5-aJar4BkZU64MSe_U",
+  "layout": "fill",
+  "hook": "WARUM EINE RIESENKRABBE?",
+  "hook_full": true,
+  "title": "Eine Riesenkrabbe jagt Ross den Schreck seines Lebens ein #shorts",
+  "description": "Ross von HatFilms betritt in GTA 6 ein Haus und steht plötzlich vor einer riesigen Krabbe. Original-Clip: HatFilms – https://www.twitch.tv/hatfilms/clip/VastCourteousOctopusMau5-aJar4BkZU64MSe_U\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #hatfilms #jumpscare #krabbe",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "hatfilms",
+    "jumpscare",
+    "krabbe"
+  ],
+  "tiktok": "Warum ist da eine Riesenkrabbe?! 🦀 #gta6 #gtavi #fyp",
+  "instagram": "Krabben-Horror 🦀\n\n#gta6 #gtavi #gaming #reels",
+  "beats": [
+    {
+      "original": true,
+      "start": 0,
+      "end": 30,
+      "focus": 0.5,
+      "subs": [
+        [
+          0.2,
+          2.2,
+          "Da ist eine riesige Krabbe!",
+          "Ross"
+        ],
+        [
+          2.2,
+          5.2,
+          "Oh mein Gott! Was zur Hölle?",
+          "Ross"
+        ],
+        [
+          5.2,
+          9.2,
+          "Warum gibt's hier Krabben-Horror?",
+          "Ross"
+        ],
+        [
+          9.2,
+          14.2,
+          "Was ist gerade passiert?",
+          "Ross"
+        ],
+        [
+          14.2,
+          17.2,
+          "Keine Ahnung. Oh mein Gott.",
+          "Ross"
+        ],
+        [
+          17.2,
+          21.2,
+          "Jetzt knack den Code. Das war verrückt.",
+          "Ross"
+        ],
+        [
+          23.2,
+          25.2,
+          "Ist es 0033?",
+          "Ross"
+        ],
+        [
+          25.2,
+          28.5,
+          "Hat's geklappt?",
+          "Ross"
+        ],
+        [
+          28.5,
+          30,
+          "Verdammte Krabben.",
+          "Ross"
+        ]
+      ]
+    }
+  ],
+  "style": "prompt",
+  "streamer": "Ross",
+  "credit": "Clip: HatFilms (Twitch)"
+}

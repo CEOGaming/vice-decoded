@@ -1,0 +1,68 @@
+{
+  "id": "clip_pat_besitzer",
+  "source": "https://www.twitch.tv/patstaresat/clip/VivaciousTriumphantCheetahTBTacoLeft-osslbJRdiUFXJ3SL",
+  "layout": "fill",
+  "hook": "SIE WILL IHR AUTO ZURÜCK",
+  "hook_full": true,
+  "title": "Die Besitzerin holt sich ihr Auto zurück #shorts",
+  "description": "PatStaresAt sitzt in GTA 6 in einem fremden Auto – die Besitzerin zerrt ihn einfach raus. Original-Clip: PatStaresAt – https://www.twitch.tv/patstaresat/clip/VivaciousTriumphantCheetahTBTacoLeft-osslbJRdiUFXJ3SL\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #auto #npc #lustig",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "auto",
+    "npc",
+    "lustig"
+  ],
+  "tiktok": "Sie will ihr Auto zurück 😂 #gta6 #gtavi #fyp",
+  "instagram": "Die Besitzerin ist zurück 🚗\n\n#gta6 #gtavi #gaming #reels",
+  "beats": [
+    {
+      "original": true,
+      "start": 0,
+      "end": 44,
+      "focus": 0.5,
+      "subs": [
+        [
+          0.7,
+          5,
+          "Hey, alles gut?",
+          "PatStaresAt"
+        ],
+        [
+          5,
+          9.2,
+          "Zieht sie mich echt raus, nur weil ich hier sitze?",
+          "PatStaresAt"
+        ],
+        [
+          9.7,
+          14,
+          "Ist das dein Ernst?",
+          "PatStaresAt"
+        ],
+        [
+          28.1,
+          34,
+          "Was war ihr Problem?",
+          "PatStaresAt"
+        ],
+        [
+          34,
+          40.4,
+          "Na ja, du hast ihr Auto geklaut. Keine Klasse.",
+          "PatStaresAt"
+        ],
+        [
+          41.8,
+          43.8,
+          "Das gehört mir!",
+          "PatStaresAt"
+        ]
+      ]
+    }
+  ],
+  "style": "prompt",
+  "streamer": "PatStaresAt",
+  "credit": "Clip: PatStaresAt (Twitch)"
+}

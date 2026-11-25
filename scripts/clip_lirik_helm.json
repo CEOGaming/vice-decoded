@@ -1,0 +1,44 @@
+{
+  "id": "clip_lirik_helm",
+  "source": "https://www.twitch.tv/lirik/clip/FaithfulCrispyNightingaleHeyGirl-kIB7haTImS50h1DO",
+  "layout": "fill",
+  "hook": "DAS WASSER WAR ZU FLACH",
+  "hook_full": true,
+  "title": "LIRIK springt vom Dach ins Wasser – Fehler #shorts",
+  "description": "LIRIK springt in GTA 6 vom Dach in den Pool. Das Wasser war nicht tief genug. Original-Clip: LIRIK – https://www.twitch.tv/lirik/clip/FaithfulCrispyNightingaleHeyGirl-kIB7haTImS50h1DO\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #lirik #fail #sprung",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "lirik",
+    "fail",
+    "sprung"
+  ],
+  "tiktok": "Das war nicht tief 💀 #gta6 #gtavi #fyp",
+  "instagram": "Zu flach 🏊\n\n#gta6 #gtavi #gaming #reels",
+  "beats": [
+    {
+      "original": true,
+      "start": 0,
+      "end": 15.6,
+      "focus": 0.5,
+      "subs": [
+        [
+          0.1,
+          4.5,
+          "Macht dich das… ach warte, man kann den Helm nicht aufsetzen. Oh…",
+          "LIRIK"
+        ],
+        [
+          8,
+          15.1,
+          "Mein Gott. Das war nicht tief. Au.",
+          "LIRIK"
+        ]
+      ]
+    }
+  ],
+  "style": "prompt",
+  "streamer": "LIRIK",
+  "credit": "Clip: LIRIK (Twitch)"
+}

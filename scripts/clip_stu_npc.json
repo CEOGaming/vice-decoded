@@ -1,0 +1,62 @@
+{
+  "id": "clip_stu_npc",
+  "source": "https://www.twitch.tv/stu_787/clip/PuzzledWonderfulChinchillaYouDontSay-QeDWP1Lo5HFEzG8J",
+  "layout": "fill",
+  "hook": "WARUM RAMMEN MICH ALLE?",
+  "hook_full": true,
+  "title": "Alle NPCs rammen sein Auto – bis es brennt #shorts",
+  "description": "stu_787 wird in GTA 6 von einem NPC nach dem anderen gerammt. Am Ende brennt das Auto. Original-Clip: stu_787 – https://www.twitch.tv/stu_787/clip/PuzzledWonderfulChinchillaYouDontSay-QeDWP1Lo5HFEzG8J\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #npc #auto #fail",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "npc",
+    "auto",
+    "fail"
+  ],
+  "tiktok": "Mein Auto brennt 🔥🚗 #gta6 #gtavi #fyp",
+  "instagram": "NPCs gegen mein Auto 🔥\n\n#gta6 #gtavi #gaming #reels",
+  "beats": [
+    {
+      "original": true,
+      "start": 0,
+      "end": 30,
+      "focus": 0.5,
+      "subs": [
+        [
+          1,
+          3,
+          "Ihr rammt mich!",
+          "stu_787"
+        ],
+        [
+          3,
+          5,
+          "Boah, nee!",
+          "stu_787"
+        ],
+        [
+          5,
+          11,
+          "Nee, nicht noch die!",
+          "stu_787"
+        ],
+        [
+          14.5,
+          17.9,
+          "Tschüss! Tschüss!",
+          "stu_787"
+        ],
+        [
+          17.9,
+          21.7,
+          "Mein Auto brennt!",
+          "stu_787"
+        ]
+      ]
+    }
+  ],
+  "style": "prompt",
+  "streamer": "stu_787",
+  "credit": "Clip: stu_787 (Twitch)"
+}
