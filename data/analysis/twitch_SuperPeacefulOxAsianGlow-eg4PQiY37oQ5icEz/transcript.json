@@ -1,0 +1,15 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 5.5,
+      "end": 8.9,
+      "text": "I'm getting it! I have to buy it too, girl!"
+    },
+    {
+      "start": 8.9,
+      "end": 27.0,
+      "text": "No, no, no, no, no, no, no, no, no!"
+    }
+  ]
+}

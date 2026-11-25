@@ -1,0 +1,40 @@
+{
+  "language": "fr",
+  "segments": [
+    {
+      "start": 1.5,
+      "end": 8.2,
+      "text": "ça j'adore ça je trouve ça trop bien"
+    },
+    {
+      "start": 8.2,
+      "end": 13.2,
+      "text": "c'est la meilleure idée qu'ils aient eu ça je pense"
+    },
+    {
+      "start": 13.2,
+      "end": 18.2,
+      "text": "oh là, oh là, oh là, oh là la dingue"
+    },
+    {
+      "start": 18.2,
+      "end": 22.2,
+      "text": "oh là, petit bug, petit bug, petit bug"
+    },
+    {
+      "start": 22.2,
+      "end": 25.2,
+      "text": "petit bug des familles"
+    },
+    {
+      "start": 25.2,
+      "end": 28.2,
+      "text": "première fois qu'on voit une dingue comme ça"
+    },
+    {
+      "start": 28.2,
+      "end": 30.2,
+      "text": "c'est pas le game on faisait hier"
+    }
+  ]
+}

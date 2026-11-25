@@ -1,0 +1,55 @@
+{
+  "language": "es",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.0,
+      "text": "Miren, y me cobra la renta."
+    },
+    {
+      "start": 9.8,
+      "end": 15.9,
+      "text": "Amigos. Amigos."
+    },
+    {
+      "start": 17.1,
+      "end": 21.3,
+      "text": "¡Qué carajo! ¡Ey! ¡Edmicio principal y se llama Llegó el plomero!"
+    },
+    {
+      "start": 25.4,
+      "end": 26.4,
+      "text": "¡Manos arriba!"
+    },
+    {
+      "start": 30.6,
+      "end": 33.2,
+      "text": "¡Qué carajo! ¿Qué le pasa?"
+    },
+    {
+      "start": 33.5,
+      "end": 35.5,
+      "text": "¡Qué pausas! ¡No, Juan!"
+    },
+    {
+      "start": 37.5,
+      "end": 40.6,
+      "text": "¡Increíble! Ya casi... ¡No, Chad! ¡Juan!"
+    },
+    {
+      "start": 40.8,
+      "end": 42.8,
+      "text": "Los espectadores... ¡Oh, no!"
+    },
+    {
+      "start": 43.1,
+      "end": 45.1,
+      "text": "¡No, no!"
+    },
+    {
+      "start": 46.5,
+      "end": 48.6,
+      "text": "Ok, eso es plica..."
+    }
+  ]
+}

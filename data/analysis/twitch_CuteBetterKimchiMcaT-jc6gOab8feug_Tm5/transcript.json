@@ -1,0 +1,15 @@
+{
+  "language": "de",
+  "segments": [
+    {
+      "start": 0.5,
+      "end": 4.7,
+      "text": "Oh, das ist guter."
+    },
+    {
+      "start": 4.7,
+      "end": 9.4,
+      "text": "Ich will auch E-Roller fahren."
+    }
+  ]
+}

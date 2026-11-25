@@ -1,0 +1,30 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.2,
+      "text": "Have I seen the new kid? No, I haven't. I've been meaning to though."
+    },
+    {
+      "start": 4.7,
+      "end": 8.0,
+      "text": "I loved the original Carrie when I was a kid."
+    },
+    {
+      "start": 8.0,
+      "end": 10.0,
+      "text": "It was one of my first horror movies"
+    },
+    {
+      "start": 11.0,
+      "end": 13.5,
+      "text": "that I properly watched and understood."
+    },
+    {
+      "start": 15.5,
+      "end": 17.0,
+      "text": "I say that because my mom..."
+    }
+  ]
+}

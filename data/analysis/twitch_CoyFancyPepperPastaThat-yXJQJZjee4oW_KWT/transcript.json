@@ -1,0 +1,70 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 3.5,
+      "end": 9.3,
+      "text": "I love you"
+    },
+    {
+      "start": 9.3,
+      "end": 10.3,
+      "text": "I love you too"
+    },
+    {
+      "start": 10.3,
+      "end": 12.3,
+      "text": "how much I enjoy it"
+    },
+    {
+      "start": 12.3,
+      "end": 14.3,
+      "text": "what are you waiting for?"
+    },
+    {
+      "start": 15.3,
+      "end": 17.3,
+      "text": "yeah yeah"
+    },
+    {
+      "start": 17.3,
+      "end": 19.3,
+      "text": "I'll wait for it"
+    },
+    {
+      "start": 19.3,
+      "end": 28.7,
+      "text": "why are you so new?"
+    },
+    {
+      "start": 28.7,
+      "end": 34.1,
+      "text": "come here"
+    },
+    {
+      "start": 34.1,
+      "end": 38.1,
+      "text": "why the fuck do you want me to loot man?"
+    },
+    {
+      "start": 38.1,
+      "end": 41.6,
+      "text": "why?"
+    },
+    {
+      "start": 41.6,
+      "end": 43.6,
+      "text": "you fucking security you motherfucker"
+    },
+    {
+      "start": 43.6,
+      "end": 45.6,
+      "text": "piece of shit"
+    },
+    {
+      "start": 45.6,
+      "end": 47.6,
+      "text": "you piece of shit"
+    }
+  ]
+}

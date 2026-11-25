@@ -1,0 +1,20 @@
+{
+  "language": "es",
+  "segments": [
+    {
+      "start": 5.2,
+      "end": 9.6,
+      "text": "No, no, no, no, no, no, no, no, no."
+    },
+    {
+      "start": 10.1,
+      "end": 12.1,
+      "text": "No, no, no, no, no, no, no."
+    },
+    {
+      "start": 12.1,
+      "end": 13.3,
+      "text": "Me pegó el terror."
+    }
+  ]
+}

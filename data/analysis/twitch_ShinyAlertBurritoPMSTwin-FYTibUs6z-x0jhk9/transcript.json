@@ -1,0 +1,30 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.2,
+      "text": "It's feminine!"
+    },
+    {
+      "start": 1.2,
+      "end": 2.7,
+      "text": "Ha ha!"
+    },
+    {
+      "start": 2.7,
+      "end": 6.7,
+      "text": "You ain't winning jack shit when you drive with that pussy-laps on the wheel!"
+    },
+    {
+      "start": 6.7,
+      "end": 7.4,
+      "text": "Ha ha ha!"
+    },
+    {
+      "start": 7.4,
+      "end": 10.6,
+      "text": "Fuck you too!"
+    }
+  ]
+}

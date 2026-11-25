@@ -1,0 +1,25 @@
+{
+  "language": "fr",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 10.0,
+      "text": "sol! sol! j'ai dit sol! tu m'y aises! tu m'y aises! oh! oh! oh! oh! oh!"
+    },
+    {
+      "start": 10.0,
+      "end": 19.0,
+      "text": "d'avai bled! d'avai oh! y'est où? y'est... c'est sur! c'est sur c'est un joke là!"
+    },
+    {
+      "start": 19.0,
+      "end": 24.0,
+      "text": "un NPC me fait ça! un NPC!"
+    },
+    {
+      "start": 24.0,
+      "end": 32.0,
+      "text": "tu l'estis d'à ma mère! non!"
+    }
+  ]
+}

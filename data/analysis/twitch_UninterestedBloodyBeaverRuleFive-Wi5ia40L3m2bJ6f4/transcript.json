@@ -1,0 +1,55 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.9,
+      "end": 2.3,
+      "text": "Who, who you work for?"
+    },
+    {
+      "start": 2.3,
+      "end": 3.5,
+      "text": "Back into drama, huh?"
+    },
+    {
+      "start": 3.5,
+      "end": 5.7,
+      "text": "Tell me, I want to speak to your boss."
+    },
+    {
+      "start": 5.7,
+      "end": 6.3,
+      "text": "Now I mean more."
+    },
+    {
+      "start": 6.3,
+      "end": 8.1,
+      "text": "She wants to speak to their boss."
+    },
+    {
+      "start": 8.1,
+      "end": 10.2,
+      "text": "Yeah, mother, that doesn't mean it."
+    },
+    {
+      "start": 10.2,
+      "end": 13.4,
+      "text": "I'm getting this guy the fuck out of here."
+    },
+    {
+      "start": 13.4,
+      "end": 14.2,
+      "text": "I can't shoot him."
+    },
+    {
+      "start": 14.2,
+      "end": 15.2,
+      "text": "Tia!"
+    },
+    {
+      "start": 15.2,
+      "end": 17.2,
+      "text": "Where are you going?"
+    }
+  ]
+}

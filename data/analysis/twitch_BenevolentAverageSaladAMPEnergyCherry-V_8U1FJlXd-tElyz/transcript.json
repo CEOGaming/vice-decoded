@@ -1,0 +1,35 @@
+{
+  "language": "fr",
+  "segments": [
+    {
+      "start": 1.6,
+      "end": 6.7,
+      "text": "Hey, chasse-moi pas, j'ai un rocket launcher d'eux-mêmes, et vous m'avez quitté?"
+    },
+    {
+      "start": 6.7,
+      "end": 11.2,
+      "text": "Hey, poussé! Poussé!"
+    },
+    {
+      "start": 18.3,
+      "end": 20.3,
+      "text": "Hey! Hey!"
+    },
+    {
+      "start": 20.3,
+      "end": 21.3,
+      "text": "Non!"
+    },
+    {
+      "start": 21.3,
+      "end": 44.3,
+      "text": "Oh, le non-faire!"
+    },
+    {
+      "start": 44.3,
+      "end": 46.3,
+      "text": "Voyons!"
+    }
+  ]
+}

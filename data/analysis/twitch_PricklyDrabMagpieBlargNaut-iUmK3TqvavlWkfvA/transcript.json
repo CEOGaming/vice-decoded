@@ -1,0 +1,25 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.5,
+      "text": "This is so tight, holy fuck."
+    },
+    {
+      "start": 2.5,
+      "end": 4.7,
+      "text": "Why did they make these streets so tight?"
+    },
+    {
+      "start": 4.7,
+      "end": 5.7,
+      "text": "Oh, that's tight."
+    },
+    {
+      "start": 5.7,
+      "end": 7.3,
+      "text": "Oh my god, that's so fucking tight."
+    }
+  ]
+}

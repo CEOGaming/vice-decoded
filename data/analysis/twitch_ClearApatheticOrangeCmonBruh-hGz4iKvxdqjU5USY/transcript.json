@@ -1,0 +1,40 @@
+{
+  "language": "es",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Hay que pena, a lo mejor."
+    },
+    {
+      "start": 13.4,
+      "end": 14.4,
+      "text": "¿Si?"
+    },
+    {
+      "start": 21.4,
+      "end": 23.4,
+      "text": "Esa camiseta que lleva Jason por Dios es cuíter."
+    },
+    {
+      "start": 23.4,
+      "end": 25.4,
+      "text": "¡Muchas gracias!"
+    },
+    {
+      "start": 25.4,
+      "end": 26.4,
+      "text": "¡Y corta!"
+    },
+    {
+      "start": 26.4,
+      "end": 29.4,
+      "text": "Ok, vamos directamente a la escena de locio."
+    },
+    {
+      "start": 29.4,
+      "end": 30.4,
+      "text": "¡Pu..."
+    }
+  ]
+}
