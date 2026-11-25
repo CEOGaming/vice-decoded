@@ -1,0 +1,20 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.6,
+      "text": "I'm gonna see ya."
+    },
+    {
+      "start": 3.6,
+      "end": 7.5,
+      "text": "Uh, won't."
+    },
+    {
+      "start": 7.5,
+      "end": 8.3,
+      "text": "Hello?"
+    }
+  ]
+}

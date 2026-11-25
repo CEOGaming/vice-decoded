@@ -1,0 +1,15 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 2.5,
+      "end": 3.5,
+      "text": "I'll be back soon."
+    },
+    {
+      "start": 4.5,
+      "end": 5.5,
+      "text": "You don't get away with it."
+    }
+  ]
+}

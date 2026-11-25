@@ -1,0 +1,60 @@
+{
+  "language": "fr",
+  "segments": [
+    {
+      "start": 0.1,
+      "end": 7.0,
+      "text": "Je mettrai le film demain."
+    },
+    {
+      "start": 7.0,
+      "end": 9.0,
+      "text": "Village Bigorno."
+    },
+    {
+      "start": 9.0,
+      "end": 18.9,
+      "text": "La mission, j'ai éteint."
+    },
+    {
+      "start": 18.9,
+      "end": 28.2,
+      "text": "J'ai tout éteint."
+    },
+    {
+      "start": 28.2,
+      "end": 30.2,
+      "text": "Le film de quoi ? Il est 4h du mat' ?"
+    },
+    {
+      "start": 30.2,
+      "end": 32.2,
+      "text": "Il est pas long ?"
+    },
+    {
+      "start": 32.2,
+      "end": 34.2,
+      "text": "1h40."
+    },
+    {
+      "start": 34.2,
+      "end": 36.2,
+      "text": "1h40, ça fait 5 heures."
+    },
+    {
+      "start": 36.2,
+      "end": 38.2,
+      "text": "5h20,"
+    },
+    {
+      "start": 38.2,
+      "end": 40.2,
+      "text": "repose-toi."
+    },
+    {
+      "start": 40.2,
+      "end": 42.2,
+      "text": "Ne me faites pas chier."
+    }
+  ]
+}

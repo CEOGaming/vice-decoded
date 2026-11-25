@@ -1,0 +1,30 @@
+{
+  "language": "es",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Barbaría"
+    },
+    {
+      "start": 6.0,
+      "end": 8.0,
+      "text": "Encima quiere que conduja este..."
+    },
+    {
+      "start": 8.0,
+      "end": 10.0,
+      "text": "Que huevazos tira peña"
+    },
+    {
+      "start": 10.0,
+      "end": 12.0,
+      "text": "Que huevazos tira peña"
+    },
+    {
+      "start": 18.0,
+      "end": 20.0,
+      "text": "¿Atraviés esto?"
+    }
+  ]
+}

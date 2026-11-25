@@ -1,0 +1,15 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 1.9,
+      "end": 3.9,
+      "text": "Can I have some chicken"
+    },
+    {
+      "start": 12.8,
+      "end": 14.8,
+      "text": "Can you feed it to me like a bird"
+    }
+  ]
+}

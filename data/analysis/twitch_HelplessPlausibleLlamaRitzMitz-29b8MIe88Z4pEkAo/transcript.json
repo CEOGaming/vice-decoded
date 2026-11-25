@@ -1,0 +1,35 @@
+{
+  "language": "es",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.7,
+      "text": "64 laps"
+    },
+    {
+      "start": 6.7,
+      "end": 8.7,
+      "text": "ay se bebe el calzón"
+    },
+    {
+      "start": 12.7,
+      "end": 14.7,
+      "text": "se bebe ya mi calzón chito"
+    },
+    {
+      "start": 16.7,
+      "end": 18.7,
+      "text": "es de encajito tampoco es de abuela eh vean"
+    },
+    {
+      "start": 20.7,
+      "end": 22.7,
+      "text": "cuerpo! cuerpo!"
+    },
+    {
+      "start": 24.7,
+      "end": 26.7,
+      "text": "es de encajito"
+    }
+  ]
+}

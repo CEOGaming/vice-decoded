@@ -1,0 +1,20 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.4,
+      "text": "ROCKIN' UP!"
+    },
+    {
+      "start": 4.4,
+      "end": 8.0,
+      "text": "I CAN'T NUMBER TWO!"
+    },
+    {
+      "start": 8.0,
+      "end": 15.4,
+      "text": "Holy shit!"
+    }
+  ]
+}

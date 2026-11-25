@@ -1,0 +1,60 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": "Wow, I'm Zaventura, are you okay?"
+    },
+    {
+      "start": 3.0,
+      "end": 5.0,
+      "text": "My bike, you shot my bike, no, okay."
+    },
+    {
+      "start": 6.0,
+      "end": 9.0,
+      "text": "Kitty, oh my gosh, little puddy cat."
+    },
+    {
+      "start": 9.0,
+      "end": 11.0,
+      "text": "Come here, oh my gosh, are you looking chubby?"
+    },
+    {
+      "start": 11.0,
+      "end": 14.0,
+      "text": "Get fed well around here, lots of trash."
+    },
+    {
+      "start": 14.0,
+      "end": 17.0,
+      "text": "Come here, come back home with me."
+    },
+    {
+      "start": 17.0,
+      "end": 28.4,
+      "text": "Oh my god."
+    },
+    {
+      "start": 28.4,
+      "end": 31.4,
+      "text": "They put me kitty and cat on the nose!"
+    },
+    {
+      "start": 31.4,
+      "end": 41.2,
+      "text": "How many of you says they have 43k?"
+    },
+    {
+      "start": 41.2,
+      "end": 54.0,
+      "text": "A lot of."
+    },
+    {
+      "start": 54.0,
+      "end": 55.0,
+      "text": "Cat kicker."
+    }
+  ]
+}

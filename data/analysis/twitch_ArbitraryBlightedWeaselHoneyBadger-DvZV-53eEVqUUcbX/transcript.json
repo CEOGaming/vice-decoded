@@ -1,0 +1,55 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.5,
+      "text": "Oh, yeah?"
+    },
+    {
+      "start": 0.5,
+      "end": 1.0,
+      "text": "Oh."
+    },
+    {
+      "start": 1.0,
+      "end": 2.5,
+      "text": "So, uh, what are we after?"
+    },
+    {
+      "start": 2.5,
+      "end": 6.5,
+      "text": "What the hell is that?"
+    },
+    {
+      "start": 6.5,
+      "end": 9.0,
+      "text": "What the fuck?"
+    },
+    {
+      "start": 9.0,
+      "end": 10.0,
+      "text": "What is it?"
+    },
+    {
+      "start": 10.0,
+      "end": 11.0,
+      "text": "What the fuck?"
+    },
+    {
+      "start": 11.0,
+      "end": 13.0,
+      "text": "Sex dolls, I think."
+    },
+    {
+      "start": 13.0,
+      "end": 14.5,
+      "text": "She looked at me."
+    },
+    {
+      "start": 14.5,
+      "end": 15.5,
+      "text": "Man."
+    }
+  ]
+}

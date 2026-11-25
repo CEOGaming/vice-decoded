@@ -1,0 +1,30 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Um, let's check."
+    },
+    {
+      "start": 2.0,
+      "end": 28.6,
+      "text": "Hi, though."
+    },
+    {
+      "start": 28.6,
+      "end": 36.7,
+      "text": "You just hear a pfft."
+    },
+    {
+      "start": 36.7,
+      "end": 41.4,
+      "text": "Hi, though."
+    },
+    {
+      "start": 41.4,
+      "end": 43.4,
+      "text": "He better come back."
+    }
+  ]
+}

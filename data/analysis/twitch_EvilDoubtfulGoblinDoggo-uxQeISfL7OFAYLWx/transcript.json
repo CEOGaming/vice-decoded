@@ -1,0 +1,40 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 3.5,
+      "end": 10.0,
+      "text": "I'll give you a burial."
+    },
+    {
+      "start": 10.0,
+      "end": 12.0,
+      "text": "Wait, just throw?"
+    },
+    {
+      "start": 12.0,
+      "end": 14.0,
+      "text": "Can I throw it into the water?"
+    },
+    {
+      "start": 14.0,
+      "end": 15.0,
+      "text": "Be free!"
+    },
+    {
+      "start": 15.0,
+      "end": 25.4,
+      "text": "I'm here though, so let me go park."
+    },
+    {
+      "start": 25.4,
+      "end": 27.4,
+      "text": "Can't leave my car in the middle of the road."
+    },
+    {
+      "start": 27.4,
+      "end": 29.4,
+      "text": "That's just not cool."
+    }
+  ]
+}

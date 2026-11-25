@@ -1,0 +1,40 @@
+{
+  "language": "pt",
+  "segments": [
+    {
+      "start": 1.2,
+      "end": 3.2,
+      "text": "Eu fui descargado"
+    },
+    {
+      "start": 3.2,
+      "end": 12.2,
+      "text": "Quem tá aí?"
+    },
+    {
+      "start": 12.2,
+      "end": 13.2,
+      "text": "Ai, Russia"
+    },
+    {
+      "start": 13.2,
+      "end": 15.2,
+      "text": "Ai, cara, que susto"
+    },
+    {
+      "start": 15.2,
+      "end": 16.2,
+      "text": "Ei, you"
+    },
+    {
+      "start": 16.2,
+      "end": 19.7,
+      "text": "So, what's up?"
+    },
+    {
+      "start": 19.7,
+      "end": 21.7,
+      "text": "Just living, babe"
+    }
+  ]
+}

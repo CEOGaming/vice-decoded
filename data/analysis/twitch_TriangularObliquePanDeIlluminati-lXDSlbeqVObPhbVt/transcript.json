@@ -1,0 +1,50 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 5.4,
+      "end": 7.4,
+      "text": "What do I do?"
+    },
+    {
+      "start": 8.4,
+      "end": 9.4,
+      "text": "Swim."
+    },
+    {
+      "start": 9.4,
+      "end": 10.4,
+      "text": "Okay."
+    },
+    {
+      "start": 11.4,
+      "end": 14.4,
+      "text": "If we get into the water, we swim for it."
+    },
+    {
+      "start": 14.4,
+      "end": 15.4,
+      "text": "Swim?"
+    },
+    {
+      "start": 15.4,
+      "end": 17.4,
+      "text": "Carl will take your cell."
+    },
+    {
+      "start": 17.4,
+      "end": 20.4,
+      "text": "Go to the sand bar, someone will have a boat."
+    },
+    {
+      "start": 20.4,
+      "end": 21.4,
+      "text": "We take it."
+    },
+    {
+      "start": 21.4,
+      "end": 23.4,
+      "text": "Don't stop to kill me."
+    }
+  ]
+}

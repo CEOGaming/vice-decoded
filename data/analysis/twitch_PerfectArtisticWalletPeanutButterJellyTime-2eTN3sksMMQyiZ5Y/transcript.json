@@ -1,0 +1,20 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 1.1,
+      "end": 3.1,
+      "text": "Oh"
+    },
+    {
+      "start": 16.1,
+      "end": 18.1,
+      "text": "We've got to get it out"
+    },
+    {
+      "start": 26.7,
+      "end": 28.7,
+      "text": "I said watch out"
+    }
+  ]
+}

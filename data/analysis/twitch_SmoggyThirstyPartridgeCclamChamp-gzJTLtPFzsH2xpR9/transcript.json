@@ -1,0 +1,40 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": "At least they went out high as balls."
+    },
+    {
+      "start": 3.0,
+      "end": 5.0,
+      "text": "There he goes."
+    },
+    {
+      "start": 5.0,
+      "end": 9.0,
+      "text": "Yo, we ride together, we die together."
+    },
+    {
+      "start": 9.0,
+      "end": 11.0,
+      "text": "We're good."
+    },
+    {
+      "start": 11.0,
+      "end": 13.0,
+      "text": "You good, girl?"
+    },
+    {
+      "start": 13.0,
+      "end": 16.0,
+      "text": "You're good. You're good. Come on."
+    },
+    {
+      "start": 16.0,
+      "end": 18.0,
+      "text": "Check it out."
+    }
+  ]
+}

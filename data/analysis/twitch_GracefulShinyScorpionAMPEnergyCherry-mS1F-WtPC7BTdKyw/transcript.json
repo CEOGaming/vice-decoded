@@ -1,0 +1,40 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 5.8,
+      "end": 7.8,
+      "text": "Don't throw against the wall like idiot."
+    },
+    {
+      "start": 11.2,
+      "end": 12.2,
+      "text": "Hey kunji!"
+    },
+    {
+      "start": 12.2,
+      "end": 13.2,
+      "text": "Harain!"
+    },
+    {
+      "start": 16.2,
+      "end": 17.2,
+      "text": "What?"
+    },
+    {
+      "start": 17.2,
+      "end": 18.2,
+      "text": "Really, this?"
+    },
+    {
+      "start": 18.2,
+      "end": 20.2,
+      "text": "You're fucking beyond help, correct?"
+    },
+    {
+      "start": 21.2,
+      "end": 22.2,
+      "text": "General is right."
+    }
+  ]
+}

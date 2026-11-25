@@ -1,0 +1,25 @@
+{
+  "language": "fr",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.5,
+      "text": "Grâce aux protéines, c'est genre..."
+    },
+    {
+      "start": 4.5,
+      "end": 11.7,
+      "text": "Oh non !"
+    },
+    {
+      "start": 11.7,
+      "end": 17.7,
+      "text": "Je voulais poser la vapoteuse, donc j'ai appuyé sur carré pour ranger, parce que c'était écrit carré, ranger !"
+    },
+    {
+      "start": 17.7,
+      "end": 21.7,
+      "text": "Elle a foutu un penalty dans le chat !"
+    }
+  ]
+}

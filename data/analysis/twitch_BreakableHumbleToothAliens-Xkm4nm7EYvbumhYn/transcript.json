@@ -1,0 +1,45 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.3,
+      "end": 6.6,
+      "text": "Whip, okay, all right, okay, what?"
+    },
+    {
+      "start": 8.1,
+      "end": 10.2,
+      "text": "Okay, what did we learn there?"
+    },
+    {
+      "start": 10.2,
+      "end": 12.6,
+      "text": "What did we learn there, guys?"
+    },
+    {
+      "start": 12.6,
+      "end": 17.3,
+      "text": "It's important, it's important to learn from your failures."
+    },
+    {
+      "start": 17.3,
+      "end": 20.9,
+      "text": "I think, hmm, let me, hold on,"
+    },
+    {
+      "start": 20.9,
+      "end": 22.6,
+      "text": "let me think about this for a second."
+    },
+    {
+      "start": 22.6,
+      "end": 26.7,
+      "text": "Let me think about this for a second."
+    },
+    {
+      "start": 26.7,
+      "end": 30.1,
+      "text": "Third time the charm, third time in the charm."
+    }
+  ]
+}

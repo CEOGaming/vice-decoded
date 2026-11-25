@@ -1,0 +1,45 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.5,
+      "end": 3.8,
+      "text": "A Digi-Man adventure. I know the name."
+    },
+    {
+      "start": 3.8,
+      "end": 6.4,
+      "text": "Hook'em on cards. Heh, was hooked."
+    },
+    {
+      "start": 7.7,
+      "end": 9.4,
+      "text": "Got it. You are..."
+    },
+    {
+      "start": 9.4,
+      "end": 10.8,
+      "text": "FUCK YOU!"
+    },
+    {
+      "start": 10.8,
+      "end": 19.5,
+      "text": "Wrong."
+    },
+    {
+      "start": 19.5,
+      "end": 24.8,
+      "text": "I'm 41."
+    },
+    {
+      "start": 24.8,
+      "end": 27.3,
+      "text": "It's still... I mean, it's still got it."
+    },
+    {
+      "start": 27.3,
+      "end": 29.6,
+      "text": "It's still got it really, really well."
+    }
+  ]
+}

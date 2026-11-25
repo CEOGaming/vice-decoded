@@ -1,0 +1,35 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.1,
+      "text": "I'm not taking any chances."
+    },
+    {
+      "start": 7.1,
+      "end": 14.0,
+      "text": "Oh, hell yeah, I can do scroll in the core."
+    },
+    {
+      "start": 14.0,
+      "end": 19.1,
+      "text": "Wah, art."
+    },
+    {
+      "start": 19.1,
+      "end": 20.4,
+      "text": "Holy shit."
+    },
+    {
+      "start": 20.4,
+      "end": 23.5,
+      "text": "Ah, I'm sorry for the wrong one."
+    },
+    {
+      "start": 23.5,
+      "end": 25.5,
+      "text": "I was trying to like, no, please."
+    }
+  ]
+}

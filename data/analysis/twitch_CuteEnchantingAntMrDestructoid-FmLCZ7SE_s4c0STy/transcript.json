@@ -1,0 +1,15 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 2.2,
+      "end": 4.6,
+      "text": "Well, looks like he's gonna have to fix the plane again"
+    },
+    {
+      "start": 17.6,
+      "end": 19.6,
+      "text": "No"
+    }
+  ]
+}

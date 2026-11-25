@@ -1,0 +1,20 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.4,
+      "text": "Oh, what is that?"
+    },
+    {
+      "start": 2.4,
+      "end": 3.8,
+      "text": "Yeah, I think we need some of the wind."
+    },
+    {
+      "start": 3.8,
+      "end": 4.8,
+      "text": "Shit."
+    }
+  ]
+}

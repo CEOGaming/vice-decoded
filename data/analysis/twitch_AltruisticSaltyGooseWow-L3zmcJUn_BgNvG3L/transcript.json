@@ -1,0 +1,20 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 1.1,
+      "end": 2.7,
+      "text": "Shit, I'm out! Reloading!"
+    },
+    {
+      "start": 2.7,
+      "end": 5.6,
+      "text": "Yeah, come here! We're close!"
+    },
+    {
+      "start": 5.6,
+      "end": 7.6,
+      "text": "Yeah! You keep saying that!"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 4.4,
+      "end": 6.4,
+      "text": "Oh shit!"
+    },
+    {
+      "start": 6.4,
+      "end": 8.4,
+      "text": "Crazy."
+    },
+    {
+      "start": 8.4,
+      "end": 12.2,
+      "text": "Yeah!"
+    },
+    {
+      "start": 12.2,
+      "end": 16.5,
+      "text": "Take this."
+    },
+    {
+      "start": 16.5,
+      "end": 18.5,
+      "text": "What am I doing?"
+    }
+  ]
+}

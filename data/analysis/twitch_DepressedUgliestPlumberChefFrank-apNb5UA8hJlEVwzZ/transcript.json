@@ -1,0 +1,50 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.1,
+      "end": 4.3,
+      "text": "I don't know if you can contain me"
+    },
+    {
+      "start": 4.3,
+      "end": 11.3,
+      "text": "What is this, Marisol?"
+    },
+    {
+      "start": 11.3,
+      "end": 14.1,
+      "text": "Your lips look like a jellyfish"
+    },
+    {
+      "start": 14.1,
+      "end": 16.1,
+      "text": "Are they siblings? Really?"
+    },
+    {
+      "start": 16.1,
+      "end": 17.1,
+      "text": "They don't even call me"
+    },
+    {
+      "start": 17.1,
+      "end": 18.1,
+      "text": "Like, actually?"
+    },
+    {
+      "start": 18.1,
+      "end": 26.3,
+      "text": "Oh, your evilness makes me"
+    },
+    {
+      "start": 26.3,
+      "end": 28.5,
+      "text": "contain another temptation"
+    },
+    {
+      "start": 28.5,
+      "end": 30.0,
+      "text": "so pure"
+    }
+  ]
+}

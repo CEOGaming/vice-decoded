@@ -1,0 +1,45 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "That's what it's all about."
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "That's what it's all about."
+    },
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "text": "They got apples in Stardew."
+    },
+    {
+      "start": 6.0,
+      "end": 8.0,
+      "text": "I bet you could have two apples there."
+    },
+    {
+      "start": 8.0,
+      "end": 10.0,
+      "text": "Look at this!"
+    },
+    {
+      "start": 10.0,
+      "end": 15.9,
+      "text": "Wait a minute!"
+    },
+    {
+      "start": 15.9,
+      "end": 21.1,
+      "text": "I'm kicking down that door!"
+    },
+    {
+      "start": 23.1,
+      "end": 25.1,
+      "text": "I'm so freaking stupid!"
+    }
+  ]
+}

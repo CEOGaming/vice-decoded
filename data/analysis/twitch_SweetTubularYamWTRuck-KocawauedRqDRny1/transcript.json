@@ -1,0 +1,45 @@
+{
+  "language": "fr",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.7,
+      "text": "J'ai eu! J'ai eu!"
+    },
+    {
+      "start": 1.7,
+      "end": 4.4,
+      "text": "Mais j'ai essayé de les... de les demandes fuir!"
+    },
+    {
+      "start": 4.4,
+      "end": 4.9,
+      "text": "Oh shit!"
+    },
+    {
+      "start": 4.9,
+      "end": 6.6,
+      "text": "Oh non. Oh non."
+    },
+    {
+      "start": 6.6,
+      "end": 8.6,
+      "text": "Ok, finis sans grêle, t'as pas choisi."
+    },
+    {
+      "start": 8.6,
+      "end": 13.3,
+      "text": "Oh non. Oh non."
+    },
+    {
+      "start": 15.1,
+      "end": 16.1,
+      "text": "Oh shit!"
+    },
+    {
+      "start": 17.1,
+      "end": 18.6,
+      "text": "La Trump Tower!"
+    }
+  ]
+}

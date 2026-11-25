@@ -1,0 +1,15 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "Hell yeah."
+    },
+    {
+      "start": 1.0,
+      "end": 6.9,
+      "text": "Wait, how do you, how do you do that?"
+    }
+  ]
+}
