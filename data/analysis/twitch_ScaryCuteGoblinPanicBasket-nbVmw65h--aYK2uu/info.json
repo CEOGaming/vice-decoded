@@ -1,0 +1,23 @@
+{
+  "id": "twitch_ScaryCuteGoblinPanicBasket-nbVmw65h--aYK2uu",
+  "source": "twitch",
+  "url": "https://www.twitch.tv/therealknossi/clip/ScaryCuteGoblinPanicBasket-nbVmw65h--aYK2uu",
+  "title": "ah ich falle",
+  "creator": "TheRealKnossi",
+  "creator_login": "therealknossi",
+  "creator_url": "https://twitch.tv/TheRealKnossi",
+  "views": 210,
+  "duration": 30,
+  "language": "de",
+  "created_at": "2026-11-24T23:36:33Z",
+  "thumbnail": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/a29fffa3-1cfd-4428-bfbb-f2db37895d6c/landscape/thumb/thumb-0000000000-480x272.jpg",
+  "german": true,
+  "kind": "clip",
+  "score": 18.4,
+  "facecam": [
+    0.6975,
+    0.5256,
+    0.3025,
+    0.4744
+  ]
+}

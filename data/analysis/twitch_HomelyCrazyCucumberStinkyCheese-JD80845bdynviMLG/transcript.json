@@ -1,0 +1,30 @@
+{
+  "language": "de",
+  "segments": [
+    {
+      "start": 0.8,
+      "end": 2.8,
+      "text": "Das ist geil. Oh nein, Scheiße!"
+    },
+    {
+      "start": 6.5,
+      "end": 8.5,
+      "text": "Der Klassiker."
+    },
+    {
+      "start": 9.5,
+      "end": 13.5,
+      "text": "Leute, da darfst du doch keiner erzählen. Die Karate hat nicht mal in eine Minute überlebt."
+    },
+    {
+      "start": 13.5,
+      "end": 16.5,
+      "text": "Ich hab die gerade geschenkt gekriegt, Alter. Und weg ist die Scheiße."
+    },
+    {
+      "start": 17.5,
+      "end": 19.5,
+      "text": "Meine Fresse."
+    }
+  ]
+}

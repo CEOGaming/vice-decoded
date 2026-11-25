@@ -1,0 +1,50 @@
+{
+  "language": "de",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Wann, wie viele Clips da entstehen da?"
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "Oh, auch Kackchopper!"
+    },
+    {
+      "start": 4.0,
+      "end": 5.0,
+      "text": "Oma!"
+    },
+    {
+      "start": 5.0,
+      "end": 7.0,
+      "text": "Oma, ist dir was passiert?"
+    },
+    {
+      "start": 8.0,
+      "end": 10.0,
+      "text": "Boah, oma!"
+    },
+    {
+      "start": 10.0,
+      "end": 11.0,
+      "text": "Boah, die hauft aber..."
+    },
+    {
+      "start": 11.0,
+      "end": 12.0,
+      "text": "Erst mal ab."
+    },
+    {
+      "start": 12.0,
+      "end": 13.0,
+      "text": "Sorry, Alter."
+    },
+    {
+      "start": 13.0,
+      "end": 15.0,
+      "text": "Fahr mit dem Ding, fahr mit dem Ding, fahr mit dem..."
+    }
+  ]
+}

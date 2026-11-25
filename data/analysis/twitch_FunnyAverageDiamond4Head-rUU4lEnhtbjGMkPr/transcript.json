@@ -1,0 +1,20 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Everybody's here for a beating!"
+    },
+    {
+      "start": 7.6,
+      "end": 9.6,
+      "text": "Oh shit! He's got a knife!"
+    },
+    {
+      "start": 27.7,
+      "end": 29.7,
+      "text": "Twitch clip that."
+    }
+  ]
+}

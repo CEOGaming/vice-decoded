@@ -1,0 +1,45 @@
+{
+  "language": "de",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.8,
+      "text": "Das ist doch noch ein Tanklaster, Alter."
+    },
+    {
+      "start": 1.8,
+      "end": 3.2,
+      "text": "Ich steh noch mitnehmen, das ist alles..."
+    },
+    {
+      "start": 3.2,
+      "end": 4.5,
+      "text": "EIN LENKER!"
+    },
+    {
+      "start": 5.4,
+      "end": 7.2,
+      "text": "Boah, du Penner, Alter!"
+    },
+    {
+      "start": 7.2,
+      "end": 8.3,
+      "text": "Wo leck..."
+    },
+    {
+      "start": 10.4,
+      "end": 12.4,
+      "text": "Warum legt der denn nicht, ey?"
+    },
+    {
+      "start": 13.0,
+      "end": 14.8,
+      "text": "Oh Gott, ey, das neue..."
+    },
+    {
+      "start": 15.3,
+      "end": 16.7,
+      "text": "Ich bin der neue Kettenpaar."
+    }
+  ]
+}

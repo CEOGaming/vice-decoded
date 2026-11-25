@@ -1,0 +1,65 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.2,
+      "text": "Yeah, trying to move a couch for yourself."
+    },
+    {
+      "start": 2.2,
+      "end": 3.9,
+      "text": "Yeah, good luck with that."
+    },
+    {
+      "start": 3.9,
+      "end": 10.9,
+      "text": "Careful! It's heavy!"
+    },
+    {
+      "start": 10.9,
+      "end": 11.5,
+      "text": "Where is she?"
+    },
+    {
+      "start": 13.3,
+      "end": 14.1,
+      "text": "Is she gonna help?"
+    },
+    {
+      "start": 27.7,
+      "end": 27.9,
+      "text": "No!"
+    },
+    {
+      "start": 29.8,
+      "end": 31.3,
+      "text": "Oh!"
+    },
+    {
+      "start": 31.3,
+      "end": 32.2,
+      "text": "Oh no!"
+    },
+    {
+      "start": 34.7,
+      "end": 36.8,
+      "text": "Oh my god!"
+    },
+    {
+      "start": 40.5,
+      "end": 42.9,
+      "text": "Oh my god!"
+    },
+    {
+      "start": 46.1,
+      "end": 47.7,
+      "text": "Oh my god!"
+    },
+    {
+      "start": 47.7,
+      "end": 52.5,
+      "text": "What the fuck?"
+    }
+  ]
+}
