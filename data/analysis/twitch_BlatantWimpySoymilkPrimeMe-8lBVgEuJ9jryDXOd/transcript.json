@@ -1,0 +1,20 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.1,
+      "end": 3.5,
+      "text": "They're gone"
+    },
+    {
+      "start": 6.5,
+      "end": 9.4,
+      "text": "Yep, you'll do nicely"
+    },
+    {
+      "start": 26.6,
+      "end": 32.9,
+      "text": "This is why my mom told me not to talk to strangers bro. Oh my god"
+    }
+  ]
+}

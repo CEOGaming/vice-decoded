@@ -1,0 +1,70 @@
+{
+  "language": "de",
+  "segments": [
+    {
+      "start": 1.2,
+      "end": 3.2,
+      "text": "Es sieht doch nicht so gut aus gerade."
+    },
+    {
+      "start": 4.4,
+      "end": 6.4,
+      "text": "Es sieht doch nicht so gut aus."
+    },
+    {
+      "start": 6.4,
+      "end": 8.4,
+      "text": "Die Kops sind schon Ultramad."
+    },
+    {
+      "start": 9.4,
+      "end": 11.4,
+      "text": "Die haben schon richtiges Zelt."
+    },
+    {
+      "start": 11.4,
+      "end": 16.3,
+      "text": "Die haben schon richtiges Zelt, sage ich euch ehrlich."
+    },
+    {
+      "start": 16.3,
+      "end": 29.9,
+      "text": "Gott, sind die auf dem Niesen, Bro."
+    },
+    {
+      "start": 31.6,
+      "end": 35.1,
+      "text": "Hey, das kann nicht sein! Ich bin in die Polizeistation reingefahren!"
+    },
+    {
+      "start": 35.1,
+      "end": 37.1,
+      "text": "Das kann nicht sein!"
+    },
+    {
+      "start": 38.1,
+      "end": 40.1,
+      "text": "Ich habe einen großen Fehler gemacht."
+    },
+    {
+      "start": 40.1,
+      "end": 45.1,
+      "text": "Okay."
+    },
+    {
+      "start": 45.1,
+      "end": 49.2,
+      "text": "Das war's."
+    },
+    {
+      "start": 49.2,
+      "end": 51.2,
+      "text": "Das war's."
+    },
+    {
+      "start": 51.2,
+      "end": 53.2,
+      "text": "07."
+    }
+  ]
+}

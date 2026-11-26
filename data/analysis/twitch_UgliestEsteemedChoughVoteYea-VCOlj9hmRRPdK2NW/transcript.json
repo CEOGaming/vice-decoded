@@ -1,0 +1,15 @@
+{
+  "language": "de",
+  "segments": [
+    {
+      "start": 13.5,
+      "end": 30.5,
+      "text": "Bro, warum fallen hier alle Autos um?"
+    },
+    {
+      "start": 30.5,
+      "end": 32.5,
+      "text": "Jedes Auto ist hier umgefallen."
+    }
+  ]
+}

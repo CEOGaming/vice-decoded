@@ -1,0 +1,30 @@
+{
+  "language": "de",
+  "segments": [
+    {
+      "start": 1.0,
+      "end": 3.0,
+      "text": "Ja, genau, ganz zufällig."
+    },
+    {
+      "start": 3.0,
+      "end": 13.1,
+      "text": "Ah ja, I believe I can fly."
+    },
+    {
+      "start": 13.1,
+      "end": 18.1,
+      "text": "I believe I can touch the sky."
+    },
+    {
+      "start": 18.1,
+      "end": 23.5,
+      "text": "Uh oh, alles geplant, es geht weiter, kein Problem."
+    },
+    {
+      "start": 23.5,
+      "end": 29.1,
+      "text": "Alles easy, gar keine Probleme hier."
+    }
+  ]
+}

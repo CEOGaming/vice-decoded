@@ -1,0 +1,35 @@
+{
+  "language": "de",
+  "segments": [
+    {
+      "start": 1.5,
+      "end": 7.5,
+      "text": "PENNA!"
+    },
+    {
+      "start": 7.5,
+      "end": 10.5,
+      "text": "PENNA! Boah, der hat direkt in die Presse gekriegt."
+    },
+    {
+      "start": 10.5,
+      "end": 12.5,
+      "text": "PENNA!"
+    },
+    {
+      "start": 13.5,
+      "end": 15.5,
+      "text": "PENNA!"
+    },
+    {
+      "start": 15.5,
+      "end": 20.1,
+      "text": "Boah! Boah!"
+    },
+    {
+      "start": 20.1,
+      "end": 22.1,
+      "text": "Paz hat halt nicht viel Hause."
+    }
+  ]
+}

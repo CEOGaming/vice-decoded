@@ -1,0 +1,35 @@
+{
+  "language": "de",
+  "segments": [
+    {
+      "start": 3.3,
+      "end": 9.1,
+      "text": "Oh, Jungs, ist nicht dein Ernst, oder was?"
+    },
+    {
+      "start": 9.1,
+      "end": 11.6,
+      "text": "Ist nicht dein Ernst!"
+    },
+    {
+      "start": 11.6,
+      "end": 16.4,
+      "text": "Der Wagen ist einfach umgefallen!"
+    },
+    {
+      "start": 16.4,
+      "end": 22.1,
+      "text": "Also, wir sind gefühlt."
+    },
+    {
+      "start": 22.1,
+      "end": 29.8,
+      "text": "Ja, wo ist er? Wo sind sie denn jetzt?"
+    },
+    {
+      "start": 29.8,
+      "end": 57.9,
+      "text": "Bro, warum fallen hier alle Autos um?"
+    }
+  ]
+}
