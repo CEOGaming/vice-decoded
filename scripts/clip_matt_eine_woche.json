@@ -1,0 +1,58 @@
+{
+  "id": "clip_matt_eine_woche",
+  "source": "https://www.twitch.tv/notsophatmatt/clip/CleverSmellyChoughSMOrc-lLlQtMDGFuEqXyRF",
+  "layout": "fill",
+  "hook": "BIST DU NEU HIER?",
+  "hook_full": true,
+  "title": "Matt springt mit dem Motorrad ins Wasser und spielt angeblich schon eine Woche #shorts",
+  "description": "notsophatmatt springt in GTA 6 mit dem Motorrad über die Rampe – direkt ins Hafenbecken. Profi-Move nach einer Woche Spielzeit. Original-Clip: notsophatmatt – https://www.twitch.tv/notsophatmatt/clip/CleverSmellyChoughSMOrc-lLlQtMDGFuEqXyRF\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #notsophatmatt #motorrad #stunt",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "notsophatmatt",
+    "motorrad",
+    "stunt"
+  ],
+  "tiktok": "Profi seit einer Woche 😂 #gta6 #gtavi #fyp",
+  "instagram": "Bist du neu hier? 🏍️🌊\n\n#gta6 #gtavi #gaming #reels",
+  "beats": [
+    {
+      "original": true,
+      "start": 0.0,
+      "end": 45.0,
+      "focus": 0.5,
+      "subs": [
+        [
+          34.5,
+          37,
+          "Tja, das ist unglücklich.",
+          "Matt"
+        ],
+        [
+          37,
+          40,
+          "Matt, bist du neu in dem Spiel?",
+          "Matt"
+        ],
+        [
+          40,
+          44.5,
+          "Nein! Ich spiele schon seit einer Woche!",
+          "Matt"
+        ]
+      ]
+    }
+  ],
+  "style": "prompt",
+  "streamer": "Matt",
+  "credit": "Clip: notsophatmatt (Twitch)",
+  "mask": [
+    [
+      0.3,
+      0.86,
+      0.4,
+      0.12
+    ]
+  ]
+}

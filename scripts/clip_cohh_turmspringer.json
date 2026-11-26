@@ -1,0 +1,52 @@
+{
+  "id": "clip_cohh_turmspringer",
+  "source": "https://www.twitch.tv/cohhcarnage/clip/AntsySuccessfulCookiePMSTwin-th4fTSfUmD9rspF2",
+  "layout": "fill",
+  "hook": "OLYMPIA-SPRUNG MIT MOTORRAD",
+  "hook_full": true,
+  "title": "CohhCarnage springt mit dem Motorrad von der Brücke ins Meer #shorts",
+  "description": "CohhCarnage rast in GTA 6 über den Highway, nimmt die Kurve nicht und springt mit dem Motorrad von der Brücke ins Wasser. Die Haltungsnote stimmt. Original-Clip: CohhCarnage – https://www.twitch.tv/cohhcarnage/clip/AntsySuccessfulCookiePMSTwin-th4fTSfUmD9rspF2\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #cohhcarnage #motorrad #stunt",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "cohhcarnage",
+    "motorrad",
+    "stunt"
+  ],
+  "tiktok": "Haltungsnote: 10 🏍️🌊 #gta6 #gtavi #cohhcarnage #fyp",
+  "instagram": "Olympischer Sprung 🏍️🌊\n\n#gta6 #gtavi #gaming #reels",
+  "beats": [
+    {
+      "original": true,
+      "start": 2.0,
+      "end": 30.0,
+      "focus": 0.5,
+      "subs": [
+        [
+          27.2,
+          28.7,
+          "Nicht schlecht, Mann, nicht schlecht.",
+          "Cohh"
+        ],
+        [
+          28.7,
+          30,
+          "Das war ziemlich gut.",
+          "Cohh"
+        ]
+      ]
+    }
+  ],
+  "style": "prompt",
+  "streamer": "Cohh",
+  "credit": "Clip: CohhCarnage (Twitch)",
+  "mask": [
+    [
+      0.3,
+      0.88,
+      0.4,
+      0.11
+    ]
+  ]
+}

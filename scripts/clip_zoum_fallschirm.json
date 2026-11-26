@@ -1,0 +1,76 @@
+{
+  "id": "clip_zoum_fallschirm",
+  "source": "https://www.twitch.tv/madamezoum/clip/IgnorantConsiderateApePJSugar-3sJhQVO8yXPD1DYZ",
+  "layout": "fill",
+  "hook": "WO IST MEIN FALLSCHIRM?",
+  "hook_full": true,
+  "title": "MadameZoum springt ab – aber der Fallschirm geht nicht auf #shorts",
+  "description": "MadameZoum springt in GTA 6 bei einem Fallschirm-Rennen ab. Es läuft gut. Bis der Schirm einfach weg ist. Original-Clip: MadameZoum – https://www.twitch.tv/madamezoum/clip/IgnorantConsiderateApePJSugar-3sJhQVO8yXPD1DYZ\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #madamezoum #fallschirm #fail",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "madamezoum",
+    "fallschirm",
+    "fail"
+  ],
+  "tiktok": "Der Fallschirm hatte andere Pläne 🪂💀 #gta6 #gtavi #fyp",
+  "instagram": "Wo ist der Schirm? 🪂\n\n#gta6 #gtavi #gaming #reels",
+  "beats": [
+    {
+      "original": true,
+      "start": 0.0,
+      "end": 17.0,
+      "focus": 0.5,
+      "subs": [
+        [
+          0.5,
+          4.5,
+          "Mir hat keiner gesagt, dass das ein Wettrennen ist … Oh, Chris!",
+          "MadameZoum"
+        ],
+        [
+          4.5,
+          6.5,
+          "Was ist mit dem Fallschirm passiert?",
+          "MadameZoum"
+        ],
+        [
+          6.5,
+          7.5,
+          "Oh!",
+          "MadameZoum"
+        ],
+        [
+          7.5,
+          12.2,
+          "Ich bin schon wieder tot! Was ist mit dem Fallschirm passiert?",
+          "MadameZoum"
+        ],
+        [
+          12.2,
+          16.5,
+          "Oh, Mist!",
+          "MadameZoum"
+        ]
+      ]
+    }
+  ],
+  "style": "prompt",
+  "streamer": "MadameZoum",
+  "credit": "Clip: MadameZoum (Twitch)",
+  "mask": [
+    [
+      0.74,
+      0.42,
+      0.26,
+      0.4
+    ],
+    [
+      0.25,
+      0.86,
+      0.5,
+      0.12
+    ]
+  ]
+}

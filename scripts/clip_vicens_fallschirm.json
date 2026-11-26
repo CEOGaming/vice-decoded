@@ -1,0 +1,94 @@
+{
+  "id": "clip_vicens_fallschirm",
+  "source": "https://www.twitch.tv/vicens/clip/BrightAntediluvianPangolinCoolStoryBro-BcIpQ327zALPxhef",
+  "layout": "fill",
+  "hook": "LANDUNG MIT ÜBERSCHALL",
+  "hook_full": true,
+  "title": "Vicens springt für den Überfall aus dem Flugzeug #shorts",
+  "description": "Vicens springt in GTA 6 mit Lucia aus dem Flugzeug, um zu einem Überfall zu kommen. Die Landung ist … etwas schneller als geplant. Original-Clip: Vicens – https://www.twitch.tv/vicens/clip/BrightAntediluvianPangolinCoolStoryBro-BcIpQ327zALPxhef\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #vicens #fallschirm #stunt",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "vicens",
+    "fallschirm",
+    "stunt"
+  ],
+  "tiktok": "Etwas zu schnell gelandet 🪂 #gta6 #gtavi #fyp",
+  "instagram": "Fallschirm-Landung 🪂\n\n#gta6 #gtavi #gaming #reels",
+  "beats": [
+    {
+      "original": true,
+      "start": 0.0,
+      "end": 46.0,
+      "focus": 0.5,
+      "subs": [
+        [
+          0.3,
+          2.3,
+          "Okay Leute, ich muss hier runterspringen.",
+          "Vicens"
+        ],
+        [
+          2.3,
+          6,
+          "Okay, vorsichtig.",
+          "Vicens"
+        ],
+        [
+          11,
+          15,
+          "Ich muss da rein.",
+          "Vicens"
+        ],
+        [
+          23.8,
+          25.8,
+          "Okay, vorsichtig.",
+          "Vicens"
+        ],
+        [
+          29.4,
+          31.4,
+          "Okay, nein, nein, nein, nein …",
+          "Vicens"
+        ],
+        [
+          31.4,
+          33.4,
+          "Okay, wir leben.",
+          "Vicens"
+        ],
+        [
+          33.4,
+          35.4,
+          "Alles in Ordnung, meine Herren.",
+          "Vicens"
+        ],
+        [
+          35.4,
+          39.4,
+          "Wir sind gelandet, vielleicht etwas schneller als normal.",
+          "Vicens"
+        ],
+        [
+          41.4,
+          45.4,
+          "Aber wir sind verrückt und machen mit dem Überfall weiter.",
+          "Vicens"
+        ]
+      ]
+    }
+  ],
+  "style": "prompt",
+  "streamer": "Vicens",
+  "credit": "Clip: Vicens (Twitch)",
+  "mask": [
+    [
+      0.3,
+      0.86,
+      0.4,
+      0.12
+    ]
+  ]
+}

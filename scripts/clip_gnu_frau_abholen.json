@@ -1,0 +1,77 @@
+{
+  "id": "clip_gnu_frau_abholen",
+  "source": "https://www.twitch.tv/gnu_live/clip/FaithfulTardyCatAsianGlow-g_DUDh208YpMWjx7",
+  "layout": "fill",
+  "hook": "ICH HABE EINE VISION",
+  "hook_full": true,
+  "title": "Gnu will nur seine Frau abholen – mit einem Pickup voller Boot #shorts",
+  "description": "Gnu hat in GTA 6 eine Vision: ein Pickup mit Anhänger und ein Boot quer auf der Ladefläche. Er will nur kurz seine Frau abholen. Es läuft … nicht gut. Original-Clip: Gnu_Live – https://www.twitch.tv/gnu_live/clip/FaithfulTardyCatAsianGlow-g_DUDh208YpMWjx7\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #gnu #pickup #fail #lustig",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "gnu",
+    "pickup",
+    "fail",
+    "lustig"
+  ],
+  "tiktok": "Er wollte nur seine Frau abholen 😭 #gta6 #gtavi #gnu #fyp",
+  "instagram": "Ich hab eine Vision 🚚\n\n#gta6 #gtavi #gaming #reels",
+  "beats": [
+    {
+      "original": true,
+      "start": 0.5,
+      "end": 45.2,
+      "focus": 0.5,
+      "subs": [
+        [
+          1.1,
+          4,
+          "Warte, ich habe etwas vor, Leute.",
+          "Gnu"
+        ],
+        [
+          4,
+          6.1,
+          "Ich habe eine Vision.",
+          "Gnu"
+        ],
+        [
+          20,
+          26.2,
+          "Wo ist denn mein Girl?",
+          "Gnu"
+        ],
+        [
+          30,
+          36.4,
+          "Oh shit. Oh shit. Oh shit.",
+          "Gnu"
+        ],
+        [
+          36.4,
+          39.4,
+          "Ich wollte nur meine Frau abholen.",
+          "Gnu"
+        ],
+        [
+          39.4,
+          44.6,
+          "Es läuft gar nicht gut, Leute. Absolut gar nicht gut.",
+          "Gnu"
+        ]
+      ]
+    }
+  ],
+  "style": "prompt",
+  "streamer": "Gnu",
+  "credit": "Clip: Gnu_Live (Twitch)",
+  "mask": [
+    [
+      0.33,
+      0.86,
+      0.34,
+      0.12
+    ]
+  ]
+}

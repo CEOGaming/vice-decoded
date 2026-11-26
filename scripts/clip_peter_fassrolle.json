@@ -1,0 +1,52 @@
+{
+  "id": "clip_peter_fassrolle",
+  "source": "https://www.twitch.tv/peter/clip/SillyIgnorantAyeayeAMPEnergy-zbOyDNFuWiC6JbOu",
+  "layout": "fill",
+  "hook": "MACH EINE FASSROLLE!",
+  "hook_full": true,
+  "title": "Peter macht mit dem Pickup eine Fassrolle und läuft einfach weiter #shorts",
+  "description": "Peter fährt in GTA 6 über eine Baustelle, der Pickup macht eine perfekte Fassrolle. Peter steigt aus und geht, als wäre nichts gewesen. Original-Clip: Peter – https://www.twitch.tv/peter/clip/SillyIgnorantAyeayeAMPEnergy-zbOyDNFuWiC6JbOu\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #peter #pickup #stunt",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "peter",
+    "pickup",
+    "stunt"
+  ],
+  "tiktok": "Fassrolle und weiter geht's 🔄 #gta6 #gtavi #fyp",
+  "instagram": "Do a barrel roll 🔄\n\n#gta6 #gtavi #gaming #reels",
+  "beats": [
+    {
+      "original": true,
+      "start": 0.0,
+      "end": 21.9,
+      "focus": 0.5,
+      "subs": [
+        [
+          2,
+          8,
+          "„Jahrelang war ich im Stadtleben gefangen …“",
+          "RADIO"
+        ],
+        [
+          8,
+          14,
+          "„… wie eine Ente im Gehege.“",
+          "RADIO"
+        ]
+      ]
+    }
+  ],
+  "style": "prompt",
+  "streamer": "Peter",
+  "credit": "Clip: Peter (Twitch)",
+  "mask": [
+    [
+      0.78,
+      0.0,
+      0.22,
+      0.5
+    ]
+  ]
+}

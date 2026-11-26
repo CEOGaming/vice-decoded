@@ -1,0 +1,76 @@
+{
+  "id": "clip_wankil_wand",
+  "source": "https://www.twitch.tv/wankilstudio/clip/TenuousAdorableLeopardChefFrank-9PTVNgmkTQ4i5KLL",
+  "layout": "fill",
+  "hook": "PARKEN AUF FRANZÖSISCH",
+  "hook_full": true,
+  "title": "WankilStudio parkt nach einem Stunt-Sprung in der Hauswand #shorts",
+  "description": "WankilStudio will in GTA 6 einen Stunt-Sprung über den Fluss schaffen. Der Sprung klappt. Die Landung … steckt jetzt in der Wand. Original-Clip: WankilStudio – https://www.twitch.tv/wankilstudio/clip/TenuousAdorableLeopardChefFrank-9PTVNgmkTQ4i5KLL\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #wankil #stunt #fail",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "wankil",
+    "stunt",
+    "fail"
+  ],
+  "tiktok": "Die Landung war… kreativ 🚗🧱 #gta6 #gtavi #fyp",
+  "instagram": "Stunt fast geschafft 🚗🧱\n\n#gta6 #gtavi #gaming #reels",
+  "beats": [
+    {
+      "original": true,
+      "start": 0.0,
+      "end": 19.7,
+      "focus": 0.5,
+      "subs": [
+        [
+          3.2,
+          5.2,
+          "Okay, das hat geklappt!",
+          "Wankil"
+        ],
+        [
+          5.2,
+          7.2,
+          "Nur fahre ich jetzt gegen eine Wand.",
+          "Wankil"
+        ],
+        [
+          7.2,
+          9.2,
+          "Oh, verdammt.",
+          "Wankil"
+        ],
+        [
+          9.2,
+          12,
+          "Wie kann man das so verkacken?",
+          "Wankil"
+        ],
+        [
+          12.2,
+          15.9,
+          "Das ist mehr als nur verkackt.",
+          "Wankil"
+        ],
+        [
+          16.9,
+          18.9,
+          "So ein Mist.",
+          "Wankil"
+        ]
+      ]
+    }
+  ],
+  "style": "prompt",
+  "streamer": "Wankil",
+  "credit": "Clip: WankilStudio (Twitch)",
+  "mask": [
+    [
+      0.3,
+      0.86,
+      0.4,
+      0.12
+    ]
+  ]
+}

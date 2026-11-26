@@ -1,0 +1,65 @@
+{
+  "id": "clip_appelkaas_krokodil",
+  "source": "https://www.twitch.tv/appelkaas/clip/RenownedRoughCougarDatSheffy-dg07DCepjHS7BxAi",
+  "layout": "fill",
+  "hook": "EIN KLICK ZU VIEL",
+  "hook_full": true,
+  "title": "Appelkaas wird im Sumpf von einem Krokodil geschnappt #shorts",
+  "description": "Appelkaas trägt in GTA 6 jemanden durch den Sumpf, drückt die falsche Taste – und ein Krokodil schnappt zu. Ihre Reaktion sagt alles. Original-Clip: APPELKAAS – https://www.twitch.tv/appelkaas/clip/RenownedRoughCougarDatSheffy-dg07DCepjHS7BxAi\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #appelkaas #krokodil #tiere #sumpf",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "appelkaas",
+    "krokodil",
+    "tiere",
+    "sumpf"
+  ],
+  "tiktok": "Falsche Taste gedrückt 🐊😱 #gta6 #gtavi #fyp",
+  "instagram": "Vom Krokodil erwischt 🐊\n\n#gta6 #gtavi #gaming #reels",
+  "beats": [
+    {
+      "original": true,
+      "start": 0.0,
+      "end": 20.1,
+      "focus": 0.5,
+      "subs": [
+        [
+          1.7,
+          3.0,
+          "Nein, nein, nein, Mist!",
+          "Appelkaas"
+        ],
+        [
+          3.5,
+          5.0,
+          "Verdammt, falsche Taste gedrückt!",
+          "Appelkaas"
+        ],
+        [
+          5.0,
+          9.1,
+          "Oh, was passiert mit mir?",
+          "Appelkaas"
+        ],
+        [
+          16.8,
+          18.8,
+          "Ich wurde von einem Krokodil erledigt.",
+          "Appelkaas"
+        ]
+      ]
+    }
+  ],
+  "style": "prompt",
+  "streamer": "Appelkaas",
+  "credit": "Clip: APPELKAAS (Twitch)",
+  "mask": [
+    [
+      0,
+      0.08,
+      0.2,
+      0.8
+    ]
+  ]
+}

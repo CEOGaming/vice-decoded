@@ -1,0 +1,83 @@
+{
+  "id": "clip_cohh_eigenes_motorrad",
+  "source": "https://www.twitch.tv/cohhcarnage/clip/AbrasiveTangiblePastaOMGScoots-F6zozddMhKwUFfGP",
+  "layout": "fill",
+  "hook": "VOM EIGENEN MOTORRAD ÜBERFAHREN",
+  "hook_full": true,
+  "title": "CohhCarnage wird vom eigenen Motorrad überfahren #shorts",
+  "description": "CohhCarnage baut in GTA 6 einen Unfall – und wird danach von seinem eigenen Motorrad überfahren. Das verdient einen Erfolg. Original-Clip: CohhCarnage – https://www.twitch.tv/cohhcarnage/clip/AbrasiveTangiblePastaOMGScoots-F6zozddMhKwUFfGP\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #cohhcarnage #motorrad #fail #physik",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "cohhcarnage",
+    "motorrad",
+    "fail",
+    "physik"
+  ],
+  "tiktok": "Er hat sich selbst überfahren 💀 #gta6 #gtavi #cohhcarnage #fyp",
+  "instagram": "Physik in GTA 6 💀\n\n#gta6 #gtavi #gaming #reels",
+  "beats": [
+    {
+      "original": true,
+      "start": 0.0,
+      "end": 17.8,
+      "focus": 0.5,
+      "subs": [
+        [
+          0.5,
+          1.5,
+          "Gefällt mir.",
+          "Cohh"
+        ],
+        [
+          1.5,
+          3.5,
+          "Ich bleib hängen!",
+          "Cohh"
+        ],
+        [
+          3.5,
+          8.2,
+          "Hahahaha!",
+          "Cohh"
+        ],
+        [
+          8.2,
+          10.2,
+          "Bleib da stehen.",
+          "Cohh"
+        ],
+        [
+          10.2,
+          12.2,
+          "Was?! Ich wurde von meinem eigenen Motorrad getroffen!",
+          "Cohh"
+        ],
+        [
+          12.2,
+          13.2,
+          "Ich hab mich selbst überfahren.",
+          "Cohh"
+        ],
+        [
+          13.2,
+          15.5,
+          "Sorry, Casey.",
+          "Cohh"
+        ]
+      ]
+    }
+  ],
+  "style": "prompt",
+  "streamer": "Cohh",
+  "credit": "Clip: CohhCarnage (Twitch)",
+  "mask": [
+    [
+      0.3,
+      0.88,
+      0.4,
+      0.11
+    ]
+  ]
+}

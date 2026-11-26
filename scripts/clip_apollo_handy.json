@@ -1,0 +1,77 @@
+{
+  "id": "clip_apollo_handy",
+  "source": "https://www.twitch.tv/apollolol/clip/MotionlessShortCoffeeANELE-7wg2Jm0l7B8ITSxh",
+  "layout": "fill",
+  "hook": "SCHREIB NIE BEIM FAHREN",
+  "hook_full": true,
+  "title": "Apollo schreibt SMS beim Motorradfahren – das Ergebnis #shorts",
+  "description": "Apollolol tippt in GTA 6 auf dem Motorrad Nachrichten an Jason und Lucia. Was soll schon passieren? Original-Clip: Apollolol – https://www.twitch.tv/apollolol/clip/MotionlessShortCoffeeANELE-7wg2Jm0l7B8ITSxh\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #apollolol #handy #motorrad #fail",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "apollolol",
+    "handy",
+    "motorrad",
+    "fail"
+  ],
+  "tiktok": "Darum: nicht beim Fahren schreiben 📱💥 #gta6 #gtavi #fyp",
+  "instagram": "Texting and driving 📱💥\n\n#gta6 #gtavi #gaming #reels",
+  "beats": [
+    {
+      "original": true,
+      "start": 0.0,
+      "end": 39.3,
+      "focus": 0.5,
+      "subs": [
+        [
+          0,
+          3.6,
+          "Kelly hat dich angerufen! Du hast nur nicht geantwortet!",
+          "Apollo"
+        ],
+        [
+          3.6,
+          7.5,
+          "Super! Ich hätte auf die andere antworten sollen.",
+          "Apollo"
+        ],
+        [
+          7.5,
+          12.4,
+          "Ich hab beim Fahren geschrieben, deshalb hab ich nicht aufgepasst.",
+          "Apollo"
+        ],
+        [
+          12.4,
+          18,
+          "Die andere war lustiger.",
+          "Apollo"
+        ],
+        [
+          22,
+          27,
+          "Hierauf kann ich nicht mal antworten.",
+          "Apollo"
+        ],
+        [
+          32.1,
+          34.1,
+          "Das ist echt schwer.",
+          "Apollo"
+        ]
+      ]
+    }
+  ],
+  "style": "prompt",
+  "streamer": "Apollo",
+  "credit": "Clip: Apollolol (Twitch)",
+  "mask": [
+    [
+      0.3,
+      0.86,
+      0.4,
+      0.12
+    ]
+  ]
+}

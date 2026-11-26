@@ -1,0 +1,74 @@
+{
+  "id": "clip_sing_vollgas",
+  "source": "https://www.twitch.tv/singsing/clip/GoodCaringManateeMikeHogu-KuJnzxkJtg39y3FE",
+  "layout": "fill",
+  "hook": "VOLLGAS … ODER NICHT",
+  "hook_full": true,
+  "title": "singsing gibt auf dem Motorrad Vollgas – bis zur Leitplanke #shorts",
+  "description": "singsing rast in GTA 6 mit Höchstgeschwindigkeit über den Highway. Kurven sind überbewertet. Bis die Leitplanke kommt. Original-Clip: singsing – https://www.twitch.tv/singsing/clip/GoodCaringManateeMikeHogu-KuJnzxkJtg39y3FE\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #singsing #motorrad #fail",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "singsing",
+    "motorrad",
+    "fail"
+  ],
+  "tiktok": "Maximale Geschwindigkeit… oder nicht 🏍️💀 #gta6 #gtavi #fyp",
+  "instagram": "Vollgas bis zur Leitplanke 🏍️\n\n#gta6 #gtavi #gaming #reels",
+  "beats": [
+    {
+      "original": true,
+      "start": 0.0,
+      "end": 30.0,
+      "focus": 0.5,
+      "subs": [
+        [
+          1.1,
+          3.1,
+          "Höchstgeschwindigkeit!",
+          "Sing"
+        ],
+        [
+          3.1,
+          6.4,
+          "Mist, egal.",
+          "Sing"
+        ],
+        [
+          6.4,
+          7.4,
+          "Ich fass es nicht.",
+          "Sing"
+        ],
+        [
+          10.3,
+          11.3,
+          "Kurven mit Vollgas!",
+          "Sing"
+        ],
+        [
+          11.3,
+          14.3,
+          "Mist, egal.",
+          "Sing"
+        ],
+        [
+          15.3,
+          16.3,
+          "Niemals loslassen!",
+          "Sing"
+        ],
+        [
+          28.4,
+          29.6,
+          "Mist!",
+          "Sing"
+        ]
+      ]
+    }
+  ],
+  "style": "prompt",
+  "streamer": "Sing",
+  "credit": "Clip: singsing (Twitch)"
+}

@@ -1,0 +1,77 @@
+{
+  "id": "clip_repaz_alligator",
+  "source": "https://www.twitch.tv/repaz/clip/DependableFunButterflyDoubleRainbow-yS8tYL9Bu3VPDmty",
+  "layout": "fill",
+  "hook": "LUCIA GEGEN DEN ALLIGATOR",
+  "hook_full": true,
+  "title": "Repaz will Lucia vor einem Alligator retten – mit einer Granate #shorts",
+  "description": "Repaz steht mit Lucia im Sumpf, ein Alligator taucht auf. Sein Plan: eine Granate. Der Alligator hat einen anderen Plan. Original-Clip: Repaz – https://www.twitch.tv/repaz/clip/DependableFunButterflyDoubleRainbow-yS8tYL9Bu3VPDmty\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #repaz #alligator #tiere #sumpf",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "repaz",
+    "alligator",
+    "tiere",
+    "sumpf"
+  ],
+  "tiktok": "Granate vs. Alligator 🐊💣 #gta6 #gtavi #repaz #fyp",
+  "instagram": "Wer gewinnt? 🐊\n\n#gta6 #gtavi #gaming #reels",
+  "beats": [
+    {
+      "original": true,
+      "start": 0.0,
+      "end": 34.8,
+      "focus": 0.5,
+      "subs": [
+        [
+          0.1,
+          4.3,
+          "Erlösen wir ihn von seinem Leid oder Lucia von ihrem?",
+          "Repaz"
+        ],
+        [
+          6.6,
+          8.6,
+          "Mit einer Granate!",
+          "Repaz"
+        ],
+        [
+          14.4,
+          20,
+          "Was jetzt? Bist du stark?",
+          "Repaz"
+        ],
+        [
+          20,
+          26.1,
+          "Bist du stark?!",
+          "Repaz"
+        ],
+        [
+          29.6,
+          33.3,
+          "Nein!",
+          "Repaz"
+        ]
+      ]
+    }
+  ],
+  "style": "prompt",
+  "streamer": "Repaz",
+  "credit": "Clip: Repaz (Twitch)",
+  "mask": [
+    [
+      0.88,
+      0.12,
+      0.12,
+      0.2
+    ],
+    [
+      0.3,
+      0.86,
+      0.4,
+      0.12
+    ]
+  ]
+}
