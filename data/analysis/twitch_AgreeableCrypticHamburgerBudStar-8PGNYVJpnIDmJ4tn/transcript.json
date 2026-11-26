@@ -1,0 +1,15 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 1.4,
+      "end": 5.4,
+      "text": "Darko, I'm a law-abiding criminal here."
+    },
+    {
+      "start": 8.5,
+      "end": 12.5,
+      "text": "I abide by the law while I do criminal activity."
+    }
+  ]
+}

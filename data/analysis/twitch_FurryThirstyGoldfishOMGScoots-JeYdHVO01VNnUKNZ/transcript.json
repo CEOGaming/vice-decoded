@@ -1,0 +1,20 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 24.4,
+      "end": 26.1,
+      "text": "Is he coming to kill me?"
+    },
+    {
+      "start": 26.1,
+      "end": 27.1,
+      "text": "Where is he?"
+    },
+    {
+      "start": 27.1,
+      "end": 28.5,
+      "text": "It's the fastest way up here."
+    }
+  ]
+}

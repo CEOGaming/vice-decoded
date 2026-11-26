@@ -1,0 +1,30 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 10.0,
+      "text": "This is what I'm talking about, we don't have fun, you don't see."
+    },
+    {
+      "start": 10.0,
+      "end": 14.0,
+      "text": "Geez, this should get the lump hard up just listening to this."
+    },
+    {
+      "start": 14.0,
+      "end": 21.0,
+      "text": "GTA 6, please integrate your voice calls so I can sing to Lucy and get the relationship up myself."
+    },
+    {
+      "start": 21.0,
+      "end": 24.0,
+      "text": "It would be pretty cool."
+    },
+    {
+      "start": 24.0,
+      "end": 29.0,
+      "text": "We in the band now."
+    }
+  ]
+}

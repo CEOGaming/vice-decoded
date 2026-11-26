@@ -1,0 +1,30 @@
+{
+  "language": "it",
+  "segments": [
+    {
+      "start": 1.0,
+      "end": 4.4,
+      "text": "Quasi stanno a cappottando tutti cosa succede in sta città"
+    },
+    {
+      "start": 5.2,
+      "end": 11.7,
+      "text": "cosa succede?"
+    },
+    {
+      "start": 12.0,
+      "end": 13.5,
+      "text": "Nooo"
+    },
+    {
+      "start": 13.5,
+      "end": 19.3,
+      "text": "Ma che cazzo sto vivendo?"
+    },
+    {
+      "start": 30.2,
+      "end": 44.2,
+      "text": "Città folle, eh, sono in tutti i sensi bro, cazzo fa!"
+    }
+  ]
+}

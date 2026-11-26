@@ -1,0 +1,30 @@
+{
+  "language": "fr",
+  "segments": [
+    {
+      "start": 1.0,
+      "end": 7.0,
+      "text": "J'ai raison qui est le soutien émotionnel. Je suis là avec mes deux sacs."
+    },
+    {
+      "start": 7.0,
+      "end": 11.0,
+      "text": "Connard. Ok, toi bien. Ok, non."
+    },
+    {
+      "start": 11.0,
+      "end": 22.9,
+      "text": "Allez vas-y. C'est vraiment Lucia qui fait toi."
+    },
+    {
+      "start": 22.9,
+      "end": 29.2,
+      "text": "Putain."
+    },
+    {
+      "start": 29.2,
+      "end": 30.2,
+      "text": "Putain."
+    }
+  ]
+}

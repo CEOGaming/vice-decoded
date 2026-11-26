@@ -1,0 +1,20 @@
+{
+  "language": "fr",
+  "segments": [
+    {
+      "start": 0.4,
+      "end": 14.4,
+      "text": "c'est beau"
+    },
+    {
+      "start": 14.4,
+      "end": 16.4,
+      "text": "ah non mais c'est vrai les gars c'est chil les arcs"
+    },
+    {
+      "start": 16.4,
+      "end": 20.7,
+      "text": "lui fait que ça la gueule a fait les trois six avec"
+    }
+  ]
+}
