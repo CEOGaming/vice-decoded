@@ -1,0 +1,45 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.2,
+      "end": 2.2,
+      "text": "Oh, it's so cold here."
+    },
+    {
+      "start": 2.2,
+      "end": 4.2,
+      "text": "Good thing we're going to..."
+    },
+    {
+      "start": 4.2,
+      "end": 7.5,
+      "text": "...Kateina."
+    },
+    {
+      "start": 7.5,
+      "end": 8.5,
+      "text": "Oh, fuck."
+    },
+    {
+      "start": 8.5,
+      "end": 9.5,
+      "text": "Yeah."
+    },
+    {
+      "start": 9.5,
+      "end": 11.5,
+      "text": "It's gonna be beautiful, man."
+    },
+    {
+      "start": 12.5,
+      "end": 14.5,
+      "text": "Hang in there, Bozo."
+    },
+    {
+      "start": 15.5,
+      "end": 16.5,
+      "text": "Hang in there."
+    }
+  ]
+}

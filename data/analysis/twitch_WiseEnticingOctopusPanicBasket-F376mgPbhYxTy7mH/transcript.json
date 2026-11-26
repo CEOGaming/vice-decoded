@@ -1,0 +1,40 @@
+{
+  "language": "de",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.3,
+      "text": "wenn wir durch diese Tür missen."
+    },
+    {
+      "start": 3.3,
+      "end": 5.3,
+      "text": "Hey, oh, gut, sind du der Poolboy?"
+    },
+    {
+      "start": 5.3,
+      "end": 6.3,
+      "text": "Ja."
+    },
+    {
+      "start": 6.3,
+      "end": 9.3,
+      "text": "Äh, ja, ich bin hier für den Pool, sicher."
+    },
+    {
+      "start": 9.3,
+      "end": 11.3,
+      "text": "Great, ich bin Liza, follow me."
+    },
+    {
+      "start": 11.3,
+      "end": 13.3,
+      "text": "Poolboy ist hier."
+    },
+    {
+      "start": 13.3,
+      "end": 15.3,
+      "text": "Oh nein."
+    }
+  ]
+}
