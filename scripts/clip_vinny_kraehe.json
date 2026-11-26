@@ -1,0 +1,44 @@
+{
+  "id": "clip_vinny_kraehe",
+  "source": "https://www.twitch.tv/vinesauce/clip/StrangeArtisticRaisinFunRun-89Y1nn2dQuf8TmcD",
+  "layout": "fill",
+  "hook": "HAT DIE KRÄHE EINEN SALTO GEMACHT?",
+  "hook_full": true,
+  "title": "Eine Krähe macht einen Rückwärtssalto – und stirbt #shorts",
+  "description": "Vinesauce sieht in GTA 6, wie eine Krähe einen Rückwärtssalto macht und tot umfällt. Physik in GTA 6 ist wild. Original-Clip: Vinesauce – https://www.twitch.tv/vinesauce/clip/StrangeArtisticRaisinFunRun-89Y1nn2dQuf8TmcD\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #vinesauce #tiere #physik",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "vinesauce",
+    "tiere",
+    "physik"
+  ],
+  "tiktok": "Die Krähe hat einen Salto gemacht 🐦💀 #gta6 #gtavi #fyp",
+  "instagram": "Was war DAS? 🐦\n\n#gta6 #gtavi #gaming #reels",
+  "beats": [
+    {
+      "original": true,
+      "start": 0,
+      "end": 19.6,
+      "focus": 0.5,
+      "subs": [
+        [
+          8.8,
+          13,
+          "Was ist da gerade passiert?",
+          "Vinny"
+        ],
+        [
+          13,
+          19.6,
+          "Hat die Krähe gerade einen Rückwärtssalto gemacht und ist dann gestorben?",
+          "Vinny"
+        ]
+      ]
+    }
+  ],
+  "style": "prompt",
+  "streamer": "Vinny",
+  "credit": "Clip: Vinesauce (Twitch)"
+}

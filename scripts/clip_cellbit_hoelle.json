@@ -1,0 +1,62 @@
+{
+  "id": "clip_cellbit_hoelle",
+  "source": "https://www.twitch.tv/cellbit/clip/FuriousYawningOcelotDancingBanana-ToZV_oZcldH9-WMU",
+  "layout": "fill",
+  "hook": "JASON, KÖNIG DER HÖLLE",
+  "hook_full": true,
+  "title": "Jason kämpft gegen einen Dämon und wird König der Hölle #shorts",
+  "description": "Cellbit erlebt in GTA 6 einen völlig abgedrehten Albtraum: Jason kämpft gegen ein Monster und will auf den Thron der Hölle. Original-Clip: Cellbit – https://www.twitch.tv/cellbit/clip/FuriousYawningOcelotDancingBanana-ToZV_oZcldH9-WMU\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #cellbit #mission #traum",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "cellbit",
+    "mission",
+    "traum"
+  ],
+  "tiktok": "König der Hölle 🔥👑 #gta6 #gtavi #fyp",
+  "instagram": "Jasons Albtraum 🔥\n\n#gta6 #gtavi #gaming #reels",
+  "beats": [
+    {
+      "original": true,
+      "start": 0,
+      "end": 32.2,
+      "focus": 0.5,
+      "subs": [
+        [
+          0.8,
+          4.8,
+          "Das geht doch nicht! Schieß auf das Licht! Töte den Betrüger!",
+          "Cellbit"
+        ],
+        [
+          5.8,
+          7.8,
+          "Stirb, Betrüger!",
+          "Cellbit"
+        ],
+        [
+          9.8,
+          23.1,
+          "Ich werde auf diesem Thron sitzen! Ich werde auf dem Thron sitzen!",
+          "Cellbit"
+        ],
+        [
+          24.1,
+          26.1,
+          "Ich bin der neue König der Hölle!",
+          "Cellbit"
+        ],
+        [
+          26.1,
+          29.1,
+          "Ja! Los, Jason!",
+          "Cellbit"
+        ]
+      ]
+    }
+  ],
+  "style": "prompt",
+  "streamer": "Cellbit",
+  "credit": "Clip: Cellbit (Twitch)"
+}

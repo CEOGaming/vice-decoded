@@ -1,0 +1,50 @@
+{
+  "id": "clip_vinny_kajak",
+  "source": "https://www.twitch.tv/vinesauce/clip/MoralFastPenguinUWot-LG0z7lwE4TPs24CW",
+  "layout": "fill",
+  "hook": "FLUCHT IM KAJAK",
+  "hook_full": true,
+  "title": "Vinny flieht vor der Polizei – im Kajak #shorts",
+  "description": "Vinesauce wählt in GTA 6 ein Kajak als Fluchtfahrzeug. Die Polizei ist verwirrt, er auch. Original-Clip: Vinesauce – https://www.twitch.tv/vinesauce/clip/MoralFastPenguinUWot-LG0z7lwE4TPs24CW\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #vinesauce #polizei #kajak",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "vinesauce",
+    "polizei",
+    "kajak"
+  ],
+  "tiktok": "Das perfekte Fluchtfahrzeug 🛶 #gta6 #gtavi #fyp",
+  "instagram": "Fluchtwagen: Kajak 🛶\n\n#gta6 #gtavi #gaming #reels",
+  "beats": [
+    {
+      "original": true,
+      "start": 0,
+      "end": 25.2,
+      "focus": 0.5,
+      "subs": [
+        [
+          16.5,
+          18,
+          "Das ist mein Fluchtfahrzeug.",
+          "Vinny"
+        ],
+        [
+          18,
+          22.7,
+          "Wie? Wie? Die Verdächtigen sind noch unterwegs!",
+          "FUNK"
+        ],
+        [
+          22.7,
+          24.7,
+          "Ist das die Person, in die ich reingefahren bin?",
+          "Vinny"
+        ]
+      ]
+    }
+  ],
+  "style": "prompt",
+  "streamer": "Vinny",
+  "credit": "Clip: Vinesauce (Twitch)"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "clip_vinny_wrack",
+  "source": "https://www.twitch.tv/vinesauce/clip/StupidUgliestDootDancingBanana-9lLfa1q364kMkOvy",
+  "layout": "fill",
+  "hook": "WIE FÄHRT DAS AUTO NOCH?",
+  "hook_full": true,
+  "title": "Dieses Auto dürfte gar nicht mehr fahren #shorts",
+  "description": "Vinesauce fährt in GTA 6 ein brennendes Wrack, das Funken sprüht. Irgendwie fährt es trotzdem. Original-Clip: Vinesauce – https://www.twitch.tv/vinesauce/clip/StupidUgliestDootDancingBanana-9lLfa1q364kMkOvy\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #vinesauce #auto #schaden",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "vinesauce",
+    "auto",
+    "schaden"
+  ],
+  "tiktok": "Wie fährt das noch?! 🔥🚗 #gta6 #gtavi #fyp",
+  "instagram": "Funkenflug deluxe 🔥\n\n#gta6 #gtavi #gaming #reels",
+  "beats": [
+    {
+      "original": true,
+      "start": 0,
+      "end": 30,
+      "focus": 0.5,
+      "subs": [
+        [
+          9.2,
+          11.2,
+          "Wie ist dieses Auto noch auf der Straße?",
+          "Vinny"
+        ],
+        [
+          12.7,
+          14.4,
+          "Egal. Muss los.",
+          "Vinny"
+        ]
+      ]
+    }
+  ],
+  "style": "prompt",
+  "streamer": "Vinny",
+  "credit": "Clip: Vinesauce (Twitch)"
+}

@@ -1,0 +1,56 @@
+{
+  "id": "clip_bowser_fallschirm",
+  "source": "https://www.twitch.tv/8owser16/clip/AmazingAverageBasenjiTinyFace-GRdzSfcbW6K52v4u",
+  "layout": "fill",
+  "hook": "SPRING EINFACH RUNTER",
+  "hook_full": true,
+  "title": "Der Chat sagt: einfach springen. Fallschirm? #shorts",
+  "description": "8owser16 springt in GTA 6 vom Dach, weil der Chat es sagt. Der Fallschirm geht nicht auf. Original-Clip: 8owser16 – https://www.twitch.tv/8owser16/clip/AmazingAverageBasenjiTinyFace-GRdzSfcbW6K52v4u\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #fallschirm #fail #chat",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "fallschirm",
+    "fail",
+    "chat"
+  ],
+  "tiktok": "Fallschirm vergessen 🪂💀 #gta6 #gtavi #fyp",
+  "instagram": "Der Chat hatte unrecht 🪂\n\n#gta6 #gtavi #gaming #reels",
+  "beats": [
+    {
+      "original": true,
+      "start": 0,
+      "end": 30,
+      "focus": 0.5,
+      "subs": [
+        [
+          0,
+          3.5,
+          "Spring einfach runter.",
+          "8owser"
+        ],
+        [
+          3.5,
+          5,
+          "Fallschirm!",
+          "8owser"
+        ],
+        [
+          5,
+          26.5,
+          "Oh, das tut mir so leid.",
+          "8owser"
+        ],
+        [
+          26.5,
+          30.1,
+          "Es tut mir so leid.",
+          "8owser"
+        ]
+      ]
+    }
+  ],
+  "style": "prompt",
+  "streamer": "8owser",
+  "credit": "Clip: 8owser16 (Twitch)"
+}

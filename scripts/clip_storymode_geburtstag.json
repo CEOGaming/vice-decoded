@@ -1,0 +1,62 @@
+{
+  "id": "clip_storymode_geburtstag",
+  "source": "https://www.twitch.tv/storymodebae/clip/PoisedSweetHippoPastaThat-hnPRxMB-9nCgYwDy",
+  "layout": "fill",
+  "hook": "ES IST MEIN GEBURTSTAG",
+  "hook_full": true,
+  "title": "Ein NPC bettelt Lucia im Diner um Geld an #shorts",
+  "description": "Ein NPC bettelt in GTA 6 im Diner um Kleingeld – und hat eine gute Ausrede parat. Original-Clip: storymodebae – https://www.twitch.tv/storymodebae/clip/PoisedSweetHippoPastaThat-hnPRxMB-9nCgYwDy\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #npc #diner #lustig",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "npc",
+    "diner",
+    "lustig"
+  ],
+  "tiktok": "Es ist sein Geburtstag 🎂 #gta6 #gtavi #fyp",
+  "instagram": "NPC-Ausreden 🎂\n\n#gta6 #gtavi #gaming #reels",
+  "beats": [
+    {
+      "original": true,
+      "start": 0,
+      "end": 24.5,
+      "focus": 0.5,
+      "subs": [
+        [
+          0.1,
+          4.3,
+          "Hier, etwas Kleingeld. Kauf dir selbst was.",
+          "storymodebae"
+        ],
+        [
+          4.3,
+          7,
+          "Hast du noch mehr Kleingeld? Es ist mein Geburtstag.",
+          "NPC"
+        ],
+        [
+          7,
+          9.4,
+          "Sorry Bruder, mehr hab ich nicht.",
+          "storymodebae"
+        ],
+        [
+          9.4,
+          11.4,
+          "Yo, alles klar bei dir? Wir reden hier.",
+          "NPC"
+        ],
+        [
+          21.4,
+          24.2,
+          "Oh Gott, schaut euch das an.",
+          "storymodebae"
+        ]
+      ]
+    }
+  ],
+  "style": "prompt",
+  "streamer": "storymodebae",
+  "credit": "Clip: storymodebae (Twitch)"
+}

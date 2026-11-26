@@ -1,0 +1,62 @@
+{
+  "id": "clip_charlie_terroristen",
+  "source": "https://www.twitch.tv/moistcr1tikal/clip/SpicyUnusualRaisinWutFace-Yz679hAdfT-EIqi3",
+  "layout": "fill",
+  "hook": "ICH VERHANDLE NICHT",
+  "hook_full": true,
+  "title": "Er zahlt kein Lösegeld – egal was passiert #shorts",
+  "description": "Ein NPC weigert sich in GTA 6, Lösegeld zu zahlen. moistcr1tikal ist fassungslos, wie konsequent er ist. Original-Clip: moistcr1tikal – https://www.twitch.tv/moistcr1tikal/clip/SpicyUnusualRaisinWutFace-Yz679hAdfT-EIqi3\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #moistcr1tikal #npc #story",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "moistcr1tikal",
+    "npc",
+    "story"
+  ],
+  "tiktok": "Er verhandelt nicht 💀 #gta6 #gtavi #fyp",
+  "instagram": "Eiskalter NPC 🧊\n\n#gta6 #gtavi #gaming #reels",
+  "beats": [
+    {
+      "original": true,
+      "start": 0,
+      "end": 32,
+      "focus": 0.5,
+      "subs": [
+        [
+          0.2,
+          7.1,
+          "Nein. Glaubst du wirklich, wenn ich zahle, lassen die ihn gehen?",
+          "NPC"
+        ],
+        [
+          7.1,
+          11.8,
+          "Ich kenne diese Männer. Ich lasse mich nicht erpressen.",
+          "NPC"
+        ],
+        [
+          11.8,
+          15.6,
+          "So weit bin ich nicht gekommen, indem ich nach ihren Regeln spiele.",
+          "NPC"
+        ],
+        [
+          15.6,
+          21.5,
+          "Ich verhandle nicht mit Terroristen. Hab ich ja gerade gesagt, verrückt.",
+          "Charlie"
+        ],
+        [
+          23.9,
+          29.6,
+          "Mir geht's gut.",
+          "Charlie"
+        ]
+      ]
+    }
+  ],
+  "style": "prompt",
+  "streamer": "Charlie",
+  "credit": "Clip: moistcr1tikal (Twitch)"
+}

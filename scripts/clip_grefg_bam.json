@@ -1,0 +1,56 @@
+{
+  "id": "clip_grefg_bam",
+  "source": "https://www.twitch.tv/thegrefg/clip/BusyFitShrewBIRB-NCRQXP5VubkcLgsv",
+  "layout": "fill",
+  "hook": "DAMIT HAT ER NICHT GERECHNET",
+  "hook_full": true,
+  "title": "TheGrefg fasst nicht, was gerade passiert ist #shorts",
+  "description": "TheGrefg ist in GTA 6 nachts unterwegs, als plötzlich alles in die Luft fliegt. Original-Clip: TheGrefg – https://www.twitch.tv/thegrefg/clip/BusyFitShrewBIRB-NCRQXP5VubkcLgsv\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #thegrefg #explosion #fail",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "thegrefg",
+    "explosion",
+    "fail"
+  ],
+  "tiktok": "BAM 💥 #gta6 #gtavi #fyp",
+  "instagram": "Damit hat keiner gerechnet 💥\n\n#gta6 #gtavi #gaming #reels",
+  "beats": [
+    {
+      "original": true,
+      "start": 0,
+      "end": 42.7,
+      "focus": 0.5,
+      "subs": [
+        [
+          0.5,
+          2.5,
+          "BAM!",
+          "TheGrefg"
+        ],
+        [
+          15.7,
+          23.9,
+          "Ich kann nicht glauben, was mir gerade passiert ist.",
+          "TheGrefg"
+        ],
+        [
+          24.9,
+          26.9,
+          "Ich kann nicht glauben, was gerade passiert ist.",
+          "TheGrefg"
+        ],
+        [
+          27.9,
+          33.7,
+          "Ich werde nie glauben, was das für ein Knall war.",
+          "TheGrefg"
+        ]
+      ]
+    }
+  ],
+  "style": "prompt",
+  "streamer": "TheGrefg",
+  "credit": "Clip: TheGrefg (Twitch)"
+}
