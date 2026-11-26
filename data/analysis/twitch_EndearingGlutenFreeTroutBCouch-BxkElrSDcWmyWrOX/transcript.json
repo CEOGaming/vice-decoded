@@ -1,0 +1,25 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.1,
+      "end": 6.3,
+      "text": "Do it! Shoot him! I'm hungry!"
+    },
+    {
+      "start": 6.3,
+      "end": 20.3,
+      "text": "Hold on, hold on! Yeah, baby! Reap!"
+    },
+    {
+      "start": 20.3,
+      "end": 26.7,
+      "text": "Okay! I felt this!"
+    },
+    {
+      "start": 26.7,
+      "end": 30.7,
+      "text": "That's right! Let's do this!"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Wait, how do you use nons?"
+    },
+    {
+      "start": 4.7,
+      "end": 6.7,
+      "text": "And don't say why."
+    },
+    {
+      "start": 6.7,
+      "end": 9.7,
+      "text": "Because I'm on PS4. I mean, shit."
+    },
+    {
+      "start": 9.7,
+      "end": 11.7,
+      "text": "Whatever."
+    },
+    {
+      "start": 29.3,
+      "end": 43.0,
+      "text": "Clicking every button."
+    },
+    {
+      "start": 50.6,
+      "end": 52.6,
+      "text": "Left stick and triangle."
+    }
+  ]
+}

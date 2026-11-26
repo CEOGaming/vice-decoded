@@ -1,0 +1,55 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 1.1,
+      "end": 3.1,
+      "text": "Lori! They hurt you!"
+    },
+    {
+      "start": 5.1,
+      "end": 9.9,
+      "text": "I'm okay, I'm fine!"
+    },
+    {
+      "start": 9.9,
+      "end": 12.9,
+      "text": "Don is dead. God rest his soul."
+    },
+    {
+      "start": 12.9,
+      "end": 18.6,
+      "text": "You know what? That's it."
+    },
+    {
+      "start": 18.6,
+      "end": 20.6,
+      "text": "I'm going straight."
+    },
+    {
+      "start": 20.6,
+      "end": 22.6,
+      "text": "Yeah, you heard me? I'm out."
+    },
+    {
+      "start": 22.6,
+      "end": 24.6,
+      "text": "I'm done. I'm retiring."
+    },
+    {
+      "start": 24.6,
+      "end": 25.6,
+      "text": "Is that right?"
+    },
+    {
+      "start": 25.6,
+      "end": 28.6,
+      "text": "Yeah. No more drug running, shady deal, nothing."
+    },
+    {
+      "start": 28.6,
+      "end": 29.6,
+      "text": "None of it!"
+    }
+  ]
+}

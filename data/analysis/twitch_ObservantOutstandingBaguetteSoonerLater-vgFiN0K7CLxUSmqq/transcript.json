@@ -1,0 +1,30 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.3,
+      "text": "All right, asshole, I'll give you a pussy."
+    },
+    {
+      "start": 3.3,
+      "end": 17.4,
+      "text": "Pull the gun out!"
+    },
+    {
+      "start": 17.4,
+      "end": 19.6,
+      "text": "What, what, I just moped in!"
+    },
+    {
+      "start": 19.6,
+      "end": 20.9,
+      "text": "I just moped in!"
+    },
+    {
+      "start": 20.9,
+      "end": 21.8,
+      "text": "What?"
+    }
+  ]
+}

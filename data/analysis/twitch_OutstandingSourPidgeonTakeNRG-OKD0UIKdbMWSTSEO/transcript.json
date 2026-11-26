@@ -1,0 +1,25 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.2,
+      "text": "What gave us the way?"
+    },
+    {
+      "start": 1.7,
+      "end": 4.7,
+      "text": "Well, a flashy car is step one if you're sick."
+    },
+    {
+      "start": 5.7,
+      "end": 7.5,
+      "text": "I got a few picked up for you already."
+    },
+    {
+      "start": 7.5,
+      "end": 10.7,
+      "text": "You want to say, hey, nice to meet you, Ocean Beach?"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.1,
+      "end": 7.1,
+      "text": "Look at this thing, brand new paint, new body kit."
+    },
+    {
+      "start": 7.1,
+      "end": 10.1,
+      "text": "This thing is going crazy right now."
+    }
+  ]
+}

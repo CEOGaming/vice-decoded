@@ -1,0 +1,25 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 2.2,
+      "end": 5.2,
+      "text": "Donnie! What are you doing?"
+    },
+    {
+      "start": 5.2,
+      "end": 25.3,
+      "text": "Donnie, thank you for the 75 gifted subs today, bro."
+    },
+    {
+      "start": 25.3,
+      "end": 28.3,
+      "text": "What the fuck just happened, Donnie?"
+    },
+    {
+      "start": 28.3,
+      "end": 32.5,
+      "text": "Donnie, thank you for the 75..."
+    }
+  ]
+}

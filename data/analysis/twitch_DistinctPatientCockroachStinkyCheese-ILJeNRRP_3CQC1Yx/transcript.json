@@ -1,0 +1,20 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 8.0,
+      "text": "I know my hair looks good. I'm moisturized. This car isn't sailing fast."
+    },
+    {
+      "start": 8.9,
+      "end": 16.7,
+      "text": "See, on motorbikes I'm fine. It's just to get to this place quickly."
+    },
+    {
+      "start": 17.7,
+      "end": 18.7,
+      "text": "Ah!"
+    }
+  ]
+}
