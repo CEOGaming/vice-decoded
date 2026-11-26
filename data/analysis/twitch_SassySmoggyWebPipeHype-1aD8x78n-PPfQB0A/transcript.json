@@ -1,0 +1,40 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 9.2,
+      "end": 11.2,
+      "text": "Alright, alright."
+    },
+    {
+      "start": 11.2,
+      "end": 19.5,
+      "text": "Tell me to go..."
+    },
+    {
+      "start": 19.5,
+      "end": 25.4,
+      "text": "Can I go this way?"
+    },
+    {
+      "start": 25.4,
+      "end": 40.2,
+      "text": "Yup."
+    },
+    {
+      "start": 40.2,
+      "end": 45.1,
+      "text": "Damn it!"
+    },
+    {
+      "start": 45.1,
+      "end": 47.1,
+      "text": "Got my headlight."
+    },
+    {
+      "start": 47.1,
+      "end": 49.1,
+      "text": "Fucking tree."
+    }
+  ]
+}

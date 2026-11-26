@@ -1,0 +1,40 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 1.8,
+      "end": 3.8,
+      "text": "Oh shit"
+    },
+    {
+      "start": 4.3,
+      "end": 6.5,
+      "text": "Yo chat, I know I look like a fucking bod, dude"
+    },
+    {
+      "start": 6.5,
+      "end": 8.9,
+      "text": "But I swear to God the controls are not as easy as they make it seem"
+    },
+    {
+      "start": 12.3,
+      "end": 14.0,
+      "text": "Oh shit"
+    },
+    {
+      "start": 14.0,
+      "end": 15.3,
+      "text": "bitch"
+    },
+    {
+      "start": 15.3,
+      "end": 16.9,
+      "text": "Fuck you talk about"
+    },
+    {
+      "start": 16.9,
+      "end": 27.3,
+      "text": "Yeah, shit go go go go go go"
+    }
+  ]
+}

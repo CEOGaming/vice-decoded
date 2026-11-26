@@ -1,0 +1,50 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.3,
+      "end": 8.3,
+      "text": "Open it now!"
+    },
+    {
+      "start": 8.3,
+      "end": 10.3,
+      "text": "Show that's what you want."
+    },
+    {
+      "start": 10.3,
+      "end": 12.3,
+      "text": "Whoa, okay."
+    },
+    {
+      "start": 12.3,
+      "end": 14.3,
+      "text": "Keep pushing this shit, I'll shoot your ass!"
+    },
+    {
+      "start": 14.3,
+      "end": 16.4,
+      "text": "Let's go! Let's go!"
+    },
+    {
+      "start": 16.4,
+      "end": 18.4,
+      "text": "Hand over the cash!"
+    },
+    {
+      "start": 18.4,
+      "end": 20.4,
+      "text": "Thanks."
+    },
+    {
+      "start": 20.4,
+      "end": 22.4,
+      "text": "I'll keep an eye out."
+    },
+    {
+      "start": 22.4,
+      "end": 24.4,
+      "text": "Just get something..."
+    }
+  ]
+}

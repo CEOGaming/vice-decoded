@@ -1,0 +1,35 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 7.1,
+      "end": 12.6,
+      "text": "Whoa, whoa, whoa somebody here. I thought it was just him. I thought it was just him"
+    },
+    {
+      "start": 12.6,
+      "end": 14.6,
+      "text": "I didn't know he had somebody with him. Oh"
+    },
+    {
+      "start": 15.0,
+      "end": 20.5,
+      "text": "That's not good. Oh, this is not good. I would consider this to be very bad"
+    },
+    {
+      "start": 21.0,
+      "end": 23.0,
+      "text": "This is not this is very bad"
+    },
+    {
+      "start": 24.0,
+      "end": 25.7,
+      "text": "I"
+    },
+    {
+      "start": 25.7,
+      "end": 29.7,
+      "text": "Want to sell um, ooh, that's bones breaking"
+    }
+  ]
+}

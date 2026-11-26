@@ -1,0 +1,50 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.3,
+      "end": 3.7,
+      "text": "Did we leave bags? I don't know, wait, how do we take it if we have bags on us?"
+    },
+    {
+      "start": 10.0,
+      "end": 11.0,
+      "text": "You did?"
+    },
+    {
+      "start": 12.3,
+      "end": 13.8,
+      "text": "We're going back!"
+    },
+    {
+      "start": 13.8,
+      "end": 26.2,
+      "text": "You know why? Let's leave it."
+    },
+    {
+      "start": 26.2,
+      "end": 31.3,
+      "text": "I had probably nothing anyways. That's just my gym bag, guys."
+    },
+    {
+      "start": 31.3,
+      "end": 33.5,
+      "text": "It's got, like, dirty socks in it."
+    },
+    {
+      "start": 34.6,
+      "end": 36.2,
+      "text": "There's some workout clothes."
+    },
+    {
+      "start": 36.2,
+      "end": 38.6,
+      "text": "It's really nothing to go back for, guys. It really isn't."
+    },
+    {
+      "start": 38.6,
+      "end": 40.6,
+      "text": "It really isn't, guys. It truly isn't."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "language": "fr",
+  "segments": [
+    {
+      "start": 4.5,
+      "end": 12.3,
+      "text": "vrai chapeau de cowboy"
+    },
+    {
+      "start": 21.1,
+      "end": 23.1,
+      "text": "j'en ai l'air besoin sa mère"
+    },
+    {
+      "start": 23.1,
+      "end": 25.1,
+      "text": "et à jour j'en ai l'air besoin c'est dingue en vrai"
+    },
+    {
+      "start": 45.5,
+      "end": 53.1,
+      "text": "ils ont mis, ils ont mis le chapeau d'Arthur Morgan dans le jeu"
+    }
+  ]
+}

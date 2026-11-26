@@ -1,0 +1,25 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 3.5,
+      "end": 7.9,
+      "text": "Uh-oh, it's a golden cap and train. Not a heist train. I was wrong"
+    },
+    {
+      "start": 10.4,
+      "end": 12.4,
+      "text": "Halifax"
+    },
+    {
+      "start": 16.9,
+      "end": 18.9,
+      "text": "Fuck!"
+    },
+    {
+      "start": 21.3,
+      "end": 23.3,
+      "text": "God damn it!"
+    }
+  ]
+}

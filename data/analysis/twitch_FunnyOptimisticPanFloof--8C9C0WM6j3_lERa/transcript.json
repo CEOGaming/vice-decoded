@@ -1,0 +1,40 @@
+{
+  "language": "pt",
+  "segments": [
+    {
+      "start": 1.7,
+      "end": 9.2,
+      "text": "O cara é bandido!"
+    },
+    {
+      "start": 9.2,
+      "end": 15.2,
+      "text": "Que parulha é esse, gente?"
+    },
+    {
+      "start": 15.2,
+      "end": 22.1,
+      "text": "Meu Deus, que..."
+    },
+    {
+      "start": 22.1,
+      "end": 24.1,
+      "text": "Isso não se faz não, mano."
+    },
+    {
+      "start": 24.1,
+      "end": 27.1,
+      "text": "Caralho, eu achei que era do meu prédio, mano."
+    },
+    {
+      "start": 27.1,
+      "end": 29.1,
+      "text": "Vocês são loucos."
+    },
+    {
+      "start": 32.1,
+      "end": 34.1,
+      "text": "Nossa, meu coração até disparou agora."
+    }
+  ]
+}

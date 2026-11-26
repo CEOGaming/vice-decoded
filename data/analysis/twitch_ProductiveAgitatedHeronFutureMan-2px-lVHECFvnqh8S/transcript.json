@@ -1,0 +1,25 @@
+{
+  "language": "fr",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.5,
+      "text": "non parce qu'attends il a fait carré il m'a envoyé une belle photo de lui je vais zoomer sur le pif"
+    },
+    {
+      "start": 4.5,
+      "end": 17.1,
+      "text": "il a le pif attend sur la tête d'homme il a le pif à oui oui get la race get la race"
+    },
+    {
+      "start": 17.1,
+      "end": 25.1,
+      "text": "tema il a un nez champignon son nez c'est une truffe c'est une truffe c'est une truffe son nez"
+    },
+    {
+      "start": 25.1,
+      "end": 29.7,
+      "text": "non mais pourquoi parce que toi tu as un nez champignon c'est ce qu'on appelle un nez"
+    }
+  ]
+}

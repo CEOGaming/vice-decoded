@@ -1,0 +1,25 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": "Alright, page me! Page me right down the block! Page me right down the block!"
+    },
+    {
+      "start": 7.6,
+      "end": 8.6,
+      "text": "Oh, fuck!"
+    },
+    {
+      "start": 8.6,
+      "end": 22.9,
+      "text": "We've got ourselves in a sticky situation."
+    },
+    {
+      "start": 22.9,
+      "end": 29.2,
+      "text": "We've got ourselves in quite the pickle here."
+    }
+  ]
+}

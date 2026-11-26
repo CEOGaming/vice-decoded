@@ -1,0 +1,35 @@
+{
+  "language": "es",
+  "segments": [
+    {
+      "start": 0.5,
+      "end": 2.5,
+      "text": "¡BAM!"
+    },
+    {
+      "start": 13.7,
+      "end": 15.7,
+      "text": "¡Rastros ocultados, letal!"
+    },
+    {
+      "start": 15.7,
+      "end": 23.9,
+      "text": "No me voy a poder creer lo que me acaba de pasar."
+    },
+    {
+      "start": 24.9,
+      "end": 26.9,
+      "text": "No me voy a poder creer lo que me acaba de suceder."
+    },
+    {
+      "start": 27.9,
+      "end": 33.7,
+      "text": "No me voy a poder creer jamás el petardazo que ha pegado eso tú."
+    },
+    {
+      "start": 33.7,
+      "end": 40.2,
+      "text": "Me cago en mi puta concha."
+    }
+  ]
+}

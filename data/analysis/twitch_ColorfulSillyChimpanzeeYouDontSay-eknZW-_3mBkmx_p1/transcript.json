@@ -1,0 +1,40 @@
+{
+  "language": "pt",
+  "segments": [
+    {
+      "start": 1.3,
+      "end": 8.2,
+      "text": "O DMJ mandou 5 reais e 50 centavos e cobriu a taxa."
+    },
+    {
+      "start": 8.2,
+      "end": 10.9,
+      "text": "Nao e sobre cachorro ou o conteúdo."
+    },
+    {
+      "start": 10.9,
+      "end": 15.0,
+      "text": "E você mano, mais suave foi bom te acompanhar esses anos."
+    },
+    {
+      "start": 15.0,
+      "end": 16.0,
+      "text": "Espero que sim."
+    },
+    {
+      "start": 16.0,
+      "end": 18.9,
+      "text": "Ah mano, vai porra, puta que pariu então."
+    },
+    {
+      "start": 18.9,
+      "end": 19.9,
+      "text": "Caralho mano."
+    },
+    {
+      "start": 19.9,
+      "end": 20.9,
+      "text": "Porra."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 9.2,
+      "end": 11.2,
+      "text": "How is this car still on the road?"
+    },
+    {
+      "start": 12.7,
+      "end": 13.2,
+      "text": "Never mind."
+    },
+    {
+      "start": 13.9,
+      "end": 14.4,
+      "text": "Gotta go."
+    }
+  ]
+}

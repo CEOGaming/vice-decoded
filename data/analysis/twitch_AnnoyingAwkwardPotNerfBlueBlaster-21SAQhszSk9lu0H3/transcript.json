@@ -1,0 +1,20 @@
+{
+  "language": "pt",
+  "segments": [
+    {
+      "start": 7.1,
+      "end": 8.1,
+      "text": "Alô!"
+    },
+    {
+      "start": 8.6,
+      "end": 9.6,
+      "text": "Aí, voltei!"
+    },
+    {
+      "start": 10.6,
+      "end": 11.6,
+      "text": "Mentira da puta!"
+    }
+  ]
+}

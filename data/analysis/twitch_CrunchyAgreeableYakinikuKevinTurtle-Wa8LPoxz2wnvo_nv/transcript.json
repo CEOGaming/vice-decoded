@@ -1,0 +1,20 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.4,
+      "text": "but why is but"
+    },
+    {
+      "start": 6.5,
+      "end": 14.2,
+      "text": "no it's open it's fine it's fine"
+    },
+    {
+      "start": 14.8,
+      "end": 28.4,
+      "text": "oh if this works i have the voice command like if i say twitch clip that"
+    }
+  ]
+}

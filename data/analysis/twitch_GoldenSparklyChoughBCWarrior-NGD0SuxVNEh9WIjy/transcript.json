@@ -1,0 +1,35 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 8.0,
+      "end": 10.3,
+      "text": "Should I click the X?"
+    },
+    {
+      "start": 10.3,
+      "end": 15.1,
+      "text": "No, you shouldn't."
+    },
+    {
+      "start": 15.1,
+      "end": 17.1,
+      "text": "Uh..."
+    },
+    {
+      "start": 17.1,
+      "end": 19.7,
+      "text": "Here we go."
+    },
+    {
+      "start": 19.7,
+      "end": 26.5,
+      "text": "Shit!"
+    },
+    {
+      "start": 26.5,
+      "end": 30.0,
+      "text": "All right, I'm gonna reload this."
+    }
+  ]
+}

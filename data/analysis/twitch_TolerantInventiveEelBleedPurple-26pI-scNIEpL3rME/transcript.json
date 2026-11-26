@@ -1,0 +1,50 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.2,
+      "text": "I don't have to use this."
+    },
+    {
+      "start": 3.2,
+      "end": 6.2,
+      "text": "Halamalala halamalala"
+    },
+    {
+      "start": 6.2,
+      "end": 8.2,
+      "text": "That's it, that's it."
+    },
+    {
+      "start": 8.2,
+      "end": 9.2,
+      "text": "You know what?"
+    },
+    {
+      "start": 9.2,
+      "end": 14.2,
+      "text": "That's it. You've done it."
+    },
+    {
+      "start": 14.2,
+      "end": 15.2,
+      "text": "You've done it now."
+    },
+    {
+      "start": 15.2,
+      "end": 17.2,
+      "text": "You've done it. You've done it."
+    },
+    {
+      "start": 17.2,
+      "end": 19.2,
+      "text": "You've done it. You've done it."
+    },
+    {
+      "start": 19.2,
+      "end": 21.2,
+      "text": "You've done it now."
+    }
+  ]
+}

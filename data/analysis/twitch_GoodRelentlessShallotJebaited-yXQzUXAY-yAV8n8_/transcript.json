@@ -1,0 +1,25 @@
+{
+  "language": "pt",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "Relaxa!"
+    },
+    {
+      "start": 3.0,
+      "end": 4.0,
+      "text": "Relaxa!"
+    },
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "text": "Ah, fica tranquilo!"
+    },
+    {
+      "start": 6.0,
+      "end": 20.8,
+      "text": "Ah, só cabe um nessa bicicleta agora que eu percebi, por isso que ela não soa."
+    }
+  ]
+}

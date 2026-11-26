@@ -1,0 +1,15 @@
+{
+  "language": "es",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "¡Ah! Y un perro, ¿no?"
+    },
+    {
+      "start": 3.9,
+      "end": 4.4,
+      "text": "Hola"
+    }
+  ]
+}

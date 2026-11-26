@@ -1,0 +1,35 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "That's a great question."
+    },
+    {
+      "start": 3.2,
+      "end": 5.2,
+      "text": "Hopefully my jet ski has enough fuel."
+    },
+    {
+      "start": 6.0,
+      "end": 8.0,
+      "text": "I guess we'll find out."
+    },
+    {
+      "start": 8.0,
+      "end": 10.0,
+      "text": "Feels like the end of the world out here."
+    },
+    {
+      "start": 11.2,
+      "end": 14.1,
+      "text": "Ah, beautiful. Only thing that's missing is my girl."
+    },
+    {
+      "start": 15.6,
+      "end": 17.6,
+      "text": "She's doing community service."
+    }
+  ]
+}

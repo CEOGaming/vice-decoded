@@ -1,0 +1,25 @@
+{
+  "language": "es",
+  "segments": [
+    {
+      "start": 0.3,
+      "end": 2.3,
+      "text": "ya va para que te lleven del tuyo"
+    },
+    {
+      "start": 2.3,
+      "end": 4.3,
+      "text": "no mames oye si es cierto"
+    },
+    {
+      "start": 5.3,
+      "end": 7.3,
+      "text": "porque no he hecho esa mamata"
+    },
+    {
+      "start": 11.3,
+      "end": 17.3,
+      "text": "se me se me cierra el mundo a mi a mi solita"
+    }
+  ]
+}

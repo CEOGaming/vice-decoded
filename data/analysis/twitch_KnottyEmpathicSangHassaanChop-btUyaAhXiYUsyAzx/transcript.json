@@ -1,0 +1,25 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 1.1,
+      "end": 5.8,
+      "text": "That was good that was fantastic perfect perfect"
+    },
+    {
+      "start": 6.3,
+      "end": 11.1,
+      "text": "Guys, does anybody remember if we saved right before the Bank heist?"
+    },
+    {
+      "start": 16.0,
+      "end": 23.0,
+      "text": "You did no you didn't okay"
+    },
+    {
+      "start": 24.7,
+      "end": 30.0,
+      "text": "Okay, that's fine. That's fine. You know what we're just gonna go see yasmani no"
+    }
+  ]
+}

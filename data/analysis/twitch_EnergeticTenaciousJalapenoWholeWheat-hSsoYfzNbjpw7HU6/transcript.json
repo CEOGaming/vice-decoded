@@ -1,0 +1,45 @@
+{
+  "language": "es",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Parece que estoy huyendo de... ¿Qué pasa?"
+    },
+    {
+      "start": 3.0,
+      "end": 4.0,
+      "text": "¿Qué pasa?"
+    },
+    {
+      "start": 4.0,
+      "end": 7.8,
+      "text": "¡El motor!"
+    },
+    {
+      "start": 17.5,
+      "end": 19.5,
+      "text": "¿Tú qué pasa? ¿Qué pasa? ¿Que me muero?"
+    },
+    {
+      "start": 29.6,
+      "end": 30.6,
+      "text": "Ese es el límite."
+    },
+    {
+      "start": 30.6,
+      "end": 35.1,
+      "text": "Ese es el límite del mapa."
+    },
+    {
+      "start": 35.1,
+      "end": 38.1,
+      "text": "Cuando llega al límite te mata el juego, directamente."
+    },
+    {
+      "start": 38.1,
+      "end": 40.1,
+      "text": "Te explota el barco, tú te mueres."
+    }
+  ]
+}

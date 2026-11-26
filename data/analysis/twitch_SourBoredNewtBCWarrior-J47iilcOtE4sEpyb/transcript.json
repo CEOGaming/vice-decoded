@@ -1,0 +1,30 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 9.1,
+      "end": 12.1,
+      "text": "This is shag-ridiculous, man."
+    },
+    {
+      "start": 12.1,
+      "end": 18.0,
+      "text": "Wow!"
+    },
+    {
+      "start": 18.0,
+      "end": 23.5,
+      "text": "Ha ha ha!"
+    },
+    {
+      "start": 23.5,
+      "end": 28.7,
+      "text": "Superhero, brah!"
+    },
+    {
+      "start": 28.7,
+      "end": 29.7,
+      "text": "She hold!"
+    }
+  ]
+}

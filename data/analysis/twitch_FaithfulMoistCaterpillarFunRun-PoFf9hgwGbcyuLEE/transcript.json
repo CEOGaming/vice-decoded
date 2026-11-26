@@ -1,0 +1,55 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.5,
+      "text": "Okay."
+    },
+    {
+      "start": 3.5,
+      "end": 5.5,
+      "text": "All right, all right."
+    },
+    {
+      "start": 5.5,
+      "end": 7.5,
+      "text": "Are you kidding me?"
+    },
+    {
+      "start": 7.5,
+      "end": 9.5,
+      "text": "We're way past you talking your way out of this."
+    },
+    {
+      "start": 9.5,
+      "end": 11.5,
+      "text": "Ooh, chill out."
+    },
+    {
+      "start": 11.5,
+      "end": 13.5,
+      "text": "Fine. But if I see you here again,"
+    },
+    {
+      "start": 13.5,
+      "end": 15.5,
+      "text": "I'm going to put you in the fucking ground."
+    },
+    {
+      "start": 15.5,
+      "end": 17.5,
+      "text": "You hear me?"
+    },
+    {
+      "start": 17.5,
+      "end": 23.0,
+      "text": "Got it."
+    },
+    {
+      "start": 23.0,
+      "end": 25.0,
+      "text": "Fine, whatever."
+    }
+  ]
+}

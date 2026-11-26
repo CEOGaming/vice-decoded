@@ -1,0 +1,25 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.7,
+      "text": "Wait, do I have to play?"
+    },
+    {
+      "start": 5.7,
+      "end": 7.7,
+      "text": "Oh, Arrest Mario!"
+    },
+    {
+      "start": 8.7,
+      "end": 15.8,
+      "text": "Star Wars, boy, thanks for 20 months!"
+    },
+    {
+      "start": 25.9,
+      "end": 47.7,
+      "text": "Yeah, Jason! He's doing it!"
+    }
+  ]
+}

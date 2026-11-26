@@ -1,0 +1,45 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 1.6,
+      "end": 3.6,
+      "text": "It says I'm"
+    },
+    {
+      "start": 4.2,
+      "end": 10.4,
+      "text": "31% done 31% I left off at 20%"
+    },
+    {
+      "start": 12.0,
+      "end": 15.3,
+      "text": "So"
+    },
+    {
+      "start": 16.2,
+      "end": 19.7,
+      "text": "Why are you saying Inga?"
+    },
+    {
+      "start": 20.1,
+      "end": 23.0,
+      "text": "I'm at the beginning of chapter 2. Okay. Nice"
+    },
+    {
+      "start": 25.1,
+      "end": 27.1,
+      "text": "The cops are still here. Oh"
+    },
+    {
+      "start": 28.4,
+      "end": 35.3,
+      "text": "Okay, I'll just get out of here. I will skedaddle. I will skedaddle. Okay"
+    },
+    {
+      "start": 35.3,
+      "end": 38.3,
+      "text": "Thanks"
+    }
+  ]
+}

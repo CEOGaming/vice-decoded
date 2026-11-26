@@ -1,0 +1,30 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.7,
+      "end": 4.3,
+      "text": "Go, go, go, go, go, go, go, go, go, go, go, go, go!"
+    },
+    {
+      "start": 6.0,
+      "end": 7.3,
+      "text": "LET'S GO!"
+    },
+    {
+      "start": 7.7,
+      "end": 15.2,
+      "text": "Oh yeah!"
+    },
+    {
+      "start": 15.2,
+      "end": 19.7,
+      "text": "How the fu-"
+    },
+    {
+      "start": 25.5,
+      "end": 27.5,
+      "text": "That was just so fuckin' sick, dude!"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "language": "pt",
+  "segments": [
+    {
+      "start": 2.5,
+      "end": 4.5,
+      "text": "Vou responder meu carro aqui mano"
+    },
+    {
+      "start": 4.5,
+      "end": 9.9,
+      "text": "Meu Deus, molha quando você quebra o hidrante e molha a rua"
+    },
+    {
+      "start": 10.9,
+      "end": 12.9,
+      "text": "Caralho, a água espalha"
+    },
+    {
+      "start": 12.9,
+      "end": 17.8,
+      "text": "Que isso Lu?"
+    },
+    {
+      "start": 18.8,
+      "end": 19.8,
+      "text": "De novo? Cuidado"
+    },
+    {
+      "start": 22.8,
+      "end": 23.8,
+      "text": "O amor de Deus"
+    },
+    {
+      "start": 25.8,
+      "end": 27.8,
+      "text": "Lu, pelo amor de Deus"
+    }
+  ]
+}

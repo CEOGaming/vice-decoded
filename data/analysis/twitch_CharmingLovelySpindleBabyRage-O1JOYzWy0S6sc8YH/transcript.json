@@ -1,0 +1,25 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 11.3,
+      "end": 13.3,
+      "text": "Need a plane, need a plane, guys. Need a plane."
+    },
+    {
+      "start": 14.1,
+      "end": 17.3,
+      "text": "Need a small plane, not what he's big plane, so just keep track of this if you've got a big plane."
+    },
+    {
+      "start": 17.3,
+      "end": 19.3,
+      "text": "Need a small plane."
+    },
+    {
+      "start": 19.3,
+      "end": 21.3,
+      "text": "We've got the private jet jet."
+    }
+  ]
+}

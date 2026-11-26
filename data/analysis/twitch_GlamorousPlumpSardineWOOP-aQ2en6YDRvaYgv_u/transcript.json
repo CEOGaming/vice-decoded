@@ -1,0 +1,30 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.3,
+      "text": "Give me a little something. I can't fucking"
+    },
+    {
+      "start": 6.3,
+      "end": 8.3,
+      "text": "Slide all over it"
+    },
+    {
+      "start": 12.5,
+      "end": 18.8,
+      "text": "Yo, you better wrap this shit up bro hurry up. It's almost my turn. I want it"
+    },
+    {
+      "start": 19.9,
+      "end": 26.1,
+      "text": "That's great. Sell the anticipation Samantha. This is insane. Can you push in tighter, please? We'll get that again"
+    },
+    {
+      "start": 26.1,
+      "end": 30.8,
+      "text": "You can work your way around the front now get things warmed up"
+    }
+  ]
+}

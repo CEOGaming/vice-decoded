@@ -1,0 +1,30 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.6,
+      "text": "I'm not sure if I'm legally allowed to tell you how though, so I won't"
+    },
+    {
+      "start": 5.4,
+      "end": 9.2,
+      "text": "But yeah, I am playing the game at 60 FPS right now"
+    },
+    {
+      "start": 10.3,
+      "end": 15.8,
+      "text": "How though I legally cannot tell you let's just say the information is out there, okay?"
+    },
+    {
+      "start": 17.3,
+      "end": 24.3,
+      "text": "The information is out there. I legally cannot tell you how I don't know"
+    },
+    {
+      "start": 25.0,
+      "end": 27.3,
+      "text": "Classified really if I told you they'd kill"
+    }
+  ]
+}
