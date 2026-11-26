@@ -1,0 +1,75 @@
+{
+  "language": "sl",
+  "segments": [
+    {
+      "start": 0.7,
+      "end": 2.7,
+      "text": "... in milijum je prič 10 dolar..."
+    },
+    {
+      "start": 2.7,
+      "end": 3.7,
+      "text": "To tega ne..."
+    },
+    {
+      "start": 6.6,
+      "end": 7.6,
+      "text": "Yes!"
+    },
+    {
+      "start": 7.6,
+      "end": 8.6,
+      "text": "Yes!"
+    },
+    {
+      "start": 8.6,
+      "end": 9.6,
+      "text": "Yes!"
+    },
+    {
+      "start": 9.6,
+      "end": 10.6,
+      "text": "Yes!"
+    },
+    {
+      "start": 10.6,
+      "end": 11.6,
+      "text": "Yes!"
+    },
+    {
+      "start": 11.6,
+      "end": 17.8,
+      "text": "Yes!"
+    },
+    {
+      "start": 17.8,
+      "end": 20.4,
+      "text": "Yes!"
+    },
+    {
+      "start": 20.4,
+      "end": 22.4,
+      "text": "Asa, kaj bi smata putka."
+    },
+    {
+      "start": 22.4,
+      "end": 24.4,
+      "text": "I smata ta kota."
+    },
+    {
+      "start": 24.4,
+      "end": 26.4,
+      "text": "I smata ta putka."
+    },
+    {
+      "start": 26.4,
+      "end": 27.4,
+      "text": "Taká?"
+    },
+    {
+      "start": 28.4,
+      "end": 30.4,
+      "text": "Iz kam sada vsefno."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.5,
+      "text": "Please, off the list, you have made someone with bad taste, very happy!"
+    },
+    {
+      "start": 6.5,
+      "end": 9.0,
+      "text": "Okay, look at this!"
+    },
+    {
+      "start": 9.0,
+      "end": 11.0,
+      "text": "A card is clean, it's like a..."
+    }
+  ]
+}

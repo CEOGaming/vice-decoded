@@ -1,0 +1,30 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.6,
+      "text": "Kelly just called you! You just didn't reply!"
+    },
+    {
+      "start": 3.6,
+      "end": 7.5,
+      "text": "That's awesome! I shouldn't have seen that, but I should have replied the other one."
+    },
+    {
+      "start": 7.5,
+      "end": 12.4,
+      "text": "I was texting and driving, so I didn't pay too much attention."
+    },
+    {
+      "start": 12.4,
+      "end": 32.1,
+      "text": "The other one was funnier. Can't even reply to this one."
+    },
+    {
+      "start": 32.1,
+      "end": 34.1,
+      "text": "It's really hard to reply."
+    }
+  ]
+}

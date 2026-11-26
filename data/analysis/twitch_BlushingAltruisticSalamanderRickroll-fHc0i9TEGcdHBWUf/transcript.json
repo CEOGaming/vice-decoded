@@ -1,0 +1,20 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 4.8,
+      "end": 6.8,
+      "text": "No"
+    },
+    {
+      "start": 42.4,
+      "end": 49.9,
+      "text": "Yeah, we're good. He made the call"
+    },
+    {
+      "start": 55.5,
+      "end": 57.5,
+      "text": "We understood but we didn't understand"
+    }
+  ]
+}

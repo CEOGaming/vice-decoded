@@ -1,0 +1,20 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "No it's not! Wait, that's a nega!"
+    },
+    {
+      "start": 3.5,
+      "end": 4.0,
+      "text": "Wait!"
+    },
+    {
+      "start": 6.0,
+      "end": 7.0,
+      "text": "He's got his crew!"
+    }
+  ]
+}

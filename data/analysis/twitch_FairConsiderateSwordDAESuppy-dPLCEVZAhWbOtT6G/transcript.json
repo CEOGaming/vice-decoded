@@ -1,0 +1,25 @@
+{
+  "language": "es",
+  "segments": [
+    {
+      "start": 0.1,
+      "end": 3.4,
+      "text": "Las físicas de este juego son increíbles"
+    },
+    {
+      "start": 7.8,
+      "end": 11.0,
+      "text": "Fijaros por ejemplo, vale? Aquí parece que no, pero"
+    },
+    {
+      "start": 12.6,
+      "end": 17.9,
+      "text": "El tío... Fijaros la espalda, ¿no? La forma de la espalda que se le ve como los huesos, ¿lo veis?"
+    },
+    {
+      "start": 18.8,
+      "end": 21.5,
+      "text": "Es increíble, está muy bien hecho"
+    }
+  ]
+}

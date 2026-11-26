@@ -1,0 +1,80 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "I'm going to get it!"
+    },
+    {
+      "start": 2.0,
+      "end": 6.4,
+      "text": "We gotta go!"
+    },
+    {
+      "start": 6.4,
+      "end": 11.1,
+      "text": "Where's my man?"
+    },
+    {
+      "start": 11.1,
+      "end": 13.1,
+      "text": "Jackson!"
+    },
+    {
+      "start": 13.1,
+      "end": 16.6,
+      "text": "Oh he's limping!"
+    },
+    {
+      "start": 16.6,
+      "end": 18.6,
+      "text": "Okay now!"
+    },
+    {
+      "start": 18.6,
+      "end": 20.6,
+      "text": "Shave the cops!"
+    },
+    {
+      "start": 20.6,
+      "end": 22.6,
+      "text": "Mass!"
+    },
+    {
+      "start": 22.6,
+      "end": 24.6,
+      "text": "Fuck the mass!"
+    },
+    {
+      "start": 24.6,
+      "end": 28.0,
+      "text": "I need to get it out of here, I got 30 cops on me."
+    },
+    {
+      "start": 28.0,
+      "end": 34.0,
+      "text": "No you don't!"
+    },
+    {
+      "start": 34.0,
+      "end": 36.0,
+      "text": "Oh shit they do."
+    },
+    {
+      "start": 36.0,
+      "end": 42.1,
+      "text": "Jason are we heading towards the water?"
+    },
+    {
+      "start": 42.1,
+      "end": 44.1,
+      "text": "Jason I think we're heading towards the water."
+    },
+    {
+      "start": 44.1,
+      "end": 46.7,
+      "text": "Jason I think we're heading towards order shit"
+    }
+  ]
+}

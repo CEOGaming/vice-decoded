@@ -1,0 +1,60 @@
+{
+  "language": "de",
+  "segments": [
+    {
+      "start": 0.1,
+      "end": 2.1,
+      "text": "Oben ist er echt ..."
+    },
+    {
+      "start": 2.2,
+      "end": 3.2,
+      "text": "Er ist gut angenehm."
+    },
+    {
+      "start": 3.3,
+      "end": 4.3,
+      "text": "Ah! Ah!"
+    },
+    {
+      "start": 4.4,
+      "end": 5.4,
+      "text": "Ah!"
+    },
+    {
+      "start": 5.6,
+      "end": 6.6,
+      "text": "Ah!"
+    },
+    {
+      "start": 6.7,
+      "end": 9.4,
+      "text": "Ah!"
+    },
+    {
+      "start": 9.6,
+      "end": 10.6,
+      "text": "Oh!"
+    },
+    {
+      "start": 10.7,
+      "end": 11.7,
+      "text": "Ah!"
+    },
+    {
+      "start": 11.8,
+      "end": 12.8,
+      "text": "Ah!"
+    },
+    {
+      "start": 12.9,
+      "end": 15.8,
+      "text": "Der Enker, den Händen rein, der Händen hier."
+    },
+    {
+      "start": 15.9,
+      "end": 19.3,
+      "text": "Der Enker, den Händen, den Händen, den Händen, den Händen."
+    }
+  ]
+}

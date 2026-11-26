@@ -1,0 +1,40 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 1.1,
+      "end": 3.1,
+      "text": "Maximum speed!"
+    },
+    {
+      "start": 3.1,
+      "end": 6.4,
+      "text": "Ah shit, it's fine."
+    },
+    {
+      "start": 6.4,
+      "end": 7.4,
+      "text": "I don't believe this."
+    },
+    {
+      "start": 10.3,
+      "end": 11.3,
+      "text": "False speed corners!"
+    },
+    {
+      "start": 11.3,
+      "end": 14.3,
+      "text": "Shit, it's fine."
+    },
+    {
+      "start": 15.3,
+      "end": 16.3,
+      "text": "Never let go!"
+    },
+    {
+      "start": 28.4,
+      "end": 29.4,
+      "text": "Shit!"
+    }
+  ]
+}

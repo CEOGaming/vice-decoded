@@ -1,0 +1,20 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 17.5,
+      "text": "listening yes yeah damn it's real no yeah yeah yeah I hear you okay thank you"
+    },
+    {
+      "start": 17.5,
+      "end": 24.5,
+      "text": "family anonimic uncle how was it I don't know I think the guy just likes to"
+    },
+    {
+      "start": 24.5,
+      "end": 26.5,
+      "text": "hear this"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "language": "nl",
+  "segments": [
+    {
+      "start": 4.1,
+      "end": 6.1,
+      "text": "Ja, dat is hem, dat is hem, dit is hem."
+    },
+    {
+      "start": 7.1,
+      "end": 11.1,
+      "text": "Dit."
+    },
+    {
+      "start": 11.1,
+      "end": 13.8,
+      "text": "Sorry!"
+    },
+    {
+      "start": 13.8,
+      "end": 15.8,
+      "text": "Ja, dit overleef ik niet."
+    },
+    {
+      "start": 15.8,
+      "end": 27.1,
+      "text": "Ja, daar kon ik zelf ook wel bedenken."
+    },
+    {
+      "start": 27.1,
+      "end": 30.1,
+      "text": "Maar welke kiezelsteentje ben ik?"
+    }
+  ]
+}

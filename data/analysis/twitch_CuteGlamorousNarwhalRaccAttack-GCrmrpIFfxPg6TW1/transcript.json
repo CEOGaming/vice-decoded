@@ -1,0 +1,35 @@
+{
+  "language": "de",
+  "segments": [
+    {
+      "start": 2.9,
+      "end": 4.9,
+      "text": "Ach, das ist die Schweinefarben hier."
+    },
+    {
+      "start": 6.9,
+      "end": 7.9,
+      "text": "So."
+    },
+    {
+      "start": 7.9,
+      "end": 9.9,
+      "text": "Jonka gefällt das überhaupt nicht."
+    },
+    {
+      "start": 9.9,
+      "end": 14.6,
+      "text": "Rohat."
+    },
+    {
+      "start": 18.8,
+      "end": 20.8,
+      "text": "Ja, Rohat, mein lockiger Freund."
+    },
+    {
+      "start": 21.8,
+      "end": 22.8,
+      "text": "Was geht ab?"
+    }
+  ]
+}

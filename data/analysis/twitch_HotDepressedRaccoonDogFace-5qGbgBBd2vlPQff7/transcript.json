@@ -1,0 +1,35 @@
+{
+  "language": "fi",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Nyt otta kun vähän käs."
+    },
+    {
+      "start": 8.8,
+      "end": 9.8,
+      "text": "Ei!"
+    },
+    {
+      "start": 9.8,
+      "end": 10.8,
+      "text": "Ei!"
+    },
+    {
+      "start": 11.8,
+      "end": 17.4,
+      "text": "Ei!"
+    },
+    {
+      "start": 17.4,
+      "end": 18.4,
+      "text": "Ja se on!"
+    },
+    {
+      "start": 42.5,
+      "end": 44.5,
+      "text": "Aivan paskana."
+    }
+  ]
+}

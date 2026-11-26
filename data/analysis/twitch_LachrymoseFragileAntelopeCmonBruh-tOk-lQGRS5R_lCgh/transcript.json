@@ -1,0 +1,35 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "It's a wrong car. This ain't ours."
+    },
+    {
+      "start": 4.0,
+      "end": 5.0,
+      "text": "Yeah, of course it is."
+    },
+    {
+      "start": 5.0,
+      "end": 7.0,
+      "text": "It's not the one we came in."
+    },
+    {
+      "start": 7.0,
+      "end": 9.0,
+      "text": "It doesn't mean we can't leave it."
+    },
+    {
+      "start": 9.0,
+      "end": 10.0,
+      "text": "It's a bike!"
+    },
+    {
+      "start": 11.0,
+      "end": 17.8,
+      "text": "Sorry."
+    }
+  ]
+}

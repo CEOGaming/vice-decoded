@@ -1,0 +1,20 @@
+{
+  "language": "fr",
+  "segments": [
+    {
+      "start": 0.1,
+      "end": 4.4,
+      "text": "Ha ha ha ha ha ! C'est quoi ce délire ?"
+    },
+    {
+      "start": 12.9,
+      "end": 16.8,
+      "text": "Non non, reste dedans ! C'est trop marrant."
+    },
+    {
+      "start": 31.7,
+      "end": 39.3,
+      "text": "J'ai une question, si j'apprends avec mon téléphone, ça peut être marrant pas."
+    }
+  ]
+}

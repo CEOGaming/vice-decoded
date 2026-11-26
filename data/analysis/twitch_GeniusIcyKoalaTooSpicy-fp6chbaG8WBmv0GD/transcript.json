@@ -1,0 +1,20 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.1,
+      "end": 2.0,
+      "text": "And Uwingi is well for..."
+    },
+    {
+      "start": 2.0,
+      "end": 6.6,
+      "text": "Uwingi is well for six months in advance!"
+    },
+    {
+      "start": 6.6,
+      "end": 10.8,
+      "text": "Heck you go!"
+    }
+  ]
+}

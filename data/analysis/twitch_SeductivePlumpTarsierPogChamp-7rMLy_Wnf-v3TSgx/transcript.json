@@ -1,0 +1,40 @@
+{
+  "language": "fr",
+  "segments": [
+    {
+      "start": 3.3,
+      "end": 9.1,
+      "text": "Est-ce que je peux réussir un créneau dans le jeu ?"
+    },
+    {
+      "start": 9.5,
+      "end": 15.1,
+      "text": "On va essayer."
+    },
+    {
+      "start": 15.1,
+      "end": 21.1,
+      "text": "Non, je vais pas y arriver."
+    },
+    {
+      "start": 21.4,
+      "end": 23.0,
+      "text": "Je vais pas y arriver."
+    },
+    {
+      "start": 23.0,
+      "end": 34.6,
+      "text": "Je vais essayer quand même."
+    },
+    {
+      "start": 34.6,
+      "end": 35.9,
+      "text": "Je redresse."
+    },
+    {
+      "start": 35.9,
+      "end": 47.0,
+      "text": "Hey, je réussis !"
+    }
+  ]
+}

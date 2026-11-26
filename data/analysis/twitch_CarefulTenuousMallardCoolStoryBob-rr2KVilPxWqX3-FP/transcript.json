@@ -1,0 +1,25 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.6,
+      "end": 7.5,
+      "text": "this is actually horrible this is definitely not crime"
+    },
+    {
+      "start": 7.5,
+      "end": 12.3,
+      "text": "a bit of pot-holding I can't be considered for a crime can it you see it"
+    },
+    {
+      "start": 12.3,
+      "end": 20.9,
+      "text": "just fell from the sky what the fuck you just plummeted from the sky land of"
+    },
+    {
+      "start": 20.9,
+      "end": 23.7,
+      "text": "the document"
+    }
+  ]
+}

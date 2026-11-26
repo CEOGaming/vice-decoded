@@ -1,0 +1,70 @@
+{
+  "language": "es",
+  "segments": [
+    {
+      "start": 0.3,
+      "end": 2.3,
+      "text": "Vale chavales, me tengo que tirar aquí abajo ¿eh?"
+    },
+    {
+      "start": 2.3,
+      "end": 9.0,
+      "text": "Vale, cuidado"
+    },
+    {
+      "start": 9.0,
+      "end": 11.0,
+      "text": "Ok"
+    },
+    {
+      "start": 11.0,
+      "end": 23.8,
+      "text": "Voy a entrar aquí"
+    },
+    {
+      "start": 23.8,
+      "end": 25.8,
+      "text": "Ok, cuidado"
+    },
+    {
+      "start": 29.4,
+      "end": 31.4,
+      "text": "Vale, no, no, no, no..."
+    },
+    {
+      "start": 31.4,
+      "end": 33.4,
+      "text": "Vale, estamos vivos"
+    },
+    {
+      "start": 33.4,
+      "end": 35.4,
+      "text": "Está todo correcto señores"
+    },
+    {
+      "start": 35.4,
+      "end": 37.4,
+      "text": "Hemos aterrizado"
+    },
+    {
+      "start": 37.4,
+      "end": 39.4,
+      "text": "a una velocidad quizás un poco superior"
+    },
+    {
+      "start": 39.4,
+      "end": 41.4,
+      "text": "a lo normal"
+    },
+    {
+      "start": 41.4,
+      "end": 43.4,
+      "text": "Pero estamos de locos"
+    },
+    {
+      "start": 43.4,
+      "end": 45.4,
+      "text": "y podemos continuar con el atraco"
+    }
+  ]
+}

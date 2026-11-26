@@ -1,0 +1,25 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "There's no way we could trust what we're gonna fight here."
+    },
+    {
+      "start": 2.0,
+      "end": 3.0,
+      "text": "I did."
+    },
+    {
+      "start": 3.0,
+      "end": 4.0,
+      "text": "Hey!"
+    },
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "text": "Those fans, don't jump!"
+    }
+  ]
+}

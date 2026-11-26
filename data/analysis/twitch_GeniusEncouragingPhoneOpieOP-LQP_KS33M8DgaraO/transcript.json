@@ -1,0 +1,20 @@
+{
+  "language": "fr",
+  "segments": [
+    {
+      "start": 13.4,
+      "end": 15.4,
+      "text": "ça va ?"
+    },
+    {
+      "start": 15.4,
+      "end": 17.4,
+      "text": "mais Jason je saute dans un pont"
+    },
+    {
+      "start": 17.4,
+      "end": 19.4,
+      "text": "tu viens avec moi quoi c'est..."
+    }
+  ]
+}

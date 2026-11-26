@@ -1,0 +1,40 @@
+{
+  "language": "es",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "a ver qué tan rico se siente"
+    },
+    {
+      "start": 2.0,
+      "end": 6.2,
+      "text": "o me tiro desde aquí"
+    },
+    {
+      "start": 6.2,
+      "end": 8.2,
+      "text": "igual es que..."
+    },
+    {
+      "start": 8.2,
+      "end": 10.2,
+      "text": "ahí se ve la roca igual no hay mucha profundidad"
+    },
+    {
+      "start": 10.2,
+      "end": 27.9,
+      "text": "y me mete una hostia"
+    },
+    {
+      "start": 27.9,
+      "end": 29.9,
+      "text": "chico"
+    },
+    {
+      "start": 29.9,
+      "end": 31.9,
+      "text": "chico"
+    }
+  ]
+}

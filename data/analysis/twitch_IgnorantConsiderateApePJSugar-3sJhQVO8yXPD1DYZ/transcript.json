@@ -1,0 +1,40 @@
+{
+  "language": "fr",
+  "segments": [
+    {
+      "start": 0.5,
+      "end": 4.5,
+      "text": "Mais le voyant, là, il m'en avait pas dit que c'était une compétition... Oh, Chris!"
+    },
+    {
+      "start": 4.5,
+      "end": 6.5,
+      "text": "Qu'est-ce qu'il est arrivé au parachute?"
+    },
+    {
+      "start": 6.5,
+      "end": 7.5,
+      "text": "Oh!"
+    },
+    {
+      "start": 7.5,
+      "end": 12.2,
+      "text": "Il est tout le temps mort! Qu'est-ce qu'il est arrivé au parachute?"
+    },
+    {
+      "start": 12.2,
+      "end": 24.6,
+      "text": "Oh, merde!"
+    },
+    {
+      "start": 24.6,
+      "end": 27.6,
+      "text": "Je dois aller voir mes clients, bon clients mémis."
+    },
+    {
+      "start": 27.6,
+      "end": 33.5,
+      "text": "Wow, c'est beau, la petite pluie qu'il y a eu sur l'auto."
+    }
+  ]
+}

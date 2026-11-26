@@ -1,0 +1,15 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "text": "Oh man!"
+    },
+    {
+      "start": 6.0,
+      "end": 14.0,
+      "text": "Is that Instagram tip there?"
+    }
+  ]
+}

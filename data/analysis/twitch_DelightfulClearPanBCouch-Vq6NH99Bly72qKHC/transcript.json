@@ -1,0 +1,30 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Oh my god, this is really high up."
+    },
+    {
+      "start": 4.0,
+      "end": 7.6,
+      "text": "Ugh, this is really..."
+    },
+    {
+      "start": 10.6,
+      "end": 11.6,
+      "text": "Jason!"
+    },
+    {
+      "start": 12.6,
+      "end": 13.6,
+      "text": "What the hell did..."
+    },
+    {
+      "start": 19.1,
+      "end": 20.1,
+      "text": "Jason!"
+    }
+  ]
+}

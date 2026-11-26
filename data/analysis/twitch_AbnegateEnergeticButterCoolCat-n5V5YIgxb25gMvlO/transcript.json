@@ -1,0 +1,40 @@
+{
+  "language": "fr",
+  "segments": [
+    {
+      "start": 0.6,
+      "end": 14.4,
+      "text": "Je descends Lucia."
+    },
+    {
+      "start": 14.4,
+      "end": 16.4,
+      "text": "Ah les solides quand même hein !"
+    },
+    {
+      "start": 16.4,
+      "end": 18.4,
+      "text": "Solides la mamita !"
+    },
+    {
+      "start": 20.4,
+      "end": 24.4,
+      "text": "Ah l'exploration des fantômes qui viront au cauchemar !"
+    },
+    {
+      "start": 24.4,
+      "end": 26.4,
+      "text": "Ça va mamie ?"
+    },
+    {
+      "start": 26.4,
+      "end": 29.8,
+      "text": "Alors ?"
+    },
+    {
+      "start": 29.8,
+      "end": 31.8,
+      "text": "Euh ben..."
+    }
+  ]
+}

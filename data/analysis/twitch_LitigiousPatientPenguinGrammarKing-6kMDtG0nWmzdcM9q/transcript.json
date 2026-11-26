@@ -1,0 +1,30 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.7,
+      "text": "I can get the fuck out of here."
+    },
+    {
+      "start": 1.7,
+      "end": 3.9,
+      "text": "Don't even think about it, Missy."
+    },
+    {
+      "start": 3.9,
+      "end": 7.0,
+      "text": "We ain't giving up one single box."
+    },
+    {
+      "start": 7.0,
+      "end": 9.3,
+      "text": "All these bits."
+    },
+    {
+      "start": 9.3,
+      "end": 10.6,
+      "text": "I'll double back, Pfeiffer."
+    }
+  ]
+}

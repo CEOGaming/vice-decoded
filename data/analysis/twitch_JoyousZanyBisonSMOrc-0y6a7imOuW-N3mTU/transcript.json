@@ -1,0 +1,30 @@
+{
+  "language": "de",
+  "segments": [
+    {
+      "start": 2.7,
+      "end": 9.4,
+      "text": "Uhu. Nein, falsche Richtung, Mann."
+    },
+    {
+      "start": 9.4,
+      "end": 19.2,
+      "text": "Ah, ja, geht auch raus, also ich versteh nicht."
+    },
+    {
+      "start": 19.2,
+      "end": 22.2,
+      "text": "Ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, richtige Richtung."
+    },
+    {
+      "start": 22.2,
+      "end": 25.2,
+      "text": "Jawolski. Junk Hacker fällt das."
+    },
+    {
+      "start": 25.2,
+      "end": 31.6,
+      "text": "Gut, bisschen Spaß muss sein natürlich."
+    }
+  ]
+}

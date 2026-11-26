@@ -1,0 +1,35 @@
+{
+  "language": "de",
+  "segments": [
+    {
+      "start": 2.7,
+      "end": 5.7,
+      "text": "Liebe Junker, hier einmal an der Stelle weggucken."
+    },
+    {
+      "start": 6.7,
+      "end": 7.7,
+      "text": "Gut."
+    },
+    {
+      "start": 8.7,
+      "end": 10.7,
+      "text": "Hier bitte auch an der Stelle einmal weggucken."
+    },
+    {
+      "start": 11.7,
+      "end": 13.7,
+      "text": "Da auch."
+    },
+    {
+      "start": 13.7,
+      "end": 14.7,
+      "text": "Hier auch."
+    },
+    {
+      "start": 14.7,
+      "end": 34.7,
+      "text": "Ja, nice try."
+    }
+  ]
+}

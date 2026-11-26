@@ -1,0 +1,30 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.4,
+      "text": "Oh, you're still alive. Oh, there's another guy"
+    },
+    {
+      "start": 7.9,
+      "end": 17.3,
+      "text": "Is that something about CCTV footage? I'm so sorry. I didn't mean to do that. They shouldn't have shot"
+    },
+    {
+      "start": 26.9,
+      "end": 28.9,
+      "text": "CCTV bro, can I get rid of this?"
+    },
+    {
+      "start": 30.2,
+      "end": 40.9,
+      "text": "But they already saw it so it doesn't matter. Okay, I can hear them really close. Jason, is he waiting for me?"
+    },
+    {
+      "start": 40.9,
+      "end": 54.4,
+      "text": "Okay"
+    }
+  ]
+}

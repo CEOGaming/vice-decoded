@@ -1,0 +1,55 @@
+{
+  "language": "de",
+  "segments": [
+    {
+      "start": 0.1,
+      "end": 3.1,
+      "text": "Warnet mein Boot. So, Landing Checklist."
+    },
+    {
+      "start": 3.1,
+      "end": 6.1,
+      "text": "You're down, flaps full."
+    },
+    {
+      "start": 7.1,
+      "end": 9.1,
+      "text": "You ready for landing?"
+    },
+    {
+      "start": 10.1,
+      "end": 11.1,
+      "text": "I'm down."
+    },
+    {
+      "start": 13.1,
+      "end": 17.1,
+      "text": "Landing in three, two, one."
+    },
+    {
+      "start": 17.1,
+      "end": 29.0,
+      "text": "Ja, da, smooth chat."
+    },
+    {
+      "start": 31.0,
+      "end": 32.0,
+      "text": "Smooth."
+    },
+    {
+      "start": 35.0,
+      "end": 37.0,
+      "text": "Mit Landing Checklist, aber auch einfach Chat."
+    },
+    {
+      "start": 38.0,
+      "end": 42.0,
+      "text": "Dann hast du direkt alles auf dem Schirm, was wichtig ist."
+    },
+    {
+      "start": 43.0,
+      "end": 45.0,
+      "text": "Würde ich euch auch empfehlen."
+    }
+  ]
+}

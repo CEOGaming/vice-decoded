@@ -1,0 +1,35 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 1.0,
+      "end": 9.7,
+      "text": "Good morning. Oh, yeah, that's uh over here somewhere. I'm guessing my car got impounded and happy thanksgiving"
+    },
+    {
+      "start": 10.3,
+      "end": 12.3,
+      "text": "Listen to the options. Mm-hmm"
+    },
+    {
+      "start": 12.9,
+      "end": 14.9,
+      "text": "It's what's it gonna be"
+    },
+    {
+      "start": 14.9,
+      "end": 17.7,
+      "text": "And whatever it is we do it together, of course"
+    },
+    {
+      "start": 20.9,
+      "end": 27.9,
+      "text": "Impound bowling alley born shop. Hmm. Oh, I don't know"
+    },
+    {
+      "start": 28.9,
+      "end": 30.9,
+      "text": "All the mud club"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.6,
+      "end": 3.0,
+      "text": "But it says it's like done with that, you know what I'm saying?"
+    },
+    {
+      "start": 3.0,
+      "end": 5.0,
+      "text": "And Gustavo said we was cool, so..."
+    },
+    {
+      "start": 7.6,
+      "end": 9.0,
+      "text": "Oh, what the fuck?"
+    },
+    {
+      "start": 13.8,
+      "end": 15.4,
+      "text": "What the fuck, Jason?"
+    }
+  ]
+}

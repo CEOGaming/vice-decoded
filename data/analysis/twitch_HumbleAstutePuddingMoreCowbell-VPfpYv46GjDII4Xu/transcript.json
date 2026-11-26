@@ -1,0 +1,25 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 2.6,
+      "end": 17.1,
+      "text": "Fuckin' there!"
+    },
+    {
+      "start": 17.1,
+      "end": 34.2,
+      "text": "There she is! You okay?"
+    },
+    {
+      "start": 34.2,
+      "end": 36.2,
+      "text": "I'm not crying!"
+    },
+    {
+      "start": 36.2,
+      "end": 38.2,
+      "text": "Give me that shit!"
+    }
+  ]
+}

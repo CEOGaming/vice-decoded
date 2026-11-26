@@ -1,0 +1,40 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.6,
+      "end": 2.6,
+      "text": "What the fuck, they can't die?"
+    },
+    {
+      "start": 17.6,
+      "end": 18.6,
+      "text": "That's it for me."
+    },
+    {
+      "start": 19.6,
+      "end": 20.6,
+      "text": "GG!"
+    },
+    {
+      "start": 20.6,
+      "end": 21.6,
+      "text": "Down to a GTA."
+    },
+    {
+      "start": 21.6,
+      "end": 23.6,
+      "text": "7.5 out of 10."
+    },
+    {
+      "start": 23.6,
+      "end": 24.6,
+      "text": "It was a nice game."
+    },
+    {
+      "start": 26.6,
+      "end": 27.6,
+      "text": "Wanna get murdered?"
+    }
+  ]
+}

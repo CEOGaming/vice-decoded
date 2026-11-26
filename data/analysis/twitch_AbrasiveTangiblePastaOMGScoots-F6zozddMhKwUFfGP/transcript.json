@@ -1,0 +1,40 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.5,
+      "end": 1.5,
+      "text": "I approve."
+    },
+    {
+      "start": 1.5,
+      "end": 3.5,
+      "text": "I'm gonna get stuck!"
+    },
+    {
+      "start": 3.5,
+      "end": 8.2,
+      "text": "Ha ha ha ha ha ha ha ha!"
+    },
+    {
+      "start": 8.2,
+      "end": 10.2,
+      "text": "You stop there."
+    },
+    {
+      "start": 10.2,
+      "end": 12.2,
+      "text": "What?! I managed to get hit by my own bike."
+    },
+    {
+      "start": 12.2,
+      "end": 13.2,
+      "text": "I ran myself over."
+    },
+    {
+      "start": 13.2,
+      "end": 14.2,
+      "text": "Oh, I'm sorry, Casey."
+    }
+  ]
+}

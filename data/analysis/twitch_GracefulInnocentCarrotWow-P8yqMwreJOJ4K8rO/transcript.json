@@ -4,107 +4,162 @@
     {
       "start": 0.0,
       "end": 2.0,
-      "text": "Das ist er."
+      "text": "Nie ist er da unten."
     },
     {
       "start": 2.0,
       "end": 4.0,
-      "text": "Ja hinter dir."
+      "text": "Ja, hinter dir."
     },
     {
       "start": 4.0,
+      "end": 5.0,
+      "text": "Bitte schön."
+    },
+    {
+      "start": 5.0,
       "end": 6.0,
       "text": "Wo?"
     },
     {
       "start": 6.0,
+      "end": 7.0,
+      "text": "Hier."
+    },
+    {
+      "start": 7.0,
       "end": 8.0,
       "text": "Hier."
     },
     {
       "start": 8.0,
-      "end": 10.0,
-      "text": "Hier."
+      "end": 9.0,
+      "text": "Auch hier."
     },
     {
-      "start": 10.0,
-      "end": 12.0,
-      "text": "Da."
+      "start": 9.0,
+      "end": 11.0,
+      "text": "Okay, frag ich da unter diesen Bett gegangen."
     },
     {
-      "start": 12.0,
+      "start": 11.0,
+      "end": 13.0,
+      "text": "Da, da, da, da, da."
+    },
+    {
+      "start": 13.0,
       "end": 14.0,
-      "text": "Da."
+      "text": "Da ist so seine Foto."
     },
     {
       "start": 14.0,
-      "end": 16.0,
+      "end": 15.0,
       "text": "Da."
     },
     {
-      "start": 16.0,
+      "start": 15.0,
+      "end": 17.0,
+      "text": "Da, da, da, da."
+    },
+    {
+      "start": 17.0,
       "end": 18.0,
-      "text": "Da."
+      "text": "Da, die Bettschuhe."
     },
     {
       "start": 18.0,
+      "end": 19.0,
+      "text": "Wo?"
+    },
+    {
+      "start": 19.0,
       "end": 20.0,
-      "text": "Da."
+      "text": "Hier."
     },
     {
       "start": 20.0,
       "end": 24.1,
-      "text": "Da."
+      "text": "Ein bisschen blöd oder?"
     },
     {
       "start": 24.1,
       "end": 26.1,
-      "text": "Da."
+      "text": "Ich habe richtig mich verarschen."
     },
     {
       "start": 26.1,
       "end": 28.1,
-      "text": "Da."
+      "text": "Weil du bist mich verarschen."
     },
     {
       "start": 28.1,
+      "end": 29.1,
+      "text": "Wo?"
+    },
+    {
+      "start": 29.1,
       "end": 30.1,
-      "text": "Da."
+      "text": "Wo?"
     },
     {
       "start": 30.1,
-      "end": 32.1,
-      "text": "punkt mal der ich hab einkaufen meinen hund"
+      "end": 33.1,
+      "text": "Schau mal, der, ich habe Einkaufen in meiner Hand."
+    },
+    {
+      "start": 33.1,
+      "end": 35.1,
+      "text": "Ich will."
+    },
+    {
+      "start": 35.1,
+      "end": 37.1,
+      "text": "Are you proud of yourself now?"
+    },
+    {
+      "start": 37.1,
+      "end": 39.1,
+      "text": "Are you happy with yourself now?"
+    },
+    {
+      "start": 39.1,
+      "end": 40.1,
+      "text": "Are you happy now?"
     },
     {
       "start": 40.1,
+      "end": 41.1,
+      "text": "Hast du ein Ding?"
+    },
+    {
+      "start": 41.1,
       "end": 42.1,
-      "text": "Hast du einen den das ist nicht dein Ding"
+      "text": "Was ist das?"
     },
     {
       "start": 42.1,
-      "end": 44.1,
-      "text": "das ist mein Ding"
+      "end": 43.1,
+      "text": "Ist das ein Ding?"
     },
     {
-      "start": 44.1,
+      "start": 43.1,
+      "end": 45.1,
+      "text": "Zeig das mal, zeig mal die Kamera."
+    },
+    {
+      "start": 45.1,
       "end": 46.1,
-      "text": "Zeig dass mal, zeig dein Ding die Kamera, zeig mal was das ist"
+      "text": "Zeig mal, was ist das?"
     },
     {
       "start": 46.1,
+      "end": 47.1,
+      "text": "Geh mal rein, die sehen das nicht."
+    },
+    {
+      "start": 47.1,
       "end": 48.1,
-      "text": "hier mal rein die sehen das nicht"
-    },
-    {
-      "start": 48.1,
-      "end": 56.1,
-      "text": "weiß"
-    },
-    {
-      "start": 56.1,
-      "end": 58.1,
-      "text": "portrayales"
+      "text": "Weiß?"
     }
   ]
 }

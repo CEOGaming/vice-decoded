@@ -1,0 +1,25 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.6,
+      "end": 36.6,
+      "text": "Right, so now it's doughnut bag. Fuck. Wait, I don't want to blow my car up. I don't want to blow my car up."
+    },
+    {
+      "start": 36.6,
+      "end": 38.6,
+      "text": "I don't want to blow my car up."
+    },
+    {
+      "start": 38.6,
+      "end": 45.5,
+      "text": "That's what's up."
+    },
+    {
+      "start": 45.5,
+      "end": 46.5,
+      "text": "Here we go."
+    }
+  ]
+}

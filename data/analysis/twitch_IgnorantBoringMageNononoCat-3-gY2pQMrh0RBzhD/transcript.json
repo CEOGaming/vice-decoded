@@ -1,0 +1,15 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Hey, what's going on here?"
+    },
+    {
+      "start": 12.7,
+      "end": 20.7,
+      "text": "I don't know what I just stumbled into. Hola, man canta to zapatos"
+    }
+  ]
+}

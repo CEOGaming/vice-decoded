@@ -1,0 +1,30 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Some cheats as well"
+    },
+    {
+      "start": 3.2,
+      "end": 4.9,
+      "text": "What?"
+    },
+    {
+      "start": 4.9,
+      "end": 10.0,
+      "text": "Some cheats you weren't supposed to repeat that"
+    },
+    {
+      "start": 11.3,
+      "end": 12.8,
+      "text": "our"
+    },
+    {
+      "start": 12.8,
+      "end": 17.7,
+      "text": "I'm ten toes down 20 toes. I got ten toes down"
+    }
+  ]
+}

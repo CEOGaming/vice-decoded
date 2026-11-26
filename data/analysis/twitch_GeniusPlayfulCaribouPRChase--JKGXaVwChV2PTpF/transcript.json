@@ -1,0 +1,25 @@
+{
+  "language": "fr",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.8,
+      "text": "J'essaie de régler ça les problèmes, mais bon le plus grand problématique c'est Plexo."
+    },
+    {
+      "start": 6.3,
+      "end": 7.3,
+      "text": "C'est Plexo."
+    },
+    {
+      "start": 9.8,
+      "end": 11.8,
+      "text": "Il est trop gentil et ça nous met la mauvaise ambiance."
+    },
+    {
+      "start": 13.3,
+      "end": 15.8,
+      "text": "On n'a pas l'habitude, c'est pas que comment je dirais ça."
+    }
+  ]
+}

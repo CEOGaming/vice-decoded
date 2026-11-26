@@ -1,0 +1,35 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "I thought I'd be able to go through there."
+    },
+    {
+      "start": 5.0,
+      "end": 7.0,
+      "text": "Oh, I hit a bird!"
+    },
+    {
+      "start": 10.0,
+      "end": 14.0,
+      "text": "Oh my god, did you see the girl jump out of the way and then she knocked her head on the wall?"
+    },
+    {
+      "start": 14.0,
+      "end": 16.0,
+      "text": "Please tell me if someone saw that."
+    },
+    {
+      "start": 16.0,
+      "end": 20.0,
+      "text": "You might not have seen it on TikTok because you're not on full screen, but Twitch, you probably saw it."
+    },
+    {
+      "start": 20.0,
+      "end": 23.0,
+      "text": "Please tell me you saw the girl knock herself out."
+    }
+  ]
+}
