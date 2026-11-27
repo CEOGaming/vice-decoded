@@ -58,5 +58,13 @@
   ],
   "style": "prompt",
   "streamer": "alanzoka",
-  "credit": "Clip: alanzoka (Twitch)"
+  "credit": "Clip: alanzoka (Twitch)",
+  "mask": [
+    [
+      0.3,
+      0.86,
+      0.4,
+      0.12
+    ]
+  ]
 }
