@@ -1,0 +1,40 @@
+{
+  "language": "de",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.7,
+      "text": "Boah, ich schwöre. Der kriegt jetzt Deluxe."
+    },
+    {
+      "start": 3.7,
+      "end": 4.8,
+      "text": "Oh, Scheiße, der sieht mich."
+    },
+    {
+      "start": 4.8,
+      "end": 7.7,
+      "text": "Ah, Penner! Penner! Penner! Penner!"
+    },
+    {
+      "start": 7.7,
+      "end": 9.1,
+      "text": "Mach den Tod! Penner!"
+    },
+    {
+      "start": 9.1,
+      "end": 10.3,
+      "text": "Ah, Scheiße!"
+    },
+    {
+      "start": 12.6,
+      "end": 14.5,
+      "text": "Abgefleischt hier, ey."
+    },
+    {
+      "start": 15.5,
+      "end": 18.2,
+      "text": "Abgeflutscht wie Flutschlinger, ey."
+    }
+  ]
+}

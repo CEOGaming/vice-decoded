@@ -1,0 +1,40 @@
+{
+  "language": "es",
+  "segments": [
+    {
+      "start": 7.8,
+      "end": 10.5,
+      "text": "¡Buf! ¡Hostia, que hay un puto notas aquí, tú!"
+    },
+    {
+      "start": 14.0,
+      "end": 15.0,
+      "text": "¿Hay alguien más?"
+    },
+    {
+      "start": 15.0,
+      "end": 22.5,
+      "text": "¡De a puto robo! ¡Qué puta locura, menos mal, eh!"
+    },
+    {
+      "start": 22.5,
+      "end": 24.0,
+      "text": "O sea, qué locura hacer clip de eso."
+    },
+    {
+      "start": 24.0,
+      "end": 25.6,
+      "text": "Es una puta locura, ¿dónde acaba de pasar?"
+    },
+    {
+      "start": 25.6,
+      "end": 28.2,
+      "text": "¡El juego se acaba de fumar una puta bala, eh!"
+    },
+    {
+      "start": 29.5,
+      "end": 30.5,
+      "text": "¿Cómo se..."
+    }
+  ]
+}

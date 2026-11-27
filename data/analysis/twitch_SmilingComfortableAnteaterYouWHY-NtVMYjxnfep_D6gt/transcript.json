@@ -1,0 +1,30 @@
+{
+  "language": "de",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.3,
+      "text": "Ich hab gar kein Zeitfeeling, Alter. Wisst ihr, wie mich das aufregt?"
+    },
+    {
+      "start": 3.8,
+      "end": 6.6,
+      "text": "Ich bin heute Morgen aufgestanden, Alter. Ich hab gedacht, wir haben Donnerstag."
+    },
+    {
+      "start": 7.0,
+      "end": 8.3,
+      "text": "Ja, aber ja, wir haben Mittwoch."
+    },
+    {
+      "start": 8.7,
+      "end": 10.6,
+      "text": "Meine Fresse, ich sag dir das."
+    },
+    {
+      "start": 10.9,
+      "end": 12.9,
+      "text": "Kein Leben mehr, Alter, ey."
+    }
+  ]
+}
