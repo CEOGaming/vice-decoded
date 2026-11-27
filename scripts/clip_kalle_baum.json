@@ -1,0 +1,76 @@
+{
+  "id": "clip_kalle_baum",
+  "source": "https://www.twitch.tv/kalle/clip/TallSquareWolfJKanStyle-Mhl_qlZUTCDLT0Nm",
+  "layout": "fill",
+  "hook": "KOPF GEGEN DEN BAUM",
+  "hook_full": true,
+  "title": "Kalle fährt in GTA 6 frontal gegen einen Baum #shorts",
+  "description": "Kalle rast in GTA 6 mit dem Bike durch den Wald und knallt mit dem Kopf voll gegen einen Baum. Original-Clip: Kalle – https://www.twitch.tv/kalle/clip/TallSquareWolfJKanStyle-Mhl_qlZUTCDLT0Nm\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #kalle #unfall #bike",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "kalle",
+    "unfall",
+    "bike"
+  ],
+  "tiktok": "Gehirnerschütterung inklusive 🌳 #gta6 #gtavi #kalle #fyp",
+  "instagram": "Kopf gegen den Baum 🌳\n\n#gta6 #gtavi #gaming #reels",
+  "beats": [
+    {
+      "original": true,
+      "start": 2.0,
+      "end": 28.0,
+      "focus": 0.5,
+      "subs": [
+        [
+          3,
+          6,
+          "Oh, das hab ich nicht gesehen!",
+          "KALLE"
+        ],
+        [
+          6,
+          9,
+          "Er rennt mit dem Kopf gegen den Baum.",
+          "KALLE"
+        ],
+        [
+          12,
+          15,
+          "Wie das in Zeitlupe aussah!",
+          "KALLE"
+        ],
+        [
+          15,
+          18.5,
+          "Das hat richtig gedröhnt, der hat eine Gehirnerschütterung.",
+          "KALLE"
+        ],
+        [
+          20,
+          21.2,
+          "Tschüss!",
+          "KALLE"
+        ],
+        [
+          21.5,
+          25,
+          "Upsi!",
+          "KALLE"
+        ]
+      ]
+    }
+  ],
+  "style": "prompt",
+  "streamer": "Kalle",
+  "credit": "Clip: Kalle (Twitch)",
+  "mask": [
+    [
+      0.3,
+      0.86,
+      0.4,
+      0.12
+    ]
+  ]
+}

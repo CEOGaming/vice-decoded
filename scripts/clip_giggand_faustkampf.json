@@ -1,0 +1,86 @@
+{
+  "id": "clip_giggand_faustkampf",
+  "source": "https://www.twitch.tv/giggand/clip/SnappyFreezingTroutPoooound-lwntDMDoHR5TsT2M",
+  "layout": "fill",
+  "hook": "DER NPC SCHLÄGT ZURÜCK",
+  "hook_full": true,
+  "title": "Giggand legt sich in GTA 6 mit dem falschen NPC an #shorts",
+  "description": "Giggand startet in GTA 6 eine Prügelei mit einem NPC – und kassiert die größte Bombe. Original-Clip: Giggand – https://www.twitch.tv/giggand/clip/SnappyFreezingTroutPoooound-lwntDMDoHR5TsT2M\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #giggand #npc #faustkampf",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "giggand",
+    "npc",
+    "faustkampf"
+  ],
+  "tiktok": "Der NPC war stärker 👊 #gta6 #gtavi #giggand #fyp",
+  "instagram": "Falscher NPC 👊\n\n#gta6 #gtavi #gaming #reels",
+  "beats": [
+    {
+      "original": true,
+      "start": 0.0,
+      "end": 48.5,
+      "focus": 0.5,
+      "subs": [
+        [
+          3,
+          5,
+          "Oh, oh, oh.",
+          "GIGGAND"
+        ],
+        [
+          5,
+          7,
+          "Hey!",
+          "GIGGAND"
+        ],
+        [
+          7,
+          10,
+          "Was ist denn da?",
+          "GIGGAND"
+        ],
+        [
+          19,
+          21,
+          "Der Arme!",
+          "GIGGAND"
+        ],
+        [
+          21,
+          25,
+          "Was hat er mir für eine Bombe gegeben, Bruder?",
+          "GIGGAND"
+        ],
+        [
+          38,
+          41,
+          "Ich wollte gerade sagen, wir haben ihn erledigt.",
+          "GIGGAND"
+        ],
+        [
+          41,
+          43,
+          "Alter, er weiß, wo sein Platz ist.",
+          "GIGGAND"
+        ],
+        [
+          43,
+          45,
+          "In derselben Sekunde krieg ich die größte Bombe.",
+          "GIGGAND"
+        ],
+        [
+          45,
+          48,
+          "Oh, oh, oh … Ey!",
+          "GIGGAND"
+        ]
+      ]
+    }
+  ],
+  "style": "prompt",
+  "streamer": "Giggand",
+  "credit": "Clip: Giggand (Twitch)"
+}

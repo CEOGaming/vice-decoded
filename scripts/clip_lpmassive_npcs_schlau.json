@@ -1,0 +1,76 @@
+{
+  "id": "clip_lpmassive_npcs_schlau",
+  "source": "https://www.twitch.tv/lpmassive/clip/IronicHelpfulWrenWoofer-1pvb9XPue4SSCYY0",
+  "layout": "fill",
+  "hook": "DIE NPCS SIND ZU SCHLAU",
+  "hook_full": true,
+  "title": "LPMassive wird in GTA 6 von einem NPC ausgetrickst #shorts",
+  "description": "LPMassive will in GTA 6 einem NPC ausweichen – doch der ist schlauer als gedacht und Lucia fliegt von der Brücke. Original-Clip: LPMassive – https://www.twitch.tv/lpmassive/clip/IronicHelpfulWrenWoofer-1pvb9XPue4SSCYY0\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #lpmassive #npc #lucia",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "lpmassive",
+    "npc",
+    "lucia"
+  ],
+  "tiktok": "Die NPCs sind zu schlau 😭 #gta6 #gtavi #lpmassive #fyp",
+  "instagram": "NPC 1 – LPMassive 0 😭\n\n#gta6 #gtavi #gaming #reels",
+  "beats": [
+    {
+      "original": true,
+      "start": 0.0,
+      "end": 30.0,
+      "focus": 0.5,
+      "subs": [
+        [
+          0.3,
+          4,
+          "Wir müssen gucken, wann es die ersten gibt.",
+          "LPMASSIVE"
+        ],
+        [
+          6,
+          7.5,
+          "Mist!",
+          "LPMASSIVE"
+        ],
+        [
+          14,
+          16,
+          "Können wir einfach da hinten abbiegen?",
+          "LPMASSIVE"
+        ],
+        [
+          19,
+          24,
+          "Oh, ich hasse es, dass die NPCs so schlau sind.",
+          "LPMASSIVE"
+        ],
+        [
+          24,
+          29.5,
+          "Ich wollte ihm ausweichen …",
+          "LPMASSIVE"
+        ]
+      ]
+    }
+  ],
+  "style": "prompt",
+  "streamer": "LPMassive",
+  "credit": "Clip: LPMassive (Twitch)",
+  "mask": [
+    [
+      0.3,
+      0.86,
+      0.4,
+      0.12
+    ],
+    [
+      0.75,
+      0.88,
+      0.25,
+      0.12
+    ]
+  ]
+}

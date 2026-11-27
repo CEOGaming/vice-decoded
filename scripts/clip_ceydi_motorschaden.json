@@ -1,0 +1,46 @@
+{
+  "id": "clip_ceydi_motorschaden",
+  "source": "https://www.twitch.tv/itsceydi/clip/CaringViscousGrouseTTours-npiRDH7CiQ0T48Wp",
+  "layout": "fill",
+  "hook": "SCHON WIEDER MOTORSCHADEN?",
+  "hook_full": true,
+  "title": "itsceydi bringt ihr Auto in GTA 6 kaputt in die Werkstatt #shorts",
+  "description": "itsceydi fährt in GTA 6 ihr Auto zur Werkstatt – mit qualmendem Motor. Karma. Original-Clip: itsceydi – https://www.twitch.tv/itsceydi/clip/CaringViscousGrouseTTours-npiRDH7CiQ0T48Wp\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #itsceydi #auto #werkstatt",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "itsceydi",
+    "auto",
+    "werkstatt"
+  ],
+  "tiktok": "Karma 🚗💨 #gta6 #gtavi #itsceydi #fyp",
+  "instagram": "Motorschaden, schon wieder 🚗💨\n\n#gta6 #gtavi #gaming #reels",
+  "beats": [
+    {
+      "original": true,
+      "start": 0.0,
+      "end": 18.6,
+      "focus": 0.5,
+      "subs": [
+        [
+          1,
+          3.5,
+          "Ist das diesmal kein Motorschaden?",
+          "CEYDI"
+        ]
+      ]
+    }
+  ],
+  "style": "prompt",
+  "streamer": "Ceydi",
+  "credit": "Clip: itsceydi (Twitch)",
+  "mask": [
+    [
+      0.3,
+      0.86,
+      0.4,
+      0.12
+    ]
+  ]
+}

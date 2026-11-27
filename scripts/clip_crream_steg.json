@@ -1,0 +1,44 @@
+{
+  "id": "clip_crream_steg",
+  "source": "https://www.twitch.tv/crream/clip/ThankfulTenuousPuppyHumbleLife-5q32bb8fMTCwz-hE",
+  "layout": "fill",
+  "hook": "KANNST DU SCHWIMMEN?",
+  "hook_full": true,
+  "title": "CRREAM schubst in GTA 6 einen NPC vom Steg #shorts",
+  "description": "CRREAM trifft in GTA 6 einen NPC auf dem Pier – und der landet im Wasser. Original-Clip: CRREAM – https://www.twitch.tv/crream/clip/ThankfulTenuousPuppyHumbleLife-5q32bb8fMTCwz-hE\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #crream #npc #wasser",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "crream",
+    "npc",
+    "wasser"
+  ],
+  "tiktok": "Kannst du schwimmen? 🌊 #gta6 #gtavi #crream #fyp",
+  "instagram": "Ab ins Wasser 🌊\n\n#gta6 #gtavi #gaming #reels",
+  "beats": [
+    {
+      "original": true,
+      "start": 0.0,
+      "end": 22.3,
+      "focus": 0.5,
+      "subs": [
+        [
+          0,
+          2.5,
+          "Kannst du überhaupt schwimmen?",
+          "CRREAM"
+        ],
+        [
+          19,
+          21.5,
+          "Oh mein Gott!",
+          "CRREAM"
+        ]
+      ]
+    }
+  ],
+  "style": "prompt",
+  "streamer": "CRREAM",
+  "credit": "Clip: CRREAM (Twitch)"
+}

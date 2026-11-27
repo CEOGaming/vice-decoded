@@ -1,0 +1,62 @@
+{
+  "id": "clip_rubius_flugzeug",
+  "source": "https://www.twitch.tv/rubius/clip/DarlingHyperHerbsAllenHuhu-RY8iAb4ZDcCX_vn4",
+  "layout": "fill",
+  "hook": "FLUGZEUG DA, PILOT FEHLT",
+  "hook_full": true,
+  "title": "Rubius fliegt in GTA 6 ein Flugzeug – Landung missglückt #shorts",
+  "description": "Rubius startet in GTA 6 mit einem Jet über der Stadt. Ein Flugzeug hat er, nur der Pilot fehlt. Original-Clip: Rubius – https://www.twitch.tv/rubius/clip/DarlingHyperHerbsAllenHuhu-RY8iAb4ZDcCX_vn4\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #rubius #flugzeug #absturz",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "rubius",
+    "flugzeug",
+    "absturz"
+  ],
+  "tiktok": "Flugzeug da, Pilot fehlt ✈️💥 #gta6 #gtavi #rubius #fyp",
+  "instagram": "Pilot gesucht ✈️💥\n\n#gta6 #gtavi #gaming #reels",
+  "beats": [
+    {
+      "original": true,
+      "start": 0.0,
+      "end": 18.0,
+      "focus": 0.5,
+      "subs": [
+        [
+          2,
+          4,
+          "Okay, jetzt geht's los.",
+          "RUBIUS"
+        ],
+        [
+          5,
+          6,
+          "Der hebt doch ab, oder?",
+          "RUBIUS"
+        ],
+        [
+          6,
+          8,
+          "Hallo, hallo.",
+          "RUBIUS"
+        ],
+        [
+          10,
+          12,
+          "Oh nein, bitte nicht.",
+          "RUBIUS"
+        ],
+        [
+          12,
+          15,
+          "Aus dem Weg, aus dem Weg!",
+          "RUBIUS"
+        ]
+      ]
+    }
+  ],
+  "style": "prompt",
+  "streamer": "Rubius",
+  "credit": "Clip: Rubius (Twitch)"
+}

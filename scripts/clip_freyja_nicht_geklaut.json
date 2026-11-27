@@ -1,0 +1,82 @@
+{
+  "id": "clip_freyja_nicht_geklaut",
+  "source": "https://www.twitch.tv/freyja/clip/TiredPlumpTrayTooSpicy-dzwpPEWSw3BHNO2j",
+  "layout": "fill",
+  "hook": "ICH HAB'S NUR GELIEHEN",
+  "hook_full": true,
+  "title": "Freyja erklärt in GTA 6, warum sie das Auto nicht geklaut hat #shorts",
+  "description": "Freyja hat in GTA 6 ganz sicher kein Auto geklaut. Nur geliehen. Und gesucht wird sie auch nicht. Wirklich. Original-Clip: Freyja – https://www.twitch.tv/freyja/clip/TiredPlumpTrayTooSpicy-dzwpPEWSw3BHNO2j\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #freyja #auto #polizei",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "freyja",
+    "auto",
+    "polizei"
+  ],
+  "tiktok": "Nur geliehen, ehrlich 🚓 #gta6 #gtavi #freyja #fyp",
+  "instagram": "Nur geliehen 🚓\n\n#gta6 #gtavi #gaming #reels",
+  "beats": [
+    {
+      "original": true,
+      "start": 0.0,
+      "end": 43.6,
+      "focus": 0.5,
+      "subs": [
+        [
+          0,
+          4,
+          "Ich klaue dieses Auto nicht. Es ist nicht, wie es aussieht.",
+          "FREYJA"
+        ],
+        [
+          6,
+          10,
+          "Ich hab es mir für eine kurze Fahrt geliehen.",
+          "FREYJA"
+        ],
+        [
+          12,
+          20,
+          "Und ich werde gerade auch ganz sicher nicht von der Polizei gesucht.",
+          "FREYJA"
+        ],
+        [
+          21,
+          24,
+          "Weil ich vielleicht was in die Luft gejagt habe.",
+          "FREYJA"
+        ],
+        [
+          25,
+          31,
+          "Und zufällig in eine Schießerei geraten bin. Ich hab nicht angefangen!",
+          "FREYJA"
+        ],
+        [
+          32,
+          39,
+          "Ich wollte nur Hallo sagen und sie haben einfach auf mich geschossen.",
+          "FREYJA"
+        ],
+        [
+          42,
+          43.6,
+          "Und zurückgegeben hab ich es auch nicht.",
+          "FREYJA"
+        ]
+      ]
+    }
+  ],
+  "style": "prompt",
+  "streamer": "Freyja",
+  "credit": "Clip: Freyja (Twitch)",
+  "mask": [
+    [
+      0.3,
+      0.86,
+      0.4,
+      0.12
+    ]
+  ]
+}

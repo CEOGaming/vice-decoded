@@ -1,0 +1,58 @@
+{
+  "id": "clip_snowbikemike_todesspirale",
+  "source": "https://www.twitch.tv/snowbikemike/clip/VastTriumphantPancakeOneHand-jqKadkl17N5SRQf0",
+  "layout": "fill",
+  "hook": "DIE TODESSPIRALE",
+  "hook_full": true,
+  "title": "SnowBikeMike stürzt in GTA 6 mit dem Wasserflugzeug ab #shorts",
+  "description": "SnowBikeMike fliegt in GTA 6 ein Wasserflugzeug – direkt in die Todesspirale. Original-Clip: SnowBikeMike – https://www.twitch.tv/snowbikemike/clip/VastTriumphantPancakeOneHand-jqKadkl17N5SRQf0\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #snowbikemike #flugzeug #absturz",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "snowbikemike",
+    "flugzeug",
+    "absturz"
+  ],
+  "tiktok": "Die Todesspirale ✈️ #gta6 #gtavi #snowbikemike #fyp",
+  "instagram": "Todesspirale ✈️\n\n#gta6 #gtavi #gaming #reels",
+  "beats": [
+    {
+      "original": true,
+      "start": 0.0,
+      "end": 26.2,
+      "focus": 0.5,
+      "subs": [
+        [
+          2,
+          7,
+          "Da haben wir's, die Todesspirale.",
+          "MIKE"
+        ],
+        [
+          8,
+          12,
+          "Wow.",
+          "MIKE"
+        ],
+        [
+          13,
+          20,
+          "Wir haben richtig Speed bekommen.",
+          "MIKE"
+        ]
+      ]
+    }
+  ],
+  "style": "prompt",
+  "streamer": "SnowBikeMike",
+  "credit": "Clip: SnowBikeMike (Twitch)",
+  "mask": [
+    [
+      0.84,
+      0.42,
+      0.16,
+      0.2
+    ]
+  ]
+}

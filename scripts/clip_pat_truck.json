@@ -1,0 +1,70 @@
+{
+  "id": "clip_pat_truck",
+  "source": "https://www.twitch.tv/patstaresat/clip/InterestingFlaccidSheepYee-ja_iEghVUwq1rDUZ",
+  "layout": "fill",
+  "hook": "NICHT DIESEN TRUCK",
+  "hook_full": true,
+  "title": "PatStaresAt will in GTA 6 keinen Behinderten-Truck klauen #shorts",
+  "description": "PatStaresAt hat in GTA 6 Moral: Den Truck mit Behindertenausweis klaut er nicht. Der nächste ist dran. Original-Clip: PatStaresAt – https://www.twitch.tv/patstaresat/clip/InterestingFlaccidSheepYee-ja_iEghVUwq1rDUZ\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #patstaresat #auto #klauen",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "patstaresat",
+    "auto",
+    "klauen"
+  ],
+  "tiktok": "GTA mit Moral 😇 #gta6 #gtavi #patstaresat #fyp",
+  "instagram": "Moral in GTA 6 😇\n\n#gta6 #gtavi #gaming #reels",
+  "beats": [
+    {
+      "original": true,
+      "start": 1.0,
+      "end": 30.0,
+      "focus": 0.5,
+      "subs": [
+        [
+          2,
+          7,
+          "Oh, das ist der Truck von einem Behinderten.",
+          "PAT"
+        ],
+        [
+          7,
+          14,
+          "Den klaue ich nicht.",
+          "PAT"
+        ],
+        [
+          14,
+          21,
+          "Ich klaue keinem Behinderten den Truck.",
+          "PAT"
+        ],
+        [
+          22,
+          25,
+          "Ich klaue lieber den Truck von dem Typen. Oh Mist.",
+          "PAT"
+        ],
+        [
+          28,
+          30,
+          "Hey, hey, whoa!",
+          "PAT"
+        ]
+      ]
+    }
+  ],
+  "style": "prompt",
+  "streamer": "Pat",
+  "credit": "Clip: PatStaresAt (Twitch)",
+  "mask": [
+    [
+      0,
+      0,
+      0.18,
+      0.6
+    ]
+  ]
+}

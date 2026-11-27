@@ -1,0 +1,82 @@
+{
+  "id": "clip_aolynn_schildkroete",
+  "source": "https://www.twitch.tv/aolynn/clip/SuaveSarcasticNeanderthalKeyboardCat-8K8iEuf3Aplo1YvP",
+  "layout": "fill",
+  "hook": "DIESE SCHILDKRÖTE HAT ALLES GESEHEN",
+  "hook_full": true,
+  "title": "Aolynn findet in GTA 6 eine riesige Schnappschildkröte #shorts",
+  "description": "Aolynn trifft in GTA 6 eine uralte Schnappschildkröte – und ist sprachlos. Original-Clip: Aolynn – https://www.twitch.tv/aolynn/clip/SuaveSarcasticNeanderthalKeyboardCat-8K8iEuf3Aplo1YvP\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #aolynn #schildkroete #tiere",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "aolynn",
+    "schildkroete",
+    "tiere"
+  ],
+  "tiktok": "Der Opa unter den Schildkröten 🐢 #gta6 #gtavi #aolynn #fyp",
+  "instagram": "Diese Schildkröte hat Dinge gesehen 🐢\n\n#gta6 #gtavi #gaming #reels",
+  "beats": [
+    {
+      "original": true,
+      "start": 0.0,
+      "end": 50.0,
+      "focus": 0.5,
+      "subs": [
+        [
+          0.3,
+          4,
+          "Moment, wir müssen dich kurz würdigen!",
+          "AOLYNN"
+        ],
+        [
+          4,
+          9,
+          "Oh mein Gott, du hast schon einiges gesehen.",
+          "AOLYNN"
+        ],
+        [
+          9,
+          14,
+          "Du hast schon Sachen erlebt.",
+          "AOLYNN"
+        ],
+        [
+          16,
+          22,
+          "Oh, sorry, kleiner Kerl.",
+          "AOLYNN"
+        ],
+        [
+          24,
+          32,
+          "Ja, wir setzen dich hier rüber.",
+          "AOLYNN"
+        ],
+        [
+          36,
+          44,
+          "Ich kann es nicht glauben.",
+          "AOLYNN"
+        ],
+        [
+          44,
+          50,
+          "Ich bin sprachlos.",
+          "AOLYNN"
+        ]
+      ]
+    }
+  ],
+  "style": "prompt",
+  "streamer": "Aolynn",
+  "credit": "Clip: Aolynn (Twitch)",
+  "mask": [
+    [
+      0.2,
+      0.84,
+      0.62,
+      0.16
+    ]
+  ]
+}

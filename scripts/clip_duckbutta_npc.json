@@ -1,0 +1,52 @@
+{
+  "id": "clip_duckbutta_npc",
+  "source": "https://www.twitch.tv/duckbuttadynasty/clip/RoundSlickTapirPMSTwin-C3HZRoyOI2EileAb",
+  "layout": "fill",
+  "hook": "DER NPC VERPRÜGELT IHN",
+  "hook_full": true,
+  "title": "DuckButtaDynasty wird in GTA 6 von einem NPC verprügelt #shorts",
+  "description": "DuckButtaDynasty legt sich in GTA 6 mit einem NPC an – der ist auf einem anderen Level. Original-Clip: DuckButtaDynasty – https://www.twitch.tv/duckbuttadynasty/clip/RoundSlickTapirPMSTwin-C3HZRoyOI2EileAb\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #duckbuttadynasty #npc #faustkampf",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "duckbuttadynasty",
+    "npc",
+    "faustkampf"
+  ],
+  "tiktok": "Der NPC ist next Level 👊 #gta6 #gtavi #fyp",
+  "instagram": "NPC auf einem anderen Level 👊\n\n#gta6 #gtavi #gaming #reels",
+  "beats": [
+    {
+      "original": true,
+      "start": 0.0,
+      "end": 30.0,
+      "focus": 0.5,
+      "subs": [
+        [
+          4,
+          11,
+          "Der Typ ist auf einem anderen Level.",
+          "DUCKBUTTA"
+        ],
+        [
+          18,
+          30,
+          "Echt jetzt?",
+          "DUCKBUTTA"
+        ]
+      ]
+    }
+  ],
+  "style": "prompt",
+  "streamer": "DuckButta",
+  "credit": "Clip: DuckButtaDynasty (Twitch)",
+  "mask": [
+    [
+      0.3,
+      0.86,
+      0.4,
+      0.12
+    ]
+  ]
+}

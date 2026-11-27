@@ -1,0 +1,52 @@
+{
+  "id": "clip_mattze_oma",
+  "source": "https://www.twitch.tv/der_mattze/clip/BoldPopularDuckShazBotstix-tYBlKQm3_tCLpS8-",
+  "layout": "fill",
+  "hook": "WAS MACHT OMA DA?",
+  "hook_full": true,
+  "title": "Der_Mattze trifft in GTA 6 eine Oma auf der Promenade #shorts",
+  "description": "Der_Mattze will in GTA 6 nur vorsichtig fahren – dann steht plötzlich eine Oma im Weg. Original-Clip: Der_Mattze – https://www.twitch.tv/der_mattze/clip/BoldPopularDuckShazBotstix-tYBlKQm3_tCLpS8-\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #dermattze #oma #npc",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "dermattze",
+    "oma",
+    "npc"
+  ],
+  "tiktok": "Was macht Oma denn da? 👵 #gta6 #gtavi #dermattze #fyp",
+  "instagram": "Oma, NEIN 👵\n\n#gta6 #gtavi #gaming #reels",
+  "beats": [
+    {
+      "original": true,
+      "start": 0.0,
+      "end": 10.7,
+      "focus": 0.5,
+      "subs": [
+        [
+          0.2,
+          2.5,
+          "So, jetzt bloß keinen Mist bauen, ja?",
+          "MATTZE"
+        ],
+        [
+          6,
+          8.5,
+          "Oh Junge … Entschuldigung.",
+          "MATTZE"
+        ]
+      ]
+    }
+  ],
+  "style": "prompt",
+  "streamer": "Mattze",
+  "credit": "Clip: Der_Mattze (Twitch)",
+  "mask": [
+    [
+      0.3,
+      0.86,
+      0.4,
+      0.12
+    ]
+  ]
+}
