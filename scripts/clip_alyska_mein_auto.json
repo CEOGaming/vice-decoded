@@ -1,0 +1,86 @@
+{
+  "id": "clip_alyska_mein_auto",
+  "source": "https://www.twitch.tv/alyska/clip/ExuberantPhilanthropicKimchiPunchTrees-ZXUHvu5QMolN9uyj",
+  "layout": "fill",
+  "hook": "RAUS AUS MEINEM AUTO!",
+  "hook_full": true,
+  "title": "alyska findet in GTA 6 einen Fremden in ihrem Auto #shorts",
+  "description": "alyska kommt in GTA 6 zu ihrem Auto – und da sitzt schon jemand drin. Das eskaliert schnell. Original-Clip: alyska – https://www.twitch.tv/alyska/clip/ExuberantPhilanthropicKimchiPunchTrees-ZXUHvu5QMolN9uyj\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #alyska #auto #npc",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "alyska",
+    "auto",
+    "npc"
+  ],
+  "tiktok": "Das eskaliert schnell 😳 #gta6 #gtavi #fyp",
+  "instagram": "Raus aus meinem Auto 😳\n\n#gta6 #gtavi #gaming #reels",
+  "beats": [
+    {
+      "original": true,
+      "start": 0.0,
+      "end": 26.0,
+      "focus": 0.5,
+      "subs": [
+        [
+          0,
+          2,
+          "Machst du Witze?",
+          "ALYSKA"
+        ],
+        [
+          2,
+          4,
+          "Äh, raus da!",
+          "ALYSKA"
+        ],
+        [
+          4,
+          6,
+          "Was zum Teufel machst du in meinem Auto?",
+          "ALYSKA"
+        ],
+        [
+          8,
+          9,
+          "Das ist dein Auto?",
+          "NPC"
+        ],
+        [
+          9,
+          10,
+          "Ja, ist es!",
+          "ALYSKA"
+        ],
+        [
+          10,
+          11,
+          "Raus!",
+          "ALYSKA"
+        ],
+        [
+          13,
+          15,
+          "Na, das war's dann.",
+          "ALYSKA"
+        ],
+        [
+          16,
+          18,
+          "Ich brauch dich echt raus aus meinem Auto.",
+          "ALYSKA"
+        ],
+        [
+          21,
+          23,
+          "Jedenfalls: Das ist mein Auto.",
+          "ALYSKA"
+        ]
+      ]
+    }
+  ],
+  "style": "prompt",
+  "streamer": "alyska",
+  "credit": "Clip: alyska (Twitch)"
+}

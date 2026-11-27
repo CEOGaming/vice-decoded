@@ -1,0 +1,64 @@
+{
+  "id": "clip_deryuki_bester_fahrer",
+  "source": "https://www.twitch.tv/deryuki1/clip/SuspiciousProudCheeseHeyGirl-cJ-kl0qBmY5cHtQ9",
+  "layout": "fill",
+  "hook": "BESTER FAHRER IN VICE CITY",
+  "hook_full": true,
+  "title": "deryuki1 hält sich für den besten Fahrer in GTA 6 #shorts",
+  "description": "deryuki1 prahlt in GTA 6 mit seinen Fahrkünsten – und erwischt direkt jemanden. Original-Clip: deryuki1 – https://www.twitch.tv/deryuki1/clip/SuspiciousProudCheeseHeyGirl-cJ-kl0qBmY5cHtQ9\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #deryuki #auto #fahren",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "deryuki",
+    "auto",
+    "fahren"
+  ],
+  "tiktok": "Bester Fahrer der Stadt 🏆 #gta6 #gtavi #fyp",
+  "instagram": "Bester Fahrer 🏆\n\n#gta6 #gtavi #gaming #reels",
+  "beats": [
+    {
+      "original": true,
+      "start": 1.5,
+      "end": 29.5,
+      "focus": 0.5,
+      "subs": [
+        [
+          3,
+          5,
+          "Das ist krass.",
+          "DERYUKI"
+        ],
+        [
+          8.2,
+          14.6,
+          "Der Typ neben uns will was von uns lernen, weil wir so gute Fahrer",
+          "DERYUKI"
+        ],
+        [
+          14.6,
+          18.8,
+          "sind.",
+          "DERYUKI"
+        ],
+        [
+          18.8,
+          21.5,
+          "Sorry, mein Fehler.",
+          "DERYUKI"
+        ]
+      ]
+    }
+  ],
+  "style": "prompt",
+  "streamer": "deryuki",
+  "credit": "Clip: deryuki1 (Twitch)",
+  "mask": [
+    [
+      0.3,
+      0.86,
+      0.4,
+      0.12
+    ]
+  ]
+}

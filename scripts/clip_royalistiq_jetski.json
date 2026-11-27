@@ -1,0 +1,70 @@
+{
+  "id": "clip_royalistiq_jetski",
+  "source": "https://www.twitch.tv/royalistiq/clip/ProductiveSmokyGoatDerp-zft49KxZXh48nw9E",
+  "layout": "fill",
+  "hook": "JETSKI ÜBERS BOOT",
+  "hook_full": true,
+  "title": "royalistiq springt in GTA 6 mit dem Jetski über ein Boot #shorts",
+  "description": "royalistiq rast in GTA 6 mit dem Jetski übers Wasser und springt einfach über ein Boot. Original-Clip: royalistiq – https://www.twitch.tv/royalistiq/clip/ProductiveSmokyGoatDerp-zft49KxZXh48nw9E\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #royalistiq #jetski #stunt",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "royalistiq",
+    "jetski",
+    "stunt"
+  ],
+  "tiktok": "Jetski-Sprung 🌊 #gta6 #gtavi #fyp",
+  "instagram": "Über das Boot 🌊\n\n#gta6 #gtavi #gaming #reels",
+  "beats": [
+    {
+      "original": true,
+      "start": 10.0,
+      "end": 36.0,
+      "focus": 0.5,
+      "subs": [
+        [
+          13.2,
+          14.2,
+          "Natürlich.",
+          "ROYALISTIQ"
+        ],
+        [
+          18.2,
+          20.5,
+          "Juhu!",
+          "ROYALISTIQ"
+        ],
+        [
+          21.5,
+          25.5,
+          "Auf der linken Seite!",
+          "ROYALISTIQ"
+        ],
+        [
+          27.5,
+          31.2,
+          "Du springst über ein Boot drüber!",
+          "ROYALISTIQ"
+        ],
+        [
+          33.2,
+          34.2,
+          "So geht das.",
+          "ROYALISTIQ"
+        ]
+      ]
+    }
+  ],
+  "style": "prompt",
+  "streamer": "royalistiq",
+  "credit": "Clip: royalistiq (Twitch)",
+  "mask": [
+    [
+      0.3,
+      0.86,
+      0.4,
+      0.12
+    ]
+  ]
+}

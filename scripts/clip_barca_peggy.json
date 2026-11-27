@@ -1,0 +1,68 @@
+{
+  "id": "clip_barca_peggy",
+  "source": "https://www.twitch.tv/barcagamer/clip/SoftBrightRutabagaTakeNRG-f0GrxB4Q9klPftMY",
+  "layout": "fill",
+  "hook": "SORRY, PEGGY",
+  "hook_full": true,
+  "title": "barcagamer entschuldigt sich in GTA 6 bei Peggy #shorts",
+  "description": "Peggy fährt in GTA 6 gemütlich mit dem Elektromobil – bis barcagamer kommt. Original-Clip: barcagamer – https://www.twitch.tv/barcagamer/clip/SoftBrightRutabagaTakeNRG-f0GrxB4Q9klPftMY\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #barcagamer #oma #elektromobil",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "barcagamer",
+    "oma",
+    "elektromobil"
+  ],
+  "tiktok": "Perdón Peggy 🙏 #gta6 #gtavi #fyp",
+  "instagram": "Sorry Peggy 🙏\n\n#gta6 #gtavi #gaming #reels",
+  "beats": [
+    {
+      "original": true,
+      "start": 0.0,
+      "end": 17.8,
+      "focus": 0.5,
+      "subs": [
+        [
+          0.7,
+          2.7,
+          "Der kommt nicht superschnell.",
+          "BARCA"
+        ],
+        [
+          2.7,
+          6.5,
+          "Die Musik, die Musik!",
+          "BARCA"
+        ],
+        [
+          8.5,
+          9.5,
+          "Jetzt ist sie umgefallen.",
+          "BARCA"
+        ],
+        [
+          9.5,
+          14.6,
+          "Ist gut, Peggy.",
+          "BARCA"
+        ],
+        [
+          14.6,
+          15.6,
+          "Peggy!",
+          "BARCA"
+        ],
+        [
+          15.6,
+          17.6,
+          "Oh, Entschuldigung, Peggy, Peggy!",
+          "BARCA"
+        ]
+      ]
+    }
+  ],
+  "style": "prompt",
+  "streamer": "barcagamer",
+  "credit": "Clip: barcagamer (Twitch)"
+}

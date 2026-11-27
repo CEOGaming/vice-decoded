@@ -1,0 +1,88 @@
+{
+  "id": "clip_maddes_gescriptet",
+  "source": "https://www.twitch.tv/einfachmaddes/clip/OilyHealthyShieldResidentSleeper-ep4TMpuE-GH3ftEt",
+  "layout": "fill",
+  "hook": "DAS IST GESCRIPTET!",
+  "hook_full": true,
+  "title": "einfachmaddes schwört: Der Verkehr in GTA 6 ist gescriptet #shorts",
+  "description": "einfachmaddes fährt in GTA 6 ganz normal. Ganz sicher. Der Verkehr ist einfach gescriptet. Original-Clip: einfachmaddes – https://www.twitch.tv/einfachmaddes/clip/OilyHealthyShieldResidentSleeper-ep4TMpuE-GH3ftEt\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #einfachmaddes #verkehr #auto",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "einfachmaddes",
+    "verkehr",
+    "auto"
+  ],
+  "tiktok": "Ich fahr ganz normal 😤 #gta6 #gtavi #fyp",
+  "instagram": "Gescripteter Verkehr 😤\n\n#gta6 #gtavi #gaming #reels",
+  "beats": [
+    {
+      "original": true,
+      "start": 0.0,
+      "end": 26.0,
+      "focus": 0.5,
+      "subs": [
+        [
+          0,
+          4,
+          "Guck mal, checken wir mal.",
+          "MADDES"
+        ],
+        [
+          4,
+          8.2,
+          "Leihst du mir 50?",
+          "MADDES"
+        ],
+        [
+          10.2,
+          12.2,
+          "Ich kann heute nicht ewig, ich muss gleich noch los.",
+          "MADDES"
+        ],
+        [
+          12.2,
+          14.2,
+          "Digga!",
+          "MADDES"
+        ],
+        [
+          14.2,
+          16.2,
+          "Was?",
+          "MADDES"
+        ],
+        [
+          16.2,
+          20.2,
+          "Ich schwöre, das ist gescripteter Verkehr.",
+          "MADDES"
+        ],
+        [
+          20.2,
+          24.5,
+          "Sieht wirklich nach Clip aus, aber ich fahre ganz normal.",
+          "MADDES"
+        ]
+      ]
+    }
+  ],
+  "style": "prompt",
+  "streamer": "Maddes",
+  "credit": "Clip: einfachmaddes (Twitch)",
+  "mask": [
+    [
+      0.73,
+      0.25,
+      0.27,
+      0.52
+    ],
+    [
+      0.3,
+      0.86,
+      0.4,
+      0.12
+    ]
+  ]
+}

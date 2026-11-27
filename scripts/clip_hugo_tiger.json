@@ -1,0 +1,70 @@
+{
+  "id": "clip_hugo_tiger",
+  "source": "https://www.twitch.tv/hugodelire/clip/ImpartialSpotlessKumquatTwitchRaid-KBDHFrGU5oBnN-ZB",
+  "layout": "fill",
+  "hook": "DIESE KATZE SCHNURRT NICHT",
+  "hook_full": true,
+  "title": "HugoDelire will in GTA 6 einen Tiger streicheln #shorts",
+  "description": "HugoDelire glaubt in GTA 6, der Tiger ist lieb. Der Tiger sieht das anders. Original-Clip: HugoDelire – https://www.twitch.tv/hugodelire/clip/ImpartialSpotlessKumquatTwitchRaid-KBDHFrGU5oBnN-ZB\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #hugodelire #tiger #tiere",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "hugodelire",
+    "tiger",
+    "tiere"
+  ],
+  "tiktok": "Er ist lieb! Oder? 🐯 #gta6 #gtavi #fyp",
+  "instagram": "Der Tiger ist lieb 🐯\n\n#gta6 #gtavi #gaming #reels",
+  "beats": [
+    {
+      "original": true,
+      "start": 0.0,
+      "end": 22.8,
+      "focus": 0.5,
+      "subs": [
+        [
+          0,
+          5,
+          "Nein, der ist lieb!",
+          "HUGO"
+        ],
+        [
+          5,
+          10,
+          "Der ist lieb! Der ist lieb!",
+          "HUGO"
+        ],
+        [
+          10,
+          16,
+          "Der ist lieb!",
+          "HUGO"
+        ],
+        [
+          17,
+          18,
+          "Ah ja …",
+          "HUGO"
+        ],
+        [
+          18,
+          22.3,
+          "Diese Katze schnurrt nicht, Mann …",
+          "HUGO"
+        ]
+      ]
+    }
+  ],
+  "style": "prompt",
+  "streamer": "Hugo",
+  "credit": "Clip: HugoDelire (Twitch)",
+  "mask": [
+    [
+      0,
+      0.2,
+      0.14,
+      0.32
+    ]
+  ]
+}

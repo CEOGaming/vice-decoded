@@ -1,0 +1,70 @@
+{
+  "id": "clip_franzi_unfall",
+  "source": "https://www.twitch.tv/franzi/clip/BeautifulSillyChoughKappaRoss-iMf3EXrq1oXDImcD",
+  "layout": "fill",
+  "hook": "DA KANN ICH NIX FÜR!",
+  "hook_full": true,
+  "title": "Franzi baut in GTA 6 einen Unfall und ist unschuldig #shorts",
+  "description": "Franzi fährt in GTA 6 über den Highway – plötzlich kracht es. Schuld ist natürlich jemand anderes. Original-Clip: Franzi – https://www.twitch.tv/franzi/clip/BeautifulSillyChoughKappaRoss-iMf3EXrq1oXDImcD\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #franzi #unfall #auto",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "franzi",
+    "unfall",
+    "auto"
+  ],
+  "tiktok": "Da kann ich doch nix für 🚗💥 #gta6 #gtavi #fyp",
+  "instagram": "Unschuldig 🚗💥\n\n#gta6 #gtavi #gaming #reels",
+  "beats": [
+    {
+      "original": true,
+      "start": 0.0,
+      "end": 23.4,
+      "focus": 0.5,
+      "subs": [
+        [
+          0.1,
+          6.4,
+          "Wie ist das passiert?",
+          "FRANZI"
+        ],
+        [
+          6.4,
+          8.4,
+          "Wie kommt der da raus?",
+          "FRANZI"
+        ],
+        [
+          13.3,
+          14.3,
+          "Ey!",
+          "FRANZI"
+        ],
+        [
+          14.3,
+          16.3,
+          "Da kann ich doch nix für!",
+          "FRANZI"
+        ],
+        [
+          16.3,
+          22.2,
+          "Ich hab Probleme, ich hab Probleme.",
+          "FRANZI"
+        ]
+      ]
+    }
+  ],
+  "style": "prompt",
+  "streamer": "Franzi",
+  "credit": "Clip: Franzi (Twitch)",
+  "mask": [
+    [
+      0,
+      0,
+      0.12,
+      0.15
+    ]
+  ]
+}

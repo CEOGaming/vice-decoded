@@ -1,0 +1,94 @@
+{
+  "id": "clip_lemed_kopfsprung",
+  "source": "https://www.twitch.tv/lemed/clip/ColdTangibleRaisinDuDudu-Xef3bRCqZSferJUi",
+  "layout": "fill",
+  "hook": "KOPFSPRUNG DURCH DIE SCHEIBE",
+  "hook_full": true,
+  "title": "lemed macht in GTA 6 einen ungewollten Kopfsprung #shorts",
+  "description": "lemed fährt in GTA 6 über die Brücke – und fliegt plötzlich durch die Windschutzscheibe. Original-Clip: lemed – https://www.twitch.tv/lemed/clip/ColdTangibleRaisinDuDudu-Xef3bRCqZSferJUi\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #lemed #unfall #bug",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "lemed",
+    "unfall",
+    "bug"
+  ],
+  "tiktok": "Kopfsprung durch die Scheibe 🤸 #gta6 #gtavi #fyp",
+  "instagram": "Unfreiwilliger Kopfsprung 🤸\n\n#gta6 #gtavi #gaming #reels",
+  "beats": [
+    {
+      "original": true,
+      "start": 0.0,
+      "end": 30.0,
+      "focus": 0.5,
+      "subs": [
+        [
+          0.1,
+          4.8,
+          "Wir haben das richtige Auto!",
+          "LEMED"
+        ],
+        [
+          4.8,
+          6.8,
+          "Ich bin neidisch.",
+          "LEMED"
+        ],
+        [
+          6.8,
+          11.1,
+          "Wir kommen, Raoul!",
+          "LEMED"
+        ],
+        [
+          17.1,
+          18.1,
+          "Was?",
+          "LEMED"
+        ],
+        [
+          18.1,
+          19.1,
+          "Warum denn ein Kopfsprung?",
+          "LEMED"
+        ],
+        [
+          19.1,
+          23.6,
+          "Was ist das für ein Bug?",
+          "LEMED"
+        ],
+        [
+          23.6,
+          25.6,
+          "In welchem Moment?",
+          "LEMED"
+        ],
+        [
+          25.6,
+          28.6,
+          "Warum taucht er so durch die Scheibe?",
+          "LEMED"
+        ],
+        [
+          28.6,
+          29.8,
+          "Wo sind wir?",
+          "LEMED"
+        ]
+      ]
+    }
+  ],
+  "style": "prompt",
+  "streamer": "lemed",
+  "credit": "Clip: lemed (Twitch)",
+  "mask": [
+    [
+      0.3,
+      0.86,
+      0.4,
+      0.12
+    ]
+  ]
+}

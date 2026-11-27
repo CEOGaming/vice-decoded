@@ -1,0 +1,70 @@
+{
+  "id": "clip_elton_dreieck_prank",
+  "source": "https://www.twitch.tv/elton_zockt/clip/ShyFineMangetoutBIRB-OsznIu3Nw5YooyWO",
+  "layout": "fill",
+  "hook": "DRÜCK MAL DREIECK",
+  "hook_full": true,
+  "title": "elton_zockt fällt in GTA 6 auf den Dreieck-Prank rein #shorts",
+  "description": "elton_zockt soll in GTA 6 nur kurz Dreieck drücken. Danach schwimmt er im Meer und das Boot ist weg. Original-Clip: elton_zockt – https://www.twitch.tv/elton_zockt/clip/ShyFineMangetoutBIRB-OsznIu3Nw5YooyWO\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #eltonzockt #prank #boot",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "eltonzockt",
+    "prank",
+    "boot"
+  ],
+  "tiktok": "Drück mal Dreieck 😂 #gta6 #gtavi #fyp",
+  "instagram": "Reingefallen 😂\n\n#gta6 #gtavi #gaming #reels",
+  "beats": [
+    {
+      "original": true,
+      "start": 0.0,
+      "end": 44.0,
+      "focus": 0.5,
+      "subs": [
+        [
+          1,
+          7,
+          "Wenn ihr wüsstet, wie dunkel es hier im Raum ist.",
+          "ELTON"
+        ],
+        [
+          7,
+          14,
+          "Toll.",
+          "ELTON"
+        ],
+        [
+          14,
+          22,
+          "Das war ja wohl Absicht, oder?",
+          "ELTON"
+        ],
+        [
+          29.7,
+          33.7,
+          "Okay, ich bin drauf reingefallen. Komm ich da jetzt nicht mehr rein?",
+          "ELTON"
+        ],
+        [
+          33.7,
+          40,
+          "Sehr witzig!",
+          "ELTON"
+        ]
+      ]
+    }
+  ],
+  "style": "prompt",
+  "streamer": "Elton",
+  "credit": "Clip: elton_zockt (Twitch)",
+  "mask": [
+    [
+      0.84,
+      0.3,
+      0.16,
+      0.56
+    ]
+  ]
+}

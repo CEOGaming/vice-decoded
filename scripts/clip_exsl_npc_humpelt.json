@@ -1,0 +1,50 @@
+{
+  "id": "clip_exsl_npc_humpelt",
+  "source": "https://www.twitch.tv/exsl95/clip/SnappyCrunchyLionKippa-GOXuf68c6C6mzL9p",
+  "layout": "fill",
+  "hook": "DER KANN NICHT MEHR LAUFEN",
+  "hook_full": true,
+  "title": "exsl95 fährt in GTA 6 einen NPC an – der humpelt nur noch #shorts",
+  "description": "exsl95 erwischt in GTA 6 einen Passanten. Danach kann der arme Kerl nicht mehr richtig laufen. Original-Clip: exsl95 – https://www.twitch.tv/exsl95/clip/SnappyCrunchyLionKippa-GOXuf68c6C6mzL9p\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #exsl95 #npc #unfall",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "exsl95",
+    "npc",
+    "unfall"
+  ],
+  "tiktok": "Er tut mir ein bisschen leid 😅 #gta6 #gtavi #fyp",
+  "instagram": "Der Arme 😅\n\n#gta6 #gtavi #gaming #reels",
+  "beats": [
+    {
+      "original": true,
+      "start": 5.0,
+      "end": 56.0,
+      "focus": 0.5,
+      "subs": [
+        [
+          7,
+          10,
+          "Nein!",
+          "EXSL"
+        ],
+        [
+          39.1,
+          42.1,
+          "Warte mal, der kann ja gar nicht mehr laufen jetzt, oder?",
+          "EXSL"
+        ],
+        [
+          50.4,
+          54,
+          "Der tut mir schon ein bisschen leid.",
+          "EXSL"
+        ]
+      ]
+    }
+  ],
+  "style": "prompt",
+  "streamer": "exsl95",
+  "credit": "Clip: exsl95 (Twitch)"
+}
