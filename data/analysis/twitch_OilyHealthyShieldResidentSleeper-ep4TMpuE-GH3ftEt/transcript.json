@@ -1,0 +1,55 @@
+{
+  "language": "de",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": "Guck mal, checken wir mal."
+    },
+    {
+      "start": 4.0,
+      "end": 8.2,
+      "text": "Lagst du mir 50 für mich?"
+    },
+    {
+      "start": 8.2,
+      "end": 10.2,
+      "text": "Na guck."
+    },
+    {
+      "start": 10.2,
+      "end": 12.2,
+      "text": "Ich kann heute nicht ewig, weil ich muss jetzt auch noch mal los."
+    },
+    {
+      "start": 12.2,
+      "end": 14.2,
+      "text": "Digger!"
+    },
+    {
+      "start": 14.2,
+      "end": 16.2,
+      "text": "Was?"
+    },
+    {
+      "start": 16.2,
+      "end": 18.2,
+      "text": "Ich schwöre, das ist"
+    },
+    {
+      "start": 18.2,
+      "end": 20.2,
+      "text": "Geskripteter Verkehr."
+    },
+    {
+      "start": 20.2,
+      "end": 22.2,
+      "text": "Ja, es sieht wirklich"
+    },
+    {
+      "start": 22.2,
+      "end": 24.2,
+      "text": "nach Klittform aus, aber ich fahre ganz normal."
+    }
+  ]
+}

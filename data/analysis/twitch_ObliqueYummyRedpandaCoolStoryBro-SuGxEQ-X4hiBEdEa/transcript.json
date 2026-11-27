@@ -1,0 +1,25 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 11.6,
+      "text": "We do we not have a number? Like an actual address. We're just saying you know that greenhouse by the water"
+    },
+    {
+      "start": 13.6,
+      "end": 28.4,
+      "text": "This is a $500 necklace, I think we should be a little more specific if whoever's delivering that thing is colorblind"
+    },
+    {
+      "start": 28.4,
+      "end": 30.3,
+      "text": "We're screwed. You know"
+    },
+    {
+      "start": 30.3,
+      "end": 33.7,
+      "text": "Gotta think about these things guys. We have to think about these things"
+    }
+  ]
+}

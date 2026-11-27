@@ -1,0 +1,25 @@
+{
+  "language": "de",
+  "segments": [
+    {
+      "start": 1.0,
+      "end": 3.0,
+      "text": "Oh, die Flasche kürzt."
+    },
+    {
+      "start": 9.8,
+      "end": 10.8,
+      "text": "Oh!"
+    },
+    {
+      "start": 10.8,
+      "end": 13.8,
+      "text": "Alter, was war das?"
+    },
+    {
+      "start": 13.8,
+      "end": 15.8,
+      "text": "Ach du Scheiße!"
+    }
+  ]
+}

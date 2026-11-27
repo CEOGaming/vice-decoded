@@ -1,0 +1,65 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.5,
+      "text": "What was the clip?"
+    },
+    {
+      "start": 3.5,
+      "end": 5.5,
+      "text": "Right."
+    },
+    {
+      "start": 5.5,
+      "end": 9.0,
+      "text": "Give me a shot."
+    },
+    {
+      "start": 9.0,
+      "end": 11.0,
+      "text": "This shit is slower than my nan bro."
+    },
+    {
+      "start": 11.0,
+      "end": 16.7,
+      "text": "Right."
+    },
+    {
+      "start": 16.7,
+      "end": 18.7,
+      "text": "The best clip I've ever seen."
+    },
+    {
+      "start": 18.7,
+      "end": 20.7,
+      "text": "Wait, wait, what did I do?"
+    },
+    {
+      "start": 20.7,
+      "end": 22.7,
+      "text": "Wait."
+    },
+    {
+      "start": 22.7,
+      "end": 24.7,
+      "text": "Wait, wait, I'm so confused."
+    },
+    {
+      "start": 24.7,
+      "end": 26.7,
+      "text": "That I just pulled a funny face back."
+    },
+    {
+      "start": 26.7,
+      "end": 28.7,
+      "text": "What was it? I can't really check the clip right now."
+    },
+    {
+      "start": 28.7,
+      "end": 30.7,
+      "text": "I'll check it after though."
+    }
+  ]
+}

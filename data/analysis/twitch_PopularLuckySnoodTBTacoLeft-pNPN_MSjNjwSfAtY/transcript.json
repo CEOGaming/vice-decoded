@@ -1,0 +1,85 @@
+{
+  "language": "fr",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Ah, j'ai bien aimé leur interaction là, c'était bien."
+    },
+    {
+      "start": 2.0,
+      "end": 5.0,
+      "text": "Ah, je peux pas revenir chercher l'épisode ? Ah non, mais d'accord !"
+    },
+    {
+      "start": 5.0,
+      "end": 7.0,
+      "text": "Ah non, mais d'accord !"
+    },
+    {
+      "start": 7.0,
+      "end": 10.0,
+      "text": "Je suis niqué, d'accord. Bon, attends pour moi."
+    },
+    {
+      "start": 10.0,
+      "end": 12.0,
+      "text": "Bon, la team, je vais vous faire écouter de la musique."
+    },
+    {
+      "start": 12.0,
+      "end": 13.0,
+      "text": "Et moi, je reviens."
+    },
+    {
+      "start": 13.0,
+      "end": 14.0,
+      "text": "Regardez."
+    },
+    {
+      "start": 14.0,
+      "end": 15.0,
+      "text": "J'arrive."
+    },
+    {
+      "start": 15.0,
+      "end": 16.0,
+      "text": "Donc, deux minutes."
+    },
+    {
+      "start": 16.0,
+      "end": 19.0,
+      "text": "Ok, bro, bro, bro."
+    },
+    {
+      "start": 19.0,
+      "end": 21.0,
+      "text": "Ah, j'ai bien aimé leur interaction là, c'était bien."
+    },
+    {
+      "start": 21.0,
+      "end": 26.8,
+      "text": "Ah, je peux pas revenir chercher l'épisode ? Ah non, mais d'accord !"
+    },
+    {
+      "start": 26.8,
+      "end": 30.4,
+      "text": "Ah non, mais d'accord !"
+    },
+    {
+      "start": 30.4,
+      "end": 36.3,
+      "text": "Je suis niqué, d'accord."
+    },
+    {
+      "start": 36.3,
+      "end": 37.3,
+      "text": "Bon, attends pour moi."
+    },
+    {
+      "start": 37.3,
+      "end": 38.3,
+      "text": "Bro, bro, bro."
+    }
+  ]
+}

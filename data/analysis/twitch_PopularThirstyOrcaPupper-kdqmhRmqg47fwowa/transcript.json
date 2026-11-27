@@ -1,0 +1,30 @@
+{
+  "language": "fr",
+  "segments": [
+    {
+      "start": 4.8,
+      "end": 8.8,
+      "text": "Putain, ça c'est maniable, ça je peux te dire que ça..."
+    },
+    {
+      "start": 15.4,
+      "end": 18.4,
+      "text": "Ça tient le sol, ça tient le bitume quoi, c'est..."
+    },
+    {
+      "start": 20.4,
+      "end": 21.4,
+      "text": "Non mais..."
+    },
+    {
+      "start": 22.4,
+      "end": 28.4,
+      "text": "Après le problème, c'est que je trouve que malheureusement, dans la nuit, on a tendance à moins voir les motards."
+    },
+    {
+      "start": 28.4,
+      "end": 30.4,
+      "text": "C'est aussi ça le souci."
+    }
+  ]
+}
