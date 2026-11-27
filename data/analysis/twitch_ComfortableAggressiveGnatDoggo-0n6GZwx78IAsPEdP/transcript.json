@@ -1,0 +1,65 @@
+{
+  "language": "de",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "Nein!"
+    },
+    {
+      "start": 1.0,
+      "end": 2.0,
+      "text": "Nein!"
+    },
+    {
+      "start": 4.0,
+      "end": 5.0,
+      "text": "Jason!"
+    },
+    {
+      "start": 5.0,
+      "end": 7.0,
+      "text": "Du Obdachloser!"
+    },
+    {
+      "start": 7.0,
+      "end": 8.0,
+      "text": "Du Penner!"
+    },
+    {
+      "start": 8.0,
+      "end": 9.0,
+      "text": "Das gibt's nicht!"
+    },
+    {
+      "start": 9.0,
+      "end": 11.0,
+      "text": "Das hat mich bei uns zu durchgeklappt!"
+    },
+    {
+      "start": 15.5,
+      "end": 17.5,
+      "text": "Das war eine Wei!"
+    },
+    {
+      "start": 17.5,
+      "end": 19.5,
+      "text": "Das war eine..."
+    },
+    {
+      "start": 26.7,
+      "end": 27.7,
+      "text": "Ich hasse Jason!"
+    },
+    {
+      "start": 27.7,
+      "end": 28.7,
+      "text": "Ich hasse ihn!"
+    },
+    {
+      "start": 28.7,
+      "end": 29.7,
+      "text": "Ich will eigentlich..."
+    }
+  ]
+}

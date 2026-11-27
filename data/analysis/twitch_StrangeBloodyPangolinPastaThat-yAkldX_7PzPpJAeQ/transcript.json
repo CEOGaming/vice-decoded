@@ -1,0 +1,40 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.1,
+      "end": 3.5,
+      "text": "Ugh, sounds like this is my job, so real."
+    },
+    {
+      "start": 3.5,
+      "end": 6.5,
+      "text": "There's a tree in my gift."
+    },
+    {
+      "start": 6.5,
+      "end": 10.2,
+      "text": "Oh, I gotcha."
+    },
+    {
+      "start": 10.2,
+      "end": 14.9,
+      "text": "Bye, babe!"
+    },
+    {
+      "start": 14.9,
+      "end": 23.6,
+      "text": "Sorry, babe."
+    },
+    {
+      "start": 23.6,
+      "end": 24.5,
+      "text": "All right."
+    },
+    {
+      "start": 24.5,
+      "end": 26.1,
+      "text": "OK."
+    }
+  ]
+}

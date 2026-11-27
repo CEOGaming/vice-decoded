@@ -1,0 +1,70 @@
+{
+  "language": "pt",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "O que?"
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "Você acha que está perdendo muito?"
+    },
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "text": "Que merda!"
+    },
+    {
+      "start": 10.5,
+      "end": 11.5,
+      "text": "Meu Deus!"
+    },
+    {
+      "start": 11.5,
+      "end": 13.5,
+      "text": "Meu Deus!"
+    },
+    {
+      "start": 13.5,
+      "end": 17.5,
+      "text": "O cara nunca vai esperar o carro vindo de cima!"
+    },
+    {
+      "start": 17.5,
+      "end": 19.5,
+      "text": "Ok, então..."
+    },
+    {
+      "start": 19.5,
+      "end": 21.5,
+      "text": "Nossa Senhora!"
+    },
+    {
+      "start": 21.5,
+      "end": 23.5,
+      "text": "Você acha que está perdendo muito?"
+    },
+    {
+      "start": 23.5,
+      "end": 25.5,
+      "text": "Nossa Senhora!"
+    },
+    {
+      "start": 25.5,
+      "end": 27.5,
+      "text": "Caraca!"
+    },
+    {
+      "start": 27.5,
+      "end": 29.5,
+      "text": "Essa foi cruel!"
+    },
+    {
+      "start": 29.5,
+      "end": 31.5,
+      "text": "O que é isso?"
+    }
+  ]
+}

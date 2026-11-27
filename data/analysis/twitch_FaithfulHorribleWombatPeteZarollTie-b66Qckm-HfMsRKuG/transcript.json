@@ -1,0 +1,35 @@
+{
+  "language": "pt",
+  "segments": [
+    {
+      "start": 0.1,
+      "end": 2.1,
+      "text": "Winner baby, 1º lugar!"
+    },
+    {
+      "start": 2.1,
+      "end": 7.6,
+      "text": "Isso mano, The Darkness mano!"
+    },
+    {
+      "start": 7.6,
+      "end": 8.6,
+      "text": "Salve a lei!"
+    },
+    {
+      "start": 8.6,
+      "end": 10.6,
+      "text": "Eu meti um treininho!"
+    },
+    {
+      "start": 10.6,
+      "end": 24.7,
+      "text": "Olha esse carro!"
+    },
+    {
+      "start": 24.7,
+      "end": 28.7,
+      "text": "Termina já que você me aproximou bastante, vocês estão começando a me incluir!"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "language": "pt",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Espero que vocês estejam preparados, tá?"
+    },
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "text": "Espero que estejam preparados para o tio"
+    },
+    {
+      "start": 6.0,
+      "end": 8.0,
+      "text": "Te ando bem que tá no Tinker Live"
+    },
+    {
+      "start": 8.0,
+      "end": 10.0,
+      "text": "E aí, qualquer coisa que tá, né?"
+    },
+    {
+      "start": 13.3,
+      "end": 15.3,
+      "text": "Qualquer coisa quente, tchau"
+    },
+    {
+      "start": 17.3,
+      "end": 19.3,
+      "text": "Eu confio, nossa"
+    },
+    {
+      "start": 23.3,
+      "end": 31.1,
+      "text": "Ai, cara!"
+    }
+  ]
+}

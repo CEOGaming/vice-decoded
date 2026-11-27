@@ -1,0 +1,50 @@
+{
+  "language": "pt",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Ó a torre! Ó a torre!"
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "Salve a lei!"
+    },
+    {
+      "start": 4.0,
+      "end": 10.1,
+      "text": "Eu me tenho um treininho"
+    },
+    {
+      "start": 10.1,
+      "end": 13.4,
+      "text": "Olha o da puta"
+    },
+    {
+      "start": 13.4,
+      "end": 15.4,
+      "text": "Ah Luzoca!"
+    },
+    {
+      "start": 15.4,
+      "end": 22.2,
+      "text": "Você me paga"
+    },
+    {
+      "start": 22.2,
+      "end": 24.2,
+      "text": "Vocês acham que parece mesmo gente?"
+    },
+    {
+      "start": 24.2,
+      "end": 28.7,
+      "text": "Parece não, nada a ver."
+    },
+    {
+      "start": 28.7,
+      "end": 30.7,
+      "text": "Vocês estão viajando"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.8,
+      "text": "Oh, is that a motorcycle?"
+    },
+    {
+      "start": 2.8,
+      "end": 5.0,
+      "text": "Fuck, it's not a motorcycle, but still good!"
+    }
+  ]
+}

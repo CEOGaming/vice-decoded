@@ -1,0 +1,45 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 1.9,
+      "end": 3.9,
+      "text": "That was first."
+    },
+    {
+      "start": 3.9,
+      "end": 5.9,
+      "text": "You wanna go see this lawyer guy?"
+    },
+    {
+      "start": 5.9,
+      "end": 6.9,
+      "text": "Oh!"
+    },
+    {
+      "start": 6.9,
+      "end": 7.9,
+      "text": "Go!"
+    },
+    {
+      "start": 7.9,
+      "end": 26.2,
+      "text": "I was trying to hold her hand and it suddenly switched to his drink being done and the empty glass and I threw it right at her."
+    },
+    {
+      "start": 26.2,
+      "end": 31.0,
+      "text": "Oh, she was a good sport about it."
+    },
+    {
+      "start": 31.0,
+      "end": 32.0,
+      "text": "Thank you, Lucia."
+    },
+    {
+      "start": 32.0,
+      "end": 33.0,
+      "text": "Oh no."
+    }
+  ]
+}

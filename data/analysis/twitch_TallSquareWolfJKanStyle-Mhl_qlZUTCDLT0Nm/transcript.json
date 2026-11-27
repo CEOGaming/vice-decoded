@@ -1,0 +1,35 @@
+{
+  "language": "de",
+  "segments": [
+    {
+      "start": 2.7,
+      "end": 5.7,
+      "text": "Oh, Tigger, das hab ich gezischt!"
+    },
+    {
+      "start": 5.7,
+      "end": 8.7,
+      "text": "Oh, red' ich mit dem Kopf gegen den Baum."
+    },
+    {
+      "start": 11.7,
+      "end": 14.7,
+      "text": "Wie das in der Slow-Bow aussah."
+    },
+    {
+      "start": 14.7,
+      "end": 17.7,
+      "text": "Das hat richtig gedrönt, Junge, der ist an der Gehörnenschütte."
+    },
+    {
+      "start": 19.7,
+      "end": 20.7,
+      "text": "Tschüss!"
+    },
+    {
+      "start": 20.7,
+      "end": 27.1,
+      "text": "Upsi!"
+    }
+  ]
+}

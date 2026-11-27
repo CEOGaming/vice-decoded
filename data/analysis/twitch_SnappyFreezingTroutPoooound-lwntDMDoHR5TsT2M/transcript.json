@@ -1,0 +1,65 @@
+{
+  "language": "de",
+  "segments": [
+    {
+      "start": 1.1,
+      "end": 3.1,
+      "text": "Bittsch, quit, Swarmer."
+    },
+    {
+      "start": 3.1,
+      "end": 5.1,
+      "text": "Oh, oh, oh."
+    },
+    {
+      "start": 5.1,
+      "end": 7.1,
+      "text": "Hey!"
+    },
+    {
+      "start": 7.1,
+      "end": 19.0,
+      "text": "Was ist denn da?"
+    },
+    {
+      "start": 19.0,
+      "end": 21.0,
+      "text": "Der Arme, der Wartkumpel."
+    },
+    {
+      "start": 21.0,
+      "end": 35.8,
+      "text": "Was hat er mir für eine Bombe gegeben, Bruder?"
+    },
+    {
+      "start": 35.8,
+      "end": 37.8,
+      "text": "Es kann nicht mehr cracker geworden, kurz."
+    },
+    {
+      "start": 37.8,
+      "end": 40.8,
+      "text": "Ich wollte gerade sagen, wir haben den Risch gearmelt,"
+    },
+    {
+      "start": 40.8,
+      "end": 42.8,
+      "text": "Alter, wenn er weiß, wo sein Platz ist."
+    },
+    {
+      "start": 42.8,
+      "end": 44.8,
+      "text": "In derselben Sekunden, ich krieg die größte Bombe."
+    },
+    {
+      "start": 44.8,
+      "end": 46.8,
+      "text": "Oh, oh, oh."
+    },
+    {
+      "start": 46.8,
+      "end": 48.8,
+      "text": "Ey!"
+    }
+  ]
+}

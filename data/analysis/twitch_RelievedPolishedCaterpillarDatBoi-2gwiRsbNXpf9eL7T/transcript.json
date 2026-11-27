@@ -1,0 +1,40 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.9,
+      "text": "I'm not seeing. Fuck, fuck, fuck, fuck, fuck!"
+    },
+    {
+      "start": 2.9,
+      "end": 6.5,
+      "text": "Fuckin' what?"
+    },
+    {
+      "start": 6.5,
+      "end": 8.2,
+      "text": "Did she just hear me?"
+    },
+    {
+      "start": 8.2,
+      "end": 11.8,
+      "text": "Yo, did she just hear me in the game?"
+    },
+    {
+      "start": 11.8,
+      "end": 12.7,
+      "text": "It's not that."
+    },
+    {
+      "start": 12.7,
+      "end": 19.0,
+      "text": "Row 6779 you said?"
+    },
+    {
+      "start": 19.0,
+      "end": 19.8,
+      "text": "D9!"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 1.0,
+      "end": 4.0,
+      "text": "Okay, thanks for the Tier 3 for 37 months. Thank you."
+    },
+    {
+      "start": 5.0,
+      "end": 7.0,
+      "text": "Alright, we're approaching the drop."
+    },
+    {
+      "start": 7.0,
+      "end": 9.0,
+      "text": "Are you ready with all those packages?"
+    },
+    {
+      "start": 9.0,
+      "end": 10.0,
+      "text": "Uh-huh."
+    },
+    {
+      "start": 10.0,
+      "end": 19.9,
+      "text": "Oh! The fuck?"
+    },
+    {
+      "start": 20.9,
+      "end": 22.9,
+      "text": "Why did he jump out?"
+    }
+  ]
+}

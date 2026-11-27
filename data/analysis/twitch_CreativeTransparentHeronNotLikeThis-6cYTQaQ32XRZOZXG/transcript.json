@@ -1,0 +1,60 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "text": "Where the hell am I?"
+    },
+    {
+      "start": 6.0,
+      "end": 8.0,
+      "text": "I don't know if I can dro-"
+    },
+    {
+      "start": 8.0,
+      "end": 14.0,
+      "text": "Oh my god, oh my truck!"
+    },
+    {
+      "start": 14.0,
+      "end": 16.0,
+      "text": "I don't think I can drive my truck here, guys."
+    },
+    {
+      "start": 16.0,
+      "end": 19.8,
+      "text": "Even by a goddamn gator."
+    },
+    {
+      "start": 19.8,
+      "end": 23.6,
+      "text": "I'm so scared."
+    },
+    {
+      "start": 23.6,
+      "end": 25.6,
+      "text": "Point of view, Virginia."
+    },
+    {
+      "start": 25.6,
+      "end": 29.5,
+      "text": "Stop it!"
+    },
+    {
+      "start": 29.5,
+      "end": 31.5,
+      "text": "Someone's to the left. I wouldn't tell me it's a gator."
+    },
+    {
+      "start": 31.5,
+      "end": 33.5,
+      "text": "Stop it."
+    },
+    {
+      "start": 33.5,
+      "end": 35.5,
+      "text": "You're scaring me."
+    }
+  ]
+}

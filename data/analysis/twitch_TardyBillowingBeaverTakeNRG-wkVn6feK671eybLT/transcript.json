@@ -1,0 +1,20 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 2.0,
+      "end": 8.0,
+      "text": "Uh-oh. Follow... what? Follow Lucia?"
+    },
+    {
+      "start": 9.0,
+      "end": 17.5,
+      "text": "Uh-oh. And I can't move this car? Can I push it?"
+    },
+    {
+      "start": 17.5,
+      "end": 18.5,
+      "text": "WOAH!"
+    }
+  ]
+}

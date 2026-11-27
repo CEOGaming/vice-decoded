@@ -1,0 +1,20 @@
+{
+  "language": "pt",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.0,
+      "text": "Ok, olhe para o lado esquerdo da sala. A oficina deveria estar ao fundo ali."
+    },
+    {
+      "start": 10.0,
+      "end": 11.0,
+      "text": "Eu estou procurando."
+    },
+    {
+      "start": 11.0,
+      "end": 12.0,
+      "text": "A oficina deveria estar..."
+    }
+  ]
+}

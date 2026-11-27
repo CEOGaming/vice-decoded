@@ -1,0 +1,20 @@
+{
+  "language": "pt",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Tô no hype, tá ligado?"
+    },
+    {
+      "start": 2.0,
+      "end": 5.0,
+      "text": "Tá quando a gente tá emocionado, a gente fala coisas que é sem pensar, por isso."
+    },
+    {
+      "start": 5.0,
+      "end": 7.0,
+      "text": "Mas aqui é bom pra caralho, mano."
+    }
+  ]
+}

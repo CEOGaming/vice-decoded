@@ -1,0 +1,40 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.1,
+      "end": 4.2,
+      "text": "I'm not stealing this car. It's not what it looks like. Okay, I"
+    },
+    {
+      "start": 6.2,
+      "end": 10.0,
+      "text": "Borrowed this for a quick ride over there to the guy that takes"
+    },
+    {
+      "start": 11.8,
+      "end": 20.1,
+      "text": "Borrowed cars of me and I'm totally not wanted by the police at the moment"
+    },
+    {
+      "start": 21.4,
+      "end": 24.2,
+      "text": "Because I may have blown something up"
+    },
+    {
+      "start": 25.4,
+      "end": 31.0,
+      "text": "May got randomly involved in some pew pew. I didn't start it to be fair"
+    },
+    {
+      "start": 31.9,
+      "end": 38.8,
+      "text": "Okay, they started it. I just quickly went to say hello and they randomly shot me for no obvious reason. I"
+    },
+    {
+      "start": 42.2,
+      "end": 44.2,
+      "text": "Totally also didn't return"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "language": "es",
+  "segments": [
+    {
+      "start": 0.9,
+      "end": 4.9,
+      "text": "¡Vete! ¡Sagá! ¡Aquí el batalón! ¡Que le va!"
+    },
+    {
+      "start": 12.6,
+      "end": 19.6,
+      "text": "¡Es un cuchillo! ¿Por qué? ¡Soy un críao! ¿Por qué? ¡Soy un críao!"
+    },
+    {
+      "start": 19.6,
+      "end": 22.6,
+      "text": "¡No sabía! ¡Soy un..."
+    }
+  ]
+}

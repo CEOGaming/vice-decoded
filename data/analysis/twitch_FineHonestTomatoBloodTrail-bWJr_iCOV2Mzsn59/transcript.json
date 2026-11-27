@@ -1,0 +1,35 @@
+{
+  "language": "pt",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Pode ir na moto?"
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "Sendo vinha"
+    },
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "text": "Não, cara"
+    },
+    {
+      "start": 6.0,
+      "end": 11.2,
+      "text": "Não"
+    },
+    {
+      "start": 11.2,
+      "end": 13.2,
+      "text": "A moto, cara"
+    },
+    {
+      "start": 13.2,
+      "end": 15.2,
+      "text": "Sendo vinha"
+    }
+  ]
+}

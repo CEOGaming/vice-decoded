@@ -1,0 +1,25 @@
+{
+  "language": "es",
+  "segments": [
+    {
+      "start": 1.9,
+      "end": 10.8,
+      "text": "¿Qué barbaridad?"
+    },
+    {
+      "start": 10.8,
+      "end": 14.8,
+      "text": "¿O tirar la taza, me voy a dejarla?"
+    },
+    {
+      "start": 14.8,
+      "end": 15.8,
+      "text": "No."
+    },
+    {
+      "start": 15.8,
+      "end": 16.8,
+      "text": "Aquí no me deja."
+    }
+  ]
+}

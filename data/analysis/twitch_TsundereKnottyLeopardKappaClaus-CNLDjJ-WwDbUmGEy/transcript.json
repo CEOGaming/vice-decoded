@@ -1,0 +1,40 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 1.4,
+      "end": 5.7,
+      "text": "What the hell is that?"
+    },
+    {
+      "start": 7.7,
+      "end": 8.7,
+      "text": "Off me!"
+    },
+    {
+      "start": 11.7,
+      "end": 14.1,
+      "text": "Get out!"
+    },
+    {
+      "start": 14.1,
+      "end": 20.2,
+      "text": "I'm still taking the car, asshole!"
+    },
+    {
+      "start": 23.5,
+      "end": 25.5,
+      "text": "Come here, you little bastard!"
+    },
+    {
+      "start": 25.5,
+      "end": 29.4,
+      "text": "I'll do it the next 8 times, too."
+    },
+    {
+      "start": 29.4,
+      "end": 31.4,
+      "text": "Motherfucker."
+    }
+  ]
+}

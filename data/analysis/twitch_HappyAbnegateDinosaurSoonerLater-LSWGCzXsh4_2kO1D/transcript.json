@@ -1,0 +1,25 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 6.3,
+      "end": 12.7,
+      "text": "There's too much coffee, dude."
+    },
+    {
+      "start": 12.7,
+      "end": 13.7,
+      "text": "What?"
+    },
+    {
+      "start": 13.7,
+      "end": 14.7,
+      "text": "No!"
+    },
+    {
+      "start": 16.6,
+      "end": 17.6,
+      "text": "No!"
+    }
+  ]
+}

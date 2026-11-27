@@ -1,0 +1,20 @@
+{
+  "language": "pt",
+  "segments": [
+    {
+      "start": 2.1,
+      "end": 6.6,
+      "text": "O que é isso aí?"
+    },
+    {
+      "start": 6.6,
+      "end": 8.6,
+      "text": "O que é isso aí?"
+    },
+    {
+      "start": 8.6,
+      "end": 10.6,
+      "text": "O que é isso?"
+    }
+  ]
+}

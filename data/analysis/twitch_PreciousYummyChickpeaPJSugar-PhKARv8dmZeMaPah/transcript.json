@@ -1,0 +1,25 @@
+{
+  "language": "pt",
+  "segments": [
+    {
+      "start": 15.9,
+      "end": 18.9,
+      "text": "Bom, você vai matar os quatro oficiais aqui, velho."
+    },
+    {
+      "start": 18.9,
+      "end": 25.0,
+      "text": "Não vou, mano. Não vou. Não vou participar aqui não."
+    },
+    {
+      "start": 25.0,
+      "end": 27.0,
+      "text": "Mano, amanhã eu tô aí de novo."
+    },
+    {
+      "start": 27.0,
+      "end": 30.3,
+      "text": "Tá ligado?"
+    }
+  ]
+}

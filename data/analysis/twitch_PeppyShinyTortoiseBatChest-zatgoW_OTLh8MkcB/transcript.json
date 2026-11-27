@@ -1,0 +1,20 @@
+{
+  "language": "is",
+  "segments": [
+    {
+      "start": 1.9,
+      "end": 3.9,
+      "text": "Let's go, come on!"
+    },
+    {
+      "start": 4.9,
+      "end": 7.9,
+      "text": "Það, það er bývinn á þetta mískodina ísum."
+    },
+    {
+      "start": 7.9,
+      "end": 8.9,
+      "text": "Sváði!"
+    }
+  ]
+}

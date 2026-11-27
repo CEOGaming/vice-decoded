@@ -1,0 +1,40 @@
+{
+  "language": "pt",
+  "segments": [
+    {
+      "start": 0.8,
+      "end": 2.9,
+      "text": "Tá arrancando forte, parceiro."
+    },
+    {
+      "start": 23.3,
+      "end": 25.8,
+      "text": "Tudo vai ficar carinho não, sai daí, vagabundo."
+    },
+    {
+      "start": 30.4,
+      "end": 31.4,
+      "text": "Tu vai fazer o quê?"
+    },
+    {
+      "start": 31.4,
+      "end": 32.4,
+      "text": "Tu vai fazer o quê?"
+    },
+    {
+      "start": 32.4,
+      "end": 33.9,
+      "text": "Tu vai fazer o quê?"
+    },
+    {
+      "start": 36.5,
+      "end": 38.5,
+      "text": "Ah, agora todo mundo fica..."
+    },
+    {
+      "start": 38.5,
+      "end": 42.6,
+      "text": "sem dinheiro para entrar na boate."
+    }
+  ]
+}

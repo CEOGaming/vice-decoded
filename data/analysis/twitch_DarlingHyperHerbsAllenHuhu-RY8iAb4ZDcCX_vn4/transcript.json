@@ -1,0 +1,35 @@
+{
+  "language": "es",
+  "segments": [
+    {
+      "start": 1.8,
+      "end": 3.8,
+      "text": "Okay, shit's popping off now."
+    },
+    {
+      "start": 3.8,
+      "end": 5.3,
+      "text": "There's the board me found."
+    },
+    {
+      "start": 5.3,
+      "end": 6.5,
+      "text": "Eh, se va a levantar, ¿no?"
+    },
+    {
+      "start": 6.5,
+      "end": 7.5,
+      "text": "Hola, hola."
+    },
+    {
+      "start": 10.5,
+      "end": 11.5,
+      "text": "Jodeme más."
+    },
+    {
+      "start": 11.5,
+      "end": 15.0,
+      "text": "There's things out of the way out of the way."
+    }
+  ]
+}

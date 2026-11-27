@@ -1,0 +1,45 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 7.9,
+      "end": 9.9,
+      "text": "Oh my god, I fucking did it."
+    },
+    {
+      "start": 9.9,
+      "end": 11.9,
+      "text": "Holy shit, I did it."
+    },
+    {
+      "start": 11.9,
+      "end": 13.9,
+      "text": "Holy shit."
+    },
+    {
+      "start": 13.9,
+      "end": 15.9,
+      "text": "Holy shit."
+    },
+    {
+      "start": 15.9,
+      "end": 19.8,
+      "text": "Holy shit."
+    },
+    {
+      "start": 19.8,
+      "end": 23.9,
+      "text": "This looks crazy."
+    },
+    {
+      "start": 23.9,
+      "end": 27.7,
+      "text": "No tracker on it."
+    },
+    {
+      "start": 27.7,
+      "end": 29.7,
+      "text": "Buzz alright."
+    }
+  ]
+}

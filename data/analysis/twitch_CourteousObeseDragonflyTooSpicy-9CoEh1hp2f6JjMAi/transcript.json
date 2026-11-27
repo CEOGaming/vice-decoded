@@ -1,0 +1,45 @@
+{
+  "language": "pt",
+  "segments": [
+    {
+      "start": 5.8,
+      "end": 22.9,
+      "text": "Me acordou!"
+    },
+    {
+      "start": 22.9,
+      "end": 24.9,
+      "text": "Caralho..."
+    },
+    {
+      "start": 24.9,
+      "end": 26.9,
+      "text": "Nossa, esse foi muito da hora, velho."
+    },
+    {
+      "start": 28.9,
+      "end": 30.9,
+      "text": "Eu quero mais alienígena..."
+    },
+    {
+      "start": 30.9,
+      "end": 32.9,
+      "text": "Nossa, melhorou meu foco, melhorou tu..."
+    },
+    {
+      "start": 32.9,
+      "end": 34.9,
+      "text": "O exército!"
+    },
+    {
+      "start": 34.9,
+      "end": 39.6,
+      "text": "Os tiras!"
+    },
+    {
+      "start": 39.6,
+      "end": 60.2,
+      "text": "Leva!"
+    }
+  ]
+}
