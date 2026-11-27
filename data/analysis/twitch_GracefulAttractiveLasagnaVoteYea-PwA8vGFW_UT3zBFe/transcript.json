@@ -1,0 +1,20 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "We need to go opposite lanes"
+    },
+    {
+      "start": 2.5,
+      "end": 4.5,
+      "text": "Yeah opposite lanes a great idea"
+    },
+    {
+      "start": 6.7,
+      "end": 8.7,
+      "text": "Fucking hell"
+    }
+  ]
+}

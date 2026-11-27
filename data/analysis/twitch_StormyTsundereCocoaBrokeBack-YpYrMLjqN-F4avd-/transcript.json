@@ -1,0 +1,55 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 2.9,
+      "end": 4.9,
+      "text": "You're not with you"
+    },
+    {
+      "start": 4.9,
+      "end": 9.5,
+      "text": "Ah, here we go!"
+    },
+    {
+      "start": 9.5,
+      "end": 13.8,
+      "text": "Oh yeah, that's the one, oh yeah"
+    },
+    {
+      "start": 13.8,
+      "end": 15.8,
+      "text": "Oh yeah, like, it's touch now"
+    },
+    {
+      "start": 15.8,
+      "end": 22.8,
+      "text": "Oh yeah, that's what I like"
+    },
+    {
+      "start": 22.8,
+      "end": 24.8,
+      "text": "Oh yeah, oh yeah, oh yeah"
+    },
+    {
+      "start": 24.8,
+      "end": 30.1,
+      "text": "Oh Jason, Jason, Jason, Jason!"
+    },
+    {
+      "start": 41.1,
+      "end": 54.5,
+      "text": "Oh my god, Jason"
+    },
+    {
+      "start": 54.5,
+      "end": 58.6,
+      "text": "Yeah, okay"
+    },
+    {
+      "start": 58.6,
+      "end": 60.6,
+      "text": "Isn't it great? You ready?"
+    }
+  ]
+}

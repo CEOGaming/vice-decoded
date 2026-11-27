@@ -1,0 +1,45 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.2,
+      "end": 3.7,
+      "text": "And she does not forget that kind of stuff."
+    },
+    {
+      "start": 3.7,
+      "end": 12.9,
+      "text": "Oh!"
+    },
+    {
+      "start": 12.9,
+      "end": 13.9,
+      "text": "Hey!"
+    },
+    {
+      "start": 13.9,
+      "end": 16.9,
+      "text": "Well, I didn't kill him."
+    },
+    {
+      "start": 16.9,
+      "end": 17.9,
+      "text": "No you did not."
+    },
+    {
+      "start": 17.9,
+      "end": 18.9,
+      "text": "He was very much alive."
+    },
+    {
+      "start": 18.9,
+      "end": 19.9,
+      "text": "He was very much alive."
+    },
+    {
+      "start": 19.9,
+      "end": 20.4,
+      "text": "He was very much alive."
+    }
+  ]
+}

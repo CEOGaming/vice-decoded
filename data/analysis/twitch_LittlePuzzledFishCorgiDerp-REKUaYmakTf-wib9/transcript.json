@@ -1,0 +1,25 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.4,
+      "end": 2.4,
+      "text": "Do we find the silencers?"
+    },
+    {
+      "start": 3.2,
+      "end": 10.9,
+      "text": "Chat, is this it? Is this the big moment? Oh my god"
+    },
+    {
+      "start": 11.9,
+      "end": 14.3,
+      "text": "This looks like how it looks in the movies"
+    },
+    {
+      "start": 16.1,
+      "end": 19.2,
+      "text": "So it's not called a silencer. It's called a suppressor"
+    }
+  ]
+}

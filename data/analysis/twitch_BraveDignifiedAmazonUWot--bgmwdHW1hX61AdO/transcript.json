@@ -1,0 +1,50 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.4,
+      "text": "Hi, how are we doing? Hello, hello, hello, hello, hello."
+    },
+    {
+      "start": 3.4,
+      "end": 5.4,
+      "text": "Early stream, because we're going to do a long stream."
+    },
+    {
+      "start": 5.4,
+      "end": 6.9,
+      "text": "Hi, hello, hello, hello."
+    },
+    {
+      "start": 6.9,
+      "end": 9.4,
+      "text": "Today, I'm not the cat, today I'm a cow, so moo."
+    },
+    {
+      "start": 9.4,
+      "end": 11.0,
+      "text": "Hi, hello, how are we doing?"
+    },
+    {
+      "start": 11.0,
+      "end": 12.4,
+      "text": "Sorry, I'm setting everything up."
+    },
+    {
+      "start": 12.4,
+      "end": 14.3,
+      "text": "I think everything is fine right now,"
+    },
+    {
+      "start": 14.3,
+      "end": 17.3,
+      "text": "so we can instantly launch GTA 6,"
+    },
+    {
+      "start": 17.3,
+      "end": 18.6,
+      "text": "because I'm pretty sure that-"
+    }
+  ]
+}

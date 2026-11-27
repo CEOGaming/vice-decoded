@@ -1,0 +1,35 @@
+{
+  "language": "nl",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 8.0,
+      "text": "dat we nu naar deze gaan"
+    },
+    {
+      "start": 8.0,
+      "end": 18.1,
+      "text": "oke"
+    },
+    {
+      "start": 18.1,
+      "end": 20.1,
+      "text": "zieker stijlt"
+    },
+    {
+      "start": 20.1,
+      "end": 33.6,
+      "text": "fantastisch"
+    },
+    {
+      "start": 33.6,
+      "end": 58.0,
+      "text": "dankjewel"
+    },
+    {
+      "start": 58.0,
+      "end": 60.0,
+      "text": "snel doe ik me inderdaad"
+    }
+  ]
+}

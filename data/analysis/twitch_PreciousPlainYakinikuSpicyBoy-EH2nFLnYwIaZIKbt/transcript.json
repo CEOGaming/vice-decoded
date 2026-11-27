@@ -1,0 +1,20 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 12.5,
+      "text": "behind me. Well, huh, so that was interesting. How are you doing?"
+    },
+    {
+      "start": 27.3,
+      "end": 28.4,
+      "text": "Hey."
+    },
+    {
+      "start": 42.2,
+      "end": 52.1,
+      "text": "Get back over there, bro. Oh my God, bro's chasing after me."
+    }
+  ]
+}

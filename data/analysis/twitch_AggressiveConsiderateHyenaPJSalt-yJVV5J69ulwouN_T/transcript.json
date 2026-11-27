@@ -1,0 +1,55 @@
+{
+  "language": "pt",
+  "segments": [
+    {
+      "start": 0.4,
+      "end": 2.4,
+      "text": "Hoje, cadê?"
+    },
+    {
+      "start": 2.4,
+      "end": 4.4,
+      "text": "Cadê?"
+    },
+    {
+      "start": 4.4,
+      "end": 6.4,
+      "text": "Que que é isso?"
+    },
+    {
+      "start": 6.4,
+      "end": 8.4,
+      "text": "Que que é isso?"
+    },
+    {
+      "start": 8.4,
+      "end": 10.4,
+      "text": "Que que é isso?"
+    },
+    {
+      "start": 10.4,
+      "end": 12.4,
+      "text": "Que que é isso, mano?"
+    },
+    {
+      "start": 12.4,
+      "end": 14.4,
+      "text": "Caraca!"
+    },
+    {
+      "start": 14.4,
+      "end": 16.4,
+      "text": "Cripa isso?"
+    },
+    {
+      "start": 16.4,
+      "end": 22.2,
+      "text": "Hoje?"
+    },
+    {
+      "start": 22.2,
+      "end": 25.7,
+      "text": "Cripa isso, caramba."
+    }
+  ]
+}

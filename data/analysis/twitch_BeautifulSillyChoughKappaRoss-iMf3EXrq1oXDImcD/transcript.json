@@ -1,0 +1,30 @@
+{
+  "language": "de",
+  "segments": [
+    {
+      "start": 0.1,
+      "end": 6.4,
+      "text": "Wie ist das passiert?"
+    },
+    {
+      "start": 6.4,
+      "end": 8.4,
+      "text": "Wie sieht er rauskommt?"
+    },
+    {
+      "start": 13.3,
+      "end": 14.3,
+      "text": "Ey!"
+    },
+    {
+      "start": 14.3,
+      "end": 16.3,
+      "text": "Da kann ich doch nix für!"
+    },
+    {
+      "start": 16.3,
+      "end": 22.2,
+      "text": "Ich hab Probleme, ich hab Probleme."
+    }
+  ]
+}

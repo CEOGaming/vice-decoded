@@ -1,0 +1,50 @@
+{
+  "language": "fi",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.2,
+      "text": "Söössi!"
+    },
+    {
+      "start": 1.5,
+      "end": 3.3,
+      "text": "Söössi ei vahde vrrrrrrr"
+    },
+    {
+      "start": 3.3,
+      "end": 3.8,
+      "text": "Latska!"
+    },
+    {
+      "start": 3.8,
+      "end": 4.5,
+      "text": "Haa haa haa!"
+    },
+    {
+      "start": 4.5,
+      "end": 6.0,
+      "text": "Maailka vittu!"
+    },
+    {
+      "start": 6.0,
+      "end": 6.5,
+      "text": "Haa haa!"
+    },
+    {
+      "start": 6.5,
+      "end": 7.3,
+      "text": "Ihh, vittu!"
+    },
+    {
+      "start": 7.3,
+      "end": 8.6,
+      "text": "Olen vahde vrrrrr!"
+    },
+    {
+      "start": 8.6,
+      "end": 9.2,
+      "text": "Ohuu!"
+    }
+  ]
+}

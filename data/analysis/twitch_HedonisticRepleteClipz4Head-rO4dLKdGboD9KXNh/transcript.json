@@ -1,0 +1,30 @@
+{
+  "language": "es",
+  "segments": [
+    {
+      "start": 0.2,
+      "end": 4.0,
+      "text": "aaa eeee"
+    },
+    {
+      "start": 4.4,
+      "end": 6.4,
+      "text": "si cos easter egg"
+    },
+    {
+      "start": 7.3,
+      "end": 9.4,
+      "text": "bueno easter egg no que coño"
+    },
+    {
+      "start": 9.4,
+      "end": 10.4,
+      "text": "easter polla"
+    },
+    {
+      "start": 10.4,
+      "end": 12.4,
+      "text": "señores"
+    }
+  ]
+}

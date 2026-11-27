@@ -1,0 +1,20 @@
+{
+  "language": "pt",
+  "segments": [
+    {
+      "start": 3.0,
+      "end": 5.0,
+      "text": "Do que, amor? Anda!"
+    },
+    {
+      "start": 5.0,
+      "end": 7.0,
+      "text": "Bora! Entra aí!"
+    },
+    {
+      "start": 7.0,
+      "end": 13.9,
+      "text": "Que c***, man!"
+    }
+  ]
+}

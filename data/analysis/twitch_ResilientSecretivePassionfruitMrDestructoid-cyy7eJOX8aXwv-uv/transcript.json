@@ -1,0 +1,20 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 2.7,
+      "end": 4.7,
+      "text": "Unfortunate, but these things happen."
+    },
+    {
+      "start": 4.7,
+      "end": 9.6,
+      "text": "There's a whole group of police here."
+    },
+    {
+      "start": 9.6,
+      "end": 10.6,
+      "text": "They're gentlemen."
+    }
+  ]
+}

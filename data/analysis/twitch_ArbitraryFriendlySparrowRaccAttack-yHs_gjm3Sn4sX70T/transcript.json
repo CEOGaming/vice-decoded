@@ -1,0 +1,20 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.1,
+      "end": 2.1,
+      "text": "Right, this is my RAID vehicle."
+    },
+    {
+      "start": 3.1,
+      "end": 6.5,
+      "text": "This is the RAID."
+    },
+    {
+      "start": 6.5,
+      "end": 9.6,
+      "text": "I feel like there's a lot of insane decisions made in this game."
+    }
+  ]
+}

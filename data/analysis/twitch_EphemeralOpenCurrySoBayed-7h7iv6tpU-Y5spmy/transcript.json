@@ -1,0 +1,55 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Thanks, Ma. Thanks."
+    },
+    {
+      "start": 6.0,
+      "end": 7.0,
+      "text": "Oh, that's it."
+    },
+    {
+      "start": 7.0,
+      "end": 8.0,
+      "text": "What the fuck?"
+    },
+    {
+      "start": 9.0,
+      "end": 10.0,
+      "text": "What the?"
+    },
+    {
+      "start": 10.0,
+      "end": 14.4,
+      "text": "What the fuck?"
+    },
+    {
+      "start": 14.4,
+      "end": 23.6,
+      "text": "Thank you, God. Thank you, God. Thank you, Jesus."
+    },
+    {
+      "start": 23.6,
+      "end": 24.6,
+      "text": "Ma?"
+    },
+    {
+      "start": 24.6,
+      "end": 27.6,
+      "text": "Thank you, Santa Maria, and the freaking Holy Ghost too."
+    },
+    {
+      "start": 27.6,
+      "end": 28.6,
+      "text": "You okay, Ma?"
+    },
+    {
+      "start": 28.6,
+      "end": 29.6,
+      "text": "No, I'm not okay."
+    }
+  ]
+}

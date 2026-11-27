@@ -1,0 +1,35 @@
+{
+  "language": "pt",
+  "segments": [
+    {
+      "start": 0.3,
+      "end": 6.3,
+      "text": "Play em modo repouso porque eu estou desmaiando já desde que hora, desde meia-noite aqui, nove horas de..."
+    },
+    {
+      "start": 6.3,
+      "end": 11.8,
+      "text": "Aí de tarde, continuo pra D."
+    },
+    {
+      "start": 12.8,
+      "end": 14.8,
+      "text": "Você é louco, você é louco!"
+    },
+    {
+      "start": 14.8,
+      "end": 16.8,
+      "text": "Me acabei hoje."
+    },
+    {
+      "start": 17.8,
+      "end": 21.8,
+      "text": "Vou dar o 9, 10, 11, 12, 13, 14, 16, 17."
+    },
+    {
+      "start": 21.8,
+      "end": 22.8,
+      "text": "Vou dar 5."
+    }
+  ]
+}

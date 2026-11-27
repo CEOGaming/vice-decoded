@@ -1,0 +1,35 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "location, or at..."
+    },
+    {
+      "start": 2.0,
+      "end": 3.0,
+      "text": "Fuck this!"
+    },
+    {
+      "start": 6.0,
+      "end": 8.0,
+      "text": "Hey! Dr. Bill!"
+    },
+    {
+      "start": 8.0,
+      "end": 23.8,
+      "text": "Doofus Nocti..."
+    },
+    {
+      "start": 23.8,
+      "end": 24.8,
+      "text": "Whatever."
+    },
+    {
+      "start": 24.8,
+      "end": 27.1,
+      "text": "I... I can't..."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.2,
+      "end": 4.6,
+      "text": "Okay, it's fine. It's a lot better my driving than before that"
+    },
+    {
+      "start": 5.5,
+      "end": 8.8,
+      "text": "shit, I"
+    },
+    {
+      "start": 8.8,
+      "end": 15.4,
+      "text": "Just said it. I just said it never mind. It's okay. It's not burning"
+    }
+  ]
+}

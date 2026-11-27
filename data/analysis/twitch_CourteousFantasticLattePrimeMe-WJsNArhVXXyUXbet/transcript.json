@@ -1,0 +1,15 @@
+{
+  "language": "es",
+  "segments": [
+    {
+      "start": 3.4,
+      "end": 4.4,
+      "text": "¡Ay!"
+    },
+    {
+      "start": 4.4,
+      "end": 5.4,
+      "text": "¡Joder, que estusco, perdón!"
+    }
+  ]
+}

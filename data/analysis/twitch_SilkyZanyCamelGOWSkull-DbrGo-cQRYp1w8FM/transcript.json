@@ -1,0 +1,20 @@
+{
+  "language": "fr",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.2,
+      "text": "Pardon, pardon. Bon, on va faire les courses pour Lucia."
+    },
+    {
+      "start": 2.2,
+      "end": 3.2,
+      "text": "Oh, le chat !"
+    },
+    {
+      "start": 4.3,
+      "end": 6.5,
+      "text": "Comment on fait pour pète ? Pète de 4."
+    }
+  ]
+}

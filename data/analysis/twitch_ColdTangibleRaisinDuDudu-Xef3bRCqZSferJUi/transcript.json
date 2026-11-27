@@ -1,0 +1,55 @@
+{
+  "language": "fr",
+  "segments": [
+    {
+      "start": 0.1,
+      "end": 4.8,
+      "text": "On a la bonne voiture !"
+    },
+    {
+      "start": 4.8,
+      "end": 6.8,
+      "text": "Je suis jaloux"
+    },
+    {
+      "start": 6.8,
+      "end": 11.1,
+      "text": "On arrive Raoul"
+    },
+    {
+      "start": 11.1,
+      "end": 13.1,
+      "text": "On arrive"
+    },
+    {
+      "start": 17.1,
+      "end": 18.1,
+      "text": "What ?"
+    },
+    {
+      "start": 18.1,
+      "end": 19.1,
+      "text": "Mais pourquoi il faut un plongeant ?"
+    },
+    {
+      "start": 19.1,
+      "end": 23.6,
+      "text": "Mais c'est quoi ce bug ?"
+    },
+    {
+      "start": 23.6,
+      "end": 25.6,
+      "text": "Mais à quel moment ?"
+    },
+    {
+      "start": 25.6,
+      "end": 28.6,
+      "text": "Qu'est-ce qu'ils ont plongé comme ça à travers la vitre ?"
+    },
+    {
+      "start": 28.6,
+      "end": 29.6,
+      "text": "On est où ?"
+    }
+  ]
+}

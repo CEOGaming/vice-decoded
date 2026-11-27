@@ -1,0 +1,25 @@
+{
+  "language": "de",
+  "segments": [
+    {
+      "start": 1.0,
+      "end": 7.0,
+      "text": "Wenn ihr wisst, wie dunkel das hier im Raum ist, aber die Kamera das immer noch so hell macht."
+    },
+    {
+      "start": 7.0,
+      "end": 25.7,
+      "text": "Toll, jetzt habe ich drei. Das war ja wohl Absicht, oder?"
+    },
+    {
+      "start": 29.7,
+      "end": 33.7,
+      "text": "Okay, ich bin drauf reingefallen. So jetzt komme ich da nicht mehr rein oder was?"
+    },
+    {
+      "start": 33.7,
+      "end": 40.2,
+      "text": "Sehr witzig!"
+    }
+  ]
+}

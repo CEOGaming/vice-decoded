@@ -1,0 +1,30 @@
+{
+  "language": "de",
+  "segments": [
+    {
+      "start": 3.0,
+      "end": 5.0,
+      "text": "Das ist krass"
+    },
+    {
+      "start": 5.1,
+      "end": 7.6,
+      "text": "Westerfahrer ein weiß CT ja klar"
+    },
+    {
+      "start": 8.2,
+      "end": 13.8,
+      "text": "Der Typ hier vor uns der Typ hier neben uns will ja was von uns lernen weil wir so ein guter Fahrer"
+    },
+    {
+      "start": 14.6,
+      "end": 18.8,
+      "text": "sind"
+    },
+    {
+      "start": 18.8,
+      "end": 20.8,
+      "text": "Sorry meiner"
+    }
+  ]
+}

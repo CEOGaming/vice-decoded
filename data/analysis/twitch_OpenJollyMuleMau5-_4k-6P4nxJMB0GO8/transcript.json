@@ -1,0 +1,40 @@
+{
+  "language": "hu",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "Mi ez a jamból?"
+    },
+    {
+      "start": 4.2,
+      "end": 5.7,
+      "text": "Biciklit ki visszi vissza."
+    },
+    {
+      "start": 5.7,
+      "end": 7.8,
+      "text": "Szerinted miért van itt ennyi bicikli?"
+    },
+    {
+      "start": 8.6,
+      "end": 10.1,
+      "text": "Rival Pro."
+    },
+    {
+      "start": 10.1,
+      "end": 11.9,
+      "text": "Iha az egeremnek merül a izéje."
+    },
+    {
+      "start": 12.2,
+      "end": 13.3,
+      "text": "Az aksia."
+    },
+    {
+      "start": 13.8,
+      "end": 16.2,
+      "text": "Jó van, van egy tűárnyőm."
+    }
+  ]
+}

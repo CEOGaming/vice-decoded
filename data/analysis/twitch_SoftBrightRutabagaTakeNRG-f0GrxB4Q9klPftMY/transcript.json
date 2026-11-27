@@ -1,0 +1,35 @@
+{
+  "language": "es",
+  "segments": [
+    {
+      "start": 0.7,
+      "end": 2.7,
+      "text": "No va a venir rapidísimo"
+    },
+    {
+      "start": 2.7,
+      "end": 6.5,
+      "text": "La música, la música"
+    },
+    {
+      "start": 8.5,
+      "end": 9.5,
+      "text": "Hoy se cayó"
+    },
+    {
+      "start": 9.5,
+      "end": 14.6,
+      "text": "Está bien Peggy"
+    },
+    {
+      "start": 14.6,
+      "end": 15.6,
+      "text": "Peggy"
+    },
+    {
+      "start": 15.6,
+      "end": 17.6,
+      "text": "Uy perdón, perdón Peggy Peggy"
+    }
+  ]
+}

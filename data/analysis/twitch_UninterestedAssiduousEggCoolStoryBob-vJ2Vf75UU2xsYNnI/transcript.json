@@ -1,0 +1,40 @@
+{
+  "language": "ro",
+  "segments": [
+    {
+      "start": 5.7,
+      "end": 7.7,
+      "text": "Ce-i daca ma pun in fata lui ea? Ce faci?"
+    },
+    {
+      "start": 9.6,
+      "end": 10.6,
+      "text": "Mama nu e..."
+    },
+    {
+      "start": 18.0,
+      "end": 18.5,
+      "text": "Ok."
+    },
+    {
+      "start": 18.9,
+      "end": 19.8,
+      "text": "Reanuntam!"
+    },
+    {
+      "start": 21.0,
+      "end": 22.0,
+      "text": "Reanuntam!"
+    },
+    {
+      "start": 23.1,
+      "end": 24.1,
+      "text": "Aaa..."
+    },
+    {
+      "start": 25.3,
+      "end": 26.8,
+      "text": "Pe cine pot sa sun pentru masina?"
+    }
+  ]
+}

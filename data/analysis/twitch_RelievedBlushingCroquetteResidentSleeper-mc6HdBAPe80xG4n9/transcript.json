@@ -1,0 +1,15 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.7,
+      "end": 2.7,
+      "text": "I have money for taxi"
+    },
+    {
+      "start": 2.7,
+      "end": 4.7,
+      "text": "It's me!"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Are you joking?"
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "Um, get out!"
+    },
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "text": "Oh, what the fuck are you doing in my car?"
+    },
+    {
+      "start": 8.0,
+      "end": 9.0,
+      "text": "This is your car?"
+    },
+    {
+      "start": 9.0,
+      "end": 10.0,
+      "text": "Yeah, it is!"
+    },
+    {
+      "start": 10.0,
+      "end": 11.0,
+      "text": "Get out!"
+    },
+    {
+      "start": 13.0,
+      "end": 14.0,
+      "text": "You got a moment here."
+    },
+    {
+      "start": 14.0,
+      "end": 15.0,
+      "text": "It's been real."
+    },
+    {
+      "start": 15.0,
+      "end": 16.0,
+      "text": "Get your ass cheeks!"
+    },
+    {
+      "start": 16.0,
+      "end": 17.0,
+      "text": "I really need you to get out of my ride."
+    },
+    {
+      "start": 17.0,
+      "end": 18.0,
+      "text": "All over the car, see?"
+    },
+    {
+      "start": 21.0,
+      "end": 22.0,
+      "text": "Anyway, this is my car."
+    },
+    {
+      "start": 22.0,
+      "end": 58.3,
+      "text": "No, who's the police?"
+    }
+  ]
+}

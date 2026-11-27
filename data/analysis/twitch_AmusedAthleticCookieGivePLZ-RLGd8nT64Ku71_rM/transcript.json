@@ -1,0 +1,30 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 5.2,
+      "end": 8.6,
+      "text": "Wait, wait. What about my dog? What about Peacock?"
+    },
+    {
+      "start": 8.6,
+      "end": 12.0,
+      "text": "Peacock, Peacock. He's got dogs. He's hiding there."
+    },
+    {
+      "start": 12.0,
+      "end": 25.0,
+      "text": "Please, please let me out."
+    },
+    {
+      "start": 25.0,
+      "end": 28.0,
+      "text": "Huh, nice try, Dr. Bill."
+    },
+    {
+      "start": 28.0,
+      "end": 30.0,
+      "text": "But this isn't a spaceship."
+    }
+  ]
+}

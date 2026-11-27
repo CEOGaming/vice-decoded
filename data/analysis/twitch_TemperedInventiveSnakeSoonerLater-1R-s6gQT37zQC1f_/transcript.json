@@ -1,0 +1,45 @@
+{
+  "language": "pl",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Patrzcie na to wyprzedzanko."
+    },
+    {
+      "start": 4.0,
+      "end": 7.0,
+      "text": "Pokonaj członka ekipy biliego, no na pewno pokonam."
+    },
+    {
+      "start": 8.0,
+      "end": 13.5,
+      "text": "Ostatnie okrążenie."
+    },
+    {
+      "start": 14.5,
+      "end": 16.5,
+      "text": "Okej, ostatnie okrążenie."
+    },
+    {
+      "start": 17.5,
+      "end": 18.5,
+      "text": "O kurde."
+    },
+    {
+      "start": 18.5,
+      "end": 30.6,
+      "text": "Pamiętaj, mniej wyjebane, a będzie ci dane."
+    },
+    {
+      "start": 32.6,
+      "end": 36.0,
+      "text": "To chyba najlepszy tekst na razie."
+    },
+    {
+      "start": 36.0,
+      "end": 45.5,
+      "text": "Łuchu dobrze, że mają kaski."
+    }
+  ]
+}

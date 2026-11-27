@@ -1,0 +1,35 @@
+{
+  "language": "pt",
+  "segments": [
+    {
+      "start": 0.9,
+      "end": 2.9,
+      "text": "Morreu o carro, morreu."
+    },
+    {
+      "start": 2.9,
+      "end": 4.9,
+      "text": "Que porra é essa?"
+    },
+    {
+      "start": 6.9,
+      "end": 37.2,
+      "text": "Que porra é essa?"
+    },
+    {
+      "start": 37.2,
+      "end": 44.7,
+      "text": "Que isso?"
+    },
+    {
+      "start": 46.7,
+      "end": 48.7,
+      "text": "Ai meu Deus mano, que porra é essa?"
+    },
+    {
+      "start": 56.2,
+      "end": 58.2,
+      "text": "Mano, what the fuck?"
+    }
+  ]
+}

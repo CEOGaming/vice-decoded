@@ -1,0 +1,45 @@
+{
+  "language": "de",
+  "segments": [
+    {
+      "start": 1.4,
+      "end": 3.4,
+      "text": "Was ist das?"
+    },
+    {
+      "start": 3.4,
+      "end": 7.4,
+      "text": "Oh, das ist nur einer der äußeren Pizza-Albens?"
+    },
+    {
+      "start": 7.4,
+      "end": 9.4,
+      "text": "Ist das genug zu verlieren?"
+    },
+    {
+      "start": 9.4,
+      "end": 10.4,
+      "text": "Nein."
+    },
+    {
+      "start": 10.4,
+      "end": 13.6,
+      "text": "Es bleibt."
+    },
+    {
+      "start": 13.6,
+      "end": 15.6,
+      "text": "Ich mache mein Undo."
+    },
+    {
+      "start": 15.6,
+      "end": 17.6,
+      "text": "Das ist fucking lecker."
+    },
+    {
+      "start": 18.6,
+      "end": 20.6,
+      "text": "Du hast ein Auto."
+    }
+  ]
+}

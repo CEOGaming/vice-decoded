@@ -1,0 +1,35 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.8,
+      "text": "Where is this rock?"
+    },
+    {
+      "start": 3.8,
+      "end": 20.4,
+      "text": "This thing is haunted? Oh fuck yeah dawg!"
+    },
+    {
+      "start": 20.4,
+      "end": 23.4,
+      "text": "Don't you feel a little prickly on your skin?"
+    },
+    {
+      "start": 23.4,
+      "end": 25.4,
+      "text": "Come on, they're watching you!"
+    },
+    {
+      "start": 25.4,
+      "end": 28.4,
+      "text": "I feel like sea ghosts are meaner than regular ghosts."
+    },
+    {
+      "start": 28.4,
+      "end": 30.4,
+      "text": "Nah, they probably have to-"
+    }
+  ]
+}

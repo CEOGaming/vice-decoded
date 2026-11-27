@@ -1,0 +1,40 @@
+{
+  "language": "fr",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": "Ça veut dire que toutes les fringues que j'ai achetées"
+    },
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "text": "Quand on faisait pas la mission principale"
+    },
+    {
+      "start": 6.0,
+      "end": 9.0,
+      "text": "Tout a cramé dans la, dans la, dans la barrage"
+    },
+    {
+      "start": 9.0,
+      "end": 16.0,
+      "text": "Alors autant les 20 000 balles je m'en fous je vais pouvoir me les refaire"
+    },
+    {
+      "start": 16.0,
+      "end": 18.0,
+      "text": "Mais mes fringues"
+    },
+    {
+      "start": 22.5,
+      "end": 23.5,
+      "text": "Tant fort des chers"
+    },
+    {
+      "start": 27.5,
+      "end": 28.5,
+      "text": "Mais c'est la merde"
+    }
+  ]
+}

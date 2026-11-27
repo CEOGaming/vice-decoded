@@ -1,0 +1,15 @@
+{
+  "language": "fr",
+  "segments": [
+    {
+      "start": 0.4,
+      "end": 3.7,
+      "text": "Vous avez déjà essayé d'écraser une pastèque avec votre puce ou pas ?"
+    },
+    {
+      "start": 4.6,
+      "end": 7.4,
+      "text": "J'ai vu plein de gens essayer de le faire, un jour j'essaierai."
+    }
+  ]
+}
