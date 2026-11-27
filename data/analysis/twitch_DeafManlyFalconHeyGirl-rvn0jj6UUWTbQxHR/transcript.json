@@ -1,0 +1,40 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 3.6,
+      "end": 4.5,
+      "text": "No worries."
+    },
+    {
+      "start": 4.5,
+      "end": 5.0,
+      "text": "Ow."
+    },
+    {
+      "start": 5.0,
+      "end": 5.5,
+      "text": "Ah!"
+    },
+    {
+      "start": 5.5,
+      "end": 8.4,
+      "text": "Ah!"
+    },
+    {
+      "start": 8.4,
+      "end": 8.9,
+      "text": "Ah!"
+    },
+    {
+      "start": 8.9,
+      "end": 9.4,
+      "text": "Ah!"
+    },
+    {
+      "start": 9.4,
+      "end": 9.9,
+      "text": "Ah!"
+    }
+  ]
+}
