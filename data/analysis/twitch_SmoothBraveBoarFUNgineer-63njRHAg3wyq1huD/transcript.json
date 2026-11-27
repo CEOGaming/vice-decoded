@@ -1,0 +1,30 @@
+{
+  "language": "es",
+  "segments": [
+    {
+      "start": 3.8,
+      "end": 9.7,
+      "text": "Esto es muy importante, lo que dice Bruno. El juntarse con gente de rubro que quiere"
+    },
+    {
+      "start": 9.7,
+      "end": 14.3,
+      "text": "centrar también te motivaría, te generaría esa necesidad intriga de entender más las"
+    },
+    {
+      "start": 14.3,
+      "end": 19.2,
+      "text": "cosas desde dentro. El setrismo acompañado también es algo que ayuda, pero sobre todo"
+    },
+    {
+      "start": 19.2,
+      "end": 24.4,
+      "text": "el empezar a investigar ya estando adentro, por así decir. Y eso es otra realidad."
+    },
+    {
+      "start": 24.4,
+      "end": 30.0,
+      "text": "Es muy difícil que tu de repente quieras reventarlo en lo que sea."
+    }
+  ]
+}

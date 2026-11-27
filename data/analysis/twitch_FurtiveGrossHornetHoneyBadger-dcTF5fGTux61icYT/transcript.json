@@ -1,0 +1,70 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.1,
+      "end": 7.1,
+      "text": "Would you like to head there now? I could call a car. Yeah, you know what I'm saying"
+    },
+    {
+      "start": 12.5,
+      "end": 14.7,
+      "text": "Thanks. Let's do it. Sure thing"
+    },
+    {
+      "start": 15.2,
+      "end": 17.2,
+      "text": "I'll let Mrs. Walker know to join you"
+    },
+    {
+      "start": 17.7,
+      "end": 21.0,
+      "text": "Welcome to the Y"
+    },
+    {
+      "start": 21.0,
+      "end": 23.0,
+      "text": "Yeah, oh"
+    },
+    {
+      "start": 23.3,
+      "end": 26.0,
+      "text": "My god, we got Cadillac. Yeah"
+    },
+    {
+      "start": 27.1,
+      "end": 28.7,
+      "text": "Yeah"
+    },
+    {
+      "start": 28.7,
+      "end": 30.7,
+      "text": "my"
+    },
+    {
+      "start": 31.6,
+      "end": 33.6,
+      "text": "Yeah, we're rich, bro"
+    },
+    {
+      "start": 34.2,
+      "end": 38.1,
+      "text": "Fucking rich, bro"
+    },
+    {
+      "start": 38.1,
+      "end": 42.7,
+      "text": "So I'm a play toy. Don't say that man. Don't say that man"
+    },
+    {
+      "start": 51.0,
+      "end": 53.0,
+      "text": "That bike"
+    },
+    {
+      "start": 56.5,
+      "end": 58.5,
+      "text": "We get a lamb"
+    }
+  ]
+}

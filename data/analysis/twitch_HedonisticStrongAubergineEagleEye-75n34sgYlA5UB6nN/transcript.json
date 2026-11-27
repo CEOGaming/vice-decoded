@@ -1,0 +1,45 @@
+{
+  "language": "es",
+  "segments": [
+    {
+      "start": 0.9,
+      "end": 7.9,
+      "text": "y calienta pollas eh, una microondas"
+    },
+    {
+      "start": 7.9,
+      "end": 12.9,
+      "text": "que botas"
+    },
+    {
+      "start": 12.9,
+      "end": 21.9,
+      "text": "esta de repente se usa así en un..."
+    },
+    {
+      "start": 21.9,
+      "end": 27.2,
+      "text": "no creo que se llama stalking"
+    },
+    {
+      "start": 27.2,
+      "end": 31.2,
+      "text": "no es stalking si te has metido en tu casa"
+    },
+    {
+      "start": 31.2,
+      "end": 44.9,
+      "text": "oye, te has olvidado de eso"
+    },
+    {
+      "start": 45.9,
+      "end": 50.9,
+      "text": "que es un anillo, era?"
+    },
+    {
+      "start": 50.9,
+      "end": 55.9,
+      "text": "no me ha pegado"
+    }
+  ]
+}

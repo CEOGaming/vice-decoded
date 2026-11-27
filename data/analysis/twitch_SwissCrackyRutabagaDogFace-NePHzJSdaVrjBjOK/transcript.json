@@ -1,0 +1,15 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 5.6,
+      "end": 8.6,
+      "text": "You, uh, you good?"
+    },
+    {
+      "start": 8.6,
+      "end": 10.6,
+      "text": "It just stands up."
+    }
+  ]
+}

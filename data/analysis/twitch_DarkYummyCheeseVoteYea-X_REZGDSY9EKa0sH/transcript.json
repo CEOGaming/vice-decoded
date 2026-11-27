@@ -1,0 +1,50 @@
+{
+  "language": "es",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Estás visitado, ¿verdad?"
+    },
+    {
+      "start": 31.3,
+      "end": 33.3,
+      "text": "¡Sal, sal, sal! Ven!"
+    },
+    {
+      "start": 33.3,
+      "end": 37.5,
+      "text": "¿Estás bien? ¿Estás bien, hijo?"
+    },
+    {
+      "start": 37.5,
+      "end": 40.5,
+      "text": "Mamá, me casi me muero, me salvaste la vida."
+    },
+    {
+      "start": 40.5,
+      "end": 42.5,
+      "text": "Estuvo serca."
+    },
+    {
+      "start": 42.5,
+      "end": 47.7,
+      "text": "Camión de Sahara."
+    },
+    {
+      "start": 47.7,
+      "end": 53.6,
+      "text": "A mi abogado se va a venir los pantalones cuando se le cuenten."
+    },
+    {
+      "start": 53.6,
+      "end": 55.6,
+      "text": "¿Qué le va a contar, hijo?"
+    },
+    {
+      "start": 55.6,
+      "end": 58.6,
+      "text": "¡Voy a ganar hasta 7 cifras!"
+    }
+  ]
+}

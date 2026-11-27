@@ -1,0 +1,20 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "He's so cute!"
+    },
+    {
+      "start": 13.2,
+      "end": 15.2,
+      "text": "Stop! I'm gonna cry."
+    },
+    {
+      "start": 28.4,
+      "end": 30.4,
+      "text": "Almost banged his head."
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "language": "es",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": "Bueno, en concreto aquí ya se calmaron las cosas, por lo que puedo ver, ven."
+    },
+    {
+      "start": 13.2,
+      "end": 15.7,
+      "text": "¡No! ¡Qué imbécil! ¡Qué imbécil!"
+    },
+    {
+      "start": 16.7,
+      "end": 20.2,
+      "text": "¡Soy un imbécil! ¡Me morí! ¡Me morí! ¡Me morí!"
+    },
+    {
+      "start": 27.9,
+      "end": 29.9,
+      "text": "¡Ay, diosante! ¡Ay, diosante!"
+    },
+    {
+      "start": 29.9,
+      "end": 32.9,
+      "text": "¡Ay, tanta! ¡Ay, tanta!"
+    },
+    {
+      "start": 34.9,
+      "end": 37.9,
+      "text": "¡Ay, soy tanta, hermana! ¡Ay, tanta! ¡Te lo aguro!"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 9.1,
+      "text": "I'm so needy."
+    },
+    {
+      "start": 9.1,
+      "end": 11.1,
+      "text": "You're good."
+    },
+    {
+      "start": 11.1,
+      "end": 44.9,
+      "text": "Oh, wow."
+    },
+    {
+      "start": 44.9,
+      "end": 46.9,
+      "text": "Fucked."
+    }
+  ]
+}

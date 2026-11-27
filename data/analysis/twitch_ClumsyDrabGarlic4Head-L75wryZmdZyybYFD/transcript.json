@@ -1,0 +1,20 @@
+{
+  "language": "fr",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.2,
+      "text": "Vitez 3, attends il fait vitez 3 quand même, j'aurais gagné quand même, ça marche pas,"
+    },
+    {
+      "start": 5.2,
+      "end": 15.1,
+      "text": "oui calme toi, vas-y vas-y vas-y vas-y, mais c'est trop grave, c'est glace qu'il se passe"
+    },
+    {
+      "start": 15.1,
+      "end": 28.2,
+      "text": "soit doux, soit doux, c'est pas doux, mais dans l'autre avant, c'est pas possible"
+    }
+  ]
+}

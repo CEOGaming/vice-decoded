@@ -1,0 +1,30 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.0,
+      "text": "All right, now they all have to start fighting out for each other."
+    },
+    {
+      "start": 5.0,
+      "end": 10.0,
+      "text": "All right, let's encourage them."
+    },
+    {
+      "start": 15.0,
+      "end": 18.0,
+      "text": "That's so sweet. This is having a great day."
+    },
+    {
+      "start": 25.0,
+      "end": 27.0,
+      "text": "Don't they do it?"
+    },
+    {
+      "start": 30.0,
+      "end": 32.0,
+      "text": "Camera, okay?"
+    }
+  ]
+}

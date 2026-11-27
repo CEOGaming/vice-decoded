@@ -1,0 +1,60 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 1.7,
+      "end": 2.7,
+      "text": "Hello?"
+    },
+    {
+      "start": 2.8,
+      "end": 5.0,
+      "text": "Ruh."
+    },
+    {
+      "start": 5.0,
+      "end": 11.3,
+      "text": "Other..."
+    },
+    {
+      "start": 11.3,
+      "end": 24.3,
+      "text": "That... Aliens?"
+    },
+    {
+      "start": 24.3,
+      "end": 29.1,
+      "text": "stealing a human?"
+    },
+    {
+      "start": 29.1,
+      "end": 32.6,
+      "text": "God!"
+    },
+    {
+      "start": 40.0,
+      "end": 46.9,
+      "text": "Hello?"
+    },
+    {
+      "start": 46.9,
+      "end": 47.9,
+      "text": "It's okay."
+    },
+    {
+      "start": 47.9,
+      "end": 52.6,
+      "text": "Let's go."
+    },
+    {
+      "start": 52.6,
+      "end": 53.6,
+      "text": "Naked woman."
+    },
+    {
+      "start": 53.6,
+      "end": 56.5,
+      "text": "Are you okay?"
+    }
+  ]
+}
