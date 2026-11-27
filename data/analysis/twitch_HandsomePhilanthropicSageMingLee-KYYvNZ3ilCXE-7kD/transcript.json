@@ -1,0 +1,70 @@
+{
+  "language": "de",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Nee, der ist doch noch, der ist doch noch, der ist doch noch!"
+    },
+    {
+      "start": 2.0,
+      "end": 8.0,
+      "text": "Was machst du denn da?"
+    },
+    {
+      "start": 8.0,
+      "end": 10.6,
+      "text": "Der..."
+    },
+    {
+      "start": 10.6,
+      "end": 11.6,
+      "text": "Oh mein..."
+    },
+    {
+      "start": 11.6,
+      "end": 13.6,
+      "text": "Ah, er ist selber getroffen!"
+    },
+    {
+      "start": 13.6,
+      "end": 25.5,
+      "text": "Teega!"
+    },
+    {
+      "start": 25.5,
+      "end": 30.3,
+      "text": "Er ist im Loop gefangen, habe ich das Gefühl, oder?"
+    },
+    {
+      "start": 30.3,
+      "end": 35.3,
+      "text": "Er ist in seiner Loop gefangen, 13 Jahre, oder was?"
+    },
+    {
+      "start": 35.3,
+      "end": 38.3,
+      "text": "Der macht nur dasselbe die ganze Zeit."
+    },
+    {
+      "start": 39.3,
+      "end": 41.3,
+      "text": "Soll ich ihn helfen?"
+    },
+    {
+      "start": 41.3,
+      "end": 43.8,
+      "text": "Ach, wieso?"
+    },
+    {
+      "start": 43.8,
+      "end": 49.1,
+      "text": "Er ist verbackt."
+    },
+    {
+      "start": 49.1,
+      "end": 59.1,
+      "text": "Jetzt liegt er da."
+    }
+  ]
+}

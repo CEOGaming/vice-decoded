@@ -1,0 +1,20 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 6.5,
+      "end": 9.5,
+      "text": "This is my Thanksgiving dress."
+    },
+    {
+      "start": 9.5,
+      "end": 11.5,
+      "text": "Do you guys like it?"
+    },
+    {
+      "start": 11.5,
+      "end": 29.6,
+      "text": "Okay, let me see in the settings."
+    }
+  ]
+}
