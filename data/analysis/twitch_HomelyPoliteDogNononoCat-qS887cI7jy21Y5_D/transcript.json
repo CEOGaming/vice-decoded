@@ -1,0 +1,35 @@
+{
+  "language": "es",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.6,
+      "text": "explotes fe dame una chance dame una"
+    },
+    {
+      "start": 5.6,
+      "end": 9.4,
+      "text": "chance fe carro todavía no dame una"
+    },
+    {
+      "start": 9.4,
+      "end": 13.4,
+      "text": "chance dame una chance fe loco"
+    },
+    {
+      "start": 13.4,
+      "end": 16.0,
+      "text": "todavía aguanta todavía aguanta o indica"
+    },
+    {
+      "start": 16.0,
+      "end": 19.9,
+      "text": "dando llueva"
+    },
+    {
+      "start": 19.9,
+      "end": 27.0,
+      "text": "o esto que se quema y eso"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "This car that's what I want"
+    },
+    {
+      "start": 9.5,
+      "end": 11.7,
+      "text": "Well, I'm trying to get the car and I can't get the car"
+    }
+  ]
+}

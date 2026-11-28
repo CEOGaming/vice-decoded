@@ -1,0 +1,20 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.9,
+      "text": "I think I'm stuck here."
+    },
+    {
+      "start": 6.9,
+      "end": 26.6,
+      "text": "There's no cars around here whatsoever."
+    },
+    {
+      "start": 26.6,
+      "end": 27.5,
+      "text": "Oh!"
+    }
+  ]
+}

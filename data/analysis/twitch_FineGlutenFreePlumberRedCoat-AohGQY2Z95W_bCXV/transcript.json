@@ -1,0 +1,30 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.0,
+      "text": "I'm sliding look I can't control the car"
+    },
+    {
+      "start": 7.0,
+      "end": 20.9,
+      "text": "I'm sliding I'm slight cancelling"
+    },
+    {
+      "start": 20.9,
+      "end": 26.1,
+      "text": "it look like the my car look like"
+    },
+    {
+      "start": 26.1,
+      "end": 45.1,
+      "text": "Abdi's burger bro no cap yo can I"
+    },
+    {
+      "start": 45.1,
+      "end": 48.2,
+      "text": "deliver the car in peace"
+    }
+  ]
+}

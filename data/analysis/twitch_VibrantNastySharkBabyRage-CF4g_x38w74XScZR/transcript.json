@@ -1,0 +1,45 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.8,
+      "end": 4.1,
+      "text": "what the fuck"
+    },
+    {
+      "start": 4.1,
+      "end": 6.1,
+      "text": "run run run run run run run"
+    },
+    {
+      "start": 6.1,
+      "end": 9.6,
+      "text": "run run run run run"
+    },
+    {
+      "start": 9.6,
+      "end": 14.4,
+      "text": "run Jason run run"
+    },
+    {
+      "start": 16.4,
+      "end": 18.4,
+      "text": "what the fuck where the fuck"
+    },
+    {
+      "start": 18.4,
+      "end": 20.4,
+      "text": "Get up"
+    },
+    {
+      "start": 20.4,
+      "end": 25.2,
+      "text": "don't just lie there and die"
+    },
+    {
+      "start": 25.2,
+      "end": 29.6,
+      "text": "You died?"
+    }
+  ]
+}
