@@ -1,0 +1,40 @@
+{
+  "language": "de",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.3,
+      "text": "Sag ich dürfen!"
+    },
+    {
+      "start": 1.3,
+      "end": 4.3,
+      "text": "Nein, ach du Scheiße!"
+    },
+    {
+      "start": 4.3,
+      "end": 8.3,
+      "text": "Wie, da fasst du eine Kacke, Alter!"
+    },
+    {
+      "start": 8.3,
+      "end": 12.0,
+      "text": "Oh, fuck, das ist auf dem Militärbasis."
+    },
+    {
+      "start": 12.0,
+      "end": 13.4,
+      "text": "Komm!"
+    },
+    {
+      "start": 13.4,
+      "end": 16.2,
+      "text": "Penal, shit."
+    },
+    {
+      "start": 16.2,
+      "end": 18.2,
+      "text": "Oh, du heilige Scheiße."
+    }
+  ]
+}

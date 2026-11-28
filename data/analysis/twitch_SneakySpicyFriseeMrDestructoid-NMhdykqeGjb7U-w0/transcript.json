@@ -1,0 +1,55 @@
+{
+  "language": "pt",
+  "segments": [
+    {
+      "start": 1.3,
+      "end": 4.3,
+      "text": "Não me move, você vai fazer isso?"
+    },
+    {
+      "start": 4.3,
+      "end": 6.3,
+      "text": "Fique!"
+    },
+    {
+      "start": 6.3,
+      "end": 7.3,
+      "text": "Quê?"
+    },
+    {
+      "start": 7.3,
+      "end": 16.0,
+      "text": "Estou."
+    },
+    {
+      "start": 16.0,
+      "end": 18.0,
+      "text": "Ah, meu Deus, não."
+    },
+    {
+      "start": 18.0,
+      "end": 20.0,
+      "text": "Eu tenho que ir até o final, não?"
+    },
+    {
+      "start": 20.0,
+      "end": 22.0,
+      "text": "Eu tenho que ir até o final, não?"
+    },
+    {
+      "start": 22.0,
+      "end": 23.0,
+      "text": "Eu tenho que ir até o final, não?"
+    },
+    {
+      "start": 23.0,
+      "end": 27.0,
+      "text": "Eu tenho que ir até o final, não?"
+    },
+    {
+      "start": 27.0,
+      "end": 30.0,
+      "text": "Eu tenho que ir até o final, não?"
+    }
+  ]
+}
