@@ -1,0 +1,70 @@
+{
+  "id": "clip_flypaper_koffer",
+  "source": "https://www.twitch.tv/flypapertv/clip/TrustworthyPricklySpiderLeeroyJenkins-3os5V55sY-XkJ25A",
+  "layout": "fill",
+  "hook": "DER KOFFER-PROFI",
+  "hook_full": true,
+  "title": "FlypaperTV verlädt in GTA 6 Koffer am Flughafen #shorts",
+  "description": "FlypaperTV muss in GTA 6 Koffer ins Flugzeug laden. Es läuft … mittelmäßig. Original-Clip: FlypaperTV – https://www.twitch.tv/flypapertv/clip/TrustworthyPricklySpiderLeeroyJenkins-3os5V55sY-XkJ25A\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #flypapertv #flughafen #koffer",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "flypapertv",
+    "flughafen",
+    "koffer"
+  ],
+  "tiktok": "Kofferprofi am Flughafen 🧳 #gta6 #gtavi #fyp",
+  "instagram": "Koffer laden 🧳\n\n#gta6 #gtavi #gaming #reels",
+  "beats": [
+    {
+      "original": true,
+      "start": 0.0,
+      "end": 30.0,
+      "focus": 0.5,
+      "subs": [
+        [
+          2.6,
+          8.9,
+          "Komm schon, noch mal. Oh mein Gott, bin ich schlecht, ist das krass.",
+          "FLYPAPER"
+        ],
+        [
+          17,
+          19.4,
+          "Okay, komm, den schaff ich.",
+          "FLYPAPER"
+        ],
+        [
+          19.4,
+          21.4,
+          "Boah, krass.",
+          "FLYPAPER"
+        ],
+        [
+          24.3,
+          27.1,
+          "Halt den Rücken gerade, halt den Rücken gerade.",
+          "SPIEL"
+        ]
+      ]
+    }
+  ],
+  "style": "prompt",
+  "streamer": "FlypaperTV",
+  "credit": "Clip: FlypaperTV (Twitch)",
+  "mask": [
+    [
+      0.3,
+      0.86,
+      0.4,
+      0.12
+    ],
+    [
+      0,
+      0.22,
+      0.2,
+      0.36
+    ]
+  ]
+}

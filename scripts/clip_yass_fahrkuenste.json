@@ -1,0 +1,52 @@
+{
+  "id": "clip_yass_fahrkuenste",
+  "source": "https://www.twitch.tv/yassencore/clip/AbrasiveElatedEggOptimizePrime-4fvtjMKzfYPToXR8",
+  "layout": "fill",
+  "hook": "YASS' FAHRKÜNSTE",
+  "hook_full": true,
+  "title": "yassencore zeigt in GTA 6 seine Fahrkünste #shorts",
+  "description": "yassencore fährt in GTA 6 nachts durch die Stadt. Seine Fahrkünste sind … speziell. Original-Clip: yassencore – https://www.twitch.tv/yassencore/clip/AbrasiveElatedEggOptimizePrime-4fvtjMKzfYPToXR8\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #yassencore #auto #crash",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "yassencore",
+    "auto",
+    "crash"
+  ],
+  "tiktok": "Fahrkünste 🚗💥 #gta6 #gtavi #fyp",
+  "instagram": "Fahrkünste 🚗💥\n\n#gta6 #gtavi #gaming #reels",
+  "beats": [
+    {
+      "original": true,
+      "start": 0.0,
+      "end": 23.3,
+      "focus": 0.5,
+      "subs": [
+        [
+          0.3,
+          1.5,
+          "Was sollen wir machen?",
+          "YASS"
+        ],
+        [
+          1.5,
+          3.3,
+          "Wir können einfach zusammenbleiben.",
+          "YASS"
+        ]
+      ]
+    }
+  ],
+  "style": "prompt",
+  "streamer": "Yass",
+  "credit": "Clip: yassencore (Twitch)",
+  "mask": [
+    [
+      0.3,
+      0.86,
+      0.4,
+      0.12
+    ]
+  ]
+}

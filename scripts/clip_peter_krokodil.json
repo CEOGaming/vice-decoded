@@ -1,0 +1,52 @@
+{
+  "id": "clip_peter_krokodil",
+  "source": "https://www.twitch.tv/peter/clip/SecretiveFrigidKangarooCoolCat-asPTFoxDPfn1uC9m",
+  "layout": "fill",
+  "hook": "VOM KROKODIL GEFRESSEN",
+  "hook_full": true,
+  "title": "peter wird in GTA 6 im Sumpf von einem Krokodil erwischt #shorts",
+  "description": "peter läuft in GTA 6 durch den Sumpf – und wird von einem Krokodil gefressen. Original-Clip: peter – https://www.twitch.tv/peter/clip/SecretiveFrigidKangarooCoolCat-asPTFoxDPfn1uC9m\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #peter #krokodil #tiere",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "peter",
+    "krokodil",
+    "tiere"
+  ],
+  "tiktok": "Vom Krokodil gefressen 🐊 #gta6 #gtavi #fyp",
+  "instagram": "Krokodil 🐊\n\n#gta6 #gtavi #gaming #reels",
+  "beats": [
+    {
+      "original": true,
+      "start": 0.0,
+      "end": 30.0,
+      "focus": 0.5,
+      "subs": [
+        [
+          7.8,
+          17,
+          "Ist das dein Ernst?",
+          "PETER"
+        ],
+        [
+          17,
+          18.5,
+          "Ist das dein …",
+          "PETER"
+        ]
+      ]
+    }
+  ],
+  "style": "prompt",
+  "streamer": "peter",
+  "credit": "Clip: peter (Twitch)",
+  "mask": [
+    [
+      0.78,
+      0,
+      0.22,
+      0.38
+    ]
+  ]
+}

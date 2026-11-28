@@ -1,0 +1,50 @@
+{
+  "id": "clip_loya_regen",
+  "source": "https://www.twitch.tv/loya/clip/LovelyObliviousDiamondVoteYea-AKPrzyNJYOyrR-Lx",
+  "layout": "fill",
+  "hook": "SORRY, NICHT MEINE SCHULD",
+  "hook_full": true,
+  "title": "loya crasht in GTA 6 im Regen – und schiebt es aufs Wetter #shorts",
+  "description": "loya fährt in GTA 6 bei Regen über den Highway. Unfälle? Der Regen ist schuld. Original-Clip: loya – https://www.twitch.tv/loya/clip/LovelyObliviousDiamondVoteYea-AKPrzyNJYOyrR-Lx\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #loya #regen #unfall",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "loya",
+    "regen",
+    "unfall"
+  ],
+  "tiktok": "Der Regen ist schuld ☔ #gta6 #gtavi #fyp",
+  "instagram": "Nicht meine Schuld ☔\n\n#gta6 #gtavi #gaming #reels",
+  "beats": [
+    {
+      "original": true,
+      "start": 0.0,
+      "end": 36.6,
+      "focus": 0.5,
+      "subs": [
+        [
+          6.5,
+          7.5,
+          "Sorry.",
+          "LOYA"
+        ],
+        [
+          13.9,
+          15.9,
+          "Ich schieb's auf den Regen. Ich seh nichts.",
+          "LOYA"
+        ],
+        [
+          29.9,
+          31.9,
+          "Ich quetsch mich hier durch.",
+          "LOYA"
+        ]
+      ]
+    }
+  ],
+  "style": "prompt",
+  "streamer": "loya",
+  "credit": "Clip: loya (Twitch)"
+}

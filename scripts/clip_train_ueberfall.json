@@ -1,0 +1,76 @@
+{
+  "id": "clip_train_ueberfall",
+  "source": "https://www.twitch.tv/train__/clip/SparklingLongWoodpeckerMikeHogu-vHqHUfZa4QN85s5H",
+  "layout": "fill",
+  "hook": "1.400 DOLLAR WEG",
+  "hook_full": true,
+  "title": "train stirbt in GTA 6 bei einem Ladenüberfall #shorts",
+  "description": "train überfällt in GTA 6 einen Laden – und verliert alles. Original-Clip: train – https://www.twitch.tv/train__/clip/SparklingLongWoodpeckerMikeHogu-vHqHUfZa4QN85s5H\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #train #ueberfall #wasted",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "train",
+    "ueberfall",
+    "wasted"
+  ],
+  "tiktok": "1.400 Dollar weg 💸 #gta6 #gtavi #fyp",
+  "instagram": "Alles weg 💸\n\n#gta6 #gtavi #gaming #reels",
+  "beats": [
+    {
+      "original": true,
+      "start": 0.0,
+      "end": 54.6,
+      "focus": 0.5,
+      "subs": [
+        [
+          6.3,
+          10,
+          "Lass mich das machen!",
+          "TRAIN"
+        ],
+        [
+          25.9,
+          30,
+          "Ich kann nicht … Oh mein Gott.",
+          "TRAIN"
+        ],
+        [
+          30,
+          33.8,
+          "Ich bin gestorben. Lucia, hilf mir!",
+          "TRAIN"
+        ],
+        [
+          36.5,
+          39.7,
+          "Das ist übrigens erst mein zweiter Tod im ganzen Spiel.",
+          "TRAIN"
+        ],
+        [
+          43.9,
+          48,
+          "Oh Gott, ich hatte 1.400 im Portemonnaie.",
+          "TRAIN"
+        ],
+        [
+          48,
+          52.2,
+          "Okay. Jetzt wissen wir, was uns erwartet. Macht Spaß, oder?",
+          "TRAIN"
+        ]
+      ]
+    }
+  ],
+  "style": "prompt",
+  "streamer": "train",
+  "credit": "Clip: train (Twitch)",
+  "mask": [
+    [
+      0.3,
+      0.86,
+      0.4,
+      0.12
+    ]
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "clip_anaee_roller",
+  "source": "https://www.twitch.tv/anaee/clip/BrightOilyCheetahKappaClaus-PHmhcZpqvglUemHI",
+  "layout": "fill",
+  "hook": "JASON, ECHT JETZT?",
+  "hook_full": true,
+  "title": "anaee: Jason baut in GTA 6 einen Roller-Unfall #shorts",
+  "description": "anaee schaut zu, wie Jason in GTA 6 mit dem Roller verunglückt. Und sie ist fassungslos. Original-Clip: anaee – https://www.twitch.tv/anaee/clip/BrightOilyCheetahKappaClaus-PHmhcZpqvglUemHI\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #anaee #roller #jason",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "anaee",
+    "roller",
+    "jason"
+  ],
+  "tiktok": "Jason, echt jetzt? 🛴 #gta6 #gtavi #fyp",
+  "instagram": "Roller-Unfall 🛴\n\n#gta6 #gtavi #gaming #reels",
+  "beats": [
+    {
+      "original": true,
+      "start": 0.0,
+      "end": 20.2,
+      "focus": 0.5,
+      "subs": [
+        [
+          0,
+          2,
+          "Kleinvieh macht auch Mist, oder?",
+          "ANAEE"
+        ],
+        [
+          2,
+          6,
+          "Da hat er recht, Jason. Hast recht, J.",
+          "ANAEE"
+        ],
+        [
+          6,
+          12,
+          "Aber Jason, das geht doch nicht!",
+          "ANAEE"
+        ],
+        [
+          17.5,
+          19.5,
+          "Du machst es nicht besser.",
+          "ANAEE"
+        ]
+      ]
+    }
+  ],
+  "style": "prompt",
+  "streamer": "anaee",
+  "credit": "Clip: anaee (Twitch)"
+}

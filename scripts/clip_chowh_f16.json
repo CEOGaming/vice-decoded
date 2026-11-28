@@ -1,0 +1,64 @@
+{
+  "id": "clip_chowh_f16",
+  "source": "https://www.twitch.tv/chowh1/clip/CooperativeMushyAntAllenHuhu--t24MTL5GoN3ddqG",
+  "layout": "fill",
+  "hook": "FRONTALCRASH MIT DEM KAMPFJET",
+  "hook_full": true,
+  "title": "chowh1 crasht in GTA 6 mit dem Kampfjet #shorts",
+  "description": "chowh1 fliegt in GTA 6 einen Kampfjet – und springt im letzten Moment ab. Sein Rücken ist sensibel. Original-Clip: chowh1 – https://www.twitch.tv/chowh1/clip/CooperativeMushyAntAllenHuhu--t24MTL5GoN3ddqG\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #chowh1 #kampfjet #absturz",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "chowh1",
+    "kampfjet",
+    "absturz"
+  ],
+  "tiktok": "Kampfjet-Crash ✈️ #gta6 #gtavi #fyp",
+  "instagram": "Frontalcrash ✈️\n\n#gta6 #gtavi #gaming #reels",
+  "beats": [
+    {
+      "original": true,
+      "start": 8.0,
+      "end": 60.0,
+      "focus": 0.5,
+      "subs": [
+        [
+          8.8,
+          20,
+          "Wir fliegen zurück zur Basis.",
+          "CHOWH"
+        ],
+        [
+          47.8,
+          51,
+          "Ich hab einen empfindlichen Rücken!",
+          "CHOWH"
+        ],
+        [
+          51.6,
+          55.8,
+          "Der Sturz gegen den Zaun ging ja, aber 20 Zentimeter auf den Rücken …",
+          "CHOWH"
+        ]
+      ]
+    }
+  ],
+  "style": "prompt",
+  "streamer": "chowh1",
+  "credit": "Clip: chowh1 (Twitch)",
+  "mask": [
+    [
+      0.88,
+      0.66,
+      0.12,
+      0.22
+    ],
+    [
+      0.38,
+      0,
+      0.24,
+      0.06
+    ]
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "clip_zyro_schimpanse",
+  "source": "https://www.twitch.tv/zyro/clip/MuddyMuddyCougarPJSalt-LzGR5QfqpRzLzUtE",
+  "layout": "fill",
+  "hook": "BEFREIT DEN SCHIMPANSEN!",
+  "hook_full": true,
+  "title": "zyro trifft in GTA 6 auf eine Schimpansen-Demo #shorts",
+  "description": "zyro landet in GTA 6 mitten in einer Demo: Die Leute wollen einen Schimpansen befreien. Original-Clip: zyro – https://www.twitch.tv/zyro/clip/MuddyMuddyCougarPJSalt-LzGR5QfqpRzLzUtE\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #zyro #schimpanse #demo",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "zyro",
+    "schimpanse",
+    "demo"
+  ],
+  "tiktok": "Befreit den Schimpansen 🐒 #gta6 #gtavi #fyp",
+  "instagram": "Schimpansen-Demo 🐒\n\n#gta6 #gtavi #gaming #reels",
+  "beats": [
+    {
+      "original": true,
+      "start": 0.0,
+      "end": 30.0,
+      "focus": 0.5,
+      "subs": [
+        [
+          0,
+          5,
+          "Los, befreit die Schimpansen!",
+          "ZYRO"
+        ],
+        [
+          5,
+          8.9,
+          "Holt ihn raus aus dem …",
+          "ZYRO"
+        ],
+        [
+          8.9,
+          11.5,
+          "… Schutzgebiet? Ist es das, was sie sagen?",
+          "ZYRO"
+        ],
+        [
+          11.5,
+          13.5,
+          "Was geht, Ernie?",
+          "ZYRO"
+        ],
+        [
+          13.5,
+          21.6,
+          "Weg mit dem Schutzgebiet! Befreit den Schimpansen!",
+          "ZYRO"
+        ],
+        [
+          21.6,
+          29.4,
+          "Teil dieser Bewegung, um die es bei dem Tanz ging.",
+          "ZYRO"
+        ]
+      ]
+    }
+  ],
+  "style": "prompt",
+  "streamer": "zyro",
+  "credit": "Clip: zyro (Twitch)"
+}

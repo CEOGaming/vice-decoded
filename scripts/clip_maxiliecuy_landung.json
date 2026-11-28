@@ -1,0 +1,64 @@
+{
+  "id": "clip_maxiliecuy_landung",
+  "source": "https://www.twitch.tv/maxiliecuy/clip/EnergeticApatheticJamKeepo-7o9a7uAnHox9BVy2",
+  "layout": "fill",
+  "hook": "TOP-LANDUNG, 1A!",
+  "hook_full": true,
+  "title": "maxiliecuy landet in GTA 6 ein Flugzeug – irgendwie #shorts",
+  "description": "maxiliecuy landet in GTA 6 ein Kunstflugzeug auf einem Feldweg. Ob das gut gelaufen ist? Er findet: ja. Original-Clip: maxiliecuy – https://www.twitch.tv/maxiliecuy/clip/EnergeticApatheticJamKeepo-7o9a7uAnHox9BVy2\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #maxiliecuy #flugzeug #landung",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "maxiliecuy",
+    "flugzeug",
+    "landung"
+  ],
+  "tiktok": "Beste Landung ever ✈️ #gta6 #gtavi #fyp",
+  "instagram": "Top-Landung ✈️\n\n#gta6 #gtavi #gaming #reels",
+  "beats": [
+    {
+      "original": true,
+      "start": 0.0,
+      "end": 45.0,
+      "focus": 0.5,
+      "subs": [
+        [
+          0,
+          8,
+          "Also ich sag …",
+          "MAXI"
+        ],
+        [
+          8,
+          16,
+          "War das super gelaufen oder nicht?",
+          "MAXI"
+        ],
+        [
+          31.1,
+          33.1,
+          "Top-Landung!",
+          "MAXI"
+        ],
+        [
+          41.3,
+          43,
+          "1A!",
+          "MAXI"
+        ]
+      ]
+    }
+  ],
+  "style": "prompt",
+  "streamer": "maxiliecuy",
+  "credit": "Clip: maxiliecuy (Twitch)",
+  "mask": [
+    [
+      0.83,
+      0.56,
+      0.17,
+      0.14
+    ]
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": "clip_sharman_was_zum",
+  "source": "https://www.twitch.tv/sharmanhd/clip/SmallEnergeticOkapiKAPOW-wGHXA-j4VNHtYB4o",
+  "layout": "fill",
+  "hook": "WAS MACHT DER DA?",
+  "hook_full": true,
+  "title": "SharmanHD erlebt in GTA 6 einen verrückten Crash #shorts",
+  "description": "SharmanHD fährt in GTA 6 nachts Quad – und plötzlich fliegt etwas durch die Gegend. Original-Clip: SharmanHD – https://www.twitch.tv/sharmanhd/clip/SmallEnergeticOkapiKAPOW-wGHXA-j4VNHtYB4o\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #sharmanhd #quad #crash",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "sharmanhd",
+    "quad",
+    "crash"
+  ],
+  "tiktok": "Was zum …?! 😳 #gta6 #gtavi #fyp",
+  "instagram": "Was macht der da 😳\n\n#gta6 #gtavi #gaming #reels",
+  "beats": [
+    {
+      "original": true,
+      "start": 0.0,
+      "end": 22.3,
+      "focus": 0.5,
+      "subs": [
+        [
+          4.1,
+          5.5,
+          "Hä? Oh verdammt!",
+          "SHARMAN"
+        ],
+        [
+          5.5,
+          9.9,
+          "Was macht der da?",
+          "SHARMAN"
+        ],
+        [
+          16.6,
+          18.6,
+          "Was zum Teufel?!",
+          "SHARMAN"
+        ],
+        [
+          18.6,
+          21,
+          "Oh nein!",
+          "SHARMAN"
+        ]
+      ]
+    }
+  ],
+  "style": "prompt",
+  "streamer": "sharman",
+  "credit": "Clip: SharmanHD (Twitch)",
+  "mask": [
+    [
+      0.3,
+      0.86,
+      0.4,
+      0.12
+    ]
+  ]
+}

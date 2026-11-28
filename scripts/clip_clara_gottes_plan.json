@@ -1,0 +1,64 @@
+{
+  "id": "clip_clara_gottes_plan",
+  "source": "https://www.twitch.tv/clarawrrxd/clip/CleanMuddyDunlinPlanking-vTMro_7kwYOl7o0v",
+  "layout": "fill",
+  "hook": "ALLES GOTTES PLAN",
+  "hook_full": true,
+  "title": "Clara baut in GTA 6 einen Unfall – alles Gottes Plan #shorts",
+  "description": "Clara crasht in GTA 6 mit dem Auto. Kein Problem, alles gehört zu Gottes Plan. Original-Clip: clarawrrxd – https://www.twitch.tv/clarawrrxd/clip/CleanMuddyDunlinPlanking-vTMro_7kwYOl7o0v\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #clarawrrxd #unfall #auto",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "clarawrrxd",
+    "unfall",
+    "auto"
+  ],
+  "tiktok": "Alles Gottes Plan 🙏 #gta6 #gtavi #fyp",
+  "instagram": "Gottes Plan 🙏\n\n#gta6 #gtavi #gaming #reels",
+  "beats": [
+    {
+      "original": true,
+      "start": 0.0,
+      "end": 14.8,
+      "focus": 0.5,
+      "subs": [
+        [
+          1.9,
+          3.9,
+          "Oh.",
+          "CLARA"
+        ],
+        [
+          4,
+          6,
+          "Das ist bedauerlich.",
+          "CLARA"
+        ],
+        [
+          7.5,
+          14.5,
+          "Alles ist Gottes Plan, Chat. Sogar sowas.",
+          "CLARA"
+        ]
+      ]
+    }
+  ],
+  "style": "prompt",
+  "streamer": "Clara",
+  "credit": "Clip: clarawrrxd (Twitch)",
+  "mask": [
+    [
+      0.3,
+      0.86,
+      0.4,
+      0.12
+    ],
+    [
+      0,
+      0.05,
+      0.22,
+      0.55
+    ]
+  ]
+}

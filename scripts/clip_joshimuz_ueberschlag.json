@@ -1,0 +1,64 @@
+{
+  "id": "clip_joshimuz_ueberschlag",
+  "source": "https://www.twitch.tv/joshimuz/clip/IronicBumblingCasettePicoMause-hGWQPWSVHqDXu2lW",
+  "layout": "fill",
+  "hook": "SCHON WIEDER ÜBERSCHLAGEN",
+  "hook_full": true,
+  "title": "Joshimuz überschlägt sich in GTA 6 ständig #shorts",
+  "description": "Joshimuz fährt in GTA 6 nachts über die Straße – und das Auto überschlägt sich. Schon wieder. Original-Clip: Joshimuz – https://www.twitch.tv/joshimuz/clip/IronicBumblingCasettePicoMause-hGWQPWSVHqDXu2lW\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #joshimuz #auto #fail",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "joshimuz",
+    "auto",
+    "fail"
+  ],
+  "tiktok": "Schon wieder?! 🙃 #gta6 #gtavi #fyp",
+  "instagram": "Überschlag 🙃\n\n#gta6 #gtavi #gaming #reels",
+  "beats": [
+    {
+      "original": true,
+      "start": 0.0,
+      "end": 28.0,
+      "focus": 0.5,
+      "subs": [
+        [
+          0,
+          3.3,
+          "Wow, der ist einfach aus dem Nichts aufgetaucht.",
+          "JOSHIMUZ"
+        ],
+        [
+          14.2,
+          17,
+          "Oh Gott, bitte nicht schon wieder. Was zum …?",
+          "JOSHIMUZ"
+        ],
+        [
+          18.7,
+          20.7,
+          "Im Ernst?",
+          "JOSHIMUZ"
+        ],
+        [
+          21.8,
+          27.7,
+          "Warum überschlage ich mich jetzt jedes Mal? Komm schon!",
+          "JOSHIMUZ"
+        ]
+      ]
+    }
+  ],
+  "style": "prompt",
+  "streamer": "Joshimuz",
+  "credit": "Clip: Joshimuz (Twitch)",
+  "mask": [
+    [
+      0.72,
+      0.18,
+      0.28,
+      0.5
+    ]
+  ]
+}

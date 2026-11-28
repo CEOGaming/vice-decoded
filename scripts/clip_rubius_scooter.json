@@ -1,0 +1,44 @@
+{
+  "id": "clip_rubius_scooter",
+  "source": "https://www.twitch.tv/rubius/clip/IntelligentProductiveKimchiPeteZarollTie-dlKDOH-ACypbu_gw",
+  "layout": "fill",
+  "hook": "SCOOTER BROS",
+  "hook_full": true,
+  "title": "Rubius trifft in GTA 6 die Scooter Bros #shorts",
+  "description": "Rubius steht in GTA 6 neben seinem Sportwagen – dann rollen die Scooter Bros an. Original-Clip: Rubius – https://www.twitch.tv/rubius/clip/IntelligentProductiveKimchiPeteZarollTie-dlKDOH-ACypbu_gw\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #rubius #scooter #npc",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "rubius",
+    "scooter",
+    "npc"
+  ],
+  "tiktok": "Scooter Bros 🛴 #gta6 #gtavi #fyp",
+  "instagram": "Scooter Bros 🛴\n\n#gta6 #gtavi #gaming #reels",
+  "beats": [
+    {
+      "original": true,
+      "start": 0.0,
+      "end": 29.0,
+      "focus": 0.5,
+      "subs": [
+        [
+          1.2,
+          4.5,
+          "Okay, wir müssen das Ding lackieren, komm zurück …",
+          "RUBIUS"
+        ],
+        [
+          21,
+          23,
+          "Klingt, als gäbe es gleich ein Gewitter.",
+          "RUBIUS"
+        ]
+      ]
+    }
+  ],
+  "style": "prompt",
+  "streamer": "Rubius",
+  "credit": "Clip: Rubius (Twitch)"
+}

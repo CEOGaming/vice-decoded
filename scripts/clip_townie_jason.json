@@ -1,0 +1,64 @@
+{
+  "id": "clip_townie_jason",
+  "source": "https://www.twitch.tv/townie/clip/ScaryBoredSlothShazBotstix-SZGwiLhGc30PMKCC",
+  "layout": "fill",
+  "hook": "SORRY, JASON!",
+  "hook_full": true,
+  "title": "Townie setzt in GTA 6 aus Versehen Jason in Brand #shorts",
+  "description": "Townie will in GTA 6 etwas anzünden – und Jason steht plötzlich in Flammen. Original-Clip: Townie – https://www.twitch.tv/townie/clip/ScaryBoredSlothShazBotstix-SZGwiLhGc30PMKCC\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #townie #feuer #jason",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "townie",
+    "feuer",
+    "jason"
+  ],
+  "tiktok": "Sorry, Jason 🔥 #gta6 #gtavi #fyp",
+  "instagram": "Sorry, Jason 🔥\n\n#gta6 #gtavi #gaming #reels",
+  "beats": [
+    {
+      "original": true,
+      "start": 0.0,
+      "end": 20.0,
+      "focus": 0.5,
+      "subs": [
+        [
+          3.5,
+          4.5,
+          "Ich weiß es nicht!",
+          "TOWNIE"
+        ],
+        [
+          8.2,
+          12.2,
+          "Hey, Moment mal.",
+          "TOWNIE"
+        ],
+        [
+          14.2,
+          16.2,
+          "Es tut mir leid, Jason!",
+          "TOWNIE"
+        ],
+        [
+          16.2,
+          18.5,
+          "Jason, es tut mir so leid!",
+          "TOWNIE"
+        ]
+      ]
+    }
+  ],
+  "style": "prompt",
+  "streamer": "Townie",
+  "credit": "Clip: Townie (Twitch)",
+  "mask": [
+    [
+      0.3,
+      0.86,
+      0.4,
+      0.12
+    ]
+  ]
+}
