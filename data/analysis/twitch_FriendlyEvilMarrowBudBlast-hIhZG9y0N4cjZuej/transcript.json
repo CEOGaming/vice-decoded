@@ -1,0 +1,60 @@
+{
+  "language": "es",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.9,
+      "text": "Contraria derp"
+    },
+    {
+      "start": 3.9,
+      "end": 6.9,
+      "text": "cara"
+    },
+    {
+      "start": 6.9,
+      "end": 7.9,
+      "text": "cara"
+    },
+    {
+      "start": 7.9,
+      "end": 11.3,
+      "text": "pret"
+    },
+    {
+      "start": 11.3,
+      "end": 12.3,
+      "text": "pret"
+    },
+    {
+      "start": 13.3,
+      "end": 15.3,
+      "text": "es derp al revés"
+    },
+    {
+      "start": 15.3,
+      "end": 16.3,
+      "text": "pret"
+    },
+    {
+      "start": 16.3,
+      "end": 17.3,
+      "text": "es derp"
+    },
+    {
+      "start": 17.3,
+      "end": 18.3,
+      "text": "es así ya"
+    },
+    {
+      "start": 18.3,
+      "end": 19.3,
+      "text": "pret"
+    },
+    {
+      "start": 19.3,
+      "end": 20.3,
+      "text": "es hacia adentro"
+    }
+  ]
+}

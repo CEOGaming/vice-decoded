@@ -1,0 +1,45 @@
+{
+  "language": "de",
+  "segments": [
+    {
+      "start": 0.3,
+      "end": 5.3,
+      "text": "Stimmt das PC kauft hast 15k?"
+    },
+    {
+      "start": 5.3,
+      "end": 8.3,
+      "text": "Mir ist schwindelig geworden beim Vorlesen."
+    },
+    {
+      "start": 8.3,
+      "end": 12.3,
+      "text": "Stimmt das PC kauft hast 15k?"
+    },
+    {
+      "start": 12.3,
+      "end": 18.3,
+      "text": "Also auch beim zweiten Mal lesen, ist ich mir fast wirklich irgendwas geplatzt im Kopf."
+    },
+    {
+      "start": 18.3,
+      "end": 27.2,
+      "text": "Also du willst wahrscheinlich wissen, ob der PC, den ich habe, 15k gekostet hat."
+    },
+    {
+      "start": 27.2,
+      "end": 31.2,
+      "text": "Das wird wahrscheinlich hinkommen."
+    },
+    {
+      "start": 31.2,
+      "end": 33.2,
+      "text": "Nee, weiß ich nicht."
+    },
+    {
+      "start": 33.2,
+      "end": 40.2,
+      "text": "Also 15k vielleicht nicht, aber deine Facecam spinnt die Front, wieso was spinnt hier?"
+    }
+  ]
+}

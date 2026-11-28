@@ -1,0 +1,35 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.5,
+      "text": "Bish"
+    },
+    {
+      "start": 2.5,
+      "end": 6.5,
+      "text": "Oh ffff"
+    },
+    {
+      "start": 6.5,
+      "end": 7.0,
+      "text": "Shit!"
+    },
+    {
+      "start": 7.4,
+      "end": 11.0,
+      "text": "Oh shit!"
+    },
+    {
+      "start": 13.3,
+      "end": 13.8,
+      "text": "No!"
+    },
+    {
+      "start": 34.9,
+      "end": 36.7,
+      "text": "This is a plan!"
+    }
+  ]
+}

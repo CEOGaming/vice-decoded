@@ -1,0 +1,35 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 3.0,
+      "end": 5.0,
+      "text": "Next I'm coming in from halfies"
+    },
+    {
+      "start": 5.5,
+      "end": 7.5,
+      "text": "next up"
+    },
+    {
+      "start": 8.5,
+      "end": 12.6,
+      "text": "Editors blur that editors blur that editors blur that editors blur that editors blur that"
+    },
+    {
+      "start": 12.9,
+      "end": 17.2,
+      "text": "You're like I just brought what's wrong with you, bro"
+    },
+    {
+      "start": 17.2,
+      "end": 22.3,
+      "text": "Like we clearly have a set of rules editors blur that editors blur that editors blur that"
+    },
+    {
+      "start": 22.6,
+      "end": 26.9,
+      "text": "But we have a clear set of rules like why why what's wrong with you?"
+    }
+  ]
+}
