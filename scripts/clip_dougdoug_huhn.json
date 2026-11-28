@@ -1,0 +1,52 @@
+{
+  "id": "clip_dougdoug_huhn",
+  "source": "https://www.twitch.tv/dougdoug/clip/ResoluteDoubtfulKaleCopyThis-tpo_XyJcCsAU5OrR",
+  "layout": "fill",
+  "hook": "DAS HUHN KOMMT NICHT RÜBER",
+  "hook_full": true,
+  "title": "DougDoug versucht in GTA 6, ein Huhn über die Straße zu bringen #shorts",
+  "description": "DougDoug will in GTA 6 nur ein Huhn über die Straße bringen. Der Verkehr sieht das anders. Original-Clip: DougDoug – https://www.twitch.tv/dougdoug/clip/ResoluteDoubtfulKaleCopyThis-tpo_XyJcCsAU5OrR\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #dougdoug #huhn #tiere",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "dougdoug",
+    "huhn",
+    "tiere"
+  ],
+  "tiktok": "Warum ging das Huhn nicht über die Straße? 🐔 #gta6 #gtavi #fyp",
+  "instagram": "Das Huhn 🐔\n\n#gta6 #gtavi #gaming #reels",
+  "beats": [
+    {
+      "original": true,
+      "start": 0.0,
+      "end": 27.8,
+      "focus": 0.5,
+      "subs": [
+        [
+          0.1,
+          3.1,
+          "Äh, das ist ein großes Auto.",
+          "DOUGDOUG"
+        ],
+        [
+          7.6,
+          14.8,
+          "Wag es ja nicht!",
+          "DOUGDOUG"
+        ]
+      ]
+    }
+  ],
+  "style": "prompt",
+  "streamer": "DougDoug",
+  "credit": "Clip: DougDoug (Twitch)",
+  "mask": [
+    [
+      0,
+      0.08,
+      0.2,
+      0.5
+    ]
+  ]
+}

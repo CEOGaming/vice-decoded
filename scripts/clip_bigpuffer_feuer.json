@@ -1,0 +1,62 @@
+{
+  "id": "clip_bigpuffer_feuer",
+  "source": "https://www.twitch.tv/bigpuffer/clip/CarelessKitschyScorpionKevinTurtle-xWkKgJWV2oLpuzxN",
+  "layout": "fill",
+  "hook": "BRENNE ICH?",
+  "hook_full": true,
+  "title": "BigPuffer steht in GTA 6 nach einem Crash in Flammen #shorts",
+  "description": "BigPuffer crasht in GTA 6 seinen Sportwagen – und dann fliegt alles in die Luft. Original-Clip: BigPuffer – https://www.twitch.tv/bigpuffer/clip/CarelessKitschyScorpionKevinTurtle-xWkKgJWV2oLpuzxN\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #bigpuffer #explosion #unfall",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "bigpuffer",
+    "explosion",
+    "unfall"
+  ],
+  "tiktok": "Brenne ich?! 🔥 #gta6 #gtavi #fyp",
+  "instagram": "Brenne ich? 🔥\n\n#gta6 #gtavi #gaming #reels",
+  "beats": [
+    {
+      "original": true,
+      "start": 0.0,
+      "end": 30.0,
+      "focus": 0.5,
+      "subs": [
+        [
+          0.8,
+          2.7,
+          "Ho ho ho! Oh!",
+          "BIGPUFFER"
+        ],
+        [
+          5.1,
+          6.7,
+          "Brenne ich?",
+          "BIGPUFFER"
+        ],
+        [
+          7.2,
+          12,
+          "Versteckt euch!",
+          "BIGPUFFER"
+        ],
+        [
+          18.8,
+          27.5,
+          "Oh oh! Oh oh!",
+          "BIGPUFFER"
+        ],
+        [
+          28.2,
+          29.9,
+          "Oh mein Gott!",
+          "BIGPUFFER"
+        ]
+      ]
+    }
+  ],
+  "style": "prompt",
+  "streamer": "BigPuffer",
+  "credit": "Clip: BigPuffer (Twitch)"
+}

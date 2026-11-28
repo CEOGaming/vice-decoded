@@ -1,0 +1,52 @@
+{
+  "id": "clip_alanzoka_flug",
+  "source": "https://www.twitch.tv/alanzoka/clip/WanderingBloodyHummingbirdRlyTho-IyoahExnM1fqGkF8",
+  "layout": "fill",
+  "hook": "ER FLIEGT VON DER BRÜCKE",
+  "hook_full": true,
+  "title": "alanzoka fliegt in GTA 6 mit dem Motorrad von der Brücke #shorts",
+  "description": "alanzoka singt in GTA 6 auf dem Motorrad – und fliegt dann von der Brücke. Original-Clip: alanzoka – https://www.twitch.tv/alanzoka/clip/WanderingBloodyHummingbirdRlyTho-IyoahExnM1fqGkF8\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #alanzoka #motorrad #fail",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "alanzoka",
+    "motorrad",
+    "fail"
+  ],
+  "tiktok": "Abflug 🏍️ #gta6 #gtavi #fyp",
+  "instagram": "Abflug 🏍️\n\n#gta6 #gtavi #gaming #reels",
+  "beats": [
+    {
+      "original": true,
+      "start": 0.0,
+      "end": 11.3,
+      "focus": 0.5,
+      "subs": [
+        [
+          2.6,
+          4.6,
+          "Ich hab den Text vom Lied vergessen, oder?",
+          "ALANZOKA"
+        ],
+        [
+          8.6,
+          10.6,
+          "Verdammt, krass, Alter.",
+          "ALANZOKA"
+        ]
+      ]
+    }
+  ],
+  "style": "prompt",
+  "streamer": "alanzoka",
+  "credit": "Clip: alanzoka (Twitch)",
+  "mask": [
+    [
+      0.3,
+      0.86,
+      0.4,
+      0.12
+    ]
+  ]
+}

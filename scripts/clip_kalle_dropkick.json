@@ -1,0 +1,70 @@
+{
+  "id": "clip_kalle_dropkick",
+  "source": "https://www.twitch.tv/kalle/clip/AliveSuaveSashimiRalpherZ-i8RMrBaTZ8LDh7Ux",
+  "layout": "fill",
+  "hook": "DROPKICK AUS DEM NICHTS",
+  "hook_full": true,
+  "title": "Kalle kassiert in GTA 6 einen Dropkick aus dem Nichts #shorts",
+  "description": "Kalle wird in GTA 6 fast überfahren – und dann kommt auch noch ein Dropkick aus dem Nichts. Original-Clip: Kalle – https://www.twitch.tv/kalle/clip/AliveSuaveSashimiRalpherZ-i8RMrBaTZ8LDh7Ux\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #kalle #dropkick #npc",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "kalle",
+    "dropkick",
+    "npc"
+  ],
+  "tiktok": "Das hat gescheppert 🦶 #gta6 #gtavi #fyp",
+  "instagram": "Dropkick aus dem Nichts 🦶\n\n#gta6 #gtavi #gaming #reels",
+  "beats": [
+    {
+      "original": true,
+      "start": 0.0,
+      "end": 20.0,
+      "focus": 0.5,
+      "subs": [
+        [
+          0.4,
+          2.4,
+          "Oh, jetzt reicht's aber!",
+          "KALLE"
+        ],
+        [
+          2.4,
+          4.4,
+          "Oh Scheiße, jetzt reicht's wirklich!",
+          "KALLE"
+        ],
+        [
+          4.4,
+          6.4,
+          "Ich bin fast gestorben!",
+          "KALLE"
+        ],
+        [
+          6.4,
+          12.9,
+          "Und dann kommt der einfach an und haut mir aufs Maul.",
+          "KALLE"
+        ],
+        [
+          12.9,
+          19.5,
+          "Alter, das hat gescheppert!",
+          "KALLE"
+        ]
+      ]
+    }
+  ],
+  "style": "prompt",
+  "streamer": "Kalle",
+  "credit": "Clip: Kalle (Twitch)",
+  "mask": [
+    [
+      0.3,
+      0.86,
+      0.4,
+      0.12
+    ]
+  ]
+}

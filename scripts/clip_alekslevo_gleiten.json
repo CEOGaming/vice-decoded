@@ -1,0 +1,64 @@
+{
+  "id": "clip_alekslevo_gleiten",
+  "source": "https://www.twitch.tv/alekslevo/clip/EvilHyperAlmondGingerPower-UO7QkemciYSLkbRv",
+  "layout": "fill",
+  "hook": "ÜBERRASCHUNGS-FALLSCHIRM",
+  "hook_full": true,
+  "title": "alekslevo gleitet in GTA 6 ungewollt durch die Luft #shorts",
+  "description": "alekslevo hängt in GTA 6 plötzlich am Fallschirm – und weiß nicht, wohin es geht. Original-Clip: alekslevo – https://www.twitch.tv/alekslevo/clip/EvilHyperAlmondGingerPower-UO7QkemciYSLkbRv\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #alekslevo #fallschirm #fail",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "alekslevo",
+    "fallschirm",
+    "fail"
+  ],
+  "tiktok": "Ungewollter Flug 🪂 #gta6 #gtavi #fyp",
+  "instagram": "Überraschung 🪂\n\n#gta6 #gtavi #gaming #reels",
+  "beats": [
+    {
+      "original": true,
+      "start": 0.0,
+      "end": 30.0,
+      "focus": 0.5,
+      "subs": [
+        [
+          3.6,
+          5.6,
+          "Nein, nein!",
+          "ALEKS"
+        ],
+        [
+          5.6,
+          7.6,
+          "Wo fliegt das hin?",
+          "ALEKS"
+        ],
+        [
+          7.7,
+          9.7,
+          "Warte, vielleicht schaffen wir es noch.",
+          "ALEKS"
+        ],
+        [
+          10,
+          20,
+          "Wer war das? Wer hat das gesagt?",
+          "ALEKS"
+        ]
+      ]
+    }
+  ],
+  "style": "prompt",
+  "streamer": "alekslevo",
+  "credit": "Clip: alekslevo (Twitch)",
+  "mask": [
+    [
+      0.3,
+      0.86,
+      0.4,
+      0.12
+    ]
+  ]
+}

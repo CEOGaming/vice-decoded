@@ -1,0 +1,52 @@
+{
+  "id": "clip_mertabimula_panzer",
+  "source": "https://www.twitch.tv/mertabimula/clip/DistinctObedientAlmondOSfrog-SvFZLprAh1Bu_RKQ",
+  "layout": "fill",
+  "hook": "ICH DACHTE, ICH HAB 'NEN PANZER",
+  "hook_full": true,
+  "title": "mertabimula verkackt in GTA 6 einen Überfall #shorts",
+  "description": "mertabimula will in GTA 6 mit einem schweren Wagen fliehen. Dann kippt die Karre einfach um. Original-Clip: mertabimula – https://www.twitch.tv/mertabimula/clip/DistinctObedientAlmondOSfrog-SvFZLprAh1Bu_RKQ\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #mertabimula #ueberfall #fail",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "mertabimula",
+    "ueberfall",
+    "fail"
+  ],
+  "tiktok": "Überfall verkackt 😭 #gta6 #gtavi #fyp",
+  "instagram": "Überfall verkackt 😭\n\n#gta6 #gtavi #gaming #reels",
+  "beats": [
+    {
+      "original": true,
+      "start": 0.0,
+      "end": 30.0,
+      "focus": 0.5,
+      "subs": [
+        [
+          21.4,
+          23.4,
+          "Bruder, willst du mich verarschen, dass das Auto umkippt?",
+          "MERT"
+        ],
+        [
+          23.4,
+          26.4,
+          "Willst du mich verarschen? Ich dachte, ich hab einen Panzer.",
+          "MERT"
+        ]
+      ]
+    }
+  ],
+  "style": "prompt",
+  "streamer": "Mert",
+  "credit": "Clip: mertabimula (Twitch)",
+  "mask": [
+    [
+      0.3,
+      0.86,
+      0.4,
+      0.12
+    ]
+  ]
+}

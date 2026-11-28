@@ -1,0 +1,52 @@
+{
+  "id": "clip_alcapoutee_krankenwagen",
+  "source": "https://www.twitch.tv/alcapoutee/clip/SincereAlertSkunkTakeNRG-ibw0Kr2484JXPgXq",
+  "layout": "fill",
+  "hook": "UPS, DER KRANKENWAGEN",
+  "hook_full": true,
+  "title": "Alcapoutee überschlägt sich in GTA 6 mit dem Krankenwagen #shorts",
+  "description": "Alcapoutee fährt in GTA 6 nachts Krankenwagen – und landet auf dem Dach. Original-Clip: Alcapoutee – https://www.twitch.tv/alcapoutee/clip/SincereAlertSkunkTakeNRG-ibw0Kr2484JXPgXq\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #alcapoutee #krankenwagen #unfall",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "alcapoutee",
+    "krankenwagen",
+    "unfall"
+  ],
+  "tiktok": "Ups, der Krankenwagen 🚑 #gta6 #gtavi #fyp",
+  "instagram": "Krankenwagen auf dem Dach 🚑\n\n#gta6 #gtavi #gaming #reels",
+  "beats": [
+    {
+      "original": true,
+      "start": 0.0,
+      "end": 22.9,
+      "focus": 0.5,
+      "subs": [
+        [
+          4,
+          9,
+          "Oh nein, oh nein!",
+          "ALCAPOUTEE"
+        ],
+        [
+          9,
+          21.4,
+          "Das ist ja super gerade …",
+          "ALCAPOUTEE"
+        ]
+      ]
+    }
+  ],
+  "style": "prompt",
+  "streamer": "Alcapoutee",
+  "credit": "Clip: Alcapoutee (Twitch)",
+  "mask": [
+    [
+      0.3,
+      0.86,
+      0.4,
+      0.12
+    ]
+  ]
+}

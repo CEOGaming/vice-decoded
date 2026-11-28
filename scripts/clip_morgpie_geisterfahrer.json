@@ -1,0 +1,106 @@
+{
+  "id": "clip_morgpie_geisterfahrer",
+  "source": "https://www.twitch.tv/morgpie/clip/IncredulousBovineTildeTooSpicy-zFl9m3WqjBiw_Pzz",
+  "layout": "fill",
+  "hook": "DA SASS NIEMAND DRAUF",
+  "hook_full": true,
+  "title": "morgpie jagt in GTA 6 ein Motorrad ohne Fahrer #shorts",
+  "description": "morgpie verfolgt in GTA 6 einen Motorradfahrer. Nur: Auf dem Bike sitzt niemand. Original-Clip: morgpie – https://www.twitch.tv/morgpie/clip/IncredulousBovineTildeTooSpicy-zFl9m3WqjBiw_Pzz\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #morgpie #geist #motorrad",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "morgpie",
+    "geist",
+    "motorrad"
+  ],
+  "tiktok": "Ghost Rider in GTA 6 👻 #gta6 #gtavi #fyp",
+  "instagram": "Geisterfahrer 👻\n\n#gta6 #gtavi #gaming #reels",
+  "beats": [
+    {
+      "original": true,
+      "start": 0.0,
+      "end": 53.0,
+      "focus": 0.5,
+      "subs": [
+        [
+          0,
+          2,
+          "Wir haben ihn! Wir haben ihn!",
+          "MORGPIE"
+        ],
+        [
+          2,
+          4,
+          "Bumm!",
+          "MORGPIE"
+        ],
+        [
+          4,
+          8,
+          "Okay, warte!",
+          "MORGPIE"
+        ],
+        [
+          23.8,
+          31.8,
+          "Das ist doch Blödsinn!",
+          "MORGPIE"
+        ],
+        [
+          31.8,
+          35.7,
+          "Auf dem Bike saß niemand!",
+          "MORGPIE"
+        ],
+        [
+          35.7,
+          41.7,
+          "Auf dem Motorrad saß keine Person!",
+          "MORGPIE"
+        ],
+        [
+          41.7,
+          43.7,
+          "Ghost Rider?",
+          "MORGPIE"
+        ],
+        [
+          43.7,
+          45.7,
+          "Oh mein Gott!",
+          "MORGPIE"
+        ],
+        [
+          45.7,
+          51,
+          "Niemand hat mir gesagt, dass wir es mit Geistern zu tun haben!",
+          "MORGPIE"
+        ],
+        [
+          51,
+          53,
+          "Oh Mist!",
+          "MORGPIE"
+        ]
+      ]
+    }
+  ],
+  "style": "prompt",
+  "streamer": "morgpie",
+  "credit": "Clip: morgpie (Twitch)",
+  "mask": [
+    [
+      0.3,
+      0.86,
+      0.4,
+      0.12
+    ],
+    [
+      0,
+      0,
+      0.2,
+      0.28
+    ]
+  ]
+}

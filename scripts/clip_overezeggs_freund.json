@@ -1,0 +1,58 @@
+{
+  "id": "clip_overezeggs_freund",
+  "source": "https://www.twitch.tv/overezeggs/clip/PlacidHonorableAxeChefFrank-eVhl55XsarJ_f2rW",
+  "layout": "fill",
+  "hook": "NICHT MEIN FREUND!",
+  "hook_full": true,
+  "title": "overezeggs überfährt in GTA 6 ihren eigenen Freund #shorts",
+  "description": "overezeggs fährt in GTA 6 Quad – und erwischt dabei aus Versehen ihren Freund. Original-Clip: overezeggs – https://www.twitch.tv/overezeggs/clip/PlacidHonorableAxeChefFrank-eVhl55XsarJ_f2rW\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #overezeggs #quad #unfall",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "overezeggs",
+    "quad",
+    "unfall"
+  ],
+  "tiktok": "Nicht mein Freund 😭 #gta6 #gtavi #fyp",
+  "instagram": "Sorry, Schatz 😭\n\n#gta6 #gtavi #gaming #reels",
+  "beats": [
+    {
+      "original": true,
+      "start": 0.0,
+      "end": 30.0,
+      "focus": 0.5,
+      "subs": [
+        [
+          6.4,
+          11,
+          "Oh nein, mein Freund!",
+          "OVEREZEGGS"
+        ],
+        [
+          11,
+          16.4,
+          "Ich hab ihn umgebracht!",
+          "OVEREZEGGS"
+        ],
+        [
+          16.4,
+          29.5,
+          "Oh Gott, nein, nein, nein, nein, nein!",
+          "OVEREZEGGS"
+        ]
+      ]
+    }
+  ],
+  "style": "prompt",
+  "streamer": "overezeggs",
+  "credit": "Clip: overezeggs (Twitch)",
+  "mask": [
+    [
+      0.3,
+      0.86,
+      0.4,
+      0.12
+    ]
+  ]
+}

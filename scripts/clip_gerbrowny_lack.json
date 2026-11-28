@@ -1,0 +1,64 @@
+{
+  "id": "clip_gerbrowny_lack",
+  "source": "https://www.twitch.tv/gerbrowny/clip/AbstemiousEphemeralGuanacoNerfRedBlaster-kpVwAMBfHKl5hoUm",
+  "layout": "fill",
+  "hook": "FRISCH VOM LACKIEREN",
+  "hook_full": true,
+  "title": "GerBrowny: Das frisch lackierte Auto ist sofort Schrott #shorts",
+  "description": "GerBrowny kommt in GTA 6 frisch vom Lackierer – und das Auto ist direkt wieder Schrott. Original-Clip: GerBrowny – https://www.twitch.tv/gerbrowny/clip/AbstemiousEphemeralGuanacoNerfRedBlaster-kpVwAMBfHKl5hoUm\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #gerbrowny #auto #unfall",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "gerbrowny",
+    "auto",
+    "unfall"
+  ],
+  "tiktok": "Frisch lackiert, sofort Schrott 🚗 #gta6 #gtavi #fyp",
+  "instagram": "Frisch lackiert 🚗\n\n#gta6 #gtavi #gaming #reels",
+  "beats": [
+    {
+      "original": true,
+      "start": 0.0,
+      "end": 40.4,
+      "focus": 0.5,
+      "subs": [
+        [
+          1.9,
+          5.9,
+          "Nächstes Rennen.",
+          "GERBROWNY"
+        ],
+        [
+          7.5,
+          10,
+          "Die Karre war gerade noch neu, Junge!",
+          "GERBROWNY"
+        ],
+        [
+          11.7,
+          16,
+          "Du regelst das, ja?",
+          "GERBROWNY"
+        ],
+        [
+          31.8,
+          38.1,
+          "Das hat geknackt.",
+          "GERBROWNY"
+        ]
+      ]
+    }
+  ],
+  "style": "prompt",
+  "streamer": "GerBrowny",
+  "credit": "Clip: GerBrowny (Twitch)",
+  "mask": [
+    [
+      0.3,
+      0.86,
+      0.4,
+      0.12
+    ]
+  ]
+}

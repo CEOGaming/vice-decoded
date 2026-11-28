@@ -1,0 +1,64 @@
+{
+  "id": "clip_supertf_mein_auto",
+  "source": "https://www.twitch.tv/supertf/clip/AcceptableAnimatedOrangeStinkyCheese-H4tsLJ14GQc_xafM",
+  "layout": "fill",
+  "hook": "SIE SITZT IN MEINEM AUTO",
+  "hook_full": true,
+  "title": "SuperTF findet in GTA 6 eine Fremde in seinem Auto #shorts",
+  "description": "SuperTF kommt in GTA 6 zu seinem Auto – und eine Fremde sitzt drin. Sie hat eine eigene Meinung dazu. Original-Clip: SuperTF – https://www.twitch.tv/supertf/clip/AcceptableAnimatedOrangeStinkyCheese-H4tsLJ14GQc_xafM\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #supertf #auto #npc",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "supertf",
+    "auto",
+    "npc"
+  ],
+  "tiktok": "Raus aus meinem Auto 😤 #gta6 #gtavi #fyp",
+  "instagram": "Mein Auto 😤\n\n#gta6 #gtavi #gaming #reels",
+  "beats": [
+    {
+      "original": true,
+      "start": 0.0,
+      "end": 30.0,
+      "focus": 0.5,
+      "subs": [
+        [
+          0,
+          2,
+          "Yo.",
+          "SUPERTF"
+        ],
+        [
+          2.4,
+          7.5,
+          "Raus aus meinem Auto! Was machst du in meinem Auto?",
+          "SUPERTF"
+        ],
+        [
+          10,
+          18.1,
+          "Das ist dein Auto? Dann hast du Glück, dass ich es beehre.",
+          "NPC"
+        ],
+        [
+          19.2,
+          21.2,
+          "Du kannst mich googeln, während ich fertig mache.",
+          "NPC"
+        ]
+      ]
+    }
+  ],
+  "style": "prompt",
+  "streamer": "SuperTF",
+  "credit": "Clip: SuperTF (Twitch)",
+  "mask": [
+    [
+      0.76,
+      0.72,
+      0.24,
+      0.28
+    ]
+  ]
+}

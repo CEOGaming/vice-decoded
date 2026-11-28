@@ -1,0 +1,76 @@
+{
+  "id": "clip_alanzoka_i_believe",
+  "source": "https://www.twitch.tv/alanzoka/clip/SpeedyLongPeafowlStrawBeary-gymn6HoiDGiNdcSn",
+  "layout": "fill",
+  "hook": "I BELIEVE I CAN FLY",
+  "hook_full": true,
+  "title": "alanzoka fliegt in GTA 6 vom Motorrad #shorts",
+  "description": "alanzoka startet in GTA 6 die nächste Mission – und fliegt nach einem Crash meterweit durch die Luft. Original-Clip: alanzoka – https://www.twitch.tv/alanzoka/clip/SpeedyLongPeafowlStrawBeary-gymn6HoiDGiNdcSn\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #alanzoka #motorrad #crash",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "alanzoka",
+    "motorrad",
+    "crash"
+  ],
+  "tiktok": "I believe I can fly 🕊️ #gta6 #gtavi #fyp",
+  "instagram": "Abgehoben 🕊️\n\n#gta6 #gtavi #gaming #reels",
+  "beats": [
+    {
+      "original": true,
+      "start": 0.0,
+      "end": 19.5,
+      "focus": 0.5,
+      "subs": [
+        [
+          0,
+          2,
+          "Noch eine Mission!",
+          "ALANZOKA"
+        ],
+        [
+          2,
+          6,
+          "Mario!",
+          "ALANZOKA"
+        ],
+        [
+          10.3,
+          12.3,
+          "Verdammt!",
+          "ALANZOKA"
+        ],
+        [
+          12.3,
+          15.3,
+          "Boah, das war richtig übel!",
+          "ALANZOKA"
+        ],
+        [
+          15.3,
+          17.3,
+          "Okay!",
+          "ALANZOKA"
+        ],
+        [
+          17.3,
+          19.3,
+          "Was für ein Wahnsinn, Mann!",
+          "ALANZOKA"
+        ]
+      ]
+    }
+  ],
+  "style": "prompt",
+  "streamer": "alanzoka",
+  "credit": "Clip: alanzoka (Twitch)",
+  "mask": [
+    [
+      0.3,
+      0.86,
+      0.4,
+      0.12
+    ]
+  ]
+}

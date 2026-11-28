@@ -1,0 +1,52 @@
+{
+  "id": "clip_ejsa_flexender_npc",
+  "source": "https://www.twitch.tv/ej_sa/clip/SpineyCarefulCourgetteTBCheesePull-DQBXHj7X-xqoFrA1",
+  "layout": "fill",
+  "hook": "WAS WAR DAS?",
+  "hook_full": true,
+  "title": "ej_sa erlebt in GTA 6 einen NPC, der angibt #shorts",
+  "description": "ej_sa fährt in GTA 6 gemütlich – dann fliegt plötzlich ein Auto durch die Gegend. Original-Clip: ej_sa – https://www.twitch.tv/ej_sa/clip/SpineyCarefulCourgetteTBCheesePull-DQBXHj7X-xqoFrA1\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #ejsa #npc #auto",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "ejsa",
+    "npc",
+    "auto"
+  ],
+  "tiktok": "Flexender NPC 💪 #gta6 #gtavi #fyp",
+  "instagram": "Was war das? 💪\n\n#gta6 #gtavi #gaming #reels",
+  "beats": [
+    {
+      "original": true,
+      "start": 0.0,
+      "end": 17.9,
+      "focus": 0.5,
+      "subs": [
+        [
+          6.2,
+          10.2,
+          "Nur ein paar gute alte Jungs …",
+          "EJ"
+        ],
+        [
+          15.2,
+          17.2,
+          "Was, was, was? Was war das?",
+          "EJ"
+        ]
+      ]
+    }
+  ],
+  "style": "prompt",
+  "streamer": "ej_sa",
+  "credit": "Clip: ej_sa (Twitch)",
+  "mask": [
+    [
+      0.3,
+      0.86,
+      0.4,
+      0.12
+    ]
+  ]
+}

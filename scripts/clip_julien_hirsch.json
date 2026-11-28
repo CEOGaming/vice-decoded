@@ -1,0 +1,64 @@
+{
+  "id": "clip_julien_hirsch",
+  "source": "https://www.twitch.tv/julien/clip/StylishSpoopyCiderThisIsSparta-P29egle5vyLdDVY3",
+  "layout": "fill",
+  "hook": "DIESER HIRSCH IST GEMEIN",
+  "hook_full": true,
+  "title": "Ein Hirsch greift Julien in GTA 6 aus dem Nichts an #shorts",
+  "description": "Julien läuft in GTA 6 durchs Gras – und wird aus dem Nichts von einem Hirsch umgerannt. Original-Clip: Julien – https://www.twitch.tv/julien/clip/StylishSpoopyCiderThisIsSparta-P29egle5vyLdDVY3\n\nFan-Kanal, nicht mit Rockstar Games verbunden.\n\n#gta6 #gtavi #gta6deutsch #julien #hirsch #tiere",
+  "tags": [
+    "gta6",
+    "gtavi",
+    "gta6deutsch",
+    "julien",
+    "hirsch",
+    "tiere"
+  ],
+  "tiktok": "Hirsch aus dem Nichts 🦌 #gta6 #gtavi #fyp",
+  "instagram": "Gemeiner Hirsch 🦌\n\n#gta6 #gtavi #gaming #reels",
+  "beats": [
+    {
+      "original": true,
+      "start": 0.0,
+      "end": 13.7,
+      "focus": 0.5,
+      "subs": [
+        [
+          1,
+          7.8,
+          "Jemand muss sich diesen absoluten Mistkerl von einem",
+          "JULIEN"
+        ],
+        [
+          7.8,
+          10,
+          "Hirsch ansehen!",
+          "JULIEN"
+        ],
+        [
+          10,
+          13.2,
+          "Was sollte das denn?",
+          "JULIEN"
+        ]
+      ]
+    }
+  ],
+  "style": "prompt",
+  "streamer": "Julien",
+  "credit": "Clip: Julien (Twitch)",
+  "mask": [
+    [
+      0.3,
+      0.86,
+      0.4,
+      0.12
+    ],
+    [
+      0,
+      0.4,
+      0.23,
+      0.38
+    ]
+  ]
+}
