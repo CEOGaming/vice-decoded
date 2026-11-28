@@ -1,0 +1,20 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.4,
+      "end": 4.3,
+      "text": "Do you think it's against the law in America to drive with a shotgun on your back?"
+    },
+    {
+      "start": 5.6,
+      "end": 16.6,
+      "text": "Is that against the law?"
+    },
+    {
+      "start": 17.6,
+      "end": 21.5,
+      "text": "I'm not a suspect, and I'm not a known suspect. Damn it!"
+    }
+  ]
+}

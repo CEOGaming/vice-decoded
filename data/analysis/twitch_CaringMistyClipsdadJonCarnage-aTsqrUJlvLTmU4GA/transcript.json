@@ -1,0 +1,55 @@
+{
+  "language": "fr",
+  "segments": [
+    {
+      "start": 7.3,
+      "end": 8.3,
+      "text": "Shiiiip."
+    },
+    {
+      "start": 8.9,
+      "end": 10.4,
+      "text": "Oh, so f***in' fine."
+    },
+    {
+      "start": 10.9,
+      "end": 11.9,
+      "text": "Whoa!"
+    },
+    {
+      "start": 13.2,
+      "end": 14.7,
+      "text": "Oh f***, t'as dit ton f***!"
+    },
+    {
+      "start": 14.7,
+      "end": 15.7,
+      "text": "Oh f***!"
+    },
+    {
+      "start": 16.2,
+      "end": 17.2,
+      "text": "I'm out!"
+    },
+    {
+      "start": 17.2,
+      "end": 18.2,
+      "text": "Oh f***!"
+    },
+    {
+      "start": 23.0,
+      "end": 24.0,
+      "text": "Attends, mais il est bloqué!"
+    },
+    {
+      "start": 24.7,
+      "end": 26.0,
+      "text": "Attends, et on peut le sauver?"
+    },
+    {
+      "start": 29.4,
+      "end": 30.4,
+      "text": "Prends ton temps."
+    }
+  ]
+}

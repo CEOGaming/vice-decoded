@@ -1,0 +1,30 @@
+{
+  "language": "es",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "ser profesional a la hora con Lucía..."
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "¡Ah, no, está cerrado!"
+    },
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "text": "¡Esta no tiene esta gasolinera!"
+    },
+    {
+      "start": 11.5,
+      "end": 13.5,
+      "text": "Un millonario pensando en robar"
+    },
+    {
+      "start": 13.5,
+      "end": 15.5,
+      "text": "¿Cómo se taquece el Madrid?"
+    }
+  ]
+}

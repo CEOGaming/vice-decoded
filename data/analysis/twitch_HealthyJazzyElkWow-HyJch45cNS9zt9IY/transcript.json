@@ -1,0 +1,35 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.8,
+      "text": "over here, he's done with his workout technically."
+    },
+    {
+      "start": 1.8,
+      "end": 2.8,
+      "text": "He doesn't need to do any more."
+    },
+    {
+      "start": 2.8,
+      "end": 3.6,
+      "text": "You good?"
+    },
+    {
+      "start": 4.8,
+      "end": 9.2,
+      "text": "And then you can hand him the snack."
+    },
+    {
+      "start": 9.2,
+      "end": 10.7,
+      "text": "And then that gives you relationship up"
+    },
+    {
+      "start": 10.7,
+      "end": 12.5,
+      "text": "and it gives him the workout bonus."
+    }
+  ]
+}

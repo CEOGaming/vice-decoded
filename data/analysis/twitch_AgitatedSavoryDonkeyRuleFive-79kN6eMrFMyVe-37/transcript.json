@@ -1,0 +1,15 @@
+{
+  "language": "fi",
+  "segments": [
+    {
+      "start": 1.9,
+      "end": 5.9,
+      "text": "Tänään lähtee Pimppapaa jaana baanalle!"
+    },
+    {
+      "start": 5.9,
+      "end": 7.9,
+      "text": "Soittakaa jaanalle!"
+    }
+  ]
+}

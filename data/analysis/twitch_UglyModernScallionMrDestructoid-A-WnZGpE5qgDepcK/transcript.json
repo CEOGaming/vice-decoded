@@ -1,0 +1,100 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "No!"
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "Oh!"
+    },
+    {
+      "start": 4.0,
+      "end": 7.0,
+      "text": "Oh my god!"
+    },
+    {
+      "start": 7.0,
+      "end": 11.0,
+      "text": "They got me driving one of the cars from wacky races!"
+    },
+    {
+      "start": 11.0,
+      "end": 13.0,
+      "text": "No!"
+    },
+    {
+      "start": 15.0,
+      "end": 17.0,
+      "text": "No!"
+    },
+    {
+      "start": 18.0,
+      "end": 21.0,
+      "text": "They turned my shit into a punch buggy!"
+    },
+    {
+      "start": 22.0,
+      "end": 24.0,
+      "text": "Ah! Shit! There goes the wheel!"
+    },
+    {
+      "start": 24.0,
+      "end": 26.0,
+      "text": "Oh god!"
+    },
+    {
+      "start": 26.0,
+      "end": 28.0,
+      "text": "I'm losing control!"
+    },
+    {
+      "start": 29.0,
+      "end": 32.0,
+      "text": "The shit was $45,000!"
+    },
+    {
+      "start": 32.0,
+      "end": 34.0,
+      "text": "No!"
+    },
+    {
+      "start": 34.0,
+      "end": 36.0,
+      "text": "Oh, that one hurt!"
+    },
+    {
+      "start": 36.0,
+      "end": 38.0,
+      "text": "Wait, engines, no!"
+    },
+    {
+      "start": 38.0,
+      "end": 40.0,
+      "text": "Request tow!"
+    },
+    {
+      "start": 40.0,
+      "end": 42.0,
+      "text": "I have to tow this?"
+    },
+    {
+      "start": 43.0,
+      "end": 45.0,
+      "text": "Can I afford a tow?"
+    },
+    {
+      "start": 45.0,
+      "end": 58.7,
+      "text": "I mean, it's got to work, right?"
+    },
+    {
+      "start": 58.7,
+      "end": 60.7,
+      "text": "Come on, baby, please start."
+    }
+  ]
+}

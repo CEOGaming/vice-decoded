@@ -1,0 +1,35 @@
+{
+  "language": "fr",
+  "segments": [
+    {
+      "start": 15.9,
+      "end": 16.9,
+      "text": "Mais relou !"
+    },
+    {
+      "start": 16.9,
+      "end": 22.8,
+      "text": "C'est du relou pas"
+    },
+    {
+      "start": 22.8,
+      "end": 30.0,
+      "text": "Mais je l'ai dans la, il est dans le jaune là"
+    },
+    {
+      "start": 30.0,
+      "end": 38.5,
+      "text": "Pas de mission !"
+    },
+    {
+      "start": 49.9,
+      "end": 58.2,
+      "text": "Je me bats au cocktail molotov les gars"
+    },
+    {
+      "start": 58.2,
+      "end": 59.2,
+      "text": "Qu'est-ce qu'il y a ?"
+    }
+  ]
+}

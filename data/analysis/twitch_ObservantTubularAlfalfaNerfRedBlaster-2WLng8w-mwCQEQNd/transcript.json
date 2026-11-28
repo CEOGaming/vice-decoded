@@ -1,0 +1,20 @@
+{
+  "language": "fr",
+  "segments": [
+    {
+      "start": 1.5,
+      "end": 3.5,
+      "text": "Bah ouais, mais elle est con ou quoi ?"
+    },
+    {
+      "start": 3.5,
+      "end": 13.6,
+      "text": "Mais pourquoi elle a sauté ?"
+    },
+    {
+      "start": 15.6,
+      "end": 19.0,
+      "text": "Mais ouais"
+    }
+  ]
+}

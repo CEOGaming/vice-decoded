@@ -1,0 +1,25 @@
+{
+  "language": "pl",
+  "segments": [
+    {
+      "start": 0.2,
+      "end": 2.2,
+      "text": "O kurwa jaka pura ty"
+    },
+    {
+      "start": 2.2,
+      "end": 10.4,
+      "text": "Ty całkiem ładnie się..."
+    },
+    {
+      "start": 10.4,
+      "end": 13.9,
+      "text": "Trzyma drogi"
+    },
+    {
+      "start": 13.9,
+      "end": 15.9,
+      "text": "No gdybym nie wyjechał to by się trzymał jeszcze lepiej"
+    }
+  ]
+}

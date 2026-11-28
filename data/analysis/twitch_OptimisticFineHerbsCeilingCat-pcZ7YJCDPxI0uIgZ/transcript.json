@@ -1,0 +1,20 @@
+{
+  "language": "fr",
+  "segments": [
+    {
+      "start": 6.0,
+      "end": 9.0,
+      "text": "Je pense que je vais exploser dans 3 secondes."
+    },
+    {
+      "start": 21.9,
+      "end": 22.9,
+      "text": "Il y a un mur."
+    },
+    {
+      "start": 23.9,
+      "end": 25.9,
+      "text": "C'était un mur, juste devant."
+    }
+  ]
+}

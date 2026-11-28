@@ -1,0 +1,40 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.3,
+      "text": "Make sure I can handle either way. Whoa, that's just spawned out nowhere"
+    },
+    {
+      "start": 5.3,
+      "end": 7.3,
+      "text": "Can we give back the coke?"
+    },
+    {
+      "start": 7.3,
+      "end": 11.4,
+      "text": "You don't even have the coke. Donnie Cooper's tiger food, man. You stay the fuck out of it."
+    },
+    {
+      "start": 11.4,
+      "end": 13.4,
+      "text": "Tiger food, you say?"
+    },
+    {
+      "start": 14.2,
+      "end": 17.0,
+      "text": "Oh my god, please not again. What the hell?"
+    },
+    {
+      "start": 18.7,
+      "end": 20.7,
+      "text": "Seriously?"
+    },
+    {
+      "start": 21.8,
+      "end": 27.7,
+      "text": "Please why am I now flipping over every time? Come on"
+    }
+  ]
+}

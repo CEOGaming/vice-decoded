@@ -1,0 +1,20 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.4,
+      "end": 3.4,
+      "text": "I don't think he's got dogs."
+    },
+    {
+      "start": 24.5,
+      "end": 26.5,
+      "text": "The mice on the inside or outside?"
+    },
+    {
+      "start": 26.5,
+      "end": 30.0,
+      "text": "Is that-"
+    }
+  ]
+}

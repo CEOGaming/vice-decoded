@@ -1,0 +1,25 @@
+{
+  "language": "de",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.8,
+      "text": "Scott O'Pecante ist hier parkiert."
+    },
+    {
+      "start": 1.8,
+      "end": 2.8,
+      "text": "Er ist einfach hier."
+    },
+    {
+      "start": 2.8,
+      "end": 4.8,
+      "text": "Ich zeige euch, wie er enttäuscht wird."
+    },
+    {
+      "start": 4.8,
+      "end": 5.8,
+      "text": "Lass uns das Auto hier..."
+    }
+  ]
+}

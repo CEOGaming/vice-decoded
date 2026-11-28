@@ -1,0 +1,55 @@
+{
+  "language": "fi",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Se on kolme kautta viisi."
+    },
+    {
+      "start": 3.0,
+      "end": 7.0,
+      "text": "Ei kiinnostu teidän mielipitteen. Tämä ei ole mikään mielipidekkyseily."
+    },
+    {
+      "start": 8.0,
+      "end": 12.0,
+      "text": "Onko apuuleheessa nykyään huono sisältöön?"
+    },
+    {
+      "start": 12.0,
+      "end": 15.0,
+      "text": "Tämä ei ole mikään mielipidekkyseily. Siellä on rototiili."
+    },
+    {
+      "start": 15.0,
+      "end": 17.0,
+      "text": "Nyt lähtee."
+    },
+    {
+      "start": 17.0,
+      "end": 19.0,
+      "text": "Ei jamaa, ja miks mä..."
+    },
+    {
+      "start": 19.0,
+      "end": 32.2,
+      "text": "Ei mik... Mitään se tekee?"
+    },
+    {
+      "start": 32.2,
+      "end": 34.2,
+      "text": "Mitään siinä tapahtuu?"
+    },
+    {
+      "start": 35.2,
+      "end": 37.2,
+      "text": "Nyt se veti turpaa sitä yhtäkkiä."
+    },
+    {
+      "start": 37.2,
+      "end": 40.2,
+      "text": "Ja mitään ei ottiä, kun kuristus ottaa."
+    }
+  ]
+}

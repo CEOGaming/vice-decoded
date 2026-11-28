@@ -1,0 +1,25 @@
+{
+  "language": "hu",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Köszönjük. Én vagyok a kicsit."
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "Én tudom, hogy röntjük."
+    },
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "text": "Köszönjük."
+    },
+    {
+      "start": 13.2,
+      "end": 24.4,
+      "text": "Köszönjük."
+    }
+  ]
+}

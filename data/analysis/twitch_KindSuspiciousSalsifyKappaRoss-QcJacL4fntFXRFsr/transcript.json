@@ -1,0 +1,60 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.3,
+      "end": 2.3,
+      "text": "Oh, yeah, that's me."
+    },
+    {
+      "start": 2.3,
+      "end": 4.3,
+      "text": "Yeah, I'm here for the pool."
+    },
+    {
+      "start": 4.3,
+      "end": 6.3,
+      "text": "Great, I'm Liza, follow me."
+    },
+    {
+      "start": 6.3,
+      "end": 8.3,
+      "text": "Pool boy's here."
+    },
+    {
+      "start": 8.3,
+      "end": 12.1,
+      "text": "This way, just follow me."
+    },
+    {
+      "start": 12.1,
+      "end": 14.1,
+      "text": "You're fine, we're running a little late."
+    },
+    {
+      "start": 14.1,
+      "end": 16.1,
+      "text": "Oh, good."
+    },
+    {
+      "start": 16.1,
+      "end": 18.1,
+      "text": "Liza."
+    },
+    {
+      "start": 18.1,
+      "end": 20.1,
+      "text": "Just go with her, keep your cover."
+    },
+    {
+      "start": 20.1,
+      "end": 22.1,
+      "text": "I look pretty good for a pool boy."
+    },
+    {
+      "start": 22.1,
+      "end": 24.1,
+      "text": "Wait, look at me chat."
+    }
+  ]
+}

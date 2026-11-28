@@ -1,0 +1,45 @@
+{
+  "language": "es",
+  "segments": [
+    {
+      "start": 1.5,
+      "end": 3.5,
+      "text": "¡Vamos a donde mousos!"
+    },
+    {
+      "start": 6.8,
+      "end": 8.8,
+      "text": "1.850.000"
+    },
+    {
+      "start": 9.8,
+      "end": 10.8,
+      "text": "¡Bien!"
+    },
+    {
+      "start": 17.0,
+      "end": 19.0,
+      "text": "¡Vamos a tener que ir gente!"
+    },
+    {
+      "start": 19.0,
+      "end": 20.0,
+      "text": "¿Por qué?"
+    },
+    {
+      "start": 20.0,
+      "end": 22.0,
+      "text": "¡Vamos a tener la tarea teniendo esto!"
+    },
+    {
+      "start": 25.4,
+      "end": 26.4,
+      "text": "Este..."
+    },
+    {
+      "start": 26.4,
+      "end": 28.4,
+      "text": "¡Tarde ya!"
+    }
+  ]
+}

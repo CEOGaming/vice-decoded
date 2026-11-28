@@ -1,0 +1,25 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 1.6,
+      "end": 3.6,
+      "text": "Get what we get off"
+    },
+    {
+      "start": 5.0,
+      "end": 8.3,
+      "text": "Get on the bike"
+    },
+    {
+      "start": 8.3,
+      "end": 9.8,
+      "text": "Go go go go"
+    },
+    {
+      "start": 9.8,
+      "end": 25.8,
+      "text": "This is why bikes are dangerous. We should have stuck in the car. We should have stuck with the car"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "language": "fr",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Il n'y a pas de petites économies, hein ?"
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "Il a bien raison, Jason."
+    },
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "text": "T'as bien raison, J."
+    },
+    {
+      "start": 6.0,
+      "end": 17.5,
+      "text": "Mais Jason, c'est pas possible, là."
+    },
+    {
+      "start": 17.5,
+      "end": 19.5,
+      "text": "Tu t'arranges pas, là."
+    }
+  ]
+}

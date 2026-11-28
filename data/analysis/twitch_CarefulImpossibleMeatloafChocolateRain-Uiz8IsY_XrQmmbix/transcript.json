@@ -1,0 +1,20 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 2.3,
+      "end": 7.6,
+      "text": "Wow."
+    },
+    {
+      "start": 7.6,
+      "end": 11.3,
+      "text": "Let's do something."
+    },
+    {
+      "start": 11.3,
+      "end": 12.8,
+      "text": "Come on, get moving."
+    }
+  ]
+}

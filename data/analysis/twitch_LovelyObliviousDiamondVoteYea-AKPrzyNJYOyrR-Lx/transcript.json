@@ -1,0 +1,30 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 4.5,
+      "end": 6.5,
+      "text": "60 shirts out!"
+    },
+    {
+      "start": 6.5,
+      "end": 7.5,
+      "text": "Sorry."
+    },
+    {
+      "start": 7.5,
+      "end": 13.9,
+      "text": "Six!"
+    },
+    {
+      "start": 13.9,
+      "end": 15.9,
+      "text": "Hey, I'm blaming the rain. I can't see anything."
+    },
+    {
+      "start": 29.9,
+      "end": 31.9,
+      "text": "I'm scooching over here."
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "language": "it",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "I can't visual water!"
+    },
+    {
+      "start": 2.0,
+      "end": 11.7,
+      "text": "Si c'ha un bacco di soldi, oh!"
+    },
+    {
+      "start": 11.7,
+      "end": 13.7,
+      "text": "Suspects are armed and dangerous."
+    },
+    {
+      "start": 13.7,
+      "end": 16.7,
+      "text": "Copy that, eyes on multiple suspects."
+    },
+    {
+      "start": 16.7,
+      "end": 18.7,
+      "text": "Fatto iodato a lei?"
+    },
+    {
+      "start": 18.7,
+      "end": 28.6,
+      "text": "Ce la facciamo, non l'ho mai fatta, facciamo."
+    }
+  ]
+}

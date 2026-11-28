@@ -1,0 +1,20 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 1.9,
+      "end": 3.9,
+      "text": "Oh"
+    },
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "text": "That's unfortunate"
+    },
+    {
+      "start": 7.5,
+      "end": 14.5,
+      "text": "Everything's in God's plan chat everything's in God's plan even stuff like that"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Go on! Three times!"
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "Win, it's losers!"
+    },
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "text": "Get your sweaty hands!"
+    },
+    {
+      "start": 8.0,
+      "end": 10.0,
+      "text": "Leave the way!"
+    },
+    {
+      "start": 10.0,
+      "end": 12.0,
+      "text": "Good boy, Jason. Good boy."
+    },
+    {
+      "start": 16.0,
+      "end": 18.0,
+      "text": "Stop your picture."
+    },
+    {
+      "start": 24.6,
+      "end": 30.1,
+      "text": "Alright, let's go do the bank job."
+    }
+  ]
+}

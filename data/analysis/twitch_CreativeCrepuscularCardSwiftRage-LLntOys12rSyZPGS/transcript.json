@@ -1,0 +1,25 @@
+{
+  "language": "fr",
+  "segments": [
+    {
+      "start": 2.9,
+      "end": 4.9,
+      "text": "Ça me coûte tiens un dollar à chaque fois-là"
+    },
+    {
+      "start": 4.9,
+      "end": 9.9,
+      "text": "Oh putain de la putain de la merde"
+    },
+    {
+      "start": 9.9,
+      "end": 11.9,
+      "text": "Ah l'enculé"
+    },
+    {
+      "start": 13.9,
+      "end": 15.9,
+      "text": "Pourquoi t'as fait ça ?"
+    }
+  ]
+}

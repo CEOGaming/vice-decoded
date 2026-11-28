@@ -1,0 +1,55 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 3.4,
+      "end": 5.4,
+      "text": "Don't let go of the fucking watch."
+    },
+    {
+      "start": 5.4,
+      "end": 6.4,
+      "text": "Okay."
+    },
+    {
+      "start": 8.4,
+      "end": 9.4,
+      "text": "What?"
+    },
+    {
+      "start": 9.4,
+      "end": 10.4,
+      "text": "No!"
+    },
+    {
+      "start": 11.4,
+      "end": 12.4,
+      "text": "Don't do it."
+    },
+    {
+      "start": 12.4,
+      "end": 13.4,
+      "text": "Don't do it, Joseph!"
+    },
+    {
+      "start": 13.4,
+      "end": 16.6,
+      "text": "Nice."
+    },
+    {
+      "start": 16.6,
+      "end": 17.6,
+      "text": "Keep it talking to me."
+    },
+    {
+      "start": 17.6,
+      "end": 18.6,
+      "text": "Don't lose attention."
+    },
+    {
+      "start": 18.6,
+      "end": 22.1,
+      "text": "Oh!"
+    }
+  ]
+}

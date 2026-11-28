@@ -1,0 +1,45 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.2,
+      "text": "Yeah, it was just fucking..."
+    },
+    {
+      "start": 1.2,
+      "end": 3.5,
+      "text": "I've got everything with me, but fuck they fuckers."
+    },
+    {
+      "start": 3.5,
+      "end": 4.5,
+      "text": "I don't know!"
+    },
+    {
+      "start": 4.5,
+      "end": 8.2,
+      "text": "Linda..."
+    },
+    {
+      "start": 8.2,
+      "end": 12.2,
+      "text": "Hey, wait a minute."
+    },
+    {
+      "start": 12.2,
+      "end": 14.2,
+      "text": "He's gonna play his part in the next."
+    },
+    {
+      "start": 14.2,
+      "end": 16.2,
+      "text": "I'm sorry, Jason!"
+    },
+    {
+      "start": 16.2,
+      "end": 18.2,
+      "text": "Jason, I'm so sorry!"
+    }
+  ]
+}

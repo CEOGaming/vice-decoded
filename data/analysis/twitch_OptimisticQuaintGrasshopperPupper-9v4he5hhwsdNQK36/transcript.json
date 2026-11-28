@@ -1,0 +1,40 @@
+{
+  "language": "fr",
+  "segments": [
+    {
+      "start": 0.1,
+      "end": 2.9,
+      "text": "Jason, je pars dormir toute seule en string."
+    },
+    {
+      "start": 4.4,
+      "end": 8.1,
+      "text": "On va voir si quand je vais me rêver, tu seras pas avec moi dans le lit. On va voir."
+    },
+    {
+      "start": 17.0,
+      "end": 21.8,
+      "text": "Attention, est-ce que Jason m'a rejoint dans la nuit finalement ? Il est pas là."
+    },
+    {
+      "start": 23.4,
+      "end": 32.9,
+      "text": "Il est pas là. C'est une blague. J'ai dormi seul."
+    },
+    {
+      "start": 34.5,
+      "end": 42.4,
+      "text": "Même la technique du string n'a pas marché. J'ai le droit d'avoir un petit bisou ou pas quand même ?"
+    },
+    {
+      "start": 47.5,
+      "end": 49.5,
+      "text": "Merci, un minimum quand même."
+    },
+    {
+      "start": 49.5,
+      "end": 57.7,
+      "text": "Tu vois ce que ça fait d'être une femme ignorée ?"
+    }
+  ]
+}

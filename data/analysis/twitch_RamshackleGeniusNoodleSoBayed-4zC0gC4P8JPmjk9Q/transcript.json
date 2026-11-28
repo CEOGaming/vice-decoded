@@ -1,0 +1,40 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.4,
+      "text": "That we are in problem."
+    },
+    {
+      "start": 1.4,
+      "end": 4.1,
+      "text": "10-4, air support is on."
+    },
+    {
+      "start": 4.1,
+      "end": 6.4,
+      "text": "Spot the officers who have locked the visual on unit."
+    },
+    {
+      "start": 6.4,
+      "end": 7.9,
+      "text": "The other lookout."
+    },
+    {
+      "start": 7.9,
+      "end": 9.0,
+      "text": "Oh no."
+    },
+    {
+      "start": 9.0,
+      "end": 9.4,
+      "text": "Oh no."
+    },
+    {
+      "start": 9.4,
+      "end": 11.2,
+      "text": "Oh no!"
+    }
+  ]
+}

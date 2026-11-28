@@ -1,0 +1,30 @@
+{
+  "language": "fr",
+  "segments": [
+    {
+      "start": 8.8,
+      "end": 45.5,
+      "text": "On retourne à la base R&M pour le truc de Taré, sciatique."
+    },
+    {
+      "start": 47.8,
+      "end": 51.0,
+      "text": "J'ai le dos sensible, j'ai le dos sensible."
+    },
+    {
+      "start": 51.6,
+      "end": 53.4,
+      "text": "Autant la chute contre le grillage, c'était bon,"
+    },
+    {
+      "start": 53.4,
+      "end": 55.8,
+      "text": "mais à 20 centimètres tombé sur le dos."
+    },
+    {
+      "start": 56.4,
+      "end": 59.0,
+      "text": "Quant à le dos qui est un peu un peu léger."
+    }
+  ]
+}

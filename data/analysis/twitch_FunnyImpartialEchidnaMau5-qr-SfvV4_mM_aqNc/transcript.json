@@ -1,0 +1,55 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.2,
+      "end": 0.7,
+      "text": "Watch it."
+    },
+    {
+      "start": 0.7,
+      "end": 7.6,
+      "text": "Yeah, when you do it, don't fuckin' break down."
+    },
+    {
+      "start": 7.6,
+      "end": 10.6,
+      "text": "Oh, you got that, man."
+    },
+    {
+      "start": 10.6,
+      "end": 12.6,
+      "text": "Oh, it's on your car, Susan."
+    },
+    {
+      "start": 12.6,
+      "end": 13.6,
+      "text": "What are you going to do now?"
+    },
+    {
+      "start": 13.6,
+      "end": 14.1,
+      "text": "It's on the car."
+    },
+    {
+      "start": 14.1,
+      "end": 14.6,
+      "text": "Oh, shit."
+    },
+    {
+      "start": 14.6,
+      "end": 15.6,
+      "text": "Oh, shit."
+    },
+    {
+      "start": 15.6,
+      "end": 16.6,
+      "text": "Oh, no."
+    },
+    {
+      "start": 16.6,
+      "end": 23.2,
+      "text": "That face planted into the poop, dude."
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.2,
+      "end": 2.2,
+      "text": "No wrong button wrong button"
+    },
+    {
+      "start": 13.4,
+      "end": 15.4,
+      "text": "Okay"
+    }
+  ]
+}

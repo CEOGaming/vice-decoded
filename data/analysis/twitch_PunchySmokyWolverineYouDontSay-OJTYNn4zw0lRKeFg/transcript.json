@@ -1,0 +1,25 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "If they around me, I'm close."
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "If they around me, I'm close."
+    },
+    {
+      "start": 6.0,
+      "end": 12.1,
+      "text": "Shit! There's cops up there! Make a right!"
+    },
+    {
+      "start": 13.1,
+      "end": 15.1,
+      "text": "Alright. I'm gonna drift it."
+    }
+  ]
+}

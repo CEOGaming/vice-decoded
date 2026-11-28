@@ -1,0 +1,40 @@
+{
+  "language": "fr",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.8,
+      "text": "Il est actif."
+    },
+    {
+      "start": 2.4,
+      "end": 2.9,
+      "text": "Wesh !"
+    },
+    {
+      "start": 9.0,
+      "end": 9.5,
+      "text": "Oh, ici ?"
+    },
+    {
+      "start": 10.3,
+      "end": 12.3,
+      "text": "Mais non, mais y'a un mec qui est en train de canne en vire !"
+    },
+    {
+      "start": 14.9,
+      "end": 15.4,
+      "text": "Ah !"
+    },
+    {
+      "start": 15.5,
+      "end": 16.8,
+      "text": "Il est soumetté à quoi, c'est deux ?"
+    },
+    {
+      "start": 22.2,
+      "end": 23.3,
+      "text": "On me fait lag, en plus !"
+    }
+  ]
+}

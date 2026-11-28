@@ -1,0 +1,40 @@
+{
+  "language": "fr",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Attention, c'est peut-être là, c'est peut-être là"
+    },
+    {
+      "start": 3.5,
+      "end": 4.0,
+      "text": "Ta gueule"
+    },
+    {
+      "start": 5.0,
+      "end": 6.0,
+      "text": "Putain elles sont là"
+    },
+    {
+      "start": 7.7,
+      "end": 24.9,
+      "text": "Yaaaaaah ! C'est bon ! C'est bon ! C'est bon on les a ! On les a trouvé ! Ouiii !"
+    },
+    {
+      "start": 25.4,
+      "end": 34.4,
+      "text": "Ah enfin putain ! Ah oui ! Ah oui ! Ah oui ! C'est quoi je vais même pas te braquer tiens"
+    },
+    {
+      "start": 35.1,
+      "end": 37.9,
+      "text": "Je vais même pas te braquer tellement je suis de bonne humeur"
+    },
+    {
+      "start": 37.9,
+      "end": 40.4,
+      "text": "Ah c'est là je les aimes bien ! Vas-y je te les achète"
+    }
+  ]
+}

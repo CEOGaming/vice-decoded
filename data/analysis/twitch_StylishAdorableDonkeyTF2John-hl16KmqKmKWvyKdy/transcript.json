@@ -1,0 +1,55 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 1.1,
+      "end": 1.9,
+      "text": "Yo, this is-"
+    },
+    {
+      "start": 1.9,
+      "end": 3.9,
+      "text": "Jerry, I saw the fucking phone!"
+    },
+    {
+      "start": 3.9,
+      "end": 10.1,
+      "text": "I'll text him."
+    },
+    {
+      "start": 10.1,
+      "end": 17.3,
+      "text": "Damn it!"
+    },
+    {
+      "start": 17.3,
+      "end": 18.3,
+      "text": "Kobe."
+    },
+    {
+      "start": 18.3,
+      "end": 22.5,
+      "text": "Fuck you mean clip that."
+    },
+    {
+      "start": 22.5,
+      "end": 23.5,
+      "text": "Clip what?"
+    },
+    {
+      "start": 23.5,
+      "end": 25.5,
+      "text": "Chee?"
+    },
+    {
+      "start": 25.5,
+      "end": 26.5,
+      "text": "Ah, this is a lot."
+    },
+    {
+      "start": 26.5,
+      "end": 30.0,
+      "text": "Wait, make clips and post it on YT, and then we get there."
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "language": "ru",
+  "segments": [
+    {
+      "start": 1.6,
+      "end": 3.5,
+      "text": "This feel good, right?"
+    },
+    {
+      "start": 6.0,
+      "end": 9.1,
+      "text": "What you doing? Don't just be standing there, you have a shot at it."
+    },
+    {
+      "start": 9.6,
+      "end": 10.6,
+      "text": "Okay?"
+    },
+    {
+      "start": 10.6,
+      "end": 13.4,
+      "text": "They left."
+    },
+    {
+      "start": 13.4,
+      "end": 14.9,
+      "text": "Come get this shit on camera."
+    },
+    {
+      "start": 19.4,
+      "end": 21.4,
+      "text": "I'm about to fall into shit."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "language": "it",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.6,
+      "text": "Aspetta, ti apro la porta perché sei bellissima"
+    },
+    {
+      "start": 7.7,
+      "end": 8.2,
+      "text": "No"
+    },
+    {
+      "start": 8.7,
+      "end": 10.7,
+      "text": "Vabbè, te l'ho aperta, tutti senti"
+    },
+    {
+      "start": 11.4,
+      "end": 14.1,
+      "text": "Ah, c'è la portiere"
+    },
+    {
+      "start": 16.8,
+      "end": 17.5,
+      "text": "Andiamo"
+    },
+    {
+      "start": 18.7,
+      "end": 20.7,
+      "text": "Mi so, se non lo confusa, andiamo"
+    },
+    {
+      "start": 21.2,
+      "end": 25.1,
+      "text": "No, la portiere l'ho aperta, ci sono entrato anche dentro, ma io non ce l'ho aperta"
+    },
+    {
+      "start": 28.1,
+      "end": 29.1,
+      "text": "Vai, musica!"
+    }
+  ]
+}

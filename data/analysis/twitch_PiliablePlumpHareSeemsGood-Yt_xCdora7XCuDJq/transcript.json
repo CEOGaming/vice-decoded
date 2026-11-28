@@ -1,0 +1,35 @@
+{
+  "language": "fr",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Mais passons dans les commentaires, y'a encore une baston là ?"
+    },
+    {
+      "start": 6.0,
+      "end": 7.0,
+      "text": "Ah si hein."
+    },
+    {
+      "start": 9.0,
+      "end": 13.0,
+      "text": "La relation de... Non ! La relation a été rétrogradée !"
+    },
+    {
+      "start": 13.0,
+      "end": 18.4,
+      "text": "Oh ! Ça commence ! Ça commence, ça commence !"
+    },
+    {
+      "start": 18.4,
+      "end": 20.4,
+      "text": "Ça commence, c'est terrible."
+    },
+    {
+      "start": 20.4,
+      "end": 28.2,
+      "text": "Désolé les deux, je sais pas qui a tort qui a raison mais je vous mute tous les deux, ça y est frère."
+    }
+  ]
+}
