@@ -19,17 +19,10 @@
   "beats": [
     {
       "original": true,
-      "start": 0.0,
+      "start": 7.0,
       "end": 36.1,
       "focus": 0.5,
-      "subs": [
-        [
-          1.6,
-          3.6,
-          "Aber zuerst …",
-          "STORMFALL"
-        ]
-      ]
+      "subs": []
     }
   ],
   "style": "prompt",
