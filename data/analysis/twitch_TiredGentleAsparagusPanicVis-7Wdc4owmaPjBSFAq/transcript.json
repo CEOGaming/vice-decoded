@@ -1,0 +1,20 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.5,
+      "text": "Sorry, I thought I had to get the bag."
+    },
+    {
+      "start": 7.5,
+      "end": 9.0,
+      "text": "If I told you guys that turning circles"
+    },
+    {
+      "start": 9.0,
+      "end": 24.4,
+      "text": "really bad on this, would you believe me?"
+    }
+  ]
+}

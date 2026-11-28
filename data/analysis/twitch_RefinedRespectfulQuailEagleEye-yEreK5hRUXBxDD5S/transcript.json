@@ -1,0 +1,20 @@
+{
+  "language": "de",
+  "segments": [
+    {
+      "start": 1.6,
+      "end": 5.7,
+      "text": "Wie hast du mich genannt? Anders? Komm her!"
+    },
+    {
+      "start": 16.4,
+      "end": 27.8,
+      "text": "Warum hat er mich angemacht dafür, dass ich gucke, was fällt dem ein, alter?"
+    },
+    {
+      "start": 28.8,
+      "end": 29.8,
+      "text": "Was fällt dem ein?"
+    }
+  ]
+}
