@@ -1,0 +1,15 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.1,
+      "end": 3.1,
+      "text": "Uhhh, that's a big car."
+    },
+    {
+      "start": 7.6,
+      "end": 14.8,
+      "text": "Don't you dare!"
+    }
+  ]
+}

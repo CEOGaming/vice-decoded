@@ -1,0 +1,45 @@
+{
+  "language": "fr",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 14.0,
+      "text": "Non, je prends pas. Non, je prends pas, je prends pas. Non, je prends pas. Les... les gars, les gars."
+    },
+    {
+      "start": 15.0,
+      "end": 16.0,
+      "text": "Est-ce qu'ils veulent y dire non ?"
+    },
+    {
+      "start": 28.0,
+      "end": 32.5,
+      "text": "Vous pouvez dire qu'il s'est passé quoi ? Vous venez de pitié."
+    },
+    {
+      "start": 40.4,
+      "end": 41.4,
+      "text": "Allez, gimme la white, white !"
+    },
+    {
+      "start": 41.4,
+      "end": 42.4,
+      "text": "Allez, gimme la white !"
+    },
+    {
+      "start": 42.4,
+      "end": 43.4,
+      "text": "Là !"
+    },
+    {
+      "start": 43.4,
+      "end": 44.4,
+      "text": "Oh, shit !"
+    },
+    {
+      "start": 44.4,
+      "end": 45.4,
+      "text": "Yeah !"
+    }
+  ]
+}

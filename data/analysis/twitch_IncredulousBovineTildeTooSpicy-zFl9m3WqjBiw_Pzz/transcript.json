@@ -1,0 +1,70 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "We got him! We got him! We got him!"
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "Boom!"
+    },
+    {
+      "start": 4.0,
+      "end": 23.8,
+      "text": "Okay, wait!"
+    },
+    {
+      "start": 23.8,
+      "end": 31.8,
+      "text": "This is a load of horse radish!"
+    },
+    {
+      "start": 31.8,
+      "end": 35.7,
+      "text": "Bike didn't have a person on it!"
+    },
+    {
+      "start": 35.7,
+      "end": 37.7,
+      "text": "That bike did not have a person on it!"
+    },
+    {
+      "start": 37.7,
+      "end": 39.7,
+      "text": "That bike doesn't have a person on it!"
+    },
+    {
+      "start": 39.7,
+      "end": 41.7,
+      "text": "That bike doesn't have a person on it!"
+    },
+    {
+      "start": 41.7,
+      "end": 43.7,
+      "text": "Ghost Rider?"
+    },
+    {
+      "start": 43.7,
+      "end": 45.7,
+      "text": "Oh my god!"
+    },
+    {
+      "start": 45.7,
+      "end": 47.7,
+      "text": "They didn't tell me we were dealing with"
+    },
+    {
+      "start": 47.7,
+      "end": 51.0,
+      "text": "good, good, good ghosts!"
+    },
+    {
+      "start": 51.0,
+      "end": 53.0,
+      "text": "Oh fuck!"
+    }
+  ]
+}

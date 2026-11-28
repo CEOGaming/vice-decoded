@@ -1,0 +1,35 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.7,
+      "end": 2.7,
+      "text": "Wee"
+    },
+    {
+      "start": 3.0,
+      "end": 13.6,
+      "text": "Whoo, I'm Lucia now. Oh, I found Lucia. Okay"
+    },
+    {
+      "start": 15.9,
+      "end": 28.4,
+      "text": "Jason I'm scared"
+    },
+    {
+      "start": 29.7,
+      "end": 32.3,
+      "text": "He's got his bad bunny in my face, okay"
+    },
+    {
+      "start": 32.6,
+      "end": 48.1,
+      "text": "Hold on let's take a photo hold on let me get my camera out. Can I get my phone out? Oh"
+    },
+    {
+      "start": 49.6,
+      "end": 51.6,
+      "text": "The mullet is"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "language": "de",
+  "segments": [
+    {
+      "start": 1.9,
+      "end": 5.9,
+      "text": "Nächstes Rennen"
+    },
+    {
+      "start": 7.5,
+      "end": 10.0,
+      "text": "Die Karre ist nachher neu gewesen, Junge"
+    },
+    {
+      "start": 11.7,
+      "end": 22.2,
+      "text": "Du sieher regelst du das? Ja?"
+    },
+    {
+      "start": 31.8,
+      "end": 38.1,
+      "text": "Das hat geknackt"
+    }
+  ]
+}

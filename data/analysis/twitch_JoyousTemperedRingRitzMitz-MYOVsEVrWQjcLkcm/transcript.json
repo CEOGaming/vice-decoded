@@ -1,0 +1,20 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Is there a crack junkie here?"
+    },
+    {
+      "start": 10.0,
+      "end": 12.0,
+      "text": "Is there a crack junkie here?"
+    },
+    {
+      "start": 21.0,
+      "end": 23.0,
+      "text": "Is it funny?"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.5,
+      "end": 2.5,
+      "text": "All this for a little bit of cash"
+    },
+    {
+      "start": 2.7,
+      "end": 9.4,
+      "text": "Sorry"
+    },
+    {
+      "start": 9.4,
+      "end": 11.7,
+      "text": "Surely this isn't my first death like this"
+    },
+    {
+      "start": 12.4,
+      "end": 14.7,
+      "text": "This can't be this can't be the way I go down"
+    }
+  ]
+}

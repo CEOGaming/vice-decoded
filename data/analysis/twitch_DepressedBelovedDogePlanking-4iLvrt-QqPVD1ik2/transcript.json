@@ -1,0 +1,30 @@
+{
+  "language": "es",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 11.9,
+      "text": "y le ha pegado"
+    },
+    {
+      "start": 19.6,
+      "end": 28.5,
+      "text": "si era cierto hijos de su madre tenian razón no lo puedo creer"
+    },
+    {
+      "start": 29.5,
+      "end": 31.5,
+      "text": "no lo puedo creer"
+    },
+    {
+      "start": 31.5,
+      "end": 33.5,
+      "text": "no lo puedo creer"
+    },
+    {
+      "start": 33.5,
+      "end": 35.5,
+      "text": "no lo puedo creer"
+    }
+  ]
+}

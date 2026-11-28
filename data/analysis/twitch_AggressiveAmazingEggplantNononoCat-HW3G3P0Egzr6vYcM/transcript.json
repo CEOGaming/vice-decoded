@@ -4,12 +4,22 @@
     {
       "start": 2.1,
       "end": 5.1,
-      "text": "¡Cán ricas! ¡Sóganme lo bonito! ¡Como abuelita!"
+      "text": "Es tan rica. Segúmela, niente como abuelita."
+    },
+    {
+      "start": 5.1,
+      "end": 8.8,
+      "text": "Ha, ha, ha, ha."
     },
     {
       "start": 8.8,
+      "end": 10.8,
+      "text": "Se va a desmayar. Déjalo descansar."
+    },
+    {
+      "start": 10.8,
       "end": 12.8,
-      "text": "¡Se va a desmayar! ¡Déjalo descansar! ¡Pues que se desmaye! ¡Alfayo!"
+      "text": "Pues que se desmaye, al fallo."
     },
     {
       "start": 13.8,
@@ -22,29 +32,39 @@
       "text": "Y luego subo corriendo."
     },
     {
-      "start": 19.8,
+      "start": 18.8,
       "end": 21.8,
-      "text": "Aquí estamos quemando caloría."
+      "text": "Aquí estamos quemando calorías."
     },
     {
       "start": 22.8,
+      "end": 24.8,
+      "text": "Se ve bien muy groso, pero la ropa..."
+    },
+    {
+      "start": 24.8,
       "end": 28.6,
-      "text": "Se ve bien muy groso, pero la ropa... Me encerró afuera."
+      "text": "Me encierro afuera."
     },
     {
       "start": 28.6,
+      "end": 30.6,
+      "text": "Ustedes me dicen que me falta músculo,"
+    },
+    {
+      "start": 30.6,
       "end": 32.5,
-      "text": "Ustedes me dicen que me falta músculo, pero ya vi que todos los Jason son iguales."
+      "text": "pero ya vi que todos los Jason son iguales."
     },
     {
       "start": 32.5,
       "end": 35.5,
-      "text": "Y nada más me quieren hacer sentir mal a mí con mí físico."
+      "text": "Nada más me quieren hacer sentir mal a mí con mí físico."
     },
     {
       "start": 35.5,
       "end": 44.2,
-      "text": "O sea, son los body shaming en potencia."
+      "text": "O sea, son unos body shaming en potencia."
     },
     {
       "start": 44.2,
@@ -53,18 +73,33 @@
     },
     {
       "start": 46.2,
+      "end": 48.2,
+      "text": "Por ahí eso, lo tiene bien variado."
+    },
+    {
+      "start": 48.2,
       "end": 49.2,
-      "text": "¡Vorellito! ¡Lo tiene bien variado! Miren hasta la espalda."
+      "text": "Miren hasta la espalda."
     },
     {
       "start": 49.2,
+      "end": 55.5,
+      "text": "Ya le creció."
+    },
+    {
+      "start": 55.5,
+      "end": 56.5,
+      "text": "Todos iguales."
+    },
+    {
+      "start": 56.5,
       "end": 57.5,
-      "text": "Ya le creció todos iguales. ¡Nunca le das de comer!"
+      "text": "Nunca le das de comer."
     },
     {
       "start": 57.5,
       "end": 59.5,
-      "text": "¡Aquí sigue mentirosos!"
+      "text": "¿A qué sigue? Mentirosos."
     }
   ]
 }

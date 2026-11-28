@@ -1,0 +1,15 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.1,
+      "end": 9.2,
+      "text": "Do you see the triangle and you see the triangle in the distance?"
+    },
+    {
+      "start": 16.4,
+      "end": 18.4,
+      "text": "Look at the black one"
+    }
+  ]
+}

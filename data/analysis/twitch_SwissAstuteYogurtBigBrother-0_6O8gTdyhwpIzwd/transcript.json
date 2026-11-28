@@ -1,0 +1,30 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.5,
+      "text": "Hey"
+    },
+    {
+      "start": 16.0,
+      "end": 23.8,
+      "text": "Oh my gosh, bro, dude, holy too much on my screen. Oh"
+    },
+    {
+      "start": 25.5,
+      "end": 27.1,
+      "text": "my"
+    },
+    {
+      "start": 27.1,
+      "end": 35.9,
+      "text": "Holy is this even appropriate to show on Twitch stream. I'm being so serious"
+    },
+    {
+      "start": 36.8,
+      "end": 54.0,
+      "text": "Skip it. Yeah, I'm you all got that y'all got that we good"
+    }
+  ]
+}

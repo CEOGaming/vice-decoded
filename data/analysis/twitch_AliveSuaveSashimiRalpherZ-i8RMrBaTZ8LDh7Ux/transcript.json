@@ -1,0 +1,35 @@
+{
+  "language": "de",
+  "segments": [
+    {
+      "start": 0.4,
+      "end": 2.4,
+      "text": "Oh, jetzt reicht's aber!"
+    },
+    {
+      "start": 2.4,
+      "end": 4.4,
+      "text": "Oh Scheiße, jetzt reicht's wirklich!"
+    },
+    {
+      "start": 4.4,
+      "end": 6.4,
+      "text": "Ich bin fast gestorben!"
+    },
+    {
+      "start": 6.4,
+      "end": 12.9,
+      "text": "Nun kommt es jetzt nicht an und haut mir aufs Maul."
+    },
+    {
+      "start": 12.9,
+      "end": 53.3,
+      "text": "Alter, das hat geschäpert!"
+    },
+    {
+      "start": 53.3,
+      "end": 59.8,
+      "text": "Das hat richtig geschäpert!"
+    }
+  ]
+}

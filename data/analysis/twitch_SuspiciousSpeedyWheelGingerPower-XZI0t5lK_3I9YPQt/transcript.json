@@ -1,0 +1,40 @@
+{
+  "language": "es",
+  "segments": [
+    {
+      "start": 1.9,
+      "end": 4.9,
+      "text": "¡Apórate, chelucía! ¡Apórate, apórate!"
+    },
+    {
+      "start": 4.9,
+      "end": 6.9,
+      "text": "¡Ay, pinches viejas! ¡Ay, qué pedo!"
+    },
+    {
+      "start": 6.9,
+      "end": 24.6,
+      "text": "¡Ve, qué cueco!"
+    },
+    {
+      "start": 24.6,
+      "end": 42.7,
+      "text": "¿Qué?"
+    },
+    {
+      "start": 42.7,
+      "end": 48.2,
+      "text": "¡Y además, tienen madraso!"
+    },
+    {
+      "start": 49.2,
+      "end": 50.2,
+      "text": "¿Qué?"
+    },
+    {
+      "start": 50.2,
+      "end": 52.2,
+      "text": "Acabo de salir de la Matrix."
+    }
+  ]
+}

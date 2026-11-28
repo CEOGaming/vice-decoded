@@ -1,0 +1,20 @@
+{
+  "language": "es",
+  "segments": [
+    {
+      "start": 5.5,
+      "end": 7.5,
+      "text": "Tienes una pinta que me voy a matar, gente."
+    },
+    {
+      "start": 9.1,
+      "end": 11.1,
+      "text": "A mí te juro. Te juro, mío."
+    },
+    {
+      "start": 13.7,
+      "end": 14.7,
+      "text": "Menos mal."
+    }
+  ]
+}

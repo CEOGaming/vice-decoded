@@ -1,0 +1,25 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.0,
+      "text": "Oh, they see me, bro."
+    },
+    {
+      "start": 5.0,
+      "end": 7.0,
+      "text": "I'm being shot out of midair."
+    },
+    {
+      "start": 7.0,
+      "end": 14.6,
+      "text": "I got Jason!"
+    },
+    {
+      "start": 14.6,
+      "end": 16.6,
+      "text": "Oh my god!"
+    }
+  ]
+}

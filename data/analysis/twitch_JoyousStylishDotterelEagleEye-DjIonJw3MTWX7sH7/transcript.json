@@ -1,0 +1,50 @@
+{
+  "language": "pt",
+  "segments": [
+    {
+      "start": 0.6,
+      "end": 4.1,
+      "text": "Algum exojogo?"
+    },
+    {
+      "start": 6.8,
+      "end": 7.8,
+      "text": "Uchi!"
+    },
+    {
+      "start": 14.0,
+      "end": 16.0,
+      "text": "Moura, você rende?"
+    },
+    {
+      "start": 16.0,
+      "end": 18.0,
+      "text": "O que aconteceu?"
+    },
+    {
+      "start": 21.6,
+      "end": 23.6,
+      "text": "O que aconteceu?"
+    },
+    {
+      "start": 25.6,
+      "end": 27.6,
+      "text": "Vamos, porque que aconteceu isso?"
+    },
+    {
+      "start": 29.6,
+      "end": 31.6,
+      "text": "O que que aconteceu mano?"
+    },
+    {
+      "start": 32.6,
+      "end": 34.6,
+      "text": "Por que?"
+    },
+    {
+      "start": 34.6,
+      "end": 36.6,
+      "text": "Eu deixo a polícia me prender mano?"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "language": "es",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.0,
+      "text": "¿Qué? Amigos, ya, ya que me da esa misión."
+    },
+    {
+      "start": 7.0,
+      "end": 11.0,
+      "text": "¿Qué carajo?"
+    },
+    {
+      "start": 11.0,
+      "end": 15.0,
+      "text": "¿Qué?"
+    },
+    {
+      "start": 15.0,
+      "end": 19.0,
+      "text": "¿Qué?"
+    },
+    {
+      "start": 19.0,
+      "end": 23.0,
+      "text": "¿Qué?"
+    },
+    {
+      "start": 23.0,
+      "end": 31.3,
+      "text": "¿Qué?"
+    }
+  ]
+}

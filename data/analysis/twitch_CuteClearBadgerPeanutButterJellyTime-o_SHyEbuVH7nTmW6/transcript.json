@@ -1,0 +1,60 @@
+{
+  "language": "es",
+  "segments": [
+    {
+      "start": 2.5,
+      "end": 6.5,
+      "text": "¡Ay! ¡Hola! Ya volví gente, ya bajé el leo."
+    },
+    {
+      "start": 7.5,
+      "end": 10.5,
+      "text": "Ya volví, ya volví, ya volví, ya volví, ya volví, ya volví."
+    },
+    {
+      "start": 11.5,
+      "end": 12.5,
+      "text": "Ya volví, niñez."
+    },
+    {
+      "start": 12.5,
+      "end": 17.5,
+      "text": "Chris, ¿ya viste que saliste en TV Solano? ¿Qué es eso ya?"
+    },
+    {
+      "start": 17.5,
+      "end": 18.5,
+      "text": "¡Hola!"
+    },
+    {
+      "start": 18.5,
+      "end": 20.5,
+      "text": "¡Hola, Juanpí!"
+    },
+    {
+      "start": 20.5,
+      "end": 22.5,
+      "text": "¿Qué andas haciendo, hermano Juanpí?"
+    },
+    {
+      "start": 22.5,
+      "end": 23.5,
+      "text": "¡Muy gusto!"
+    },
+    {
+      "start": 23.5,
+      "end": 26.5,
+      "text": "Los que están de fondo, ¿qué andas haciendo, chavalitos?"
+    },
+    {
+      "start": 26.5,
+      "end": 28.5,
+      "text": "¡Pero he vivido divertirse!"
+    },
+    {
+      "start": 28.5,
+      "end": 29.5,
+      "text": "¡Nambre, Gael!"
+    }
+  ]
+}

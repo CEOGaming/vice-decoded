@@ -1,0 +1,25 @@
+{
+  "language": "es",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": "No, es un montón, chicos."
+    },
+    {
+      "start": 14.0,
+      "end": 15.0,
+      "text": "Y aparte..."
+    },
+    {
+      "start": 15.0,
+      "end": 16.0,
+      "text": "Esta es la amparita, mira que loco."
+    },
+    {
+      "start": 16.0,
+      "end": 19.0,
+      "text": "Y aparte, creo que se cambió de ropa interior."
+    }
+  ]
+}

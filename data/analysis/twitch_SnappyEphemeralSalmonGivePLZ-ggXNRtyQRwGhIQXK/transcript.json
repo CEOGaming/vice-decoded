@@ -1,0 +1,25 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.7,
+      "end": 5.7,
+      "text": "Well, we should get out."
+    },
+    {
+      "start": 5.7,
+      "end": 6.7,
+      "text": "Okay, slow down."
+    },
+    {
+      "start": 6.7,
+      "end": 8.7,
+      "text": "Okay, go this way."
+    },
+    {
+      "start": 8.7,
+      "end": 28.8,
+      "text": "Okay."
+    }
+  ]
+}

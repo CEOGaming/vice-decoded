@@ -1,0 +1,20 @@
+{
+  "language": "de",
+  "segments": [
+    {
+      "start": 21.4,
+      "end": 23.4,
+      "text": "Bruder, willst du mich verarschen, dass das Auto umkippt?"
+    },
+    {
+      "start": 23.4,
+      "end": 25.4,
+      "text": "Willst du mich verarschen? Ich denke, ich hab ein Panzer."
+    },
+    {
+      "start": 26.4,
+      "end": 27.4,
+      "text": "Fortsättiger."
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 2.2,
+      "end": 5.3,
+      "text": "Uh... that's a big... car."
+    },
+    {
+      "start": 15.6,
+      "end": 16.4,
+      "text": "Don't you dare!"
+    },
+    {
+      "start": 33.1,
+      "end": 35.5,
+      "text": "But that's how you should go out. You should go out chasing your dreams."
+    },
+    {
+      "start": 39.7,
+      "end": 41.7,
+      "text": "Falling in the pursuit of something you believe in."
+    },
+    {
+      "start": 48.4,
+      "end": 49.9,
+      "text": "Oh, I thought it was a rooster this whole time."
+    },
+    {
+      "start": 55.9,
+      "end": 56.9,
+      "text": "Uh-oh, come on!"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.1,
+      "end": 2.2,
+      "text": "Fuck my hair flame"
+    },
+    {
+      "start": 3.6,
+      "end": 5.6,
+      "text": "No, no"
+    },
+    {
+      "start": 5.6,
+      "end": 7.6,
+      "text": "Where is it going?"
+    },
+    {
+      "start": 7.7,
+      "end": 9.7,
+      "text": "Wait, maybe we can still get it"
+    },
+    {
+      "start": 10.0,
+      "end": 28.9,
+      "text": "Fuck you, man. Who did that? Who said that mods?"
+    }
+  ]
+}

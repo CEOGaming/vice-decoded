@@ -1,0 +1,40 @@
+{
+  "language": "de",
+  "segments": [
+    {
+      "start": 0.5,
+      "end": 2.5,
+      "text": "Ich zwinge mich nicht zu gehen."
+    },
+    {
+      "start": 11.5,
+      "end": 13.5,
+      "text": "Hey Chat, sieht ihr das?"
+    },
+    {
+      "start": 13.5,
+      "end": 14.5,
+      "text": "My God!"
+    },
+    {
+      "start": 14.5,
+      "end": 16.5,
+      "text": "Ja, halt mal die Beabstange."
+    },
+    {
+      "start": 17.5,
+      "end": 18.5,
+      "text": "Er kommt zurück."
+    },
+    {
+      "start": 18.5,
+      "end": 19.5,
+      "text": "Geh doch mal weg!"
+    },
+    {
+      "start": 25.0,
+      "end": 27.0,
+      "text": "Was für eine Nervensegel du bist, wirklich!"
+    }
+  ]
+}

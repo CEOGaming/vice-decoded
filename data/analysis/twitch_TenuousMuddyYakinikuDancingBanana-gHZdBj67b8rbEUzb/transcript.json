@@ -1,0 +1,45 @@
+{
+  "language": "es",
+  "segments": [
+    {
+      "start": 0.9,
+      "end": 2.9,
+      "text": "Ya me voy a dormir."
+    },
+    {
+      "start": 2.9,
+      "end": 4.9,
+      "text": "Dormir hasta ahí, güey."
+    },
+    {
+      "start": 4.9,
+      "end": 8.4,
+      "text": "Alarma."
+    },
+    {
+      "start": 8.4,
+      "end": 10.4,
+      "text": "Hasta... hasta..."
+    },
+    {
+      "start": 10.4,
+      "end": 19.5,
+      "text": "¿Qué, mi amor?"
+    },
+    {
+      "start": 19.5,
+      "end": 21.5,
+      "text": "Tojo el mierda pendejo."
+    },
+    {
+      "start": 21.5,
+      "end": 22.5,
+      "text": "Allright."
+    },
+    {
+      "start": 22.5,
+      "end": 23.5,
+      "text": "Honestly."
+    }
+  ]
+}

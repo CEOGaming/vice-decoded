@@ -1,0 +1,30 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.3,
+      "end": 1.6,
+      "text": "You order a ride me?"
+    },
+    {
+      "start": 1.6,
+      "end": 2.6,
+      "text": "Sure."
+    },
+    {
+      "start": 2.6,
+      "end": 3.6,
+      "text": "I did."
+    },
+    {
+      "start": 3.6,
+      "end": 4.6,
+      "text": "Ride me harder."
+    },
+    {
+      "start": 4.6,
+      "end": 9.5,
+      "text": "Um..."
+    }
+  ]
+}

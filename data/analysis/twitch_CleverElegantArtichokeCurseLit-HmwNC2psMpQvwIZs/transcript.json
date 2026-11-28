@@ -1,0 +1,45 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 1.0,
+      "end": 3.0,
+      "text": "Oh, romantic."
+    },
+    {
+      "start": 3.0,
+      "end": 8.2,
+      "text": "Is that a person standing in the corner?"
+    },
+    {
+      "start": 8.2,
+      "end": 9.2,
+      "text": "What was that?"
+    },
+    {
+      "start": 9.2,
+      "end": 11.2,
+      "text": "What was happening in there?"
+    },
+    {
+      "start": 11.2,
+      "end": 24.3,
+      "text": "The cut corner."
+    },
+    {
+      "start": 24.3,
+      "end": 25.3,
+      "text": "Wait."
+    },
+    {
+      "start": 25.3,
+      "end": 27.9,
+      "text": "Oh."
+    },
+    {
+      "start": 27.9,
+      "end": 29.9,
+      "text": "It's..."
+    }
+  ]
+}

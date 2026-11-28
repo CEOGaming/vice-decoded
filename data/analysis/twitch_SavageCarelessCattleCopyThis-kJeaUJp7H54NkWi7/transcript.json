@@ -1,0 +1,25 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 2.0,
+      "end": 4.2,
+      "text": "Very good, what's the shit?"
+    },
+    {
+      "start": 5.9,
+      "end": 12.2,
+      "text": "It's gonna be cool"
+    },
+    {
+      "start": 17.1,
+      "end": 24.1,
+      "text": "I don't know. Oh, no, that's too far. That might be too far"
+    },
+    {
+      "start": 33.5,
+      "end": 35.5,
+      "text": "We're good we're good we're good"
+    }
+  ]
+}

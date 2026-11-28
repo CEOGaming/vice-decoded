@@ -1,0 +1,40 @@
+{
+  "language": "pt",
+  "segments": [
+    {
+      "start": 5.0,
+      "end": 8.0,
+      "text": "Nick, que porra é esse?"
+    },
+    {
+      "start": 8.0,
+      "end": 10.0,
+      "text": "O guy que você tá assustado tem que parar, eu não estou."
+    },
+    {
+      "start": 10.0,
+      "end": 13.0,
+      "text": "Você tá mandando pro guy que você tá bem, Nick?"
+    },
+    {
+      "start": 13.0,
+      "end": 17.0,
+      "text": "Falou pro 2700... Caralho, quanto dia você tá gastando, mano?"
+    },
+    {
+      "start": 19.7,
+      "end": 22.7,
+      "text": "Quanto dia você tá gastando? E eu nem tô nada assustado."
+    },
+    {
+      "start": 22.7,
+      "end": 27.3,
+      "text": "Eu, na verdade, estou agradecido."
+    },
+    {
+      "start": 27.3,
+      "end": 30.3,
+      "text": "É o que eu sinto agora. Tipo assim, se fosse pra analisar todo..."
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.5,
+      "end": 2.3,
+      "text": "Oh, that was insane, Jason."
+    },
+    {
+      "start": 2.3,
+      "end": 3.4,
+      "text": "What the fuck?"
+    },
+    {
+      "start": 3.4,
+      "end": 5.8,
+      "text": "That was a really ass!"
+    },
+    {
+      "start": 5.8,
+      "end": 28.8,
+      "text": "Oh my god!"
+    },
+    {
+      "start": 28.8,
+      "end": 29.8,
+      "text": "I'm not locked in."
+    },
+    {
+      "start": 29.8,
+      "end": 48.5,
+      "text": "I'm laughing too hard."
+    },
+    {
+      "start": 48.5,
+      "end": 50.6,
+      "text": "No, leave us alone."
+    },
+    {
+      "start": 50.6,
+      "end": 52.1,
+      "text": "Oh my god, we're out."
+    },
+    {
+      "start": 52.1,
+      "end": 52.9,
+      "text": "We're out."
+    }
+  ]
+}

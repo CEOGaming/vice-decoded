@@ -1,0 +1,30 @@
+{
+  "language": "es",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "¿Qué pido?"
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "¡No!"
+    },
+    {
+      "start": 4.0,
+      "end": 28.6,
+      "text": "¡Mi casa!"
+    },
+    {
+      "start": 28.6,
+      "end": 30.6,
+      "text": "¡Defíndete Lucia!"
+    },
+    {
+      "start": 30.6,
+      "end": 32.6,
+      "text": "¡Defíndete Lucia!"
+    }
+  ]
+}

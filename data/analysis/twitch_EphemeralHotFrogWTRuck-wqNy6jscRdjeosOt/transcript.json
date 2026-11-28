@@ -1,0 +1,40 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 1.0,
+      "end": 10.8,
+      "text": "yep okay all right shuffling okay can I get my phone out"
+    },
+    {
+      "start": 10.8,
+      "end": 18.6,
+      "text": "hold on a second I got it hold on no I have to send a picture to my girlfriend"
+    },
+    {
+      "start": 18.6,
+      "end": 30.6,
+      "text": "okay hold on sorry okay oh shit hold on I just got hold on I gotta take a"
+    },
+    {
+      "start": 30.6,
+      "end": 38.6,
+      "text": "photo right oh my ass is out hold on I have to take a photo then I want to"
+    },
+    {
+      "start": 38.6,
+      "end": 42.0,
+      "text": "wink it on stage it's not that kind of show well maybe it is hold on I have to"
+    },
+    {
+      "start": 42.0,
+      "end": 58.1,
+      "text": "take a photo from a girlfriend hold on baby you'll never okay okay good"
+    },
+    {
+      "start": 58.1,
+      "end": 61.7,
+      "text": "well then can I send it to her"
+    }
+  ]
+}
