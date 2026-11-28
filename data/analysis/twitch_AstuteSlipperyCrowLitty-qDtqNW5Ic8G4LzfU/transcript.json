@@ -1,0 +1,35 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.8,
+      "text": "Oh my god."
+    },
+    {
+      "start": 8.4,
+      "end": 20.2,
+      "text": "Oh my god, oh my god, oh my god."
+    },
+    {
+      "start": 20.2,
+      "end": 21.6,
+      "text": "Oh, clip that."
+    },
+    {
+      "start": 23.0,
+      "end": 25.5,
+      "text": "Can I clip it, can I clip it."
+    },
+    {
+      "start": 25.5,
+      "end": 28.2,
+      "text": "Can I clip it?"
+    },
+    {
+      "start": 28.2,
+      "end": 29.7,
+      "text": "Can I clip it."
+    }
+  ]
+}

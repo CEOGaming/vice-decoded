@@ -1,0 +1,35 @@
+{
+  "language": "pt",
+  "segments": [
+    {
+      "start": 1.3,
+      "end": 3.3,
+      "text": "Ei, tudo bem? Eu tenho um?"
+    },
+    {
+      "start": 3.3,
+      "end": 5.3,
+      "text": "Sim, eu tenho um."
+    },
+    {
+      "start": 5.3,
+      "end": 7.3,
+      "text": "Ah, eu não vou dizer isso."
+    },
+    {
+      "start": 7.3,
+      "end": 11.2,
+      "text": "Eu não vou dizer isso de novo."
+    },
+    {
+      "start": 11.2,
+      "end": 13.2,
+      "text": "Fique de puta!"
+    },
+    {
+      "start": 13.2,
+      "end": 15.2,
+      "text": "Sério, mano. Fique de puta aqui."
+    }
+  ]
+}

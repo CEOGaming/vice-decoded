@@ -1,0 +1,30 @@
+{
+  "language": "fr",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 18.6,
+      "text": "Qu'est ce qu'on a trouvé sans déconner ? On est sérieux là ?"
+    },
+    {
+      "start": 24.4,
+      "end": 28.5,
+      "text": "David Vincent les a vus. Qu'est ce qu'il se passe quoi là ?"
+    },
+    {
+      "start": 35.4,
+      "end": 37.4,
+      "text": "Heureusement qu'on a la coupe de cheveux adéquat."
+    },
+    {
+      "start": 37.4,
+      "end": 46.7,
+      "text": "What ?"
+    },
+    {
+      "start": 46.7,
+      "end": 48.7,
+      "text": "What ?"
+    }
+  ]
+}

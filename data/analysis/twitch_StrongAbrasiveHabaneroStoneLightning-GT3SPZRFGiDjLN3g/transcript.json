@@ -1,0 +1,45 @@
+{
+  "language": "fr",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.3,
+      "text": "Wouah elles sont belles les voitures là, ici."
+    },
+    {
+      "start": 3.8,
+      "end": 6.1,
+      "text": "Alors, est-ce qu'on peut rentrer par là ?"
+    },
+    {
+      "start": 7.3,
+      "end": 8.7,
+      "text": "Ah, et par là, oui."
+    },
+    {
+      "start": 12.6,
+      "end": 14.0,
+      "text": "Ouais, c'est quoi ça ?"
+    },
+    {
+      "start": 14.3,
+      "end": 15.3,
+      "text": "Oh !"
+    },
+    {
+      "start": 20.7,
+      "end": 22.2,
+      "text": "Je l'avais pas vu venir, ceci."
+    },
+    {
+      "start": 24.3,
+      "end": 28.4,
+      "text": "Donc là, vraiment, il y a eu un tir que j'ai laissé partir en toute liberté."
+    },
+    {
+      "start": 32.3,
+      "end": 33.8,
+      "text": "Bah moi, on peut, voilà."
+    }
+  ]
+}

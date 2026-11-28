@@ -1,0 +1,25 @@
+{
+  "language": "it",
+  "segments": [
+    {
+      "start": 0.8,
+      "end": 9.6,
+      "text": "Dividiamoci. Forse è meglio andare con due macchine, no? Non possiamo, guida io, guida io."
+    },
+    {
+      "start": 11.6,
+      "end": 13.6,
+      "text": "No, voglio guidare io, cazzo!"
+    },
+    {
+      "start": 17.7,
+      "end": 22.7,
+      "text": "Va bene."
+    },
+    {
+      "start": 23.7,
+      "end": 26.9,
+      "text": "Guida a lei, dai."
+    }
+  ]
+}

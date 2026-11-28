@@ -1,0 +1,30 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.9,
+      "end": 2.9,
+      "text": "I'm gonna fuck him up."
+    },
+    {
+      "start": 2.9,
+      "end": 4.4,
+      "text": "Heck, don't bitch."
+    },
+    {
+      "start": 4.4,
+      "end": 25.5,
+      "text": "Hey! What is going on right now?"
+    },
+    {
+      "start": 25.5,
+      "end": 31.1,
+      "text": "Man, come on, bro."
+    },
+    {
+      "start": 31.1,
+      "end": 33.1,
+      "text": "Thank God I had a parachute, huh?"
+    }
+  ]
+}
